@@ -108,7 +108,7 @@ describe("experiencia y habilidades", () => {
   });
   it("ofrece menos opciones cuando faltan y bloquea si no queda ninguna", () => {
     let c = readyCharacter(catalog, rules);
-    c = { ...c, catalog: { ...c.catalog, skills: c.catalog.skills.filter(s => s.level === 1) } };
+    c = { ...c, catalog: { ...c.catalog, skills: c.catalog.skills.filter(s => c.creationOptions.includes(s.id)) } };
     const remaining = c.creationOptions.filter(id => !c.skillIds.includes(id));
     c = toggleSkill(c, remaining[0]); c = addXp(c, 10);
     expect(c.pending!.options).toEqual([remaining[1]]);

@@ -1,6 +1,7 @@
 ﻿import { z } from "zod";
 import { cardSchema, mapSchema } from "./table-engine";
 import type { CardDefinition, CardKind, MapDefinition } from "./table-engine";
+import { loadItems } from "../game/catalog";
 
 const modules = import.meta.glob("../data/master/**/*.json", { import: "default" });
 const cache = new Map<string, Promise<unknown[]>>();
@@ -13,7 +14,10 @@ function loadCategory(category: string): Promise<unknown[]> {
   cache.set(category, promise); return promise;
 }
 export async function loadCards(kind: CardKind): Promise<CardDefinition[]> {
-  const cards = z.array(cardSchema).max(10000).parse(await loadCategory(kind));
+  const [raw, items] = await Promise.all([loadCategory(kind), kind === "object" ? loadItems() : Promise.resolve([])]);
+  const equipment = items.map(item => ({ id: item.id, kind: "object", name: item.name, description: item.description,
+    item, ...(item.source ? { source: item.source } : {}) }));
+  const cards = z.array(cardSchema).max(20000).parse([...raw, ...equipment]);
   if (cards.some(c => c.kind !== kind) || new Set(cards.map(c => c.id)).size !== cards.length) throw new Error("Categoría o identificadores de cartas inválidos.");
   return cards;
 }

@@ -1,0 +1,705 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "story-compendio-side-11-01",
+      "kind": "story",
+      "mission": "side",
+      "name": "Salvar un taller — el favor",
+      "description": "Un taller recibe pedidos indispensables, pero alguien retiene la pieza que permite terminarlos. El propietario admite un conflicto anterior que puede explicar parte del bloqueo.\n\nLa petición llega a través de alguien que ayudó al grupo anteriormente. Esa relación abre una conversación, pero no convierte el encargo en una obligación ni demuestra que toda su información sea correcta.\n\nLa investigación puede comenzar con esta pista: La pieza retenida tiene una marca de mantenimiento ajena al taller. Puede recuperarse, reproducirse o prestarse; una solución rápida no resuelve necesariamente el conflicto de fondo.",
+      "abilities": [
+        "Para el DM: Ofrece una recompensa ligada a la comunidad: una presentación, alojamiento o acceso a una fuente de información.",
+        "Uso como objetivo: si una carta final señala esta secundaria, el responsable pretende conseguir este objetivo por sus propios medios. Adapta quién pide ayuda y quién resulta perjudicado; el objetivo no justifica sus métodos.",
+        "Continuidad: permite una pista mediante observación, conversación o búsqueda. Si una vía falla, otra persona o lugar puede aportar la misma información con un coste distinto.",
+        "Recompensa y consecuencias: acuerda una ayuda proporcionada, información o un vínculo. Los objetos, la experiencia y los efectos se aplican manualmente; el encargo no presupone combate."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-side-11-02",
+      "kind": "story",
+      "mission": "side",
+      "name": "Salvar un taller — el intermediario",
+      "description": "Un taller recibe pedidos indispensables, pero alguien retiene la pieza que permite terminarlos. El propietario admite un conflicto anterior que puede explicar parte del bloqueo.\n\nUna persona ajena al conflicto transmite la solicitud y conserva una parte de la información. Quiere que se investigue, pero teme que su papel se confunda con el de quien provocó el problema.\n\nLa investigación puede comenzar con esta pista: La pieza retenida tiene una marca de mantenimiento ajena al taller. Puede recuperarse, reproducirse o prestarse; una solución rápida no resuelve necesariamente el conflicto de fondo.",
+      "abilities": [
+        "Para el DM: Permite verificar su relato y distinguir lo que presenció de lo que le contaron.",
+        "Uso como objetivo: si una carta final señala esta secundaria, el responsable pretende conseguir este objetivo por sus propios medios. Adapta quién pide ayuda y quién resulta perjudicado; el objetivo no justifica sus métodos.",
+        "Continuidad: permite una pista mediante observación, conversación o búsqueda. Si una vía falla, otra persona o lugar puede aportar la misma información con un coste distinto.",
+        "Recompensa y consecuencias: acuerda una ayuda proporcionada, información o un vínculo. Los objetos, la experiencia y los efectos se aplican manualmente; el encargo no presupone combate."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-side-11-03",
+      "kind": "story",
+      "mission": "side",
+      "name": "Salvar un taller — la prueba",
+      "description": "Un taller recibe pedidos indispensables, pero alguien retiene la pieza que permite terminarlos. El propietario admite un conflicto anterior que puede explicar parte del bloqueo.\n\nUna pequeña prueba material aparece durante otra escena. Su dueño puede identificarse con una pregunta o una comparación sencilla, sin detener la historia principal para una búsqueda extensa.\n\nLa investigación puede comenzar con esta pista: La pieza retenida tiene una marca de mantenimiento ajena al taller. Puede recuperarse, reproducirse o prestarse; una solución rápida no resuelve necesariamente el conflicto de fondo.",
+      "abilities": [
+        "Para el DM: La prueba puede enlazar con un lugar ya visitado y recompensar la atención del grupo.",
+        "Uso como objetivo: si una carta final señala esta secundaria, el responsable pretende conseguir este objetivo por sus propios medios. Adapta quién pide ayuda y quién resulta perjudicado; el objetivo no justifica sus métodos.",
+        "Continuidad: permite una pista mediante observación, conversación o búsqueda. Si una vía falla, otra persona o lugar puede aportar la misma información con un coste distinto.",
+        "Recompensa y consecuencias: acuerda una ayuda proporcionada, información o un vínculo. Los objetos, la experiencia y los efectos se aplican manualmente; el encargo no presupone combate."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-side-11-04",
+      "kind": "story",
+      "mission": "side",
+      "name": "Salvar un taller — la rivalidad",
+      "description": "Un taller recibe pedidos indispensables, pero alguien retiene la pieza que permite terminarlos. El propietario admite un conflicto anterior que puede explicar parte del bloqueo.\n\nOtra persona pretende resolver el mismo asunto por una vía diferente. Comparte el objetivo inmediato, aunque espera beneficiarse del resultado y no revela todas sus condiciones.\n\nLa investigación puede comenzar con esta pista: La pieza retenida tiene una marca de mantenimiento ajena al taller. Puede recuperarse, reproducirse o prestarse; una solución rápida no resuelve necesariamente el conflicto de fondo.",
+      "abilities": [
+        "Para el DM: La cooperación puede ahorrar recursos; la negativa abre una solución independiente en lugar de cancelar el encargo.",
+        "Uso como objetivo: si una carta final señala esta secundaria, el responsable pretende conseguir este objetivo por sus propios medios. Adapta quién pide ayuda y quién resulta perjudicado; el objetivo no justifica sus métodos.",
+        "Continuidad: permite una pista mediante observación, conversación o búsqueda. Si una vía falla, otra persona o lugar puede aportar la misma información con un coste distinto.",
+        "Recompensa y consecuencias: acuerda una ayuda proporcionada, información o un vínculo. Los objetos, la experiencia y los efectos se aplican manualmente; el encargo no presupone combate."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-side-11-05",
+      "kind": "story",
+      "mission": "side",
+      "name": "Salvar un taller — la urgencia",
+      "description": "Un taller recibe pedidos indispensables, pero alguien retiene la pieza que permite terminarlos. El propietario admite un conflicto anterior que puede explicar parte del bloqueo.\n\nUna oportunidad de actuar termina cuando cambia un turno o parte un transporte. Explica de antemano qué se pierde y qué alternativa seguirá disponible después.\n\nLa investigación puede comenzar con esta pista: La pieza retenida tiene una marca de mantenimiento ajena al taller. Puede recuperarse, reproducirse o prestarse; una solución rápida no resuelve necesariamente el conflicto de fondo.",
+      "abilities": [
+        "Para el DM: El retraso cambia el coste o el lugar de la escena, sin destruir automáticamente su objetivo.",
+        "Uso como objetivo: si una carta final señala esta secundaria, el responsable pretende conseguir este objetivo por sus propios medios. Adapta quién pide ayuda y quién resulta perjudicado; el objetivo no justifica sus métodos.",
+        "Continuidad: permite una pista mediante observación, conversación o búsqueda. Si una vía falla, otra persona o lugar puede aportar la misma información con un coste distinto.",
+        "Recompensa y consecuencias: acuerda una ayuda proporcionada, información o un vínculo. Los objetos, la experiencia y los efectos se aplican manualmente; el encargo no presupone combate."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-side-11-06",
+      "kind": "story",
+      "mission": "side",
+      "name": "Salvar un taller — la discreción",
+      "description": "Un taller recibe pedidos indispensables, pero alguien retiene la pieza que permite terminarlos. El propietario admite un conflicto anterior que puede explicar parte del bloqueo.\n\nQuien pide ayuda necesita mantener el asunto reservado hasta comprobar un detalle. Hay una razón personal para ello, pero una persona afectada podría merecer conocerlo antes.\n\nLa investigación puede comenzar con esta pista: La pieza retenida tiene una marca de mantenimiento ajena al taller. Puede recuperarse, reproducirse o prestarse; una solución rápida no resuelve necesariamente el conflicto de fondo.",
+      "abilities": [
+        "Para el DM: Plantea el límite de la confidencialidad como una decisión, sin premiar necesariamente el silencio.",
+        "Uso como objetivo: si una carta final señala esta secundaria, el responsable pretende conseguir este objetivo por sus propios medios. Adapta quién pide ayuda y quién resulta perjudicado; el objetivo no justifica sus métodos.",
+        "Continuidad: permite una pista mediante observación, conversación o búsqueda. Si una vía falla, otra persona o lugar puede aportar la misma información con un coste distinto.",
+        "Recompensa y consecuencias: acuerda una ayuda proporcionada, información o un vínculo. Los objetos, la experiencia y los efectos se aplican manualmente; el encargo no presupone combate."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-side-11-07",
+      "kind": "story",
+      "mission": "side",
+      "name": "Salvar un taller — el intercambio",
+      "description": "Un taller recibe pedidos indispensables, pero alguien retiene la pieza que permite terminarlos. El propietario admite un conflicto anterior que puede explicar parte del bloqueo.\n\nUna de las partes ofrece información útil para la aventura a cambio de ayuda. La información puede comprobarse parcialmente y no constituye la única pista disponible para continuar.\n\nLa investigación puede comenzar con esta pista: La pieza retenida tiene una marca de mantenimiento ajena al taller. Puede recuperarse, reproducirse o prestarse; una solución rápida no resuelve necesariamente el conflicto de fondo.",
+      "abilities": [
+        "Para el DM: Separa el pago del éxito absoluto: una ayuda parcial también puede obtener una pista parcial.",
+        "Uso como objetivo: si una carta final señala esta secundaria, el responsable pretende conseguir este objetivo por sus propios medios. Adapta quién pide ayuda y quién resulta perjudicado; el objetivo no justifica sus métodos.",
+        "Continuidad: permite una pista mediante observación, conversación o búsqueda. Si una vía falla, otra persona o lugar puede aportar la misma información con un coste distinto.",
+        "Recompensa y consecuencias: acuerda una ayuda proporcionada, información o un vínculo. Los objetos, la experiencia y los efectos se aplican manualmente; el encargo no presupone combate."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-side-11-08",
+      "kind": "story",
+      "mission": "side",
+      "name": "Salvar un taller — el vínculo",
+      "description": "Un taller recibe pedidos indispensables, pero alguien retiene la pieza que permite terminarlos. El propietario admite un conflicto anterior que puede explicar parte del bloqueo.\n\nUn aliado reconoce una costumbre, un nombre o una marca relacionada con la petición. Puede facilitar el primer contacto, aunque su experiencia no sustituye las decisiones del grupo.\n\nLa investigación puede comenzar con esta pista: La pieza retenida tiene una marca de mantenimiento ajena al taller. Puede recuperarse, reproducirse o prestarse; una solución rápida no resuelve necesariamente el conflicto de fondo.",
+      "abilities": [
+        "Para el DM: Pregunta cómo se relaciona el personaje con ese vínculo antes de atribuirle compromisos previos.",
+        "Uso como objetivo: si una carta final señala esta secundaria, el responsable pretende conseguir este objetivo por sus propios medios. Adapta quién pide ayuda y quién resulta perjudicado; el objetivo no justifica sus métodos.",
+        "Continuidad: permite una pista mediante observación, conversación o búsqueda. Si una vía falla, otra persona o lugar puede aportar la misma información con un coste distinto.",
+        "Recompensa y consecuencias: acuerda una ayuda proporcionada, información o un vínculo. Los objetos, la experiencia y los efectos se aplican manualmente; el encargo no presupone combate."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-side-11-09",
+      "kind": "story",
+      "mission": "side",
+      "name": "Salvar un taller — la condición",
+      "description": "Un taller recibe pedidos indispensables, pero alguien retiene la pieza que permite terminarlos. El propietario admite un conflicto anterior que puede explicar parte del bloqueo.\n\nLa ayuda solicitada tiene una condición que beneficia a una parte y perjudica a otra. Ambas pueden explicar su necesidad si el grupo se toma tiempo para escucharlas.\n\nLa investigación puede comenzar con esta pista: La pieza retenida tiene una marca de mantenimiento ajena al taller. Puede recuperarse, reproducirse o prestarse; una solución rápida no resuelve necesariamente el conflicto de fondo.",
+      "abilities": [
+        "Para el DM: Una tercera solución puede satisfacer el objetivo sin cumplir literalmente la condición inicial.",
+        "Uso como objetivo: si una carta final señala esta secundaria, el responsable pretende conseguir este objetivo por sus propios medios. Adapta quién pide ayuda y quién resulta perjudicado; el objetivo no justifica sus métodos.",
+        "Continuidad: permite una pista mediante observación, conversación o búsqueda. Si una vía falla, otra persona o lugar puede aportar la misma información con un coste distinto.",
+        "Recompensa y consecuencias: acuerda una ayuda proporcionada, información o un vínculo. Los objetos, la experiencia y los efectos se aplican manualmente; el encargo no presupone combate."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-side-11-10",
+      "kind": "story",
+      "mission": "side",
+      "name": "Salvar un taller — el regreso",
+      "description": "Un taller recibe pedidos indispensables, pero alguien retiene la pieza que permite terminarlos. El propietario admite un conflicto anterior que puede explicar parte del bloqueo.\n\nLa petición aparece después de que el grupo creyera terminado un asunto anterior. Una consecuencia pendiente explica el nuevo problema sin negar lo que los personajes lograron entonces.\n\nLa investigación puede comenzar con esta pista: La pieza retenida tiene una marca de mantenimiento ajena al taller. Puede recuperarse, reproducirse o prestarse; una solución rápida no resuelve necesariamente el conflicto de fondo.",
+      "abilities": [
+        "Para el DM: Usa una decisión previa como contexto y conserva sus beneficios; la nueva tarea no debe borrar aquel éxito.",
+        "Uso como objetivo: si una carta final señala esta secundaria, el responsable pretende conseguir este objetivo por sus propios medios. Adapta quién pide ayuda y quién resulta perjudicado; el objetivo no justifica sus métodos.",
+        "Continuidad: permite una pista mediante observación, conversación o búsqueda. Si una vía falla, otra persona o lugar puede aportar la misma información con un coste distinto.",
+        "Recompensa y consecuencias: acuerda una ayuda proporcionada, información o un vínculo. Los objetos, la experiencia y los efectos se aplican manualmente; el encargo no presupone combate."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-side-12-01",
+      "kind": "story",
+      "mission": "side",
+      "name": "Conseguir un tratamiento — el favor",
+      "description": "Una persona enferma necesita un preparado cuyos componentes se destinan a otro uso rentable. Un proveedor acepta ayudar si se garantiza que no perderá toda su reserva.\n\nLa petición llega a través de alguien que ayudó al grupo anteriormente. Esa relación abre una conversación, pero no convierte el encargo en una obligación ni demuestra que toda su información sea correcta.\n\nLa investigación puede comenzar con esta pista: Los registros muestran que un componente se distribuye bajo otro nombre. Busca un acuerdo o una alternativa confirmada por quien conoce el preparado; no impongas una curación milagrosa ni automática.",
+      "abilities": [
+        "Para el DM: Ofrece una recompensa ligada a la comunidad: una presentación, alojamiento o acceso a una fuente de información.",
+        "Uso como objetivo: si una carta final señala esta secundaria, el responsable pretende conseguir este objetivo por sus propios medios. Adapta quién pide ayuda y quién resulta perjudicado; el objetivo no justifica sus métodos.",
+        "Continuidad: permite una pista mediante observación, conversación o búsqueda. Si una vía falla, otra persona o lugar puede aportar la misma información con un coste distinto.",
+        "Recompensa y consecuencias: acuerda una ayuda proporcionada, información o un vínculo. Los objetos, la experiencia y los efectos se aplican manualmente; el encargo no presupone combate."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-side-12-02",
+      "kind": "story",
+      "mission": "side",
+      "name": "Conseguir un tratamiento — el intermediario",
+      "description": "Una persona enferma necesita un preparado cuyos componentes se destinan a otro uso rentable. Un proveedor acepta ayudar si se garantiza que no perderá toda su reserva.\n\nUna persona ajena al conflicto transmite la solicitud y conserva una parte de la información. Quiere que se investigue, pero teme que su papel se confunda con el de quien provocó el problema.\n\nLa investigación puede comenzar con esta pista: Los registros muestran que un componente se distribuye bajo otro nombre. Busca un acuerdo o una alternativa confirmada por quien conoce el preparado; no impongas una curación milagrosa ni automática.",
+      "abilities": [
+        "Para el DM: Permite verificar su relato y distinguir lo que presenció de lo que le contaron.",
+        "Uso como objetivo: si una carta final señala esta secundaria, el responsable pretende conseguir este objetivo por sus propios medios. Adapta quién pide ayuda y quién resulta perjudicado; el objetivo no justifica sus métodos.",
+        "Continuidad: permite una pista mediante observación, conversación o búsqueda. Si una vía falla, otra persona o lugar puede aportar la misma información con un coste distinto.",
+        "Recompensa y consecuencias: acuerda una ayuda proporcionada, información o un vínculo. Los objetos, la experiencia y los efectos se aplican manualmente; el encargo no presupone combate."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-side-12-03",
+      "kind": "story",
+      "mission": "side",
+      "name": "Conseguir un tratamiento — la prueba",
+      "description": "Una persona enferma necesita un preparado cuyos componentes se destinan a otro uso rentable. Un proveedor acepta ayudar si se garantiza que no perderá toda su reserva.\n\nUna pequeña prueba material aparece durante otra escena. Su dueño puede identificarse con una pregunta o una comparación sencilla, sin detener la historia principal para una búsqueda extensa.\n\nLa investigación puede comenzar con esta pista: Los registros muestran que un componente se distribuye bajo otro nombre. Busca un acuerdo o una alternativa confirmada por quien conoce el preparado; no impongas una curación milagrosa ni automática.",
+      "abilities": [
+        "Para el DM: La prueba puede enlazar con un lugar ya visitado y recompensar la atención del grupo.",
+        "Uso como objetivo: si una carta final señala esta secundaria, el responsable pretende conseguir este objetivo por sus propios medios. Adapta quién pide ayuda y quién resulta perjudicado; el objetivo no justifica sus métodos.",
+        "Continuidad: permite una pista mediante observación, conversación o búsqueda. Si una vía falla, otra persona o lugar puede aportar la misma información con un coste distinto.",
+        "Recompensa y consecuencias: acuerda una ayuda proporcionada, información o un vínculo. Los objetos, la experiencia y los efectos se aplican manualmente; el encargo no presupone combate."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-side-12-04",
+      "kind": "story",
+      "mission": "side",
+      "name": "Conseguir un tratamiento — la rivalidad",
+      "description": "Una persona enferma necesita un preparado cuyos componentes se destinan a otro uso rentable. Un proveedor acepta ayudar si se garantiza que no perderá toda su reserva.\n\nOtra persona pretende resolver el mismo asunto por una vía diferente. Comparte el objetivo inmediato, aunque espera beneficiarse del resultado y no revela todas sus condiciones.\n\nLa investigación puede comenzar con esta pista: Los registros muestran que un componente se distribuye bajo otro nombre. Busca un acuerdo o una alternativa confirmada por quien conoce el preparado; no impongas una curación milagrosa ni automática.",
+      "abilities": [
+        "Para el DM: La cooperación puede ahorrar recursos; la negativa abre una solución independiente en lugar de cancelar el encargo.",
+        "Uso como objetivo: si una carta final señala esta secundaria, el responsable pretende conseguir este objetivo por sus propios medios. Adapta quién pide ayuda y quién resulta perjudicado; el objetivo no justifica sus métodos.",
+        "Continuidad: permite una pista mediante observación, conversación o búsqueda. Si una vía falla, otra persona o lugar puede aportar la misma información con un coste distinto.",
+        "Recompensa y consecuencias: acuerda una ayuda proporcionada, información o un vínculo. Los objetos, la experiencia y los efectos se aplican manualmente; el encargo no presupone combate."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-side-12-05",
+      "kind": "story",
+      "mission": "side",
+      "name": "Conseguir un tratamiento — la urgencia",
+      "description": "Una persona enferma necesita un preparado cuyos componentes se destinan a otro uso rentable. Un proveedor acepta ayudar si se garantiza que no perderá toda su reserva.\n\nUna oportunidad de actuar termina cuando cambia un turno o parte un transporte. Explica de antemano qué se pierde y qué alternativa seguirá disponible después.\n\nLa investigación puede comenzar con esta pista: Los registros muestran que un componente se distribuye bajo otro nombre. Busca un acuerdo o una alternativa confirmada por quien conoce el preparado; no impongas una curación milagrosa ni automática.",
+      "abilities": [
+        "Para el DM: El retraso cambia el coste o el lugar de la escena, sin destruir automáticamente su objetivo.",
+        "Uso como objetivo: si una carta final señala esta secundaria, el responsable pretende conseguir este objetivo por sus propios medios. Adapta quién pide ayuda y quién resulta perjudicado; el objetivo no justifica sus métodos.",
+        "Continuidad: permite una pista mediante observación, conversación o búsqueda. Si una vía falla, otra persona o lugar puede aportar la misma información con un coste distinto.",
+        "Recompensa y consecuencias: acuerda una ayuda proporcionada, información o un vínculo. Los objetos, la experiencia y los efectos se aplican manualmente; el encargo no presupone combate."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-side-12-06",
+      "kind": "story",
+      "mission": "side",
+      "name": "Conseguir un tratamiento — la discreción",
+      "description": "Una persona enferma necesita un preparado cuyos componentes se destinan a otro uso rentable. Un proveedor acepta ayudar si se garantiza que no perderá toda su reserva.\n\nQuien pide ayuda necesita mantener el asunto reservado hasta comprobar un detalle. Hay una razón personal para ello, pero una persona afectada podría merecer conocerlo antes.\n\nLa investigación puede comenzar con esta pista: Los registros muestran que un componente se distribuye bajo otro nombre. Busca un acuerdo o una alternativa confirmada por quien conoce el preparado; no impongas una curación milagrosa ni automática.",
+      "abilities": [
+        "Para el DM: Plantea el límite de la confidencialidad como una decisión, sin premiar necesariamente el silencio.",
+        "Uso como objetivo: si una carta final señala esta secundaria, el responsable pretende conseguir este objetivo por sus propios medios. Adapta quién pide ayuda y quién resulta perjudicado; el objetivo no justifica sus métodos.",
+        "Continuidad: permite una pista mediante observación, conversación o búsqueda. Si una vía falla, otra persona o lugar puede aportar la misma información con un coste distinto.",
+        "Recompensa y consecuencias: acuerda una ayuda proporcionada, información o un vínculo. Los objetos, la experiencia y los efectos se aplican manualmente; el encargo no presupone combate."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-side-12-07",
+      "kind": "story",
+      "mission": "side",
+      "name": "Conseguir un tratamiento — el intercambio",
+      "description": "Una persona enferma necesita un preparado cuyos componentes se destinan a otro uso rentable. Un proveedor acepta ayudar si se garantiza que no perderá toda su reserva.\n\nUna de las partes ofrece información útil para la aventura a cambio de ayuda. La información puede comprobarse parcialmente y no constituye la única pista disponible para continuar.\n\nLa investigación puede comenzar con esta pista: Los registros muestran que un componente se distribuye bajo otro nombre. Busca un acuerdo o una alternativa confirmada por quien conoce el preparado; no impongas una curación milagrosa ni automática.",
+      "abilities": [
+        "Para el DM: Separa el pago del éxito absoluto: una ayuda parcial también puede obtener una pista parcial.",
+        "Uso como objetivo: si una carta final señala esta secundaria, el responsable pretende conseguir este objetivo por sus propios medios. Adapta quién pide ayuda y quién resulta perjudicado; el objetivo no justifica sus métodos.",
+        "Continuidad: permite una pista mediante observación, conversación o búsqueda. Si una vía falla, otra persona o lugar puede aportar la misma información con un coste distinto.",
+        "Recompensa y consecuencias: acuerda una ayuda proporcionada, información o un vínculo. Los objetos, la experiencia y los efectos se aplican manualmente; el encargo no presupone combate."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-side-12-08",
+      "kind": "story",
+      "mission": "side",
+      "name": "Conseguir un tratamiento — el vínculo",
+      "description": "Una persona enferma necesita un preparado cuyos componentes se destinan a otro uso rentable. Un proveedor acepta ayudar si se garantiza que no perderá toda su reserva.\n\nUn aliado reconoce una costumbre, un nombre o una marca relacionada con la petición. Puede facilitar el primer contacto, aunque su experiencia no sustituye las decisiones del grupo.\n\nLa investigación puede comenzar con esta pista: Los registros muestran que un componente se distribuye bajo otro nombre. Busca un acuerdo o una alternativa confirmada por quien conoce el preparado; no impongas una curación milagrosa ni automática.",
+      "abilities": [
+        "Para el DM: Pregunta cómo se relaciona el personaje con ese vínculo antes de atribuirle compromisos previos.",
+        "Uso como objetivo: si una carta final señala esta secundaria, el responsable pretende conseguir este objetivo por sus propios medios. Adapta quién pide ayuda y quién resulta perjudicado; el objetivo no justifica sus métodos.",
+        "Continuidad: permite una pista mediante observación, conversación o búsqueda. Si una vía falla, otra persona o lugar puede aportar la misma información con un coste distinto.",
+        "Recompensa y consecuencias: acuerda una ayuda proporcionada, información o un vínculo. Los objetos, la experiencia y los efectos se aplican manualmente; el encargo no presupone combate."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-side-12-09",
+      "kind": "story",
+      "mission": "side",
+      "name": "Conseguir un tratamiento — la condición",
+      "description": "Una persona enferma necesita un preparado cuyos componentes se destinan a otro uso rentable. Un proveedor acepta ayudar si se garantiza que no perderá toda su reserva.\n\nLa ayuda solicitada tiene una condición que beneficia a una parte y perjudica a otra. Ambas pueden explicar su necesidad si el grupo se toma tiempo para escucharlas.\n\nLa investigación puede comenzar con esta pista: Los registros muestran que un componente se distribuye bajo otro nombre. Busca un acuerdo o una alternativa confirmada por quien conoce el preparado; no impongas una curación milagrosa ni automática.",
+      "abilities": [
+        "Para el DM: Una tercera solución puede satisfacer el objetivo sin cumplir literalmente la condición inicial.",
+        "Uso como objetivo: si una carta final señala esta secundaria, el responsable pretende conseguir este objetivo por sus propios medios. Adapta quién pide ayuda y quién resulta perjudicado; el objetivo no justifica sus métodos.",
+        "Continuidad: permite una pista mediante observación, conversación o búsqueda. Si una vía falla, otra persona o lugar puede aportar la misma información con un coste distinto.",
+        "Recompensa y consecuencias: acuerda una ayuda proporcionada, información o un vínculo. Los objetos, la experiencia y los efectos se aplican manualmente; el encargo no presupone combate."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-side-12-10",
+      "kind": "story",
+      "mission": "side",
+      "name": "Conseguir un tratamiento — el regreso",
+      "description": "Una persona enferma necesita un preparado cuyos componentes se destinan a otro uso rentable. Un proveedor acepta ayudar si se garantiza que no perderá toda su reserva.\n\nLa petición aparece después de que el grupo creyera terminado un asunto anterior. Una consecuencia pendiente explica el nuevo problema sin negar lo que los personajes lograron entonces.\n\nLa investigación puede comenzar con esta pista: Los registros muestran que un componente se distribuye bajo otro nombre. Busca un acuerdo o una alternativa confirmada por quien conoce el preparado; no impongas una curación milagrosa ni automática.",
+      "abilities": [
+        "Para el DM: Usa una decisión previa como contexto y conserva sus beneficios; la nueva tarea no debe borrar aquel éxito.",
+        "Uso como objetivo: si una carta final señala esta secundaria, el responsable pretende conseguir este objetivo por sus propios medios. Adapta quién pide ayuda y quién resulta perjudicado; el objetivo no justifica sus métodos.",
+        "Continuidad: permite una pista mediante observación, conversación o búsqueda. Si una vía falla, otra persona o lugar puede aportar la misma información con un coste distinto.",
+        "Recompensa y consecuencias: acuerda una ayuda proporcionada, información o un vínculo. Los objetos, la experiencia y los efectos se aplican manualmente; el encargo no presupone combate."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-side-13-01",
+      "kind": "story",
+      "mission": "side",
+      "name": "Impedir una venganza — el favor",
+      "description": "Alguien prepara una represalia por un daño real, pero la identidad del responsable proviene de una sola fuente. Una persona cercana teme que la acción perjudique a quienes ya sufrieron lo mismo.\n\nLa petición llega a través de alguien que ayudó al grupo anteriormente. Esa relación abre una conversación, pero no convierte el encargo en una obligación ni demuestra que toda su información sea correcta.\n\nLa investigación puede comenzar con esta pista: El relato de la fuente contiene un detalle que no pudo observar desde donde afirma estar. Confirmar los hechos y ofrecer reparación puede detener la violencia sin negar el dolor que la motivó.",
+      "abilities": [
+        "Para el DM: Ofrece una recompensa ligada a la comunidad: una presentación, alojamiento o acceso a una fuente de información.",
+        "Uso como objetivo: si una carta final señala esta secundaria, el responsable pretende conseguir este objetivo por sus propios medios. Adapta quién pide ayuda y quién resulta perjudicado; el objetivo no justifica sus métodos.",
+        "Continuidad: permite una pista mediante observación, conversación o búsqueda. Si una vía falla, otra persona o lugar puede aportar la misma información con un coste distinto.",
+        "Recompensa y consecuencias: acuerda una ayuda proporcionada, información o un vínculo. Los objetos, la experiencia y los efectos se aplican manualmente; el encargo no presupone combate."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-side-13-02",
+      "kind": "story",
+      "mission": "side",
+      "name": "Impedir una venganza — el intermediario",
+      "description": "Alguien prepara una represalia por un daño real, pero la identidad del responsable proviene de una sola fuente. Una persona cercana teme que la acción perjudique a quienes ya sufrieron lo mismo.\n\nUna persona ajena al conflicto transmite la solicitud y conserva una parte de la información. Quiere que se investigue, pero teme que su papel se confunda con el de quien provocó el problema.\n\nLa investigación puede comenzar con esta pista: El relato de la fuente contiene un detalle que no pudo observar desde donde afirma estar. Confirmar los hechos y ofrecer reparación puede detener la violencia sin negar el dolor que la motivó.",
+      "abilities": [
+        "Para el DM: Permite verificar su relato y distinguir lo que presenció de lo que le contaron.",
+        "Uso como objetivo: si una carta final señala esta secundaria, el responsable pretende conseguir este objetivo por sus propios medios. Adapta quién pide ayuda y quién resulta perjudicado; el objetivo no justifica sus métodos.",
+        "Continuidad: permite una pista mediante observación, conversación o búsqueda. Si una vía falla, otra persona o lugar puede aportar la misma información con un coste distinto.",
+        "Recompensa y consecuencias: acuerda una ayuda proporcionada, información o un vínculo. Los objetos, la experiencia y los efectos se aplican manualmente; el encargo no presupone combate."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-side-13-03",
+      "kind": "story",
+      "mission": "side",
+      "name": "Impedir una venganza — la prueba",
+      "description": "Alguien prepara una represalia por un daño real, pero la identidad del responsable proviene de una sola fuente. Una persona cercana teme que la acción perjudique a quienes ya sufrieron lo mismo.\n\nUna pequeña prueba material aparece durante otra escena. Su dueño puede identificarse con una pregunta o una comparación sencilla, sin detener la historia principal para una búsqueda extensa.\n\nLa investigación puede comenzar con esta pista: El relato de la fuente contiene un detalle que no pudo observar desde donde afirma estar. Confirmar los hechos y ofrecer reparación puede detener la violencia sin negar el dolor que la motivó.",
+      "abilities": [
+        "Para el DM: La prueba puede enlazar con un lugar ya visitado y recompensar la atención del grupo.",
+        "Uso como objetivo: si una carta final señala esta secundaria, el responsable pretende conseguir este objetivo por sus propios medios. Adapta quién pide ayuda y quién resulta perjudicado; el objetivo no justifica sus métodos.",
+        "Continuidad: permite una pista mediante observación, conversación o búsqueda. Si una vía falla, otra persona o lugar puede aportar la misma información con un coste distinto.",
+        "Recompensa y consecuencias: acuerda una ayuda proporcionada, información o un vínculo. Los objetos, la experiencia y los efectos se aplican manualmente; el encargo no presupone combate."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-side-13-04",
+      "kind": "story",
+      "mission": "side",
+      "name": "Impedir una venganza — la rivalidad",
+      "description": "Alguien prepara una represalia por un daño real, pero la identidad del responsable proviene de una sola fuente. Una persona cercana teme que la acción perjudique a quienes ya sufrieron lo mismo.\n\nOtra persona pretende resolver el mismo asunto por una vía diferente. Comparte el objetivo inmediato, aunque espera beneficiarse del resultado y no revela todas sus condiciones.\n\nLa investigación puede comenzar con esta pista: El relato de la fuente contiene un detalle que no pudo observar desde donde afirma estar. Confirmar los hechos y ofrecer reparación puede detener la violencia sin negar el dolor que la motivó.",
+      "abilities": [
+        "Para el DM: La cooperación puede ahorrar recursos; la negativa abre una solución independiente en lugar de cancelar el encargo.",
+        "Uso como objetivo: si una carta final señala esta secundaria, el responsable pretende conseguir este objetivo por sus propios medios. Adapta quién pide ayuda y quién resulta perjudicado; el objetivo no justifica sus métodos.",
+        "Continuidad: permite una pista mediante observación, conversación o búsqueda. Si una vía falla, otra persona o lugar puede aportar la misma información con un coste distinto.",
+        "Recompensa y consecuencias: acuerda una ayuda proporcionada, información o un vínculo. Los objetos, la experiencia y los efectos se aplican manualmente; el encargo no presupone combate."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-side-13-05",
+      "kind": "story",
+      "mission": "side",
+      "name": "Impedir una venganza — la urgencia",
+      "description": "Alguien prepara una represalia por un daño real, pero la identidad del responsable proviene de una sola fuente. Una persona cercana teme que la acción perjudique a quienes ya sufrieron lo mismo.\n\nUna oportunidad de actuar termina cuando cambia un turno o parte un transporte. Explica de antemano qué se pierde y qué alternativa seguirá disponible después.\n\nLa investigación puede comenzar con esta pista: El relato de la fuente contiene un detalle que no pudo observar desde donde afirma estar. Confirmar los hechos y ofrecer reparación puede detener la violencia sin negar el dolor que la motivó.",
+      "abilities": [
+        "Para el DM: El retraso cambia el coste o el lugar de la escena, sin destruir automáticamente su objetivo.",
+        "Uso como objetivo: si una carta final señala esta secundaria, el responsable pretende conseguir este objetivo por sus propios medios. Adapta quién pide ayuda y quién resulta perjudicado; el objetivo no justifica sus métodos.",
+        "Continuidad: permite una pista mediante observación, conversación o búsqueda. Si una vía falla, otra persona o lugar puede aportar la misma información con un coste distinto.",
+        "Recompensa y consecuencias: acuerda una ayuda proporcionada, información o un vínculo. Los objetos, la experiencia y los efectos se aplican manualmente; el encargo no presupone combate."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-side-13-06",
+      "kind": "story",
+      "mission": "side",
+      "name": "Impedir una venganza — la discreción",
+      "description": "Alguien prepara una represalia por un daño real, pero la identidad del responsable proviene de una sola fuente. Una persona cercana teme que la acción perjudique a quienes ya sufrieron lo mismo.\n\nQuien pide ayuda necesita mantener el asunto reservado hasta comprobar un detalle. Hay una razón personal para ello, pero una persona afectada podría merecer conocerlo antes.\n\nLa investigación puede comenzar con esta pista: El relato de la fuente contiene un detalle que no pudo observar desde donde afirma estar. Confirmar los hechos y ofrecer reparación puede detener la violencia sin negar el dolor que la motivó.",
+      "abilities": [
+        "Para el DM: Plantea el límite de la confidencialidad como una decisión, sin premiar necesariamente el silencio.",
+        "Uso como objetivo: si una carta final señala esta secundaria, el responsable pretende conseguir este objetivo por sus propios medios. Adapta quién pide ayuda y quién resulta perjudicado; el objetivo no justifica sus métodos.",
+        "Continuidad: permite una pista mediante observación, conversación o búsqueda. Si una vía falla, otra persona o lugar puede aportar la misma información con un coste distinto.",
+        "Recompensa y consecuencias: acuerda una ayuda proporcionada, información o un vínculo. Los objetos, la experiencia y los efectos se aplican manualmente; el encargo no presupone combate."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-side-13-07",
+      "kind": "story",
+      "mission": "side",
+      "name": "Impedir una venganza — el intercambio",
+      "description": "Alguien prepara una represalia por un daño real, pero la identidad del responsable proviene de una sola fuente. Una persona cercana teme que la acción perjudique a quienes ya sufrieron lo mismo.\n\nUna de las partes ofrece información útil para la aventura a cambio de ayuda. La información puede comprobarse parcialmente y no constituye la única pista disponible para continuar.\n\nLa investigación puede comenzar con esta pista: El relato de la fuente contiene un detalle que no pudo observar desde donde afirma estar. Confirmar los hechos y ofrecer reparación puede detener la violencia sin negar el dolor que la motivó.",
+      "abilities": [
+        "Para el DM: Separa el pago del éxito absoluto: una ayuda parcial también puede obtener una pista parcial.",
+        "Uso como objetivo: si una carta final señala esta secundaria, el responsable pretende conseguir este objetivo por sus propios medios. Adapta quién pide ayuda y quién resulta perjudicado; el objetivo no justifica sus métodos.",
+        "Continuidad: permite una pista mediante observación, conversación o búsqueda. Si una vía falla, otra persona o lugar puede aportar la misma información con un coste distinto.",
+        "Recompensa y consecuencias: acuerda una ayuda proporcionada, información o un vínculo. Los objetos, la experiencia y los efectos se aplican manualmente; el encargo no presupone combate."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-side-13-08",
+      "kind": "story",
+      "mission": "side",
+      "name": "Impedir una venganza — el vínculo",
+      "description": "Alguien prepara una represalia por un daño real, pero la identidad del responsable proviene de una sola fuente. Una persona cercana teme que la acción perjudique a quienes ya sufrieron lo mismo.\n\nUn aliado reconoce una costumbre, un nombre o una marca relacionada con la petición. Puede facilitar el primer contacto, aunque su experiencia no sustituye las decisiones del grupo.\n\nLa investigación puede comenzar con esta pista: El relato de la fuente contiene un detalle que no pudo observar desde donde afirma estar. Confirmar los hechos y ofrecer reparación puede detener la violencia sin negar el dolor que la motivó.",
+      "abilities": [
+        "Para el DM: Pregunta cómo se relaciona el personaje con ese vínculo antes de atribuirle compromisos previos.",
+        "Uso como objetivo: si una carta final señala esta secundaria, el responsable pretende conseguir este objetivo por sus propios medios. Adapta quién pide ayuda y quién resulta perjudicado; el objetivo no justifica sus métodos.",
+        "Continuidad: permite una pista mediante observación, conversación o búsqueda. Si una vía falla, otra persona o lugar puede aportar la misma información con un coste distinto.",
+        "Recompensa y consecuencias: acuerda una ayuda proporcionada, información o un vínculo. Los objetos, la experiencia y los efectos se aplican manualmente; el encargo no presupone combate."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-side-13-09",
+      "kind": "story",
+      "mission": "side",
+      "name": "Impedir una venganza — la condición",
+      "description": "Alguien prepara una represalia por un daño real, pero la identidad del responsable proviene de una sola fuente. Una persona cercana teme que la acción perjudique a quienes ya sufrieron lo mismo.\n\nLa ayuda solicitada tiene una condición que beneficia a una parte y perjudica a otra. Ambas pueden explicar su necesidad si el grupo se toma tiempo para escucharlas.\n\nLa investigación puede comenzar con esta pista: El relato de la fuente contiene un detalle que no pudo observar desde donde afirma estar. Confirmar los hechos y ofrecer reparación puede detener la violencia sin negar el dolor que la motivó.",
+      "abilities": [
+        "Para el DM: Una tercera solución puede satisfacer el objetivo sin cumplir literalmente la condición inicial.",
+        "Uso como objetivo: si una carta final señala esta secundaria, el responsable pretende conseguir este objetivo por sus propios medios. Adapta quién pide ayuda y quién resulta perjudicado; el objetivo no justifica sus métodos.",
+        "Continuidad: permite una pista mediante observación, conversación o búsqueda. Si una vía falla, otra persona o lugar puede aportar la misma información con un coste distinto.",
+        "Recompensa y consecuencias: acuerda una ayuda proporcionada, información o un vínculo. Los objetos, la experiencia y los efectos se aplican manualmente; el encargo no presupone combate."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-side-13-10",
+      "kind": "story",
+      "mission": "side",
+      "name": "Impedir una venganza — el regreso",
+      "description": "Alguien prepara una represalia por un daño real, pero la identidad del responsable proviene de una sola fuente. Una persona cercana teme que la acción perjudique a quienes ya sufrieron lo mismo.\n\nLa petición aparece después de que el grupo creyera terminado un asunto anterior. Una consecuencia pendiente explica el nuevo problema sin negar lo que los personajes lograron entonces.\n\nLa investigación puede comenzar con esta pista: El relato de la fuente contiene un detalle que no pudo observar desde donde afirma estar. Confirmar los hechos y ofrecer reparación puede detener la violencia sin negar el dolor que la motivó.",
+      "abilities": [
+        "Para el DM: Usa una decisión previa como contexto y conserva sus beneficios; la nueva tarea no debe borrar aquel éxito.",
+        "Uso como objetivo: si una carta final señala esta secundaria, el responsable pretende conseguir este objetivo por sus propios medios. Adapta quién pide ayuda y quién resulta perjudicado; el objetivo no justifica sus métodos.",
+        "Continuidad: permite una pista mediante observación, conversación o búsqueda. Si una vía falla, otra persona o lugar puede aportar la misma información con un coste distinto.",
+        "Recompensa y consecuencias: acuerda una ayuda proporcionada, información o un vínculo. Los objetos, la experiencia y los efectos se aplican manualmente; el encargo no presupone combate."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-side-14-01",
+      "kind": "story",
+      "mission": "side",
+      "name": "Probar una inocencia — el favor",
+      "description": "Una persona acusada carece de una coartada creíble porque protegía un secreto ajeno. El juicio se acerca y el testigo capaz de ayudar teme perder su propia posición.\n\nLa petición llega a través de alguien que ayudó al grupo anteriormente. Esa relación abre una conversación, pero no convierte el encargo en una obligación ni demuestra que toda su información sea correcta.\n\nLa investigación puede comenzar con esta pista: Un objeto cotidiano demuestra una hora o un recorrido que contradice parte de la acusación. Permite varias pruebas y una declaración protegida; una única tirada fallida no debería decidir la condena.",
+      "abilities": [
+        "Para el DM: Ofrece una recompensa ligada a la comunidad: una presentación, alojamiento o acceso a una fuente de información.",
+        "Uso como objetivo: si una carta final señala esta secundaria, el responsable pretende conseguir este objetivo por sus propios medios. Adapta quién pide ayuda y quién resulta perjudicado; el objetivo no justifica sus métodos.",
+        "Continuidad: permite una pista mediante observación, conversación o búsqueda. Si una vía falla, otra persona o lugar puede aportar la misma información con un coste distinto.",
+        "Recompensa y consecuencias: acuerda una ayuda proporcionada, información o un vínculo. Los objetos, la experiencia y los efectos se aplican manualmente; el encargo no presupone combate."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-side-14-02",
+      "kind": "story",
+      "mission": "side",
+      "name": "Probar una inocencia — el intermediario",
+      "description": "Una persona acusada carece de una coartada creíble porque protegía un secreto ajeno. El juicio se acerca y el testigo capaz de ayudar teme perder su propia posición.\n\nUna persona ajena al conflicto transmite la solicitud y conserva una parte de la información. Quiere que se investigue, pero teme que su papel se confunda con el de quien provocó el problema.\n\nLa investigación puede comenzar con esta pista: Un objeto cotidiano demuestra una hora o un recorrido que contradice parte de la acusación. Permite varias pruebas y una declaración protegida; una única tirada fallida no debería decidir la condena.",
+      "abilities": [
+        "Para el DM: Permite verificar su relato y distinguir lo que presenció de lo que le contaron.",
+        "Uso como objetivo: si una carta final señala esta secundaria, el responsable pretende conseguir este objetivo por sus propios medios. Adapta quién pide ayuda y quién resulta perjudicado; el objetivo no justifica sus métodos.",
+        "Continuidad: permite una pista mediante observación, conversación o búsqueda. Si una vía falla, otra persona o lugar puede aportar la misma información con un coste distinto.",
+        "Recompensa y consecuencias: acuerda una ayuda proporcionada, información o un vínculo. Los objetos, la experiencia y los efectos se aplican manualmente; el encargo no presupone combate."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-side-14-03",
+      "kind": "story",
+      "mission": "side",
+      "name": "Probar una inocencia — la prueba",
+      "description": "Una persona acusada carece de una coartada creíble porque protegía un secreto ajeno. El juicio se acerca y el testigo capaz de ayudar teme perder su propia posición.\n\nUna pequeña prueba material aparece durante otra escena. Su dueño puede identificarse con una pregunta o una comparación sencilla, sin detener la historia principal para una búsqueda extensa.\n\nLa investigación puede comenzar con esta pista: Un objeto cotidiano demuestra una hora o un recorrido que contradice parte de la acusación. Permite varias pruebas y una declaración protegida; una única tirada fallida no debería decidir la condena.",
+      "abilities": [
+        "Para el DM: La prueba puede enlazar con un lugar ya visitado y recompensar la atención del grupo.",
+        "Uso como objetivo: si una carta final señala esta secundaria, el responsable pretende conseguir este objetivo por sus propios medios. Adapta quién pide ayuda y quién resulta perjudicado; el objetivo no justifica sus métodos.",
+        "Continuidad: permite una pista mediante observación, conversación o búsqueda. Si una vía falla, otra persona o lugar puede aportar la misma información con un coste distinto.",
+        "Recompensa y consecuencias: acuerda una ayuda proporcionada, información o un vínculo. Los objetos, la experiencia y los efectos se aplican manualmente; el encargo no presupone combate."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-side-14-04",
+      "kind": "story",
+      "mission": "side",
+      "name": "Probar una inocencia — la rivalidad",
+      "description": "Una persona acusada carece de una coartada creíble porque protegía un secreto ajeno. El juicio se acerca y el testigo capaz de ayudar teme perder su propia posición.\n\nOtra persona pretende resolver el mismo asunto por una vía diferente. Comparte el objetivo inmediato, aunque espera beneficiarse del resultado y no revela todas sus condiciones.\n\nLa investigación puede comenzar con esta pista: Un objeto cotidiano demuestra una hora o un recorrido que contradice parte de la acusación. Permite varias pruebas y una declaración protegida; una única tirada fallida no debería decidir la condena.",
+      "abilities": [
+        "Para el DM: La cooperación puede ahorrar recursos; la negativa abre una solución independiente en lugar de cancelar el encargo.",
+        "Uso como objetivo: si una carta final señala esta secundaria, el responsable pretende conseguir este objetivo por sus propios medios. Adapta quién pide ayuda y quién resulta perjudicado; el objetivo no justifica sus métodos.",
+        "Continuidad: permite una pista mediante observación, conversación o búsqueda. Si una vía falla, otra persona o lugar puede aportar la misma información con un coste distinto.",
+        "Recompensa y consecuencias: acuerda una ayuda proporcionada, información o un vínculo. Los objetos, la experiencia y los efectos se aplican manualmente; el encargo no presupone combate."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-side-14-05",
+      "kind": "story",
+      "mission": "side",
+      "name": "Probar una inocencia — la urgencia",
+      "description": "Una persona acusada carece de una coartada creíble porque protegía un secreto ajeno. El juicio se acerca y el testigo capaz de ayudar teme perder su propia posición.\n\nUna oportunidad de actuar termina cuando cambia un turno o parte un transporte. Explica de antemano qué se pierde y qué alternativa seguirá disponible después.\n\nLa investigación puede comenzar con esta pista: Un objeto cotidiano demuestra una hora o un recorrido que contradice parte de la acusación. Permite varias pruebas y una declaración protegida; una única tirada fallida no debería decidir la condena.",
+      "abilities": [
+        "Para el DM: El retraso cambia el coste o el lugar de la escena, sin destruir automáticamente su objetivo.",
+        "Uso como objetivo: si una carta final señala esta secundaria, el responsable pretende conseguir este objetivo por sus propios medios. Adapta quién pide ayuda y quién resulta perjudicado; el objetivo no justifica sus métodos.",
+        "Continuidad: permite una pista mediante observación, conversación o búsqueda. Si una vía falla, otra persona o lugar puede aportar la misma información con un coste distinto.",
+        "Recompensa y consecuencias: acuerda una ayuda proporcionada, información o un vínculo. Los objetos, la experiencia y los efectos se aplican manualmente; el encargo no presupone combate."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-side-14-06",
+      "kind": "story",
+      "mission": "side",
+      "name": "Probar una inocencia — la discreción",
+      "description": "Una persona acusada carece de una coartada creíble porque protegía un secreto ajeno. El juicio se acerca y el testigo capaz de ayudar teme perder su propia posición.\n\nQuien pide ayuda necesita mantener el asunto reservado hasta comprobar un detalle. Hay una razón personal para ello, pero una persona afectada podría merecer conocerlo antes.\n\nLa investigación puede comenzar con esta pista: Un objeto cotidiano demuestra una hora o un recorrido que contradice parte de la acusación. Permite varias pruebas y una declaración protegida; una única tirada fallida no debería decidir la condena.",
+      "abilities": [
+        "Para el DM: Plantea el límite de la confidencialidad como una decisión, sin premiar necesariamente el silencio.",
+        "Uso como objetivo: si una carta final señala esta secundaria, el responsable pretende conseguir este objetivo por sus propios medios. Adapta quién pide ayuda y quién resulta perjudicado; el objetivo no justifica sus métodos.",
+        "Continuidad: permite una pista mediante observación, conversación o búsqueda. Si una vía falla, otra persona o lugar puede aportar la misma información con un coste distinto.",
+        "Recompensa y consecuencias: acuerda una ayuda proporcionada, información o un vínculo. Los objetos, la experiencia y los efectos se aplican manualmente; el encargo no presupone combate."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-side-14-07",
+      "kind": "story",
+      "mission": "side",
+      "name": "Probar una inocencia — el intercambio",
+      "description": "Una persona acusada carece de una coartada creíble porque protegía un secreto ajeno. El juicio se acerca y el testigo capaz de ayudar teme perder su propia posición.\n\nUna de las partes ofrece información útil para la aventura a cambio de ayuda. La información puede comprobarse parcialmente y no constituye la única pista disponible para continuar.\n\nLa investigación puede comenzar con esta pista: Un objeto cotidiano demuestra una hora o un recorrido que contradice parte de la acusación. Permite varias pruebas y una declaración protegida; una única tirada fallida no debería decidir la condena.",
+      "abilities": [
+        "Para el DM: Separa el pago del éxito absoluto: una ayuda parcial también puede obtener una pista parcial.",
+        "Uso como objetivo: si una carta final señala esta secundaria, el responsable pretende conseguir este objetivo por sus propios medios. Adapta quién pide ayuda y quién resulta perjudicado; el objetivo no justifica sus métodos.",
+        "Continuidad: permite una pista mediante observación, conversación o búsqueda. Si una vía falla, otra persona o lugar puede aportar la misma información con un coste distinto.",
+        "Recompensa y consecuencias: acuerda una ayuda proporcionada, información o un vínculo. Los objetos, la experiencia y los efectos se aplican manualmente; el encargo no presupone combate."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-side-14-08",
+      "kind": "story",
+      "mission": "side",
+      "name": "Probar una inocencia — el vínculo",
+      "description": "Una persona acusada carece de una coartada creíble porque protegía un secreto ajeno. El juicio se acerca y el testigo capaz de ayudar teme perder su propia posición.\n\nUn aliado reconoce una costumbre, un nombre o una marca relacionada con la petición. Puede facilitar el primer contacto, aunque su experiencia no sustituye las decisiones del grupo.\n\nLa investigación puede comenzar con esta pista: Un objeto cotidiano demuestra una hora o un recorrido que contradice parte de la acusación. Permite varias pruebas y una declaración protegida; una única tirada fallida no debería decidir la condena.",
+      "abilities": [
+        "Para el DM: Pregunta cómo se relaciona el personaje con ese vínculo antes de atribuirle compromisos previos.",
+        "Uso como objetivo: si una carta final señala esta secundaria, el responsable pretende conseguir este objetivo por sus propios medios. Adapta quién pide ayuda y quién resulta perjudicado; el objetivo no justifica sus métodos.",
+        "Continuidad: permite una pista mediante observación, conversación o búsqueda. Si una vía falla, otra persona o lugar puede aportar la misma información con un coste distinto.",
+        "Recompensa y consecuencias: acuerda una ayuda proporcionada, información o un vínculo. Los objetos, la experiencia y los efectos se aplican manualmente; el encargo no presupone combate."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-side-14-09",
+      "kind": "story",
+      "mission": "side",
+      "name": "Probar una inocencia — la condición",
+      "description": "Una persona acusada carece de una coartada creíble porque protegía un secreto ajeno. El juicio se acerca y el testigo capaz de ayudar teme perder su propia posición.\n\nLa ayuda solicitada tiene una condición que beneficia a una parte y perjudica a otra. Ambas pueden explicar su necesidad si el grupo se toma tiempo para escucharlas.\n\nLa investigación puede comenzar con esta pista: Un objeto cotidiano demuestra una hora o un recorrido que contradice parte de la acusación. Permite varias pruebas y una declaración protegida; una única tirada fallida no debería decidir la condena.",
+      "abilities": [
+        "Para el DM: Una tercera solución puede satisfacer el objetivo sin cumplir literalmente la condición inicial.",
+        "Uso como objetivo: si una carta final señala esta secundaria, el responsable pretende conseguir este objetivo por sus propios medios. Adapta quién pide ayuda y quién resulta perjudicado; el objetivo no justifica sus métodos.",
+        "Continuidad: permite una pista mediante observación, conversación o búsqueda. Si una vía falla, otra persona o lugar puede aportar la misma información con un coste distinto.",
+        "Recompensa y consecuencias: acuerda una ayuda proporcionada, información o un vínculo. Los objetos, la experiencia y los efectos se aplican manualmente; el encargo no presupone combate."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-side-14-10",
+      "kind": "story",
+      "mission": "side",
+      "name": "Probar una inocencia — el regreso",
+      "description": "Una persona acusada carece de una coartada creíble porque protegía un secreto ajeno. El juicio se acerca y el testigo capaz de ayudar teme perder su propia posición.\n\nLa petición aparece después de que el grupo creyera terminado un asunto anterior. Una consecuencia pendiente explica el nuevo problema sin negar lo que los personajes lograron entonces.\n\nLa investigación puede comenzar con esta pista: Un objeto cotidiano demuestra una hora o un recorrido que contradice parte de la acusación. Permite varias pruebas y una declaración protegida; una única tirada fallida no debería decidir la condena.",
+      "abilities": [
+        "Para el DM: Usa una decisión previa como contexto y conserva sus beneficios; la nueva tarea no debe borrar aquel éxito.",
+        "Uso como objetivo: si una carta final señala esta secundaria, el responsable pretende conseguir este objetivo por sus propios medios. Adapta quién pide ayuda y quién resulta perjudicado; el objetivo no justifica sus métodos.",
+        "Continuidad: permite una pista mediante observación, conversación o búsqueda. Si una vía falla, otra persona o lugar puede aportar la misma información con un coste distinto.",
+        "Recompensa y consecuencias: acuerda una ayuda proporcionada, información o un vínculo. Los objetos, la experiencia y los efectos se aplican manualmente; el encargo no presupone combate."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-side-15-01",
+      "kind": "story",
+      "mission": "side",
+      "name": "Recuperar una investigación — el favor",
+      "description": "Los apuntes de una investigación desaparecen antes de su presentación. Sus autores discrepan sobre quién puede continuarla y sobre si publicar el hallazgo sería prudente.\n\nLa petición llega a través de alguien que ayudó al grupo anteriormente. Esa relación abre una conversación, pero no convierte el encargo en una obligación ni demuestra que toda su información sea correcta.\n\nLa investigación puede comenzar con esta pista: Una página descartada conserva el índice de las piezas que faltan. Recuperar el trabajo, reconocer autorías y decidir su difusión son cuestiones separadas que pueden negociarse.",
+      "abilities": [
+        "Para el DM: Ofrece una recompensa ligada a la comunidad: una presentación, alojamiento o acceso a una fuente de información.",
+        "Uso como objetivo: si una carta final señala esta secundaria, el responsable pretende conseguir este objetivo por sus propios medios. Adapta quién pide ayuda y quién resulta perjudicado; el objetivo no justifica sus métodos.",
+        "Continuidad: permite una pista mediante observación, conversación o búsqueda. Si una vía falla, otra persona o lugar puede aportar la misma información con un coste distinto.",
+        "Recompensa y consecuencias: acuerda una ayuda proporcionada, información o un vínculo. Los objetos, la experiencia y los efectos se aplican manualmente; el encargo no presupone combate."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-side-15-02",
+      "kind": "story",
+      "mission": "side",
+      "name": "Recuperar una investigación — el intermediario",
+      "description": "Los apuntes de una investigación desaparecen antes de su presentación. Sus autores discrepan sobre quién puede continuarla y sobre si publicar el hallazgo sería prudente.\n\nUna persona ajena al conflicto transmite la solicitud y conserva una parte de la información. Quiere que se investigue, pero teme que su papel se confunda con el de quien provocó el problema.\n\nLa investigación puede comenzar con esta pista: Una página descartada conserva el índice de las piezas que faltan. Recuperar el trabajo, reconocer autorías y decidir su difusión son cuestiones separadas que pueden negociarse.",
+      "abilities": [
+        "Para el DM: Permite verificar su relato y distinguir lo que presenció de lo que le contaron.",
+        "Uso como objetivo: si una carta final señala esta secundaria, el responsable pretende conseguir este objetivo por sus propios medios. Adapta quién pide ayuda y quién resulta perjudicado; el objetivo no justifica sus métodos.",
+        "Continuidad: permite una pista mediante observación, conversación o búsqueda. Si una vía falla, otra persona o lugar puede aportar la misma información con un coste distinto.",
+        "Recompensa y consecuencias: acuerda una ayuda proporcionada, información o un vínculo. Los objetos, la experiencia y los efectos se aplican manualmente; el encargo no presupone combate."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-side-15-03",
+      "kind": "story",
+      "mission": "side",
+      "name": "Recuperar una investigación — la prueba",
+      "description": "Los apuntes de una investigación desaparecen antes de su presentación. Sus autores discrepan sobre quién puede continuarla y sobre si publicar el hallazgo sería prudente.\n\nUna pequeña prueba material aparece durante otra escena. Su dueño puede identificarse con una pregunta o una comparación sencilla, sin detener la historia principal para una búsqueda extensa.\n\nLa investigación puede comenzar con esta pista: Una página descartada conserva el índice de las piezas que faltan. Recuperar el trabajo, reconocer autorías y decidir su difusión son cuestiones separadas que pueden negociarse.",
+      "abilities": [
+        "Para el DM: La prueba puede enlazar con un lugar ya visitado y recompensar la atención del grupo.",
+        "Uso como objetivo: si una carta final señala esta secundaria, el responsable pretende conseguir este objetivo por sus propios medios. Adapta quién pide ayuda y quién resulta perjudicado; el objetivo no justifica sus métodos.",
+        "Continuidad: permite una pista mediante observación, conversación o búsqueda. Si una vía falla, otra persona o lugar puede aportar la misma información con un coste distinto.",
+        "Recompensa y consecuencias: acuerda una ayuda proporcionada, información o un vínculo. Los objetos, la experiencia y los efectos se aplican manualmente; el encargo no presupone combate."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-side-15-04",
+      "kind": "story",
+      "mission": "side",
+      "name": "Recuperar una investigación — la rivalidad",
+      "description": "Los apuntes de una investigación desaparecen antes de su presentación. Sus autores discrepan sobre quién puede continuarla y sobre si publicar el hallazgo sería prudente.\n\nOtra persona pretende resolver el mismo asunto por una vía diferente. Comparte el objetivo inmediato, aunque espera beneficiarse del resultado y no revela todas sus condiciones.\n\nLa investigación puede comenzar con esta pista: Una página descartada conserva el índice de las piezas que faltan. Recuperar el trabajo, reconocer autorías y decidir su difusión son cuestiones separadas que pueden negociarse.",
+      "abilities": [
+        "Para el DM: La cooperación puede ahorrar recursos; la negativa abre una solución independiente en lugar de cancelar el encargo.",
+        "Uso como objetivo: si una carta final señala esta secundaria, el responsable pretende conseguir este objetivo por sus propios medios. Adapta quién pide ayuda y quién resulta perjudicado; el objetivo no justifica sus métodos.",
+        "Continuidad: permite una pista mediante observación, conversación o búsqueda. Si una vía falla, otra persona o lugar puede aportar la misma información con un coste distinto.",
+        "Recompensa y consecuencias: acuerda una ayuda proporcionada, información o un vínculo. Los objetos, la experiencia y los efectos se aplican manualmente; el encargo no presupone combate."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-side-15-05",
+      "kind": "story",
+      "mission": "side",
+      "name": "Recuperar una investigación — la urgencia",
+      "description": "Los apuntes de una investigación desaparecen antes de su presentación. Sus autores discrepan sobre quién puede continuarla y sobre si publicar el hallazgo sería prudente.\n\nUna oportunidad de actuar termina cuando cambia un turno o parte un transporte. Explica de antemano qué se pierde y qué alternativa seguirá disponible después.\n\nLa investigación puede comenzar con esta pista: Una página descartada conserva el índice de las piezas que faltan. Recuperar el trabajo, reconocer autorías y decidir su difusión son cuestiones separadas que pueden negociarse.",
+      "abilities": [
+        "Para el DM: El retraso cambia el coste o el lugar de la escena, sin destruir automáticamente su objetivo.",
+        "Uso como objetivo: si una carta final señala esta secundaria, el responsable pretende conseguir este objetivo por sus propios medios. Adapta quién pide ayuda y quién resulta perjudicado; el objetivo no justifica sus métodos.",
+        "Continuidad: permite una pista mediante observación, conversación o búsqueda. Si una vía falla, otra persona o lugar puede aportar la misma información con un coste distinto.",
+        "Recompensa y consecuencias: acuerda una ayuda proporcionada, información o un vínculo. Los objetos, la experiencia y los efectos se aplican manualmente; el encargo no presupone combate."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-side-15-06",
+      "kind": "story",
+      "mission": "side",
+      "name": "Recuperar una investigación — la discreción",
+      "description": "Los apuntes de una investigación desaparecen antes de su presentación. Sus autores discrepan sobre quién puede continuarla y sobre si publicar el hallazgo sería prudente.\n\nQuien pide ayuda necesita mantener el asunto reservado hasta comprobar un detalle. Hay una razón personal para ello, pero una persona afectada podría merecer conocerlo antes.\n\nLa investigación puede comenzar con esta pista: Una página descartada conserva el índice de las piezas que faltan. Recuperar el trabajo, reconocer autorías y decidir su difusión son cuestiones separadas que pueden negociarse.",
+      "abilities": [
+        "Para el DM: Plantea el límite de la confidencialidad como una decisión, sin premiar necesariamente el silencio.",
+        "Uso como objetivo: si una carta final señala esta secundaria, el responsable pretende conseguir este objetivo por sus propios medios. Adapta quién pide ayuda y quién resulta perjudicado; el objetivo no justifica sus métodos.",
+        "Continuidad: permite una pista mediante observación, conversación o búsqueda. Si una vía falla, otra persona o lugar puede aportar la misma información con un coste distinto.",
+        "Recompensa y consecuencias: acuerda una ayuda proporcionada, información o un vínculo. Los objetos, la experiencia y los efectos se aplican manualmente; el encargo no presupone combate."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-side-15-07",
+      "kind": "story",
+      "mission": "side",
+      "name": "Recuperar una investigación — el intercambio",
+      "description": "Los apuntes de una investigación desaparecen antes de su presentación. Sus autores discrepan sobre quién puede continuarla y sobre si publicar el hallazgo sería prudente.\n\nUna de las partes ofrece información útil para la aventura a cambio de ayuda. La información puede comprobarse parcialmente y no constituye la única pista disponible para continuar.\n\nLa investigación puede comenzar con esta pista: Una página descartada conserva el índice de las piezas que faltan. Recuperar el trabajo, reconocer autorías y decidir su difusión son cuestiones separadas que pueden negociarse.",
+      "abilities": [
+        "Para el DM: Separa el pago del éxito absoluto: una ayuda parcial también puede obtener una pista parcial.",
+        "Uso como objetivo: si una carta final señala esta secundaria, el responsable pretende conseguir este objetivo por sus propios medios. Adapta quién pide ayuda y quién resulta perjudicado; el objetivo no justifica sus métodos.",
+        "Continuidad: permite una pista mediante observación, conversación o búsqueda. Si una vía falla, otra persona o lugar puede aportar la misma información con un coste distinto.",
+        "Recompensa y consecuencias: acuerda una ayuda proporcionada, información o un vínculo. Los objetos, la experiencia y los efectos se aplican manualmente; el encargo no presupone combate."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-side-15-08",
+      "kind": "story",
+      "mission": "side",
+      "name": "Recuperar una investigación — el vínculo",
+      "description": "Los apuntes de una investigación desaparecen antes de su presentación. Sus autores discrepan sobre quién puede continuarla y sobre si publicar el hallazgo sería prudente.\n\nUn aliado reconoce una costumbre, un nombre o una marca relacionada con la petición. Puede facilitar el primer contacto, aunque su experiencia no sustituye las decisiones del grupo.\n\nLa investigación puede comenzar con esta pista: Una página descartada conserva el índice de las piezas que faltan. Recuperar el trabajo, reconocer autorías y decidir su difusión son cuestiones separadas que pueden negociarse.",
+      "abilities": [
+        "Para el DM: Pregunta cómo se relaciona el personaje con ese vínculo antes de atribuirle compromisos previos.",
+        "Uso como objetivo: si una carta final señala esta secundaria, el responsable pretende conseguir este objetivo por sus propios medios. Adapta quién pide ayuda y quién resulta perjudicado; el objetivo no justifica sus métodos.",
+        "Continuidad: permite una pista mediante observación, conversación o búsqueda. Si una vía falla, otra persona o lugar puede aportar la misma información con un coste distinto.",
+        "Recompensa y consecuencias: acuerda una ayuda proporcionada, información o un vínculo. Los objetos, la experiencia y los efectos se aplican manualmente; el encargo no presupone combate."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-side-15-09",
+      "kind": "story",
+      "mission": "side",
+      "name": "Recuperar una investigación — la condición",
+      "description": "Los apuntes de una investigación desaparecen antes de su presentación. Sus autores discrepan sobre quién puede continuarla y sobre si publicar el hallazgo sería prudente.\n\nLa ayuda solicitada tiene una condición que beneficia a una parte y perjudica a otra. Ambas pueden explicar su necesidad si el grupo se toma tiempo para escucharlas.\n\nLa investigación puede comenzar con esta pista: Una página descartada conserva el índice de las piezas que faltan. Recuperar el trabajo, reconocer autorías y decidir su difusión son cuestiones separadas que pueden negociarse.",
+      "abilities": [
+        "Para el DM: Una tercera solución puede satisfacer el objetivo sin cumplir literalmente la condición inicial.",
+        "Uso como objetivo: si una carta final señala esta secundaria, el responsable pretende conseguir este objetivo por sus propios medios. Adapta quién pide ayuda y quién resulta perjudicado; el objetivo no justifica sus métodos.",
+        "Continuidad: permite una pista mediante observación, conversación o búsqueda. Si una vía falla, otra persona o lugar puede aportar la misma información con un coste distinto.",
+        "Recompensa y consecuencias: acuerda una ayuda proporcionada, información o un vínculo. Los objetos, la experiencia y los efectos se aplican manualmente; el encargo no presupone combate."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-side-15-10",
+      "kind": "story",
+      "mission": "side",
+      "name": "Recuperar una investigación — el regreso",
+      "description": "Los apuntes de una investigación desaparecen antes de su presentación. Sus autores discrepan sobre quién puede continuarla y sobre si publicar el hallazgo sería prudente.\n\nLa petición aparece después de que el grupo creyera terminado un asunto anterior. Una consecuencia pendiente explica el nuevo problema sin negar lo que los personajes lograron entonces.\n\nLa investigación puede comenzar con esta pista: Una página descartada conserva el índice de las piezas que faltan. Recuperar el trabajo, reconocer autorías y decidir su difusión son cuestiones separadas que pueden negociarse.",
+      "abilities": [
+        "Para el DM: Usa una decisión previa como contexto y conserva sus beneficios; la nueva tarea no debe borrar aquel éxito.",
+        "Uso como objetivo: si una carta final señala esta secundaria, el responsable pretende conseguir este objetivo por sus propios medios. Adapta quién pide ayuda y quién resulta perjudicado; el objetivo no justifica sus métodos.",
+        "Continuidad: permite una pista mediante observación, conversación o búsqueda. Si una vía falla, otra persona o lugar puede aportar la misma información con un coste distinto.",
+        "Recompensa y consecuencias: acuerda una ayuda proporcionada, información o un vínculo. Los objetos, la experiencia y los efectos se aplican manualmente; el encargo no presupone combate."
+      ],
+      "instructions": []
+    }
+  ]
+}

@@ -1,0 +1,705 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "story-compendio-main-01-01",
+      "kind": "story",
+      "mission": "main",
+      "name": "Campanas sin duelo — la petición",
+      "description": "Todas las campanas de una población suenan al amanecer aunque sus cuerdas han sido retiradas. Después de cada repique, una familia encuentra una silla vacía en su casa y nadie reconoce a quién pertenecía.\n\nUna persona afectada pide ayuda en privado porque teme que una denuncia pública cierre la única vía de investigación. Ofrece acceso a un lugar o documento, no una recompensa que pueda garantizar.\n\nPrimer indicio: Una persona conserva un retrato donde aparece alguien que los demás niegan haber conocido. El grupo puede empezar por lo siguiente: Investigar quién mantiene los registros y qué recuerdos sobreviven fuera de la población.",
+      "abilities": [
+        "Para el DM: Dar prioridad a esa persona puede abrir una entrada discreta, pero exige acordar qué información puede compartirse.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-01-02",
+      "kind": "story",
+      "mission": "main",
+      "name": "Campanas sin duelo — el testigo",
+      "description": "Todas las campanas de una población suenan al amanecer aunque sus cuerdas han sido retiradas. Después de cada repique, una familia encuentra una silla vacía en su casa y nadie reconoce a quién pertenecía.\n\nUn testigo llega con un relato incompleto y reconoce haber ocultado un detalle para proteger a otra persona. No conoce el origen del acontecimiento y necesita una razón para confiar de nuevo.\n\nPrimer indicio: Una persona conserva un retrato donde aparece alguien que los demás niegan haber conocido. El grupo puede empezar por lo siguiente: Investigar quién mantiene los registros y qué recuerdos sobreviven fuera de la población.",
+      "abilities": [
+        "Para el DM: Su silencio puede superarse con protección o un acuerdo; una amenaza también podría hacer que se marche.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-01-03",
+      "kind": "story",
+      "mission": "main",
+      "name": "Campanas sin duelo — el encargo",
+      "description": "Todas las campanas de una población suenan al amanecer aunque sus cuerdas han sido retiradas. Después de cada repique, una familia encuentra una silla vacía en su casa y nadie reconoce a quién pertenecía.\n\nDos responsables ofrecen el mismo encargo con condiciones incompatibles. Ambos poseen una parte verificable de la información y ninguno puede resolver por sí solo el problema.\n\nPrimer indicio: Una persona conserva un retrato donde aparece alguien que los demás niegan haber conocido. El grupo puede empezar por lo siguiente: Investigar quién mantiene los registros y qué recuerdos sobreviven fuera de la población.",
+      "abilities": [
+        "Para el DM: Aceptar un encargo no obliga a obedecer todas sus condiciones; negociar límites permite conservar otra vía de ayuda.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-01-04",
+      "kind": "story",
+      "mission": "main",
+      "name": "Campanas sin duelo — la pista heredada",
+      "description": "Todas las campanas de una población suenan al amanecer aunque sus cuerdas han sido retiradas. Después de cada repique, una familia encuentra una silla vacía en su casa y nadie reconoce a quién pertenecía.\n\nUna pertenencia de alguien ausente relaciona a un personaje o aliado con lo ocurrido. Su procedencia puede confirmarse sin decidir de antemano qué sabía su antiguo dueño.\n\nPrimer indicio: Una persona conserva un retrato donde aparece alguien que los demás niegan haber conocido. El grupo puede empezar por lo siguiente: Investigar quién mantiene los registros y qué recuerdos sobreviven fuera de la población.",
+      "abilities": [
+        "Para el DM: El vínculo sirve para personalizar la investigación, sin imponer recuerdos ni culpas al personaje.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-01-05",
+      "kind": "story",
+      "mission": "main",
+      "name": "Campanas sin duelo — el plazo",
+      "description": "Todas las campanas de una población suenan al amanecer aunque sus cuerdas han sido retiradas. Después de cada repique, una familia encuentra una silla vacía en su casa y nadie reconoce a quién pertenecía.\n\nUna decisión pública está prevista para el día siguiente y puede destruir una pista o cerrar un acceso. Los personajes saben qué cambiará, aunque todavía no conocen quién se beneficiará.\n\nPrimer indicio: Una persona conserva un retrato donde aparece alguien que los demás niegan haber conocido. El grupo puede empezar por lo siguiente: Investigar quién mantiene los registros y qué recuerdos sobreviven fuera de la población.",
+      "abilities": [
+        "Para el DM: El plazo debe avanzar de forma visible; si termina, traslada la información a otro testigo en lugar de cerrar la aventura.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-01-06",
+      "kind": "story",
+      "mission": "main",
+      "name": "Campanas sin duelo — la ayuda rival",
+      "description": "Todas las campanas de una población suenan al amanecer aunque sus cuerdas han sido retiradas. Después de cada repique, una familia encuentra una silla vacía en su casa y nadie reconoce a quién pertenecía.\n\nOtro grupo intenta intervenir y ya ha obtenido una pista diferente. Sus integrantes prefieren una solución rápida, pero pueden cooperar si se reconoce su trabajo y se acuerdan responsabilidades.\n\nPrimer indicio: Una persona conserva un retrato donde aparece alguien que los demás niegan haber conocido. El grupo puede empezar por lo siguiente: Investigar quién mantiene los registros y qué recuerdos sobreviven fuera de la población.",
+      "abilities": [
+        "Para el DM: La rivalidad puede ser profesional o personal; no hace falta convertirla en violencia para que tenga consecuencias.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-01-07",
+      "kind": "story",
+      "mission": "main",
+      "name": "Campanas sin duelo — la falsa explicación",
+      "description": "Todas las campanas de una población suenan al amanecer aunque sus cuerdas han sido retiradas. Después de cada repique, una familia encuentra una silla vacía en su casa y nadie reconoce a quién pertenecía.\n\nCircula una explicación sencilla que culpa a alguien vulnerable. Un detalle comprobable no encaja con ella, aunque las autoridades consideran más cómodo dar el asunto por resuelto.\n\nPrimer indicio: Una persona conserva un retrato donde aparece alguien que los demás niegan haber conocido. El grupo puede empezar por lo siguiente: Investigar quién mantiene los registros y qué recuerdos sobreviven fuera de la población.",
+      "abilities": [
+        "Para el DM: Refutar el rumor protege a un inocente y puede revelar por qué alguien necesita una respuesta inmediata.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-01-08",
+      "kind": "story",
+      "mission": "main",
+      "name": "Campanas sin duelo — la repetición",
+      "description": "Todas las campanas de una población suenan al amanecer aunque sus cuerdas han sido retiradas. Después de cada repique, una familia encuentra una silla vacía en su casa y nadie reconoce a quién pertenecía.\n\nUna persona mayor recuerda un episodio parecido y conserva un detalle que no figura en la versión popular. El pasado ofrece una comparación útil, pero no demuestra que el responsable sea el mismo.\n\nPrimer indicio: Una persona conserva un retrato donde aparece alguien que los demás niegan haber conocido. El grupo puede empezar por lo siguiente: Investigar quién mantiene los registros y qué recuerdos sobreviven fuera de la población.",
+      "abilities": [
+        "Para el DM: Relaciona ambos episodios mediante una práctica o un recurso; permite que una diferencia descarte la explicación anterior.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-01-09",
+      "kind": "story",
+      "mission": "main",
+      "name": "Campanas sin duelo — el coste",
+      "description": "Todas las campanas de una población suenan al amanecer aunque sus cuerdas han sido retiradas. Después de cada repique, una familia encuentra una silla vacía en su casa y nadie reconoce a quién pertenecía.\n\nLa comunidad puede contener temporalmente el problema si sacrifica un recurso compartido. Quienes dependen de ese recurso piden que se investigue antes de aceptar una pérdida permanente.\n\nPrimer indicio: Una persona conserva un retrato donde aparece alguien que los demás niegan haber conocido. El grupo puede empezar por lo siguiente: Investigar quién mantiene los registros y qué recuerdos sobreviven fuera de la población.",
+      "abilities": [
+        "Para el DM: Explica el coste antes de decidir y permite medidas parciales, reparto de cargas o una ruta alternativa.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-01-10",
+      "kind": "story",
+      "mission": "main",
+      "name": "Campanas sin duelo — la visita",
+      "description": "Todas las campanas de una población suenan al amanecer aunque sus cuerdas han sido retiradas. Después de cada repique, una familia encuentra una silla vacía en su casa y nadie reconoce a quién pertenecía.\n\nLos personajes presencian una nueva manifestación al llegar. Pueden atender a una persona afectada o seguir un rastro que se debilita; ninguna de las dos elecciones elimina toda posibilidad de continuar.\n\nPrimer indicio: Una persona conserva un retrato donde aparece alguien que los demás niegan haber conocido. El grupo puede empezar por lo siguiente: Investigar quién mantiene los registros y qué recuerdos sobreviven fuera de la población.",
+      "abilities": [
+        "Para el DM: La ayuda inmediata gana un aliado; seguir el rastro obtiene otra perspectiva. Conserva una pista accesible en la opción restante.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-02-01",
+      "kind": "story",
+      "mission": "main",
+      "name": "El río devuelto — la petición",
+      "description": "Un río comienza a devolver herramientas, cartas y monedas perdidas años atrás. Los primeros hallazgos alegran a la ribera, hasta que aparecen pertenencias de personas que todavía las llevan consigo.\n\nUna persona afectada pide ayuda en privado porque teme que una denuncia pública cierre la única vía de investigación. Ofrece acceso a un lugar o documento, no una recompensa que pueda garantizar.\n\nPrimer indicio: Dos objetos supuestamente idénticos muestran reparaciones hechas por manos distintas. El grupo puede empezar por lo siguiente: Seguir la corriente, comparar procedencias o preguntar a quienes recogieron los primeros hallazgos.",
+      "abilities": [
+        "Para el DM: Dar prioridad a esa persona puede abrir una entrada discreta, pero exige acordar qué información puede compartirse.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-02-02",
+      "kind": "story",
+      "mission": "main",
+      "name": "El río devuelto — el testigo",
+      "description": "Un río comienza a devolver herramientas, cartas y monedas perdidas años atrás. Los primeros hallazgos alegran a la ribera, hasta que aparecen pertenencias de personas que todavía las llevan consigo.\n\nUn testigo llega con un relato incompleto y reconoce haber ocultado un detalle para proteger a otra persona. No conoce el origen del acontecimiento y necesita una razón para confiar de nuevo.\n\nPrimer indicio: Dos objetos supuestamente idénticos muestran reparaciones hechas por manos distintas. El grupo puede empezar por lo siguiente: Seguir la corriente, comparar procedencias o preguntar a quienes recogieron los primeros hallazgos.",
+      "abilities": [
+        "Para el DM: Su silencio puede superarse con protección o un acuerdo; una amenaza también podría hacer que se marche.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-02-03",
+      "kind": "story",
+      "mission": "main",
+      "name": "El río devuelto — el encargo",
+      "description": "Un río comienza a devolver herramientas, cartas y monedas perdidas años atrás. Los primeros hallazgos alegran a la ribera, hasta que aparecen pertenencias de personas que todavía las llevan consigo.\n\nDos responsables ofrecen el mismo encargo con condiciones incompatibles. Ambos poseen una parte verificable de la información y ninguno puede resolver por sí solo el problema.\n\nPrimer indicio: Dos objetos supuestamente idénticos muestran reparaciones hechas por manos distintas. El grupo puede empezar por lo siguiente: Seguir la corriente, comparar procedencias o preguntar a quienes recogieron los primeros hallazgos.",
+      "abilities": [
+        "Para el DM: Aceptar un encargo no obliga a obedecer todas sus condiciones; negociar límites permite conservar otra vía de ayuda.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-02-04",
+      "kind": "story",
+      "mission": "main",
+      "name": "El río devuelto — la pista heredada",
+      "description": "Un río comienza a devolver herramientas, cartas y monedas perdidas años atrás. Los primeros hallazgos alegran a la ribera, hasta que aparecen pertenencias de personas que todavía las llevan consigo.\n\nUna pertenencia de alguien ausente relaciona a un personaje o aliado con lo ocurrido. Su procedencia puede confirmarse sin decidir de antemano qué sabía su antiguo dueño.\n\nPrimer indicio: Dos objetos supuestamente idénticos muestran reparaciones hechas por manos distintas. El grupo puede empezar por lo siguiente: Seguir la corriente, comparar procedencias o preguntar a quienes recogieron los primeros hallazgos.",
+      "abilities": [
+        "Para el DM: El vínculo sirve para personalizar la investigación, sin imponer recuerdos ni culpas al personaje.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-02-05",
+      "kind": "story",
+      "mission": "main",
+      "name": "El río devuelto — el plazo",
+      "description": "Un río comienza a devolver herramientas, cartas y monedas perdidas años atrás. Los primeros hallazgos alegran a la ribera, hasta que aparecen pertenencias de personas que todavía las llevan consigo.\n\nUna decisión pública está prevista para el día siguiente y puede destruir una pista o cerrar un acceso. Los personajes saben qué cambiará, aunque todavía no conocen quién se beneficiará.\n\nPrimer indicio: Dos objetos supuestamente idénticos muestran reparaciones hechas por manos distintas. El grupo puede empezar por lo siguiente: Seguir la corriente, comparar procedencias o preguntar a quienes recogieron los primeros hallazgos.",
+      "abilities": [
+        "Para el DM: El plazo debe avanzar de forma visible; si termina, traslada la información a otro testigo en lugar de cerrar la aventura.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-02-06",
+      "kind": "story",
+      "mission": "main",
+      "name": "El río devuelto — la ayuda rival",
+      "description": "Un río comienza a devolver herramientas, cartas y monedas perdidas años atrás. Los primeros hallazgos alegran a la ribera, hasta que aparecen pertenencias de personas que todavía las llevan consigo.\n\nOtro grupo intenta intervenir y ya ha obtenido una pista diferente. Sus integrantes prefieren una solución rápida, pero pueden cooperar si se reconoce su trabajo y se acuerdan responsabilidades.\n\nPrimer indicio: Dos objetos supuestamente idénticos muestran reparaciones hechas por manos distintas. El grupo puede empezar por lo siguiente: Seguir la corriente, comparar procedencias o preguntar a quienes recogieron los primeros hallazgos.",
+      "abilities": [
+        "Para el DM: La rivalidad puede ser profesional o personal; no hace falta convertirla en violencia para que tenga consecuencias.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-02-07",
+      "kind": "story",
+      "mission": "main",
+      "name": "El río devuelto — la falsa explicación",
+      "description": "Un río comienza a devolver herramientas, cartas y monedas perdidas años atrás. Los primeros hallazgos alegran a la ribera, hasta que aparecen pertenencias de personas que todavía las llevan consigo.\n\nCircula una explicación sencilla que culpa a alguien vulnerable. Un detalle comprobable no encaja con ella, aunque las autoridades consideran más cómodo dar el asunto por resuelto.\n\nPrimer indicio: Dos objetos supuestamente idénticos muestran reparaciones hechas por manos distintas. El grupo puede empezar por lo siguiente: Seguir la corriente, comparar procedencias o preguntar a quienes recogieron los primeros hallazgos.",
+      "abilities": [
+        "Para el DM: Refutar el rumor protege a un inocente y puede revelar por qué alguien necesita una respuesta inmediata.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-02-08",
+      "kind": "story",
+      "mission": "main",
+      "name": "El río devuelto — la repetición",
+      "description": "Un río comienza a devolver herramientas, cartas y monedas perdidas años atrás. Los primeros hallazgos alegran a la ribera, hasta que aparecen pertenencias de personas que todavía las llevan consigo.\n\nUna persona mayor recuerda un episodio parecido y conserva un detalle que no figura en la versión popular. El pasado ofrece una comparación útil, pero no demuestra que el responsable sea el mismo.\n\nPrimer indicio: Dos objetos supuestamente idénticos muestran reparaciones hechas por manos distintas. El grupo puede empezar por lo siguiente: Seguir la corriente, comparar procedencias o preguntar a quienes recogieron los primeros hallazgos.",
+      "abilities": [
+        "Para el DM: Relaciona ambos episodios mediante una práctica o un recurso; permite que una diferencia descarte la explicación anterior.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-02-09",
+      "kind": "story",
+      "mission": "main",
+      "name": "El río devuelto — el coste",
+      "description": "Un río comienza a devolver herramientas, cartas y monedas perdidas años atrás. Los primeros hallazgos alegran a la ribera, hasta que aparecen pertenencias de personas que todavía las llevan consigo.\n\nLa comunidad puede contener temporalmente el problema si sacrifica un recurso compartido. Quienes dependen de ese recurso piden que se investigue antes de aceptar una pérdida permanente.\n\nPrimer indicio: Dos objetos supuestamente idénticos muestran reparaciones hechas por manos distintas. El grupo puede empezar por lo siguiente: Seguir la corriente, comparar procedencias o preguntar a quienes recogieron los primeros hallazgos.",
+      "abilities": [
+        "Para el DM: Explica el coste antes de decidir y permite medidas parciales, reparto de cargas o una ruta alternativa.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-02-10",
+      "kind": "story",
+      "mission": "main",
+      "name": "El río devuelto — la visita",
+      "description": "Un río comienza a devolver herramientas, cartas y monedas perdidas años atrás. Los primeros hallazgos alegran a la ribera, hasta que aparecen pertenencias de personas que todavía las llevan consigo.\n\nLos personajes presencian una nueva manifestación al llegar. Pueden atender a una persona afectada o seguir un rastro que se debilita; ninguna de las dos elecciones elimina toda posibilidad de continuar.\n\nPrimer indicio: Dos objetos supuestamente idénticos muestran reparaciones hechas por manos distintas. El grupo puede empezar por lo siguiente: Seguir la corriente, comparar procedencias o preguntar a quienes recogieron los primeros hallazgos.",
+      "abilities": [
+        "Para el DM: La ayuda inmediata gana un aliado; seguir el rastro obtiene otra perspectiva. Conserva una pista accesible en la opción restante.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-03-01",
+      "kind": "story",
+      "mission": "main",
+      "name": "La caravana detenida — la petición",
+      "description": "Una caravana permanece ante una barrera que nadie recuerda haber construido. Cada intento de rodearla conduce al mismo lugar, mientras los suministros empiezan a provocar discusiones entre viajeros.\n\nUna persona afectada pide ayuda en privado porque teme que una denuncia pública cierre la única vía de investigación. Ofrece acceso a un lugar o documento, no una recompensa que pueda garantizar.\n\nPrimer indicio: Una rueda conserva barro de un terreno distinto al que rodea el campamento. El grupo puede empezar por lo siguiente: Examinar los desvíos y escuchar a quienes tomaron rutas diferentes antes de llegar.",
+      "abilities": [
+        "Para el DM: Dar prioridad a esa persona puede abrir una entrada discreta, pero exige acordar qué información puede compartirse.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-03-02",
+      "kind": "story",
+      "mission": "main",
+      "name": "La caravana detenida — el testigo",
+      "description": "Una caravana permanece ante una barrera que nadie recuerda haber construido. Cada intento de rodearla conduce al mismo lugar, mientras los suministros empiezan a provocar discusiones entre viajeros.\n\nUn testigo llega con un relato incompleto y reconoce haber ocultado un detalle para proteger a otra persona. No conoce el origen del acontecimiento y necesita una razón para confiar de nuevo.\n\nPrimer indicio: Una rueda conserva barro de un terreno distinto al que rodea el campamento. El grupo puede empezar por lo siguiente: Examinar los desvíos y escuchar a quienes tomaron rutas diferentes antes de llegar.",
+      "abilities": [
+        "Para el DM: Su silencio puede superarse con protección o un acuerdo; una amenaza también podría hacer que se marche.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-03-03",
+      "kind": "story",
+      "mission": "main",
+      "name": "La caravana detenida — el encargo",
+      "description": "Una caravana permanece ante una barrera que nadie recuerda haber construido. Cada intento de rodearla conduce al mismo lugar, mientras los suministros empiezan a provocar discusiones entre viajeros.\n\nDos responsables ofrecen el mismo encargo con condiciones incompatibles. Ambos poseen una parte verificable de la información y ninguno puede resolver por sí solo el problema.\n\nPrimer indicio: Una rueda conserva barro de un terreno distinto al que rodea el campamento. El grupo puede empezar por lo siguiente: Examinar los desvíos y escuchar a quienes tomaron rutas diferentes antes de llegar.",
+      "abilities": [
+        "Para el DM: Aceptar un encargo no obliga a obedecer todas sus condiciones; negociar límites permite conservar otra vía de ayuda.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-03-04",
+      "kind": "story",
+      "mission": "main",
+      "name": "La caravana detenida — la pista heredada",
+      "description": "Una caravana permanece ante una barrera que nadie recuerda haber construido. Cada intento de rodearla conduce al mismo lugar, mientras los suministros empiezan a provocar discusiones entre viajeros.\n\nUna pertenencia de alguien ausente relaciona a un personaje o aliado con lo ocurrido. Su procedencia puede confirmarse sin decidir de antemano qué sabía su antiguo dueño.\n\nPrimer indicio: Una rueda conserva barro de un terreno distinto al que rodea el campamento. El grupo puede empezar por lo siguiente: Examinar los desvíos y escuchar a quienes tomaron rutas diferentes antes de llegar.",
+      "abilities": [
+        "Para el DM: El vínculo sirve para personalizar la investigación, sin imponer recuerdos ni culpas al personaje.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-03-05",
+      "kind": "story",
+      "mission": "main",
+      "name": "La caravana detenida — el plazo",
+      "description": "Una caravana permanece ante una barrera que nadie recuerda haber construido. Cada intento de rodearla conduce al mismo lugar, mientras los suministros empiezan a provocar discusiones entre viajeros.\n\nUna decisión pública está prevista para el día siguiente y puede destruir una pista o cerrar un acceso. Los personajes saben qué cambiará, aunque todavía no conocen quién se beneficiará.\n\nPrimer indicio: Una rueda conserva barro de un terreno distinto al que rodea el campamento. El grupo puede empezar por lo siguiente: Examinar los desvíos y escuchar a quienes tomaron rutas diferentes antes de llegar.",
+      "abilities": [
+        "Para el DM: El plazo debe avanzar de forma visible; si termina, traslada la información a otro testigo en lugar de cerrar la aventura.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-03-06",
+      "kind": "story",
+      "mission": "main",
+      "name": "La caravana detenida — la ayuda rival",
+      "description": "Una caravana permanece ante una barrera que nadie recuerda haber construido. Cada intento de rodearla conduce al mismo lugar, mientras los suministros empiezan a provocar discusiones entre viajeros.\n\nOtro grupo intenta intervenir y ya ha obtenido una pista diferente. Sus integrantes prefieren una solución rápida, pero pueden cooperar si se reconoce su trabajo y se acuerdan responsabilidades.\n\nPrimer indicio: Una rueda conserva barro de un terreno distinto al que rodea el campamento. El grupo puede empezar por lo siguiente: Examinar los desvíos y escuchar a quienes tomaron rutas diferentes antes de llegar.",
+      "abilities": [
+        "Para el DM: La rivalidad puede ser profesional o personal; no hace falta convertirla en violencia para que tenga consecuencias.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-03-07",
+      "kind": "story",
+      "mission": "main",
+      "name": "La caravana detenida — la falsa explicación",
+      "description": "Una caravana permanece ante una barrera que nadie recuerda haber construido. Cada intento de rodearla conduce al mismo lugar, mientras los suministros empiezan a provocar discusiones entre viajeros.\n\nCircula una explicación sencilla que culpa a alguien vulnerable. Un detalle comprobable no encaja con ella, aunque las autoridades consideran más cómodo dar el asunto por resuelto.\n\nPrimer indicio: Una rueda conserva barro de un terreno distinto al que rodea el campamento. El grupo puede empezar por lo siguiente: Examinar los desvíos y escuchar a quienes tomaron rutas diferentes antes de llegar.",
+      "abilities": [
+        "Para el DM: Refutar el rumor protege a un inocente y puede revelar por qué alguien necesita una respuesta inmediata.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-03-08",
+      "kind": "story",
+      "mission": "main",
+      "name": "La caravana detenida — la repetición",
+      "description": "Una caravana permanece ante una barrera que nadie recuerda haber construido. Cada intento de rodearla conduce al mismo lugar, mientras los suministros empiezan a provocar discusiones entre viajeros.\n\nUna persona mayor recuerda un episodio parecido y conserva un detalle que no figura en la versión popular. El pasado ofrece una comparación útil, pero no demuestra que el responsable sea el mismo.\n\nPrimer indicio: Una rueda conserva barro de un terreno distinto al que rodea el campamento. El grupo puede empezar por lo siguiente: Examinar los desvíos y escuchar a quienes tomaron rutas diferentes antes de llegar.",
+      "abilities": [
+        "Para el DM: Relaciona ambos episodios mediante una práctica o un recurso; permite que una diferencia descarte la explicación anterior.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-03-09",
+      "kind": "story",
+      "mission": "main",
+      "name": "La caravana detenida — el coste",
+      "description": "Una caravana permanece ante una barrera que nadie recuerda haber construido. Cada intento de rodearla conduce al mismo lugar, mientras los suministros empiezan a provocar discusiones entre viajeros.\n\nLa comunidad puede contener temporalmente el problema si sacrifica un recurso compartido. Quienes dependen de ese recurso piden que se investigue antes de aceptar una pérdida permanente.\n\nPrimer indicio: Una rueda conserva barro de un terreno distinto al que rodea el campamento. El grupo puede empezar por lo siguiente: Examinar los desvíos y escuchar a quienes tomaron rutas diferentes antes de llegar.",
+      "abilities": [
+        "Para el DM: Explica el coste antes de decidir y permite medidas parciales, reparto de cargas o una ruta alternativa.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-03-10",
+      "kind": "story",
+      "mission": "main",
+      "name": "La caravana detenida — la visita",
+      "description": "Una caravana permanece ante una barrera que nadie recuerda haber construido. Cada intento de rodearla conduce al mismo lugar, mientras los suministros empiezan a provocar discusiones entre viajeros.\n\nLos personajes presencian una nueva manifestación al llegar. Pueden atender a una persona afectada o seguir un rastro que se debilita; ninguna de las dos elecciones elimina toda posibilidad de continuar.\n\nPrimer indicio: Una rueda conserva barro de un terreno distinto al que rodea el campamento. El grupo puede empezar por lo siguiente: Examinar los desvíos y escuchar a quienes tomaron rutas diferentes antes de llegar.",
+      "abilities": [
+        "Para el DM: La ayuda inmediata gana un aliado; seguir el rastro obtiene otra perspectiva. Conserva una pista accesible en la opción restante.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-04-01",
+      "kind": "story",
+      "mission": "main",
+      "name": "El bosque que reclama — la petición",
+      "description": "En una noche, raíces nuevas invaden varios edificios. No dañan las viviendas más pobres, pero rodean almacenes y oficinas; sus propietarios exigen una tala inmediata antes de que se examine el patrón.\n\nUna persona afectada pide ayuda en privado porque teme que una denuncia pública cierre la única vía de investigación. Ofrece acceso a un lugar o documento, no una recompensa que pueda garantizar.\n\nPrimer indicio: Una raíz aprisiona una tablilla con una antigua cesión de tierras. El grupo puede empezar por lo siguiente: Revisar los límites anteriores y hablar con quienes conocen las costumbres del bosque.",
+      "abilities": [
+        "Para el DM: Dar prioridad a esa persona puede abrir una entrada discreta, pero exige acordar qué información puede compartirse.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-04-02",
+      "kind": "story",
+      "mission": "main",
+      "name": "El bosque que reclama — el testigo",
+      "description": "En una noche, raíces nuevas invaden varios edificios. No dañan las viviendas más pobres, pero rodean almacenes y oficinas; sus propietarios exigen una tala inmediata antes de que se examine el patrón.\n\nUn testigo llega con un relato incompleto y reconoce haber ocultado un detalle para proteger a otra persona. No conoce el origen del acontecimiento y necesita una razón para confiar de nuevo.\n\nPrimer indicio: Una raíz aprisiona una tablilla con una antigua cesión de tierras. El grupo puede empezar por lo siguiente: Revisar los límites anteriores y hablar con quienes conocen las costumbres del bosque.",
+      "abilities": [
+        "Para el DM: Su silencio puede superarse con protección o un acuerdo; una amenaza también podría hacer que se marche.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-04-03",
+      "kind": "story",
+      "mission": "main",
+      "name": "El bosque que reclama — el encargo",
+      "description": "En una noche, raíces nuevas invaden varios edificios. No dañan las viviendas más pobres, pero rodean almacenes y oficinas; sus propietarios exigen una tala inmediata antes de que se examine el patrón.\n\nDos responsables ofrecen el mismo encargo con condiciones incompatibles. Ambos poseen una parte verificable de la información y ninguno puede resolver por sí solo el problema.\n\nPrimer indicio: Una raíz aprisiona una tablilla con una antigua cesión de tierras. El grupo puede empezar por lo siguiente: Revisar los límites anteriores y hablar con quienes conocen las costumbres del bosque.",
+      "abilities": [
+        "Para el DM: Aceptar un encargo no obliga a obedecer todas sus condiciones; negociar límites permite conservar otra vía de ayuda.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-04-04",
+      "kind": "story",
+      "mission": "main",
+      "name": "El bosque que reclama — la pista heredada",
+      "description": "En una noche, raíces nuevas invaden varios edificios. No dañan las viviendas más pobres, pero rodean almacenes y oficinas; sus propietarios exigen una tala inmediata antes de que se examine el patrón.\n\nUna pertenencia de alguien ausente relaciona a un personaje o aliado con lo ocurrido. Su procedencia puede confirmarse sin decidir de antemano qué sabía su antiguo dueño.\n\nPrimer indicio: Una raíz aprisiona una tablilla con una antigua cesión de tierras. El grupo puede empezar por lo siguiente: Revisar los límites anteriores y hablar con quienes conocen las costumbres del bosque.",
+      "abilities": [
+        "Para el DM: El vínculo sirve para personalizar la investigación, sin imponer recuerdos ni culpas al personaje.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-04-05",
+      "kind": "story",
+      "mission": "main",
+      "name": "El bosque que reclama — el plazo",
+      "description": "En una noche, raíces nuevas invaden varios edificios. No dañan las viviendas más pobres, pero rodean almacenes y oficinas; sus propietarios exigen una tala inmediata antes de que se examine el patrón.\n\nUna decisión pública está prevista para el día siguiente y puede destruir una pista o cerrar un acceso. Los personajes saben qué cambiará, aunque todavía no conocen quién se beneficiará.\n\nPrimer indicio: Una raíz aprisiona una tablilla con una antigua cesión de tierras. El grupo puede empezar por lo siguiente: Revisar los límites anteriores y hablar con quienes conocen las costumbres del bosque.",
+      "abilities": [
+        "Para el DM: El plazo debe avanzar de forma visible; si termina, traslada la información a otro testigo en lugar de cerrar la aventura.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-04-06",
+      "kind": "story",
+      "mission": "main",
+      "name": "El bosque que reclama — la ayuda rival",
+      "description": "En una noche, raíces nuevas invaden varios edificios. No dañan las viviendas más pobres, pero rodean almacenes y oficinas; sus propietarios exigen una tala inmediata antes de que se examine el patrón.\n\nOtro grupo intenta intervenir y ya ha obtenido una pista diferente. Sus integrantes prefieren una solución rápida, pero pueden cooperar si se reconoce su trabajo y se acuerdan responsabilidades.\n\nPrimer indicio: Una raíz aprisiona una tablilla con una antigua cesión de tierras. El grupo puede empezar por lo siguiente: Revisar los límites anteriores y hablar con quienes conocen las costumbres del bosque.",
+      "abilities": [
+        "Para el DM: La rivalidad puede ser profesional o personal; no hace falta convertirla en violencia para que tenga consecuencias.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-04-07",
+      "kind": "story",
+      "mission": "main",
+      "name": "El bosque que reclama — la falsa explicación",
+      "description": "En una noche, raíces nuevas invaden varios edificios. No dañan las viviendas más pobres, pero rodean almacenes y oficinas; sus propietarios exigen una tala inmediata antes de que se examine el patrón.\n\nCircula una explicación sencilla que culpa a alguien vulnerable. Un detalle comprobable no encaja con ella, aunque las autoridades consideran más cómodo dar el asunto por resuelto.\n\nPrimer indicio: Una raíz aprisiona una tablilla con una antigua cesión de tierras. El grupo puede empezar por lo siguiente: Revisar los límites anteriores y hablar con quienes conocen las costumbres del bosque.",
+      "abilities": [
+        "Para el DM: Refutar el rumor protege a un inocente y puede revelar por qué alguien necesita una respuesta inmediata.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-04-08",
+      "kind": "story",
+      "mission": "main",
+      "name": "El bosque que reclama — la repetición",
+      "description": "En una noche, raíces nuevas invaden varios edificios. No dañan las viviendas más pobres, pero rodean almacenes y oficinas; sus propietarios exigen una tala inmediata antes de que se examine el patrón.\n\nUna persona mayor recuerda un episodio parecido y conserva un detalle que no figura en la versión popular. El pasado ofrece una comparación útil, pero no demuestra que el responsable sea el mismo.\n\nPrimer indicio: Una raíz aprisiona una tablilla con una antigua cesión de tierras. El grupo puede empezar por lo siguiente: Revisar los límites anteriores y hablar con quienes conocen las costumbres del bosque.",
+      "abilities": [
+        "Para el DM: Relaciona ambos episodios mediante una práctica o un recurso; permite que una diferencia descarte la explicación anterior.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-04-09",
+      "kind": "story",
+      "mission": "main",
+      "name": "El bosque que reclama — el coste",
+      "description": "En una noche, raíces nuevas invaden varios edificios. No dañan las viviendas más pobres, pero rodean almacenes y oficinas; sus propietarios exigen una tala inmediata antes de que se examine el patrón.\n\nLa comunidad puede contener temporalmente el problema si sacrifica un recurso compartido. Quienes dependen de ese recurso piden que se investigue antes de aceptar una pérdida permanente.\n\nPrimer indicio: Una raíz aprisiona una tablilla con una antigua cesión de tierras. El grupo puede empezar por lo siguiente: Revisar los límites anteriores y hablar con quienes conocen las costumbres del bosque.",
+      "abilities": [
+        "Para el DM: Explica el coste antes de decidir y permite medidas parciales, reparto de cargas o una ruta alternativa.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-04-10",
+      "kind": "story",
+      "mission": "main",
+      "name": "El bosque que reclama — la visita",
+      "description": "En una noche, raíces nuevas invaden varios edificios. No dañan las viviendas más pobres, pero rodean almacenes y oficinas; sus propietarios exigen una tala inmediata antes de que se examine el patrón.\n\nLos personajes presencian una nueva manifestación al llegar. Pueden atender a una persona afectada o seguir un rastro que se debilita; ninguna de las dos elecciones elimina toda posibilidad de continuar.\n\nPrimer indicio: Una raíz aprisiona una tablilla con una antigua cesión de tierras. El grupo puede empezar por lo siguiente: Revisar los límites anteriores y hablar con quienes conocen las costumbres del bosque.",
+      "abilities": [
+        "Para el DM: La ayuda inmediata gana un aliado; seguir el rastro obtiene otra perspectiva. Conserva una pista accesible en la opción restante.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-05-01",
+      "kind": "story",
+      "mission": "main",
+      "name": "Los pozos sellados — la petición",
+      "description": "Los pozos de una comarca aparecen cerrados con sellos desconocidos. Romperlos devuelve agua por unas horas, pero después el pozo vecino queda vacío y sus usuarios culpan al pueblo más cercano.\n\nUna persona afectada pide ayuda en privado porque teme que una denuncia pública cierre la única vía de investigación. Ofrece acceso a un lugar o documento, no una recompensa que pueda garantizar.\n\nPrimer indicio: El orden de los cierres sigue una ruta antigua que ya no aparece en los mapas recientes. El grupo puede empezar por lo siguiente: Comparar fechas, reunir a los afectados y buscar el punto donde comenzó la interrupción.",
+      "abilities": [
+        "Para el DM: Dar prioridad a esa persona puede abrir una entrada discreta, pero exige acordar qué información puede compartirse.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-05-02",
+      "kind": "story",
+      "mission": "main",
+      "name": "Los pozos sellados — el testigo",
+      "description": "Los pozos de una comarca aparecen cerrados con sellos desconocidos. Romperlos devuelve agua por unas horas, pero después el pozo vecino queda vacío y sus usuarios culpan al pueblo más cercano.\n\nUn testigo llega con un relato incompleto y reconoce haber ocultado un detalle para proteger a otra persona. No conoce el origen del acontecimiento y necesita una razón para confiar de nuevo.\n\nPrimer indicio: El orden de los cierres sigue una ruta antigua que ya no aparece en los mapas recientes. El grupo puede empezar por lo siguiente: Comparar fechas, reunir a los afectados y buscar el punto donde comenzó la interrupción.",
+      "abilities": [
+        "Para el DM: Su silencio puede superarse con protección o un acuerdo; una amenaza también podría hacer que se marche.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-05-03",
+      "kind": "story",
+      "mission": "main",
+      "name": "Los pozos sellados — el encargo",
+      "description": "Los pozos de una comarca aparecen cerrados con sellos desconocidos. Romperlos devuelve agua por unas horas, pero después el pozo vecino queda vacío y sus usuarios culpan al pueblo más cercano.\n\nDos responsables ofrecen el mismo encargo con condiciones incompatibles. Ambos poseen una parte verificable de la información y ninguno puede resolver por sí solo el problema.\n\nPrimer indicio: El orden de los cierres sigue una ruta antigua que ya no aparece en los mapas recientes. El grupo puede empezar por lo siguiente: Comparar fechas, reunir a los afectados y buscar el punto donde comenzó la interrupción.",
+      "abilities": [
+        "Para el DM: Aceptar un encargo no obliga a obedecer todas sus condiciones; negociar límites permite conservar otra vía de ayuda.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-05-04",
+      "kind": "story",
+      "mission": "main",
+      "name": "Los pozos sellados — la pista heredada",
+      "description": "Los pozos de una comarca aparecen cerrados con sellos desconocidos. Romperlos devuelve agua por unas horas, pero después el pozo vecino queda vacío y sus usuarios culpan al pueblo más cercano.\n\nUna pertenencia de alguien ausente relaciona a un personaje o aliado con lo ocurrido. Su procedencia puede confirmarse sin decidir de antemano qué sabía su antiguo dueño.\n\nPrimer indicio: El orden de los cierres sigue una ruta antigua que ya no aparece en los mapas recientes. El grupo puede empezar por lo siguiente: Comparar fechas, reunir a los afectados y buscar el punto donde comenzó la interrupción.",
+      "abilities": [
+        "Para el DM: El vínculo sirve para personalizar la investigación, sin imponer recuerdos ni culpas al personaje.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-05-05",
+      "kind": "story",
+      "mission": "main",
+      "name": "Los pozos sellados — el plazo",
+      "description": "Los pozos de una comarca aparecen cerrados con sellos desconocidos. Romperlos devuelve agua por unas horas, pero después el pozo vecino queda vacío y sus usuarios culpan al pueblo más cercano.\n\nUna decisión pública está prevista para el día siguiente y puede destruir una pista o cerrar un acceso. Los personajes saben qué cambiará, aunque todavía no conocen quién se beneficiará.\n\nPrimer indicio: El orden de los cierres sigue una ruta antigua que ya no aparece en los mapas recientes. El grupo puede empezar por lo siguiente: Comparar fechas, reunir a los afectados y buscar el punto donde comenzó la interrupción.",
+      "abilities": [
+        "Para el DM: El plazo debe avanzar de forma visible; si termina, traslada la información a otro testigo en lugar de cerrar la aventura.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-05-06",
+      "kind": "story",
+      "mission": "main",
+      "name": "Los pozos sellados — la ayuda rival",
+      "description": "Los pozos de una comarca aparecen cerrados con sellos desconocidos. Romperlos devuelve agua por unas horas, pero después el pozo vecino queda vacío y sus usuarios culpan al pueblo más cercano.\n\nOtro grupo intenta intervenir y ya ha obtenido una pista diferente. Sus integrantes prefieren una solución rápida, pero pueden cooperar si se reconoce su trabajo y se acuerdan responsabilidades.\n\nPrimer indicio: El orden de los cierres sigue una ruta antigua que ya no aparece en los mapas recientes. El grupo puede empezar por lo siguiente: Comparar fechas, reunir a los afectados y buscar el punto donde comenzó la interrupción.",
+      "abilities": [
+        "Para el DM: La rivalidad puede ser profesional o personal; no hace falta convertirla en violencia para que tenga consecuencias.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-05-07",
+      "kind": "story",
+      "mission": "main",
+      "name": "Los pozos sellados — la falsa explicación",
+      "description": "Los pozos de una comarca aparecen cerrados con sellos desconocidos. Romperlos devuelve agua por unas horas, pero después el pozo vecino queda vacío y sus usuarios culpan al pueblo más cercano.\n\nCircula una explicación sencilla que culpa a alguien vulnerable. Un detalle comprobable no encaja con ella, aunque las autoridades consideran más cómodo dar el asunto por resuelto.\n\nPrimer indicio: El orden de los cierres sigue una ruta antigua que ya no aparece en los mapas recientes. El grupo puede empezar por lo siguiente: Comparar fechas, reunir a los afectados y buscar el punto donde comenzó la interrupción.",
+      "abilities": [
+        "Para el DM: Refutar el rumor protege a un inocente y puede revelar por qué alguien necesita una respuesta inmediata.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-05-08",
+      "kind": "story",
+      "mission": "main",
+      "name": "Los pozos sellados — la repetición",
+      "description": "Los pozos de una comarca aparecen cerrados con sellos desconocidos. Romperlos devuelve agua por unas horas, pero después el pozo vecino queda vacío y sus usuarios culpan al pueblo más cercano.\n\nUna persona mayor recuerda un episodio parecido y conserva un detalle que no figura en la versión popular. El pasado ofrece una comparación útil, pero no demuestra que el responsable sea el mismo.\n\nPrimer indicio: El orden de los cierres sigue una ruta antigua que ya no aparece en los mapas recientes. El grupo puede empezar por lo siguiente: Comparar fechas, reunir a los afectados y buscar el punto donde comenzó la interrupción.",
+      "abilities": [
+        "Para el DM: Relaciona ambos episodios mediante una práctica o un recurso; permite que una diferencia descarte la explicación anterior.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-05-09",
+      "kind": "story",
+      "mission": "main",
+      "name": "Los pozos sellados — el coste",
+      "description": "Los pozos de una comarca aparecen cerrados con sellos desconocidos. Romperlos devuelve agua por unas horas, pero después el pozo vecino queda vacío y sus usuarios culpan al pueblo más cercano.\n\nLa comunidad puede contener temporalmente el problema si sacrifica un recurso compartido. Quienes dependen de ese recurso piden que se investigue antes de aceptar una pérdida permanente.\n\nPrimer indicio: El orden de los cierres sigue una ruta antigua que ya no aparece en los mapas recientes. El grupo puede empezar por lo siguiente: Comparar fechas, reunir a los afectados y buscar el punto donde comenzó la interrupción.",
+      "abilities": [
+        "Para el DM: Explica el coste antes de decidir y permite medidas parciales, reparto de cargas o una ruta alternativa.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-05-10",
+      "kind": "story",
+      "mission": "main",
+      "name": "Los pozos sellados — la visita",
+      "description": "Los pozos de una comarca aparecen cerrados con sellos desconocidos. Romperlos devuelve agua por unas horas, pero después el pozo vecino queda vacío y sus usuarios culpan al pueblo más cercano.\n\nLos personajes presencian una nueva manifestación al llegar. Pueden atender a una persona afectada o seguir un rastro que se debilita; ninguna de las dos elecciones elimina toda posibilidad de continuar.\n\nPrimer indicio: El orden de los cierres sigue una ruta antigua que ya no aparece en los mapas recientes. El grupo puede empezar por lo siguiente: Comparar fechas, reunir a los afectados y buscar el punto donde comenzó la interrupción.",
+      "abilities": [
+        "Para el DM: La ayuda inmediata gana un aliado; seguir el rastro obtiene otra perspectiva. Conserva una pista accesible en la opción restante.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    }
+  ]
+}

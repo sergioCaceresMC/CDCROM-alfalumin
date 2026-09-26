@@ -1,0 +1,409 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "paladin-srd-imposicion-de-manos",
+      "classId": "paladin",
+      "level": 1,
+      "name": "Imposición de manos",
+      "attribute": "empatia",
+      "description": "Una vez por escena, toca a un aliado y usa tu acción para curar 2 puntos de vida. Ajusta su vida manualmente.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 81,
+        "name": "Imposición de manos"
+      }
+    },
+    {
+      "id": "paladin-srd-sentido-divino",
+      "classId": "paladin",
+      "level": 1,
+      "name": "Sentido divino",
+      "attribute": "valor",
+      "description": "Dedica una acción a percibir una presencia celestial, infernal o no muerta cercana; el master describe lo que detectas.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 81,
+        "name": "Sentido divino"
+      }
+    },
+    {
+      "id": "paladin-srd-castigo-divino",
+      "classId": "paladin",
+      "level": 2,
+      "name": "Castigo divino",
+      "attribute": "golpes",
+      "description": "Una vez por escena convierte el daño de tu ataque cuerpo a cuerpo en 1d6 radiante; no suma dados.",
+      "damage": "1d6",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 81,
+        "name": "Castigo divino"
+      }
+    },
+    {
+      "id": "paladin-srd-estilo-protector",
+      "classId": "paladin",
+      "level": 2,
+      "name": "Estilo protector",
+      "attribute": "valor",
+      "description": "Usa tu acción para cubrir a un aliado adyacente; acuerda la protección con el master.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 81,
+        "name": "Estilo protector"
+      }
+    },
+    {
+      "id": "paladin-srd-arma-sagrada",
+      "classId": "paladin",
+      "level": 3,
+      "name": "Arma sagrada",
+      "attribute": "valor",
+      "description": "Una vez por escena tu arma puede afectar criaturas que requieran daño mágico, durante un turno.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 81,
+        "name": "Arma sagrada"
+      }
+    },
+    {
+      "id": "paladin-srd-juramento-de-entrega",
+      "classId": "paladin",
+      "level": 3,
+      "name": "Juramento de entrega",
+      "attribute": "carisma",
+      "description": "Pronuncia tu juramento para intentar inspirar valor a un aliado afectado por miedo; requiere un chequeo decidido por el master.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 81,
+        "name": "Juramento de entrega"
+      }
+    },
+    {
+      "id": "paladin-srd-arma-magica",
+      "classId": "paladin",
+      "name": "Arma mágica",
+      "level": 3,
+      "attribute": "valor",
+      "description": "Inspiración: Tocas un arma no mágica. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 122,
+        "name": "Arma mágica",
+        "text": "Transmutación de nivel 2 (explorador, hechicero, mago, paladín) Tiempo de lanzamiento: Acción adicional Alcance: Toque Componentes: V, S Duración: 1 hora Tocas un arma no mágica. Hasta que el conjuro termine, esa arma se convierte en un arma mágica con un bonificador de +1 a las tiradas de ataque y de daño. El conjuro termina antes si lo vuelves a lanzar. Con un espacio de conjuro de nivel superior. El bonificador aumenta a +2 si utilizas un espacio de niveles 3 a 5. El bonificador aumenta a +3 si utilizas un espacio de nivel 6 o superior."
+      }
+    },
+    {
+      "id": "paladin-srd-auxilio",
+      "classId": "paladin",
+      "name": "Auxilio",
+      "level": 3,
+      "attribute": "valor",
+      "description": "Inspiración: Elige hasta tres criaturas dentro del alcance. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 124,
+        "name": "Auxilio",
+        "text": "Abjuración de nivel 2 (bardo, clérigo, druida, explorador, paladín) Tiempo de lanzamiento: Acción Alcance: 9 m Componentes: V, S, M (una tira de tela blanca) Duración: 8 horas Elige hasta tres criaturas dentro del alcance. Los puntos de golpe máximos y actuales de cada objetivo aumentan en 5 hasta que termine el conjuro. Con un espacio de conjuro de nivel superior. Los puntos de golpe de cada objetivo aumentan en 5 adicionales por cada nivel por encima de 2 que tenga el espacio."
+      }
+    },
+    {
+      "id": "paladin-srd-bendicion",
+      "classId": "paladin",
+      "name": "Bendición",
+      "level": 2,
+      "attribute": "valor",
+      "description": "Inspiración: Bendices hasta tres criaturas dentro del alcance. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 125,
+        "name": "Bendición",
+        "text": "Encantamiento de nivel 1 (clérigo, paladín) Tiempo de lanzamiento: Acción Alcance: 9 m Componentes: V, S, M (un símbolo sagrado que valga al menos 5 po) Duración: Concentración, hasta 1 minuto Bendices hasta tres criaturas dentro del alcance. Siempre que un objetivo haga una tirada de ataque o de salvación antes de que termine el conjuro, sumará 1d4 al resultado de dicha tirada. Con un espacio de conjuro de nivel superior. Puedes hacer objetivo a una criatura adicional por cada nivel por encima de 1 que tenga el espacio."
+      }
+    },
+    {
+      "id": "paladin-srd-castigo-abrasador",
+      "classId": "paladin",
+      "name": "Castigo abrasador",
+      "level": 2,
+      "attribute": "valor",
+      "description": "Inspiración: Al golpear al objetivo, sufre el daño adaptado de daño de fuego adicional del ataque. Adaptación: una acción, un objetivo, daño 1d4. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "damage": "1d4",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 127,
+        "name": "Castigo abrasador",
+        "text": "Evocación de nivel 1 (paladín) Tiempo de lanzamiento: Acción adicional, que realizas de inmediato tras acertar a un objetivo con un arma cuerpo a cuerpo o un ataque sin armas Alcance: Lanzador Componentes: V Duración: 1 minuto Al golpear al objetivo, sufre 1d6 de daño de fuego adicional del ataque. Al principio de cada uno de sus turnos hasta que el conjuro termine, el objetivo sufrirá 1d6 de daño de fuego y luego hará una tirada de salvación de Constitución. Si la falla, el conjuro seguirá activo. Si la supera, el conjuro terminará. Con un espacio de conjuro de nivel superior. Todo el daño aumenta en 1d6 por cada nivel por encima de 1 que tenga el espacio."
+      }
+    },
+    {
+      "id": "paladin-srd-castigo-brillante",
+      "classId": "paladin",
+      "name": "Castigo brillante",
+      "level": 3,
+      "attribute": "valor",
+      "description": "Inspiración: El objetivo del golpe recibe el daño adaptado de daño radiante adicional del ataque. Adaptación: una acción, un objetivo, daño 1d6. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "damage": "1d6",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 127,
+        "name": "Castigo brillante",
+        "text": "Transmutación de nivel 2 (paladín) Tiempo de lanzamiento: Acción adicional, que realizas de inmediato tras acertar a una criatura con un arma cuerpo a cuerpo o un ataque sin armas Alcance: Lanzador Componentes: V Duración: Concentración, hasta 1 minuto El objetivo del golpe recibe 2d6 de daño radiante adicional del ataque. Hasta que el conjuro termine, el objetivo emitirá luz brillante en un radio de 1,5 m, las tiradas de ataque contra él tendrán ventaja y no podrá beneficiarse del estado de invisible. Con un espacio de conjuro de nivel superior. El daño aumenta en 1d6 por cada nivel por encima de 2 que tenga el espacio."
+      }
+    },
+    {
+      "id": "paladin-srd-curar-heridas",
+      "classId": "paladin",
+      "name": "Curar heridas",
+      "level": 2,
+      "attribute": "valor",
+      "description": "Inspiración: Una criatura a la que toques recupera una cantidad de puntos de golpe igual a el daño adaptado más tu modificador por aptitud mágica. Adaptación: una acción, un objetivo, cura 2 puntos de vida manualmente sin superar el máximo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 138,
+        "name": "Curar heridas",
+        "text": "Abjuración de nivel 1 (bardo, clérigo, druida, explorador, paladín) Tiempo de lanzamiento: Acción Alcance: Toque Componentes: V, S Duración: Instantáneo Una criatura a la que toques recupera una cantidad de puntos de golpe igual a 2d8 más tu modificador por aptitud mágica. Con un espacio de conjuro de nivel superior. La curación aumenta en 2d8 por cada nivel por encima de 1 que tenga el espacio."
+      }
+    },
+    {
+      "id": "paladin-srd-detectar-el-bien-y-el-mal",
+      "classId": "paladin",
+      "name": "Detectar el bien y el mal",
+      "level": 2,
+      "attribute": "valor",
+      "description": "Inspiración: Hasta que el conjuro termine, percibes la ubicación de cualquier aberración, celestial, elemental, feérico, infernal o muerto viviente a una cantidad acordada m o menos de ti. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 141,
+        "name": "Detectar el bien y el mal",
+        "text": "Adivinación de nivel 1 (clérigo, paladín) Tiempo de lanzamiento: Acción Alcance: Lanzador Componentes: V, S Duración: Concentración, hasta 10 minutos Hasta que el conjuro termine, percibes la ubicación de cualquier aberración, celestial, elemental, feérico, infernal o muerto viviente a 9 m o menos de ti. También percibes si hay un conjuro consagrar activo en el espacio y su ubicación. El conjuro no puede atravesar 30 cm de piedra, tierra o madera, 2,5 cm de metal o una lámina fina de plomo."
+      }
+    },
+    {
+      "id": "paladin-srd-detectar-magia",
+      "classId": "paladin",
+      "name": "Detectar magia",
+      "level": 2,
+      "attribute": "valor",
+      "description": "Inspiración: Hasta que el conjuro termine, podrás percibir la presencia de efectos mágicos a una cantidad acordada m o menos de ti. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 141,
+        "name": "Detectar magia",
+        "text": "Adivinación de nivel 1 (bardo, brujo, clérigo, druida, explorador, hechicero, mago, paladín) Tiempo de lanzamiento: Acción o ritual Alcance: Lanzador Componentes: V, S Duración: Concentración, hasta 10 minutos Hasta que el conjuro termine, podrás percibir la presencia de efectos mágicos a 9 m o menos de ti. Si percibes alguno, puedes usar una acción de magia para ver una débil aura alrededor de cualquier objeto o criatura visible dentro de la zona que esté afectada por la magia y, si el efecto lo creó un conjuro, distingues a qué escuela mágica pertenece. El conjuro no puede atravesar 30 cm de piedra, tierra o madera, 2,5 cm de metal o una lámina fina de plomo."
+      }
+    },
+    {
+      "id": "paladin-srd-detectar-venenos-y-enfermedades",
+      "classId": "paladin",
+      "name": "Detectar venenos y enfermedades",
+      "level": 2,
+      "attribute": "valor",
+      "description": "Inspiración: Hasta que el conjuro termine, percibes la ubicación de venenos, criaturas venenosas y enfermedades mágicas a una cantidad acordada m o menos de ti, e identificas el tipo de veneno, criatura o enfermedad en cada caso. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 142,
+        "name": "Detectar venenos y enfermedades",
+        "text": "Adivinación de nivel 1 (clérigo, druida, explorador, paladín) Tiempo de lanzamiento: Acción o ritual Alcance: Lanzador Componentes: V, S, M (una hoja de tejo) Duración: Concentración, hasta 10 minutos Hasta que el conjuro termine, percibes la ubicación de venenos, criaturas venenosas y enfermedades mágicas a 9 m o menos de ti, e identificas el tipo de veneno, criatura o enfermedad en cada caso. El conjuro no puede atravesar 30 cm de piedra, tierra o madera, 2,5 cm de metal o una lámina fina de plomo."
+      }
+    },
+    {
+      "id": "paladin-srd-dulce-descanso",
+      "classId": "paladin",
+      "name": "Dulce descanso",
+      "level": 3,
+      "attribute": "valor",
+      "description": "Inspiración: Tocas un cadáver u otro tipo de restos mortales. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 144,
+        "name": "Dulce descanso",
+        "text": "Nigromancia de nivel 2 (clérigo, mago, paladín) Tiempo de lanzamiento: Acción o ritual Alcance: Toque Componentes: V, S, M (2 piezas de cobre, que se consumen como parte del conjuro) Duración: 10 días Tocas un cadáver u otro tipo de restos mortales. Hasta que termine el conjuro, el objetivo está protegido de la descomposición y no se puede convertir en un muerto viviente. El conjuro también amplía el tiempo máximo para resucitar al objetivo, ya que los días que pasa bajo su influencia no cuentan para el límite de tiempo de conjuros como alzar a los muertos."
+      }
+    },
+    {
+      "id": "paladin-srd-escudo-de-fe",
+      "classId": "paladin",
+      "name": "Escudo de fe",
+      "level": 2,
+      "attribute": "valor",
+      "description": "Inspiración: Un campo titilante envuelve a una criatura de tu elección dentro del alcance y le otorga un bonificador de +una cantidad acordada a la CA hasta que el conjuro termine. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 146,
+        "name": "Escudo de fe",
+        "text": "Abjuración de nivel 1 (clérigo, paladín) Tiempo de lanzamiento: Acción adicional Alcance: 18 m Componentes: V, S, M (un pergamino de plegarias) Duración: Concentración, hasta 10 minutos Un campo titilante envuelve a una criatura de tu elección dentro del alcance y le otorga un bonificador de +2 a la CA hasta que el conjuro termine."
+      }
+    },
+    {
+      "id": "paladin-srd-favor-divino",
+      "classId": "paladin",
+      "name": "Favor divino",
+      "level": 2,
+      "attribute": "valor",
+      "description": "Inspiración: Hasta que el conjuro termine, tus ataques con armas infligen el daño adaptado de daño radiante adicional si aciertan. Adaptación: una acción, un objetivo, daño 1d4. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "damage": "1d4",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 150,
+        "name": "Favor divino",
+        "text": "Transmutación de nivel 1 (paladín) Tiempo de lanzamiento: Acción adicional Alcance: Lanzador Componentes: V, S Duración: 1 minuto Hasta que el conjuro termine, tus ataques con armas infligen 1d4 de daño radiante adicional si aciertan."
+      }
+    },
+    {
+      "id": "paladin-srd-hallar-corcel",
+      "classId": "paladin",
+      "name": "Hallar corcel",
+      "level": 3,
+      "attribute": "valor",
+      "description": "Inspiración: Invocas un ser sobrenatural que asume la forma de un corcel fiel en un espacio sin ocupar de tu elección dentro del alcance. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 155,
+        "name": "Hallar corcel",
+        "text": "Conjuración de nivel 2 (paladín) Tiempo de lanzamiento: Acción Alcance: 9 m Componentes: V, S Duración: Instantáneo Invocas un ser sobrenatural que asume la forma de un corcel fiel en un espacio sin ocupar de tu elección dentro del alcance. La criatura utiliza el perfil del corcel sobrenatural. Si ya tienes un corcel gracias a este conjuro, se sustituirá por el nuevo. El corcel se parece a un animal Grande que puedas montar de tu elección, como un caballo, un alce, un camello o un lobo terrible. Siempre que lances el conjuro, elige el tipo de criatura del corcel ( celestial, feérico o infernal), lo que determinará ciertos atributos de su perfil. Combate. El corcel se considera un aliado para tus aliados y para ti. En combate, la criatura comparte tu orden de iniciativa y funciona como una montura controlada mientras vayas sobre ella (como se describe en las normas del combate montado). Si tienes el estado de incapacitado, su turno irá justo después del tuyo, actuará con independencia de ti y se centrará en protegerte. Desaparición del corcel. El corcel desaparece si sus puntos de golpe se reducen a 0 o si mueres. Cuando desaparece, deja atrás todo lo que vistiera o llevase. Si vuelves a lanzar este conjuro, decides si invocas al corcel que desapareció u otro distinto. Con un espacio de conjuro de nivel superior. Usa el nivel del espacio de conjuro para determinar el nivel del conjuro en el perfil. Corcel sobrenatural Celestial, feérico o infernal Grande (a tu elección), neutral CA: 10 + 1 por cada nivel del conjuro PG: 5 + 10 por cada nivel del conjuro (el corcel tiene una cantidad de dados de golpe [d10] igual al nivel del conjuro) Velocidad: 18 m, volar 18 m (requiere un conjuro de nivel 4 o superior) MOD. SALV. MOD. SALV. MOD. SALV. Fue 18 +4 +4 Des 12 +1 +1 Con 14 +2 +2 Int 6 −2 −2 s ab 12 +1 +1 Car 8 −1 −1 Sentidos: Percepción pasiva 11 Idiomas: telepatía 1,5 km (solo funciona contigo) VD: ninguno (0 PX; BC igual a tu bonificador por competencia)"
+      }
+    },
+    {
+      "id": "paladin-srd-heroismo",
+      "classId": "paladin",
+      "name": "Heroísmo",
+      "level": 2,
+      "attribute": "valor",
+      "description": "Inspiración: Insuflas valor a una criatura voluntaria a la que toques. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 156,
+        "name": "Heroísmo",
+        "text": "Encantamiento de nivel 1 (bardo, paladín) Tiempo de lanzamiento: Acción Alcance: Toque Componentes: V, S Duración: Concentración, hasta 1 minuto Insuflas valor a una criatura voluntaria a la que toques. Hasta que el conjuro termine, la criatura es inmune al estado de asustada y obtiene una cantidad de puntos de golpe temporales igual a tu modificador por aptitud mágica al principio de cada uno de sus turnos. Con un espacio de conjuro de nivel superior. Puedes hacer objetivo a una criatura adicional por cada nivel por encima de 1 que tenga el espacio."
+      }
+    },
+    {
+      "id": "paladin-srd-localizar-objeto",
+      "classId": "paladin",
+      "name": "Localizar objeto",
+      "level": 3,
+      "attribute": "valor",
+      "description": "Inspiración: Describe o nombra un objeto que conozcas. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 162,
+        "name": "Localizar objeto",
+        "text": "Adivinación de nivel 2 (bardo, clérigo, druida, explorador, mago, paladín) Tiempo de lanzamiento: Acción Alcance: Lanzador Componentes: V, S, M (una ramita con forma de horquilla) Duración: Concentración, hasta 10 minutos Describe o nombra un objeto que conozcas. Presientes la dirección en la que se encuentra dicho objeto si está a 300 m o menos de ti. Si el objeto se está moviendo, conoces la dirección de su movimiento. El conjuro puede localizar un objeto específico que conozcas si lo has visto de cerca (a 9 m o menos) al menos una vez. Como alternativa, el conjuro puede localizar el objeto más cercano de un tipo particular, como un cierto tipo de ropa, joyas, muebles, herramientas o armas. El conjuro no puede localizar un objeto si hay cualquier grosor de plomo que bloquee una ruta directa entre dicho objeto y tú."
+      }
+    },
+    {
+      "id": "paladin-srd-orden-imperiosa",
+      "classId": "paladin",
+      "name": "Orden imperiosa",
+      "level": 2,
+      "attribute": "valor",
+      "description": "Inspiración: Das una orden de una sola palabra a una criatura que puedas ver dentro del alcance. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 171,
+        "name": "Orden imperiosa",
+        "text": "Encantamiento de nivel 1 (bardo, clérigo, paladín) Tiempo de lanzamiento: Acción Alcance: 18 m Componentes: V Duración: Instantáneo Das una orden de una sola palabra a una criatura que puedas ver dentro del alcance. El objetivo debe superar una tirada de salvación de Sabiduría o verse obligado a obedecer la orden en su próximo turno. Elige una de las siguientes órdenes: Acércate. El objetivo se acerca a ti por la ruta más corta y directa posible, y su turno acaba si se sitúa a 1,5 m o menos de ti. Detente. En su turno, el objetivo no se mueve y no usa acciones ni acciones adicionales. Huye. El objetivo emplea su turno en alejarse de ti de la manera más rápida posible. Póstrate. El objetivo adopta el estado de derribado y termina su turno. Suelta. El objetivo suelta lo que sea que esté sujetando y acaba su turno. Con un espacio de conjuro de nivel superior. Puedes afectar a una criatura adicional por cada nivel por encima de 1 que tenga el espacio."
+      }
+    },
+    {
+      "id": "paladin-srd-plegaria-de-curacion",
+      "classId": "paladin",
+      "name": "Plegaria de curación",
+      "level": 3,
+      "attribute": "valor",
+      "description": "Inspiración: Hasta cinco criaturas de tu elección que permanezcan dentro del alcance del conjuro durante todo su lanzamiento obtienen los beneficios de un descanso corto y también recuperan el daño adaptado puntos de golpe. Adaptación: una acción, un objetivo, cura 3 puntos de vida manualmente sin superar el máximo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 174,
+        "name": "Plegaria de curación",
+        "text": "Abjuración de nivel 2 (clérigo, paladín) Tiempo de lanzamiento: 10 minutos Alcance: 9 m Componentes: V Duración: Instantáneo Hasta cinco criaturas de tu elección que permanezcan dentro del alcance del conjuro durante todo su lanzamiento obtienen los beneficios de un descanso corto y también recuperan 2d8 puntos de golpe. Las criaturas no pueden volver a beneficiarse de este conjuro hasta que finalicen un descanso largo. Con un espacio de conjuro de nivel superior. La curación aumenta en 1d8 por cada nivel por encima de 2 que tenga el espacio."
+      }
+    },
+    {
+      "id": "paladin-srd-proteccion-contra-el-bien-y-el-mal",
+      "classId": "paladin",
+      "name": "Protección contra el bien y el mal",
+      "level": 2,
+      "attribute": "valor",
+      "description": "Inspiración: Hasta que el conjuro termine, una criatura voluntaria a la que toques estará protegida contra aberraciones, celestiales, elementales, feéricos, infernales o muertos vivientes. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 176,
+        "name": "Protección contra el bien y el mal",
+        "text": "Abjuración de nivel 1 (brujo, clérigo, druida, mago, paladín) Tiempo de lanzamiento: Acción Alcance: Toque Componentes: V, S, M (un frasco de agua bendita que valga al menos 25 po, que se consume como parte del conjuro) Duración: Concentración, hasta 10 minutos Hasta que el conjuro termine, una criatura voluntaria a la que toques estará protegida contra aberraciones, celestiales, elementales, feéricos, infernales o muertos vivientes. La protección concede varios beneficios. Las criaturas de esos tipos tendrán desventaja en las tiradas de ataque contra el objetivo. El objetivo tampoco puede ser poseído por las criaturas ni obtener los estados de asustado o hechizado a causa de ellas. Si el objetivo ya está asustado, hechizado o poseído por una criatura de estos tipos, dicho objetivo tendrá ventaja en cualquier nueva tirada de salvación contra el efecto correspondiente."
+      }
+    },
+    {
+      "id": "paladin-srd-proteccion-contra-veneno",
+      "classId": "paladin",
+      "name": "Protección contra veneno",
+      "level": 3,
+      "attribute": "valor",
+      "description": "Inspiración: Tocas a una criatura y pones fin al estado de envenenada si lo sufre. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 176,
+        "name": "Protección contra veneno",
+        "text": "Abjuración de nivel 2 (clérigo, druida, explorador, paladín) Tiempo de lanzamiento: Acción Alcance: Toque Componentes: V, S Duración: 1 hora Tocas a una criatura y pones fin al estado de envenenada si lo sufre. Hasta que termine el conjuro, el objetivo tiene ventaja en las tiradas de salvación para evitar o poner fin al estado de envenenado y resistencia al daño de veneno."
+      }
+    },
+    {
+      "id": "paladin-srd-purificar-comida-y-bebida",
+      "classId": "paladin",
+      "name": "Purificar comida y bebida",
+      "level": 2,
+      "attribute": "valor",
+      "description": "Inspiración: Eliminas el veneno y la podredumbre de la comida y bebida no mágicas en una esfera de una cantidad acordada m de radio centrada en un punto dentro del alcance. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 178,
+        "name": "Purificar comida y bebida",
+        "text": "Transmutación de nivel 1 (clérigo, druida, paladín) Tiempo de lanzamiento: Acción o ritual Alcance: 3 m Componentes: V, S Duración: Instantáneo Eliminas el veneno y la podredumbre de la comida y bebida no mágicas en una esfera de 1,5 m de radio centrada en un punto dentro del alcance."
+      }
+    },
+    {
+      "id": "paladin-srd-restablecimiento-menor",
+      "classId": "paladin",
+      "name": "Restablecimiento menor",
+      "level": 3,
+      "attribute": "valor",
+      "description": "Inspiración: Tocas a una criatura y le pones fin a un estado que tenga: cegada, ensordecida, envenenada o paralizada. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 181,
+        "name": "Restablecimiento menor",
+        "text": "Abjuración de nivel 2 (bardo, clérigo, druida, explorador, paladín) Tiempo de lanzamiento: Acción adicional Alcance: Toque Componentes: V, S Duración: Instantáneo Tocas a una criatura y le pones fin a un estado que tenga: cegada, ensordecida, envenenada o paralizada."
+      }
+    },
+    {
+      "id": "paladin-srd-vinculo-protector",
+      "classId": "paladin",
+      "name": "Vínculo protector",
+      "level": 3,
+      "attribute": "valor",
+      "description": "Inspiración: Tocas a otra criatura voluntaria y creas una conexión mística entre ella y tú hasta que el conjuro termine. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 192,
+        "name": "Vínculo protector",
+        "text": "Abjuración de nivel 2 (clérigo, paladín) Tiempo de lanzamiento: Acción Alcance: Toque Componentes: V, S, M (un par de anillos de platino que valgan al menos 50 po cada uno y que debéis llevar puestos tanto tú como el objetivo hasta que termine el conjuro) Duración: 1 hora Tocas a otra criatura voluntaria y creas una conexión mística entre ella y tú hasta que el conjuro termine. Mientras el objetivo esté a 18 m o menos de ti, obtiene un bonificador de +1 a la CA y a las tiradas de salvación, así como resistencia a todo el daño. Sin embargo, cada vez que reciba daño, tú sufrirás la misma cantidad de daño. El conjuro termina si tus puntos de golpe se reducen a 0 o si el objetivo y tú os separáis más de 18 m. También termina si se lanza otra vez sobre cualquiera de las dos criaturas conectadas."
+      }
+    },
+    {
+      "id": "paladin-srd-zona-de-la-verdad",
+      "classId": "paladin",
+      "name": "Zona de la verdad",
+      "level": 3,
+      "attribute": "valor",
+      "description": "Inspiración: Creas una zona mágica que protege contra el engaño en una esfera de una cantidad acordada m de radio centrada en un punto dentro del alcance. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 193,
+        "name": "Zona de la verdad",
+        "text": "Encantamiento de nivel 2 (bardo, clérigo, paladín) Tiempo de lanzamiento: Acción Alcance: 18 m Componentes: V, S Duración: 10 minutos Creas una zona mágica que protege contra el engaño en una esfera de 4,5 m de radio centrada en un punto dentro del alcance. Hasta que el conjuro termine, una criatura que entre en la zona del conjuro por primera vez en un turno o comience su turno allí realizará una tirada de salvación de Carisma. Si la falla, no podrá decir una mentira voluntariamente mientras esté en el radio del conjuro. Sabrás si una criatura supera o falla esta tirada. Una criatura afectada es consciente del conjuro y puede evitar responder a preguntas a las que normalmente respondería con una mentira. Dicha criatura puede dar respuestas evasivas, pero deberá ser sincera."
+      }
+    }
+  ]
+}

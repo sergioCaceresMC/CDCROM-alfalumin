@@ -8,6 +8,6 @@ const bin = require(packagePath).bin["react-router"];
 
 const result = spawnSync(process.execPath, [resolve(dirname(packagePath), bin), "build"], {
   stdio: "inherit",
-  env: { ...process.env, VITE_BASE_PATH: process.env.VITE_BASE_PATH || "/alfa-lumin-rpg-boardgame/" },
+  env: { ...process.env, VITE_BASE_PATH: process.env.VITE_BASE_PATH || "/CDCROM-alfalumin/" },
 });
 process.exit(result.status ?? 1);

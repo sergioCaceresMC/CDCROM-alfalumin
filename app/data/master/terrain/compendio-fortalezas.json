@@ -1,0 +1,705 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "terrain-compendio-fortalezas-01",
+      "kind": "terrain",
+      "name": "Fortaleza del Portón Remendado",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Domenico_Gargiuli_%28Micco_Spadaro%29_-_Landscape_with_Rock_and_Fortress_-_1958.326_-_Art_Institute_of_Chicago.jpg/960px-Domenico_Gargiuli_%28Micco_Spadaro%29_-_Landscape_with_Rock_and_Fortress_-_1958.326_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "Landscape with Rock and Fortress · anonymous · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Domenico_Gargiuli_(Micco_Spadaro)_-_Landscape_with_Rock_and_Fortress_-_1958.326_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "El portón combina maderas distintas y conserva una abertura para hablar. La posición permite observar los accesos antes de que lleguen hasta el recinto. Muros y desniveles distribuyen las rutas disponibles, dejando algunos pasos a la vista y protegiendo otros detrás de la construcción.\n\nEl aire transporta olor a hierro, madera trabajada y materiales almacenados. Las zonas de tránsito muestran desgaste regular, mientras los espacios de reserva permanecen más despejados. Reparaciones recientes conviven con partes antiguas que aún cumplen su función. Desde distintos puntos se aprecian señales preparadas para comunicar una llegada, pedir ayuda o cerrar el paso sin abandonar la protección.\n\nUn objeto cotidiano descansa donde nadie esperaría encontrarlo. Está limpio por un lado y gastado por el otro, como si hubiera pasado mucho tiempo protegido antes de quedar expuesto de nuevo. La primera impresión invita a seguir, pero un examen pausado ofrece otra posibilidad: detenerse, comparar los rastros y decidir qué detalle merece atención antes de abandonar el sitio.",
+      "musicUrl": "https://www.youtube.com/results?search_query=castle%20watchtower%20ambient",
+      "abilities": [
+        "Entorno: Fortalezas y puestos de vigilancia. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: El portón combina maderas distintas y conserva una abertura para hablar. Este detalle sirve como señal para una cita. El grupo puede encontrar a quien espera, descubrir por qué nadie acudió o dejar un mensaje para continuar la historia más adelante.",
+        "Rumbo opcional: Un puesto necesita suministros o relevo, pero sus responsables discrepan sobre cómo obtenerlos. El master puede ofrecer negociación, transporte o reconocimiento del entorno antes de recurrir a un asalto.",
+        "Personaje sugerido: El guardián de la vigilia. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Bandido. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de El guardián de la vigilia. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-vigilia"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-fortalezas-02",
+      "kind": "terrain",
+      "name": "Atalaya de las Banderas Cruzadas",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Anonymous_-_View_of_Pirna_with_the_Fortress_of_Sonnenstein_-_1961.44_-_Art_Institute_of_Chicago.jpg/960px-Anonymous_-_View_of_Pirna_with_the_Fortress_of_Sonnenstein_-_1961.44_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "View of Pirna with the Fortress of Sonnenstein · Bernardo Bellotto · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Anonymous_-_View_of_Pirna_with_the_Fortress_of_Sonnenstein_-_1961.44_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Dos banderas diferentes ondean sobre una torre con accesos separados. La posición permite observar los accesos antes de que lleguen hasta el recinto. Muros y desniveles distribuyen las rutas disponibles, dejando algunos pasos a la vista y protegiendo otros detrás de la construcción.\n\nEl aire transporta olor a hierro, madera trabajada y materiales almacenados. Las zonas de tránsito muestran desgaste regular, mientras los espacios de reserva permanecen más despejados. Reparaciones recientes conviven con partes antiguas que aún cumplen su función. Desde distintos puntos se aprecian señales preparadas para comunicar una llegada, pedir ayuda o cerrar el paso sin abandonar la protección.\n\nUn rastro del mismo color se repite sobre superficies diferentes. No parece una decoración, porque cada marca queda a una altura distinta. La última está junto a algo que nadie ha movido recientemente. Desde esta posición se puede distinguir por dónde llegó la última presencia conocida. Su destino, en cambio, permanece fuera de la vista y no coincide necesariamente con la salida más evidente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=castle%20watchtower%20ambient",
+      "abilities": [
+        "Entorno: Fortalezas y puestos de vigilancia. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Dos banderas diferentes ondean sobre una torre con accesos separados. Una reparación sencilla permitiría volver a utilizar este lugar. Sus responsables ofrecen información o alojamiento a cambio; decidir quién se beneficiará importa más que obtener una recompensa material.",
+        "Rumbo opcional: Un puesto necesita suministros o relevo, pero sus responsables discrepan sobre cómo obtenerlos. El master puede ofrecer negociación, transporte o reconocimiento del entorno antes de recurrir a un asalto.",
+        "Personaje sugerido: El guardián de la vigilia. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Bandido. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Cuerda (SRD). Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-cuerda"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-fortalezas-03",
+      "kind": "terrain",
+      "name": "Bastión del Foso Seco",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Domenico_Gargiuli_%28Micco_Spadaro%29_-_Landscape_with_Rock_and_Fortress_-_1958.326_-_Art_Institute_of_Chicago.jpg/960px-Domenico_Gargiuli_%28Micco_Spadaro%29_-_Landscape_with_Rock_and_Fortress_-_1958.326_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "Landscape with Rock and Fortress · anonymous · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Domenico_Gargiuli_(Micco_Spadaro)_-_Landscape_with_Rock_and_Fortress_-_1958.326_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Un foso sin agua contiene huertos pequeños entre viejos obstáculos. La posición permite observar los accesos antes de que lleguen hasta el recinto. Muros y desniveles distribuyen las rutas disponibles, dejando algunos pasos a la vista y protegiendo otros detrás de la construcción.\n\nEl aire transporta olor a hierro, madera trabajada y materiales almacenados. Las zonas de tránsito muestran desgaste regular, mientras los espacios de reserva permanecen más despejados. Reparaciones recientes conviven con partes antiguas que aún cumplen su función. Desde distintos puntos se aprecian señales preparadas para comunicar una llegada, pedir ayuda o cerrar el paso sin abandonar la protección.\n\nUn detalle aparece repetido tres veces, con ligeras diferencias. La primera versión está gastada, la segunda incompleta y la tercera apenas alterada. Entre ellas queda espacio suficiente para imaginar una secuencia que todavía no termina. El entorno guarda suficiente silencio entre sus sonidos para escuchar lo que ocurra después. Ninguna señal obliga a intervenir; aun así, cuesta ignorar el detalle que se aparta de todos los demás.",
+      "musicUrl": "https://www.youtube.com/results?search_query=castle%20watchtower%20ambient",
+      "abilities": [
+        "Entorno: Fortalezas y puestos de vigilancia. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Un foso sin agua contiene huertos pequeños entre viejos obstáculos. Alguien ha reproducido este detalle en un mapa incompleto. Seguir la siguiente marca puede llevar a otro terreno del mismo entorno, sin exigir que la ruta sea peligrosa.",
+        "Rumbo opcional: Un puesto necesita suministros o relevo, pero sus responsables discrepan sobre cómo obtenerlos. El master puede ofrecer negociación, transporte o reconocimiento del entorno antes de recurrir a un asalto.",
+        "Personaje sugerido: El guardián de la vigilia. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Bandido. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Bandido. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-bandido"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-fortalezas-04",
+      "kind": "terrain",
+      "name": "Puesto de los Escudos Rojos",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Anonymous_-_View_of_Pirna_with_the_Fortress_of_Sonnenstein_-_1961.44_-_Art_Institute_of_Chicago.jpg/960px-Anonymous_-_View_of_Pirna_with_the_Fortress_of_Sonnenstein_-_1961.44_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "View of Pirna with the Fortress of Sonnenstein · Bernardo Bellotto · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Anonymous_-_View_of_Pirna_with_the_Fortress_of_Sonnenstein_-_1961.44_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Escudos rojos delimitan una zona de espera junto a una barrera. La posición permite observar los accesos antes de que lleguen hasta el recinto. Muros y desniveles distribuyen las rutas disponibles, dejando algunos pasos a la vista y protegiendo otros detrás de la construcción.\n\nEl aire transporta olor a hierro, madera trabajada y materiales almacenados. Las zonas de tránsito muestran desgaste regular, mientras los espacios de reserva permanecen más despejados. Reparaciones recientes conviven con partes antiguas que aún cumplen su función. Desde distintos puntos se aprecian señales preparadas para comunicar una llegada, pedir ayuda o cerrar el paso sin abandonar la protección.\n\nUna señal visible desde lejos tiene otra cara que solo se descubre al acercarse. Ambas están trabajadas de manera distinta. La parte oculta conserva un detalle que parece haber sido añadido después de terminar la primera. Más allá del punto de entrada queda una perspectiva por descubrir. Desde aquí solo se percibe una parte del lugar; para conocer el resto habría que acercarse y cambiar el ángulo de observación.",
+      "musicUrl": "https://www.youtube.com/results?search_query=castle%20watchtower%20ambient",
+      "abilities": [
+        "Entorno: Fortalezas y puestos de vigilancia. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Escudos rojos delimitan una zona de espera junto a una barrera. Una pertenencia perdida cerca de este detalle identifica a un viajero. Devolverla puede abrir una conversación; conservarla puede provocar una reclamación posterior, sin presumir que sea un tesoro abandonado.",
+        "Rumbo opcional: Un puesto necesita suministros o relevo, pero sus responsables discrepan sobre cómo obtenerlos. El master puede ofrecer negociación, transporte o reconocimiento del entorno antes de recurrir a un asalto.",
+        "Personaje sugerido: El guardián de la vigilia. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Bandido. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de El guardián de la vigilia. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-vigilia"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-fortalezas-05",
+      "kind": "terrain",
+      "name": "Ciudadela de las Escaleras Estrechas",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Domenico_Gargiuli_%28Micco_Spadaro%29_-_Landscape_with_Rock_and_Fortress_-_1958.326_-_Art_Institute_of_Chicago.jpg/960px-Domenico_Gargiuli_%28Micco_Spadaro%29_-_Landscape_with_Rock_and_Fortress_-_1958.326_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "Landscape with Rock and Fortress · anonymous · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Domenico_Gargiuli_(Micco_Spadaro)_-_Landscape_with_Rock_and_Fortress_-_1958.326_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Escaleras estrechas enlazan patios situados a alturas diferentes. La posición permite observar los accesos antes de que lleguen hasta el recinto. Muros y desniveles distribuyen las rutas disponibles, dejando algunos pasos a la vista y protegiendo otros detrás de la construcción.\n\nEl aire transporta olor a hierro, madera trabajada y materiales almacenados. Las zonas de tránsito muestran desgaste regular, mientras los espacios de reserva permanecen más despejados. Reparaciones recientes conviven con partes antiguas que aún cumplen su función. Desde distintos puntos se aprecian señales preparadas para comunicar una llegada, pedir ayuda o cerrar el paso sin abandonar la protección.\n\nLa distribución del lugar parece responder a una costumbre olvidada. Quien lo preparó dejó espacio alrededor de un punto central; nadie ha ocupado ese hueco, aunque todo lo demás muestra rastros de uso. El lugar no revela de inmediato si espera visitantes o si intenta mantenerlos a distancia. Sus señales admiten ambas lecturas, y el siguiente paso puede aclarar cuál resulta más convincente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=castle%20watchtower%20ambient",
+      "abilities": [
+        "Entorno: Fortalezas y puestos de vigilancia. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Escaleras estrechas enlazan patios situados a alturas diferentes. Dos grupos atribuyen significados distintos a este detalle. El master puede permitir una solución que respete ambos usos, o presentar las consecuencias de favorecer a uno de ellos.",
+        "Rumbo opcional: Un puesto necesita suministros o relevo, pero sus responsables discrepan sobre cómo obtenerlos. El master puede ofrecer negociación, transporte o reconocimiento del entorno antes de recurrir a un asalto.",
+        "Personaje sugerido: El guardián de la vigilia. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Bandido. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Cuerda (SRD). Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-cuerda"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-fortalezas-06",
+      "kind": "terrain",
+      "name": "Fortín del Puente Levantado",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Anonymous_-_View_of_Pirna_with_the_Fortress_of_Sonnenstein_-_1961.44_-_Art_Institute_of_Chicago.jpg/960px-Anonymous_-_View_of_Pirna_with_the_Fortress_of_Sonnenstein_-_1961.44_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "View of Pirna with the Fortress of Sonnenstein · Bernardo Bellotto · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Anonymous_-_View_of_Pirna_with_the_Fortress_of_Sonnenstein_-_1961.44_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Un puente elevado queda sujeto por cadenas que muestran reparaciones nuevas. La posición permite observar los accesos antes de que lleguen hasta el recinto. Muros y desniveles distribuyen las rutas disponibles, dejando algunos pasos a la vista y protegiendo otros detrás de la construcción.\n\nEl aire transporta olor a hierro, madera trabajada y materiales almacenados. Las zonas de tránsito muestran desgaste regular, mientras los espacios de reserva permanecen más despejados. Reparaciones recientes conviven con partes antiguas que aún cumplen su función. Desde distintos puntos se aprecian señales preparadas para comunicar una llegada, pedir ayuda o cerrar el paso sin abandonar la protección.\n\nLa vista cambia al dar unos pasos hacia un lateral. Lo que desde la entrada parecía un obstáculo se convierte en una referencia útil, y detrás aparece una continuidad que no resultaba evidente a primera vista. La primera impresión invita a seguir, pero un examen pausado ofrece otra posibilidad: detenerse, comparar los rastros y decidir qué detalle merece atención antes de abandonar el sitio.",
+      "musicUrl": "https://www.youtube.com/results?search_query=castle%20watchtower%20ambient",
+      "abilities": [
+        "Entorno: Fortalezas y puestos de vigilancia. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Un puente elevado queda sujeto por cadenas que muestran reparaciones nuevas. Las señales de uso reciente pertenecen a alguien que evita ser encontrado. Puede necesitar ayuda, intimidad o protección; investigar no demuestra por sí solo culpabilidad ni hostilidad.",
+        "Rumbo opcional: Un puesto necesita suministros o relevo, pero sus responsables discrepan sobre cómo obtenerlos. El master puede ofrecer negociación, transporte o reconocimiento del entorno antes de recurrir a un asalto.",
+        "Personaje sugerido: El guardián de la vigilia. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Bandido. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Bandido. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-bandido"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-fortalezas-07",
+      "kind": "terrain",
+      "name": "Torre de los Faroles Numerados",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Domenico_Gargiuli_%28Micco_Spadaro%29_-_Landscape_with_Rock_and_Fortress_-_1958.326_-_Art_Institute_of_Chicago.jpg/960px-Domenico_Gargiuli_%28Micco_Spadaro%29_-_Landscape_with_Rock_and_Fortress_-_1958.326_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "Landscape with Rock and Fortress · anonymous · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Domenico_Gargiuli_(Micco_Spadaro)_-_Landscape_with_Rock_and_Fortress_-_1958.326_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Faroles numerados rodean una terraza desde la que se ven varios caminos. La posición permite observar los accesos antes de que lleguen hasta el recinto. Muros y desniveles distribuyen las rutas disponibles, dejando algunos pasos a la vista y protegiendo otros detrás de la construcción.\n\nEl aire transporta olor a hierro, madera trabajada y materiales almacenados. Las zonas de tránsito muestran desgaste regular, mientras los espacios de reserva permanecen más despejados. Reparaciones recientes conviven con partes antiguas que aún cumplen su función. Desde distintos puntos se aprecian señales preparadas para comunicar una llegada, pedir ayuda o cerrar el paso sin abandonar la protección.\n\nHay un elemento desplazado respecto a todos los demás. No está roto ni parece a punto de caer; sencillamente apunta hacia otro lado. Su posición permite ver un tramo del lugar que las otras referencias ocultan. Desde esta posición se puede distinguir por dónde llegó la última presencia conocida. Su destino, en cambio, permanece fuera de la vista y no coincide necesariamente con la salida más evidente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=castle%20watchtower%20ambient",
+      "abilities": [
+        "Entorno: Fortalezas y puestos de vigilancia. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Faroles numerados rodean una terraza desde la que se ven varios caminos. Un cambio de tiempo amenaza con borrar o dañar este detalle. Documentarlo o protegerlo ofrece una tarea breve cuya urgencia puede ajustarse al ritmo de la sesión.",
+        "Rumbo opcional: Un puesto necesita suministros o relevo, pero sus responsables discrepan sobre cómo obtenerlos. El master puede ofrecer negociación, transporte o reconocimiento del entorno antes de recurrir a un asalto.",
+        "Personaje sugerido: El guardián de la vigilia. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Bandido. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de El guardián de la vigilia. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-vigilia"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-fortalezas-08",
+      "kind": "terrain",
+      "name": "Bastión de las Carretas Blindadas",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Anonymous_-_View_of_Pirna_with_the_Fortress_of_Sonnenstein_-_1961.44_-_Art_Institute_of_Chicago.jpg/960px-Anonymous_-_View_of_Pirna_with_the_Fortress_of_Sonnenstein_-_1961.44_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "View of Pirna with the Fortress of Sonnenstein · Bernardo Bellotto · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Anonymous_-_View_of_Pirna_with_the_Fortress_of_Sonnenstein_-_1961.44_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Carretas reforzadas ocupan un patio con salidas orientadas a distintas rutas. La posición permite observar los accesos antes de que lleguen hasta el recinto. Muros y desniveles distribuyen las rutas disponibles, dejando algunos pasos a la vista y protegiendo otros detrás de la construcción.\n\nEl aire transporta olor a hierro, madera trabajada y materiales almacenados. Las zonas de tránsito muestran desgaste regular, mientras los espacios de reserva permanecen más despejados. Reparaciones recientes conviven con partes antiguas que aún cumplen su función. Desde distintos puntos se aprecian señales preparadas para comunicar una llegada, pedir ayuda o cerrar el paso sin abandonar la protección.\n\nLas marcas del paso de otros viajeros se interrumpen en un punto concreto. Una señal reciente se superpone a otra mucho más antigua; las dos parecen señalar destinos distintos, aunque ninguna ofrece una explicación. El entorno guarda suficiente silencio entre sus sonidos para escuchar lo que ocurra después. Ninguna señal obliga a intervenir; aun así, cuesta ignorar el detalle que se aparta de todos los demás.",
+      "musicUrl": "https://www.youtube.com/results?search_query=castle%20watchtower%20ambient",
+      "abilities": [
+        "Entorno: Fortalezas y puestos de vigilancia. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Carretas reforzadas ocupan un patio con salidas orientadas a distintas rutas. Una persona ofrece un objeto útil si el grupo comprueba qué ha cambiado aquí. La información obtenida puede interesar a otra persona y conectar este lugar con una visita anterior.",
+        "Rumbo opcional: Un puesto necesita suministros o relevo, pero sus responsables discrepan sobre cómo obtenerlos. El master puede ofrecer negociación, transporte o reconocimiento del entorno antes de recurrir a un asalto.",
+        "Personaje sugerido: El guardián de la vigilia. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Bandido. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Cuerda (SRD). Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-cuerda"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-fortalezas-09",
+      "kind": "terrain",
+      "name": "Muralla de los Nidos Permitidos",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Domenico_Gargiuli_%28Micco_Spadaro%29_-_Landscape_with_Rock_and_Fortress_-_1958.326_-_Art_Institute_of_Chicago.jpg/960px-Domenico_Gargiuli_%28Micco_Spadaro%29_-_Landscape_with_Rock_and_Fortress_-_1958.326_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "Landscape with Rock and Fortress · anonymous · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Domenico_Gargiuli_(Micco_Spadaro)_-_Landscape_with_Rock_and_Fortress_-_1958.326_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Nidos de aves comparten huecos con puestos de observación vacíos. La posición permite observar los accesos antes de que lleguen hasta el recinto. Muros y desniveles distribuyen las rutas disponibles, dejando algunos pasos a la vista y protegiendo otros detrás de la construcción.\n\nEl aire transporta olor a hierro, madera trabajada y materiales almacenados. Las zonas de tránsito muestran desgaste regular, mientras los espacios de reserva permanecen más despejados. Reparaciones recientes conviven con partes antiguas que aún cumplen su función. Desde distintos puntos se aprecian señales preparadas para comunicar una llegada, pedir ayuda o cerrar el paso sin abandonar la protección.\n\nAl prestar atención se descubren dos sonidos que no siguen el mismo ritmo. Uno pertenece claramente al entorno; el otro aparece y desaparece sin que sea posible localizar su origen desde la entrada. Más allá del punto de entrada queda una perspectiva por descubrir. Desde aquí solo se percibe una parte del lugar; para conocer el resto habría que acercarse y cambiar el ángulo de observación.",
+      "musicUrl": "https://www.youtube.com/results?search_query=castle%20watchtower%20ambient",
+      "abilities": [
+        "Entorno: Fortalezas y puestos de vigilancia. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Nidos de aves comparten huecos con puestos de observación vacíos. Este lugar admite una escena tranquila de observación o conversación. El master puede usar el detalle visible para recordar un vínculo del personaje sin introducir un nuevo conflicto.",
+        "Rumbo opcional: Un puesto necesita suministros o relevo, pero sus responsables discrepan sobre cómo obtenerlos. El master puede ofrecer negociación, transporte o reconocimiento del entorno antes de recurrir a un asalto.",
+        "Personaje sugerido: El guardián de la vigilia. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Bandido. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Bandido. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-bandido"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-fortalezas-10",
+      "kind": "terrain",
+      "name": "Fortaleza del Patio de Arena",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Anonymous_-_View_of_Pirna_with_the_Fortress_of_Sonnenstein_-_1961.44_-_Art_Institute_of_Chicago.jpg/960px-Anonymous_-_View_of_Pirna_with_the_Fortress_of_Sonnenstein_-_1961.44_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "View of Pirna with the Fortress of Sonnenstein · Bernardo Bellotto · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Anonymous_-_View_of_Pirna_with_the_Fortress_of_Sonnenstein_-_1961.44_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Arena limpia cubre un patio rodeado de soportes para armas. La posición permite observar los accesos antes de que lleguen hasta el recinto. Muros y desniveles distribuyen las rutas disponibles, dejando algunos pasos a la vista y protegiendo otros detrás de la construcción.\n\nEl aire transporta olor a hierro, madera trabajada y materiales almacenados. Las zonas de tránsito muestran desgaste regular, mientras los espacios de reserva permanecen más despejados. Reparaciones recientes conviven con partes antiguas que aún cumplen su función. Desde distintos puntos se aprecian señales preparadas para comunicar una llegada, pedir ayuda o cerrar el paso sin abandonar la protección.\n\nUna marca antigua se ha respetado a pesar de los cambios del entorno. Las reparaciones y el tránsito la rodean en lugar de cubrirla. Parece importar a alguien, aunque su significado no se reconoce de inmediato. El lugar no revela de inmediato si espera visitantes o si intenta mantenerlos a distancia. Sus señales admiten ambas lecturas, y el siguiente paso puede aclarar cuál resulta más convincente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=castle%20watchtower%20ambient",
+      "abilities": [
+        "Entorno: Fortalezas y puestos de vigilancia. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Arena limpia cubre un patio rodeado de soportes para armas. Una persona conoce el origen de este detalle, pero su versión contradice la de quien lo cuida. Contrastar ambas historias puede revelar una necesidad que ninguna admite en público.",
+        "Rumbo opcional: Un puesto necesita suministros o relevo, pero sus responsables discrepan sobre cómo obtenerlos. El master puede ofrecer negociación, transporte o reconocimiento del entorno antes de recurrir a un asalto.",
+        "Personaje sugerido: El guardián de la vigilia. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Bandido. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de El guardián de la vigilia. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-vigilia"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-fortalezas-11",
+      "kind": "terrain",
+      "name": "Atalaya del Cuerno Partido",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Domenico_Gargiuli_%28Micco_Spadaro%29_-_Landscape_with_Rock_and_Fortress_-_1958.326_-_Art_Institute_of_Chicago.jpg/960px-Domenico_Gargiuli_%28Micco_Spadaro%29_-_Landscape_with_Rock_and_Fortress_-_1958.326_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "Landscape with Rock and Fortress · anonymous · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Domenico_Gargiuli_(Micco_Spadaro)_-_Landscape_with_Rock_and_Fortress_-_1958.326_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Un cuerno partido permanece sobre una mesa junto a señales escritas. La posición permite observar los accesos antes de que lleguen hasta el recinto. Muros y desniveles distribuyen las rutas disponibles, dejando algunos pasos a la vista y protegiendo otros detrás de la construcción.\n\nEl aire transporta olor a hierro, madera trabajada y materiales almacenados. Las zonas de tránsito muestran desgaste regular, mientras los espacios de reserva permanecen más despejados. Reparaciones recientes conviven con partes antiguas que aún cumplen su función. Desde distintos puntos se aprecian señales preparadas para comunicar una llegada, pedir ayuda o cerrar el paso sin abandonar la protección.\n\nAl detenerse, el entorno revela movimientos discretos que pasan inadvertidos al caminar. Ninguno parece acercarse directamente. Sin embargo, todos evitan el mismo punto, situado un poco más allá del acceso principal. La primera impresión invita a seguir, pero un examen pausado ofrece otra posibilidad: detenerse, comparar los rastros y decidir qué detalle merece atención antes de abandonar el sitio.",
+      "musicUrl": "https://www.youtube.com/results?search_query=castle%20watchtower%20ambient",
+      "abilities": [
+        "Entorno: Fortalezas y puestos de vigilancia. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Un cuerno partido permanece sobre una mesa junto a señales escritas. Este detalle sirve como señal para una cita. El grupo puede encontrar a quien espera, descubrir por qué nadie acudió o dejar un mensaje para continuar la historia más adelante.",
+        "Rumbo opcional: Un puesto necesita suministros o relevo, pero sus responsables discrepan sobre cómo obtenerlos. El master puede ofrecer negociación, transporte o reconocimiento del entorno antes de recurrir a un asalto.",
+        "Personaje sugerido: El guardián de la vigilia. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Bandido. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Cuerda (SRD). Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-cuerda"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-fortalezas-12",
+      "kind": "terrain",
+      "name": "Puesto de las Cadenas de Paso",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Anonymous_-_View_of_Pirna_with_the_Fortress_of_Sonnenstein_-_1961.44_-_Art_Institute_of_Chicago.jpg/960px-Anonymous_-_View_of_Pirna_with_the_Fortress_of_Sonnenstein_-_1961.44_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "View of Pirna with the Fortress of Sonnenstein · Bernardo Bellotto · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Anonymous_-_View_of_Pirna_with_the_Fortress_of_Sonnenstein_-_1961.44_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Cadenas a distintas alturas separan rutas para personas, animales y carros. La posición permite observar los accesos antes de que lleguen hasta el recinto. Muros y desniveles distribuyen las rutas disponibles, dejando algunos pasos a la vista y protegiendo otros detrás de la construcción.\n\nEl aire transporta olor a hierro, madera trabajada y materiales almacenados. Las zonas de tránsito muestran desgaste regular, mientras los espacios de reserva permanecen más despejados. Reparaciones recientes conviven con partes antiguas que aún cumplen su función. Desde distintos puntos se aprecian señales preparadas para comunicar una llegada, pedir ayuda o cerrar el paso sin abandonar la protección.\n\nHay una pequeña zona resguardada del entorno, suficiente para detenerse y observar sin estorbar el paso. Desde allí se aprecia un detalle que, visto de frente, quedaba escondido detrás de los demás. Desde esta posición se puede distinguir por dónde llegó la última presencia conocida. Su destino, en cambio, permanece fuera de la vista y no coincide necesariamente con la salida más evidente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=castle%20watchtower%20ambient",
+      "abilities": [
+        "Entorno: Fortalezas y puestos de vigilancia. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Cadenas a distintas alturas separan rutas para personas, animales y carros. Una reparación sencilla permitiría volver a utilizar este lugar. Sus responsables ofrecen información o alojamiento a cambio; decidir quién se beneficiará importa más que obtener una recompensa material.",
+        "Rumbo opcional: Un puesto necesita suministros o relevo, pero sus responsables discrepan sobre cómo obtenerlos. El master puede ofrecer negociación, transporte o reconocimiento del entorno antes de recurrir a un asalto.",
+        "Personaje sugerido: El guardián de la vigilia. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Bandido. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Bandido. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-bandido"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-fortalezas-13",
+      "kind": "terrain",
+      "name": "Ciudadela de las Puertas de Colores",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Domenico_Gargiuli_%28Micco_Spadaro%29_-_Landscape_with_Rock_and_Fortress_-_1958.326_-_Art_Institute_of_Chicago.jpg/960px-Domenico_Gargiuli_%28Micco_Spadaro%29_-_Landscape_with_Rock_and_Fortress_-_1958.326_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "Landscape with Rock and Fortress · anonymous · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Domenico_Gargiuli_(Micco_Spadaro)_-_Landscape_with_Rock_and_Fortress_-_1958.326_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Puertas coloreadas conectan dependencias con marcas similares en el suelo. La posición permite observar los accesos antes de que lleguen hasta el recinto. Muros y desniveles distribuyen las rutas disponibles, dejando algunos pasos a la vista y protegiendo otros detrás de la construcción.\n\nEl aire transporta olor a hierro, madera trabajada y materiales almacenados. Las zonas de tránsito muestran desgaste regular, mientras los espacios de reserva permanecen más despejados. Reparaciones recientes conviven con partes antiguas que aún cumplen su función. Desde distintos puntos se aprecian señales preparadas para comunicar una llegada, pedir ayuda o cerrar el paso sin abandonar la protección.\n\nEn un rincón se conserva algo que el resto del lugar ha perdido: una forma intacta, una superficie limpia o un color más vivo. La diferencia llama la atención precisamente porque no se repite en ninguna otra parte. El entorno guarda suficiente silencio entre sus sonidos para escuchar lo que ocurra después. Ninguna señal obliga a intervenir; aun así, cuesta ignorar el detalle que se aparta de todos los demás.",
+      "musicUrl": "https://www.youtube.com/results?search_query=castle%20watchtower%20ambient",
+      "abilities": [
+        "Entorno: Fortalezas y puestos de vigilancia. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Puertas coloreadas conectan dependencias con marcas similares en el suelo. Alguien ha reproducido este detalle en un mapa incompleto. Seguir la siguiente marca puede llevar a otro terreno del mismo entorno, sin exigir que la ruta sea peligrosa.",
+        "Rumbo opcional: Un puesto necesita suministros o relevo, pero sus responsables discrepan sobre cómo obtenerlos. El master puede ofrecer negociación, transporte o reconocimiento del entorno antes de recurrir a un asalto.",
+        "Personaje sugerido: El guardián de la vigilia. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Bandido. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de El guardián de la vigilia. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-vigilia"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-fortalezas-14",
+      "kind": "terrain",
+      "name": "Fortín del Aljibe Cerrado",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Anonymous_-_View_of_Pirna_with_the_Fortress_of_Sonnenstein_-_1961.44_-_Art_Institute_of_Chicago.jpg/960px-Anonymous_-_View_of_Pirna_with_the_Fortress_of_Sonnenstein_-_1961.44_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "View of Pirna with the Fortress of Sonnenstein · Bernardo Bellotto · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Anonymous_-_View_of_Pirna_with_the_Fortress_of_Sonnenstein_-_1961.44_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "El aljibe central conserva una tapa nueva bajo un arco antiguo. La posición permite observar los accesos antes de que lleguen hasta el recinto. Muros y desniveles distribuyen las rutas disponibles, dejando algunos pasos a la vista y protegiendo otros detrás de la construcción.\n\nEl aire transporta olor a hierro, madera trabajada y materiales almacenados. Las zonas de tránsito muestran desgaste regular, mientras los espacios de reserva permanecen más despejados. Reparaciones recientes conviven con partes antiguas que aún cumplen su función. Desde distintos puntos se aprecian señales preparadas para comunicar una llegada, pedir ayuda o cerrar el paso sin abandonar la protección.\n\nEl camino de entrada no ofrece la mejor vista del lugar. Un giro descubre un espacio menor, protegido por las formas del entorno. Allí los rastros se ordenan de manera diferente y parecen corresponder a otra actividad. Más allá del punto de entrada queda una perspectiva por descubrir. Desde aquí solo se percibe una parte del lugar; para conocer el resto habría que acercarse y cambiar el ángulo de observación.",
+      "musicUrl": "https://www.youtube.com/results?search_query=castle%20watchtower%20ambient",
+      "abilities": [
+        "Entorno: Fortalezas y puestos de vigilancia. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: El aljibe central conserva una tapa nueva bajo un arco antiguo. Una pertenencia perdida cerca de este detalle identifica a un viajero. Devolverla puede abrir una conversación; conservarla puede provocar una reclamación posterior, sin presumir que sea un tesoro abandonado.",
+        "Rumbo opcional: Un puesto necesita suministros o relevo, pero sus responsables discrepan sobre cómo obtenerlos. El master puede ofrecer negociación, transporte o reconocimiento del entorno antes de recurrir a un asalto.",
+        "Personaje sugerido: El guardián de la vigilia. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Bandido. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Cuerda (SRD). Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-cuerda"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-fortalezas-15",
+      "kind": "terrain",
+      "name": "Bastión de los Estandartes Guardados",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Domenico_Gargiuli_%28Micco_Spadaro%29_-_Landscape_with_Rock_and_Fortress_-_1958.326_-_Art_Institute_of_Chicago.jpg/960px-Domenico_Gargiuli_%28Micco_Spadaro%29_-_Landscape_with_Rock_and_Fortress_-_1958.326_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "Landscape with Rock and Fortress · anonymous · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Domenico_Gargiuli_(Micco_Spadaro)_-_Landscape_with_Rock_and_Fortress_-_1958.326_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Estandartes enrollados descansan bajo techo junto a varas sin tela. La posición permite observar los accesos antes de que lleguen hasta el recinto. Muros y desniveles distribuyen las rutas disponibles, dejando algunos pasos a la vista y protegiendo otros detrás de la construcción.\n\nEl aire transporta olor a hierro, madera trabajada y materiales almacenados. Las zonas de tránsito muestran desgaste regular, mientras los espacios de reserva permanecen más despejados. Reparaciones recientes conviven con partes antiguas que aún cumplen su función. Desde distintos puntos se aprecian señales preparadas para comunicar una llegada, pedir ayuda o cerrar el paso sin abandonar la protección.\n\nEntre los restos del uso cotidiano hay una interrupción clara. Algo ocurrió aquí antes de que la actividad se reanudara. Las señales posteriores atraviesan las anteriores, pero no llegan a borrarlas por completo. El lugar no revela de inmediato si espera visitantes o si intenta mantenerlos a distancia. Sus señales admiten ambas lecturas, y el siguiente paso puede aclarar cuál resulta más convincente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=castle%20watchtower%20ambient",
+      "abilities": [
+        "Entorno: Fortalezas y puestos de vigilancia. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Estandartes enrollados descansan bajo techo junto a varas sin tela. Dos grupos atribuyen significados distintos a este detalle. El master puede permitir una solución que respete ambos usos, o presentar las consecuencias de favorecer a uno de ellos.",
+        "Rumbo opcional: Un puesto necesita suministros o relevo, pero sus responsables discrepan sobre cómo obtenerlos. El master puede ofrecer negociación, transporte o reconocimiento del entorno antes de recurrir a un asalto.",
+        "Personaje sugerido: El guardián de la vigilia. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Bandido. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Bandido. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-bandido"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-fortalezas-16",
+      "kind": "terrain",
+      "name": "Torre de las Escaleras Retiradas",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Anonymous_-_View_of_Pirna_with_the_Fortress_of_Sonnenstein_-_1961.44_-_Art_Institute_of_Chicago.jpg/960px-Anonymous_-_View_of_Pirna_with_the_Fortress_of_Sonnenstein_-_1961.44_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "View of Pirna with the Fortress of Sonnenstein · Bernardo Bellotto · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Anonymous_-_View_of_Pirna_with_the_Fortress_of_Sonnenstein_-_1961.44_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Escaleras de mano yacen dentro de un recinto con accesos elevados. La posición permite observar los accesos antes de que lleguen hasta el recinto. Muros y desniveles distribuyen las rutas disponibles, dejando algunos pasos a la vista y protegiendo otros detrás de la construcción.\n\nEl aire transporta olor a hierro, madera trabajada y materiales almacenados. Las zonas de tránsito muestran desgaste regular, mientras los espacios de reserva permanecen más despejados. Reparaciones recientes conviven con partes antiguas que aún cumplen su función. Desde distintos puntos se aprecian señales preparadas para comunicar una llegada, pedir ayuda o cerrar el paso sin abandonar la protección.\n\nUna línea de pequeñas señales recorre el límite del lugar. Algunas están casi borradas y otras parecen recientes. Su separación es regular hasta el último tramo, donde falta una y las restantes se acumulan. La primera impresión invita a seguir, pero un examen pausado ofrece otra posibilidad: detenerse, comparar los rastros y decidir qué detalle merece atención antes de abandonar el sitio.",
+      "musicUrl": "https://www.youtube.com/results?search_query=castle%20watchtower%20ambient",
+      "abilities": [
+        "Entorno: Fortalezas y puestos de vigilancia. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Escaleras de mano yacen dentro de un recinto con accesos elevados. Las señales de uso reciente pertenecen a alguien que evita ser encontrado. Puede necesitar ayuda, intimidad o protección; investigar no demuestra por sí solo culpabilidad ni hostilidad.",
+        "Rumbo opcional: Un puesto necesita suministros o relevo, pero sus responsables discrepan sobre cómo obtenerlos. El master puede ofrecer negociación, transporte o reconocimiento del entorno antes de recurrir a un asalto.",
+        "Personaje sugerido: El guardián de la vigilia. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Bandido. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de El guardián de la vigilia. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-vigilia"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-fortalezas-17",
+      "kind": "terrain",
+      "name": "Fortaleza del Muro de Cristal",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Domenico_Gargiuli_%28Micco_Spadaro%29_-_Landscape_with_Rock_and_Fortress_-_1958.326_-_Art_Institute_of_Chicago.jpg/960px-Domenico_Gargiuli_%28Micco_Spadaro%29_-_Landscape_with_Rock_and_Fortress_-_1958.326_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "Landscape with Rock and Fortress · anonymous · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Domenico_Gargiuli_(Micco_Spadaro)_-_Landscape_with_Rock_and_Fortress_-_1958.326_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Un tramo translúcido refuerza un muro de piedra oscura. La posición permite observar los accesos antes de que lleguen hasta el recinto. Muros y desniveles distribuyen las rutas disponibles, dejando algunos pasos a la vista y protegiendo otros detrás de la construcción.\n\nEl aire transporta olor a hierro, madera trabajada y materiales almacenados. Las zonas de tránsito muestran desgaste regular, mientras los espacios de reserva permanecen más despejados. Reparaciones recientes conviven con partes antiguas que aún cumplen su función. Desde distintos puntos se aprecian señales preparadas para comunicar una llegada, pedir ayuda o cerrar el paso sin abandonar la protección.\n\nSe advierte una elección deliberada entre dos recorridos. Uno es sencillo y muy visible; el otro exige acercarse para reconocerlo. Ambos desembocan fuera de la vista, sin revelar todavía qué los distingue al final. Desde esta posición se puede distinguir por dónde llegó la última presencia conocida. Su destino, en cambio, permanece fuera de la vista y no coincide necesariamente con la salida más evidente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=castle%20watchtower%20ambient",
+      "abilities": [
+        "Entorno: Fortalezas y puestos de vigilancia. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Un tramo translúcido refuerza un muro de piedra oscura. Un cambio de tiempo amenaza con borrar o dañar este detalle. Documentarlo o protegerlo ofrece una tarea breve cuya urgencia puede ajustarse al ritmo de la sesión.",
+        "Rumbo opcional: Un puesto necesita suministros o relevo, pero sus responsables discrepan sobre cómo obtenerlos. El master puede ofrecer negociación, transporte o reconocimiento del entorno antes de recurrir a un asalto.",
+        "Personaje sugerido: El guardián de la vigilia. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Bandido. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Cuerda (SRD). Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-cuerda"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-fortalezas-18",
+      "kind": "terrain",
+      "name": "Puesto del Mensajero Esperado",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Anonymous_-_View_of_Pirna_with_the_Fortress_of_Sonnenstein_-_1961.44_-_Art_Institute_of_Chicago.jpg/960px-Anonymous_-_View_of_Pirna_with_the_Fortress_of_Sonnenstein_-_1961.44_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "View of Pirna with the Fortress of Sonnenstein · Bernardo Bellotto · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Anonymous_-_View_of_Pirna_with_the_Fortress_of_Sonnenstein_-_1961.44_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Un banco vacío y una montura preparada ocupan el espacio de recepción. La posición permite observar los accesos antes de que lleguen hasta el recinto. Muros y desniveles distribuyen las rutas disponibles, dejando algunos pasos a la vista y protegiendo otros detrás de la construcción.\n\nEl aire transporta olor a hierro, madera trabajada y materiales almacenados. Las zonas de tránsito muestran desgaste regular, mientras los espacios de reserva permanecen más despejados. Reparaciones recientes conviven con partes antiguas que aún cumplen su función. Desde distintos puntos se aprecian señales preparadas para comunicar una llegada, pedir ayuda o cerrar el paso sin abandonar la protección.\n\nUn espacio pequeño ha quedado deliberadamente vacío. A su alrededor se reconocen señales de actividad, pero ninguna lo atraviesa. La ausencia no demuestra peligro: también podría tratarse de una reserva, una costumbre o una simple espera. El entorno guarda suficiente silencio entre sus sonidos para escuchar lo que ocurra después. Ninguna señal obliga a intervenir; aun así, cuesta ignorar el detalle que se aparta de todos los demás.",
+      "musicUrl": "https://www.youtube.com/results?search_query=castle%20watchtower%20ambient",
+      "abilities": [
+        "Entorno: Fortalezas y puestos de vigilancia. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Un banco vacío y una montura preparada ocupan el espacio de recepción. Una persona ofrece un objeto útil si el grupo comprueba qué ha cambiado aquí. La información obtenida puede interesar a otra persona y conectar este lugar con una visita anterior.",
+        "Rumbo opcional: Un puesto necesita suministros o relevo, pero sus responsables discrepan sobre cómo obtenerlos. El master puede ofrecer negociación, transporte o reconocimiento del entorno antes de recurrir a un asalto.",
+        "Personaje sugerido: El guardián de la vigilia. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Bandido. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Bandido. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-bandido"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-fortalezas-19",
+      "kind": "terrain",
+      "name": "Muralla de los Relojes de Arena",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Domenico_Gargiuli_%28Micco_Spadaro%29_-_Landscape_with_Rock_and_Fortress_-_1958.326_-_Art_Institute_of_Chicago.jpg/960px-Domenico_Gargiuli_%28Micco_Spadaro%29_-_Landscape_with_Rock_and_Fortress_-_1958.326_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "Landscape with Rock and Fortress · anonymous · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Domenico_Gargiuli_(Micco_Spadaro)_-_Landscape_with_Rock_and_Fortress_-_1958.326_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Relojes de arena se alinean en nichos junto a tablillas de turnos. La posición permite observar los accesos antes de que lleguen hasta el recinto. Muros y desniveles distribuyen las rutas disponibles, dejando algunos pasos a la vista y protegiendo otros detrás de la construcción.\n\nEl aire transporta olor a hierro, madera trabajada y materiales almacenados. Las zonas de tránsito muestran desgaste regular, mientras los espacios de reserva permanecen más despejados. Reparaciones recientes conviven con partes antiguas que aún cumplen su función. Desde distintos puntos se aprecian señales preparadas para comunicar una llegada, pedir ayuda o cerrar el paso sin abandonar la protección.\n\nDesde un extremo se distingue un segundo acceso, estrecho y parcialmente oculto. La ruta principal invita a continuar, pero el desvío conserva señales de uso que no encajan con su aspecto abandonado. Más allá del punto de entrada queda una perspectiva por descubrir. Desde aquí solo se percibe una parte del lugar; para conocer el resto habría que acercarse y cambiar el ángulo de observación.",
+      "musicUrl": "https://www.youtube.com/results?search_query=castle%20watchtower%20ambient",
+      "abilities": [
+        "Entorno: Fortalezas y puestos de vigilancia. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Relojes de arena se alinean en nichos junto a tablillas de turnos. Este lugar admite una escena tranquila de observación o conversación. El master puede usar el detalle visible para recordar un vínculo del personaje sin introducir un nuevo conflicto.",
+        "Rumbo opcional: Un puesto necesita suministros o relevo, pero sus responsables discrepan sobre cómo obtenerlos. El master puede ofrecer negociación, transporte o reconocimiento del entorno antes de recurrir a un asalto.",
+        "Personaje sugerido: El guardián de la vigilia. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Bandido. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de El guardián de la vigilia. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-vigilia"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-fortalezas-20",
+      "kind": "terrain",
+      "name": "Atalaya de las Tres Fogatas",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Anonymous_-_View_of_Pirna_with_the_Fortress_of_Sonnenstein_-_1961.44_-_Art_Institute_of_Chicago.jpg/960px-Anonymous_-_View_of_Pirna_with_the_Fortress_of_Sonnenstein_-_1961.44_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "View of Pirna with the Fortress of Sonnenstein · Bernardo Bellotto · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Anonymous_-_View_of_Pirna_with_the_Fortress_of_Sonnenstein_-_1961.44_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Tres braseros se disponen en terrazas visibles desde caminos diferentes. La posición permite observar los accesos antes de que lleguen hasta el recinto. Muros y desniveles distribuyen las rutas disponibles, dejando algunos pasos a la vista y protegiendo otros detrás de la construcción.\n\nEl aire transporta olor a hierro, madera trabajada y materiales almacenados. Las zonas de tránsito muestran desgaste regular, mientras los espacios de reserva permanecen más despejados. Reparaciones recientes conviven con partes antiguas que aún cumplen su función. Desde distintos puntos se aprecian señales preparadas para comunicar una llegada, pedir ayuda o cerrar el paso sin abandonar la protección.\n\nExiste un pequeño espacio de tránsito entre el exterior y la parte más protegida. Allí se acumulan señales de espera, como si quienes llegaron antes hubieran tenido que detenerse antes de recibir permiso para continuar. El lugar no revela de inmediato si espera visitantes o si intenta mantenerlos a distancia. Sus señales admiten ambas lecturas, y el siguiente paso puede aclarar cuál resulta más convincente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=castle%20watchtower%20ambient",
+      "abilities": [
+        "Entorno: Fortalezas y puestos de vigilancia. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Tres braseros se disponen en terrazas visibles desde caminos diferentes. Una persona conoce el origen de este detalle, pero su versión contradice la de quien lo cuida. Contrastar ambas historias puede revelar una necesidad que ninguna admite en público.",
+        "Rumbo opcional: Un puesto necesita suministros o relevo, pero sus responsables discrepan sobre cómo obtenerlos. El master puede ofrecer negociación, transporte o reconocimiento del entorno antes de recurrir a un asalto.",
+        "Personaje sugerido: El guardián de la vigilia. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Bandido. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Cuerda (SRD). Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-cuerda"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-fortalezas-21",
+      "kind": "terrain",
+      "name": "Fortín de los Huertos Interiores",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Domenico_Gargiuli_%28Micco_Spadaro%29_-_Landscape_with_Rock_and_Fortress_-_1958.326_-_Art_Institute_of_Chicago.jpg/960px-Domenico_Gargiuli_%28Micco_Spadaro%29_-_Landscape_with_Rock_and_Fortress_-_1958.326_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "Landscape with Rock and Fortress · anonymous · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Domenico_Gargiuli_(Micco_Spadaro)_-_Landscape_with_Rock_and_Fortress_-_1958.326_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Huertos pequeños ocupan el patio protegido detrás de un muro doble. La posición permite observar los accesos antes de que lleguen hasta el recinto. Muros y desniveles distribuyen las rutas disponibles, dejando algunos pasos a la vista y protegiendo otros detrás de la construcción.\n\nEl aire transporta olor a hierro, madera trabajada y materiales almacenados. Las zonas de tránsito muestran desgaste regular, mientras los espacios de reserva permanecen más despejados. Reparaciones recientes conviven con partes antiguas que aún cumplen su función. Desde distintos puntos se aprecian señales preparadas para comunicar una llegada, pedir ayuda o cerrar el paso sin abandonar la protección.\n\nAlgo ha dejado una sombra o una huella sin permanecer en su sitio. El contorno resulta más claro que el resto de las señales cercanas. Alrededor, nada indica si fue retirado con cuidado o llevado apresuradamente. La primera impresión invita a seguir, pero un examen pausado ofrece otra posibilidad: detenerse, comparar los rastros y decidir qué detalle merece atención antes de abandonar el sitio.",
+      "musicUrl": "https://www.youtube.com/results?search_query=castle%20watchtower%20ambient",
+      "abilities": [
+        "Entorno: Fortalezas y puestos de vigilancia. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Huertos pequeños ocupan el patio protegido detrás de un muro doble. Este detalle sirve como señal para una cita. El grupo puede encontrar a quien espera, descubrir por qué nadie acudió o dejar un mensaje para continuar la historia más adelante.",
+        "Rumbo opcional: Un puesto necesita suministros o relevo, pero sus responsables discrepan sobre cómo obtenerlos. El master puede ofrecer negociación, transporte o reconocimiento del entorno antes de recurrir a un asalto.",
+        "Personaje sugerido: El guardián de la vigilia. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Bandido. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Bandido. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-bandido"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-fortalezas-22",
+      "kind": "terrain",
+      "name": "Ciudadela del Mercado Cercado",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Anonymous_-_View_of_Pirna_with_the_Fortress_of_Sonnenstein_-_1961.44_-_Art_Institute_of_Chicago.jpg/960px-Anonymous_-_View_of_Pirna_with_the_Fortress_of_Sonnenstein_-_1961.44_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "View of Pirna with the Fortress of Sonnenstein · Bernardo Bellotto · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Anonymous_-_View_of_Pirna_with_the_Fortress_of_Sonnenstein_-_1961.44_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Puestos de venta desmontables llenan un patio entre dos controles de acceso. La posición permite observar los accesos antes de que lleguen hasta el recinto. Muros y desniveles distribuyen las rutas disponibles, dejando algunos pasos a la vista y protegiendo otros detrás de la construcción.\n\nEl aire transporta olor a hierro, madera trabajada y materiales almacenados. Las zonas de tránsito muestran desgaste regular, mientras los espacios de reserva permanecen más despejados. Reparaciones recientes conviven con partes antiguas que aún cumplen su función. Desde distintos puntos se aprecian señales preparadas para comunicar una llegada, pedir ayuda o cerrar el paso sin abandonar la protección.\n\nLas huellas de desgaste dibujan un recorrido más estrecho que el espacio disponible. Durante mucho tiempo, quienes pasaron eligieron el mismo trayecto. Fuera de él quedan detalles intactos que apenas han recibido atención. Desde esta posición se puede distinguir por dónde llegó la última presencia conocida. Su destino, en cambio, permanece fuera de la vista y no coincide necesariamente con la salida más evidente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=castle%20watchtower%20ambient",
+      "abilities": [
+        "Entorno: Fortalezas y puestos de vigilancia. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Puestos de venta desmontables llenan un patio entre dos controles de acceso. Una reparación sencilla permitiría volver a utilizar este lugar. Sus responsables ofrecen información o alojamiento a cambio; decidir quién se beneficiará importa más que obtener una recompensa material.",
+        "Rumbo opcional: Un puesto necesita suministros o relevo, pero sus responsables discrepan sobre cómo obtenerlos. El master puede ofrecer negociación, transporte o reconocimiento del entorno antes de recurrir a un asalto.",
+        "Personaje sugerido: El guardián de la vigilia. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Bandido. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de El guardián de la vigilia. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-vigilia"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-fortalezas-23",
+      "kind": "terrain",
+      "name": "Bastión de las Ballestas Cubiertas",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Domenico_Gargiuli_%28Micco_Spadaro%29_-_Landscape_with_Rock_and_Fortress_-_1958.326_-_Art_Institute_of_Chicago.jpg/960px-Domenico_Gargiuli_%28Micco_Spadaro%29_-_Landscape_with_Rock_and_Fortress_-_1958.326_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "Landscape with Rock and Fortress · anonymous · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Domenico_Gargiuli_(Micco_Spadaro)_-_Landscape_with_Rock_and_Fortress_-_1958.326_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Lonas cubren soportes de ballesta orientados hacia una ladera despejada. La posición permite observar los accesos antes de que lleguen hasta el recinto. Muros y desniveles distribuyen las rutas disponibles, dejando algunos pasos a la vista y protegiendo otros detrás de la construcción.\n\nEl aire transporta olor a hierro, madera trabajada y materiales almacenados. Las zonas de tránsito muestran desgaste regular, mientras los espacios de reserva permanecen más despejados. Reparaciones recientes conviven con partes antiguas que aún cumplen su función. Desde distintos puntos se aprecian señales preparadas para comunicar una llegada, pedir ayuda o cerrar el paso sin abandonar la protección.\n\nAlgo aquí ha sido reparado con materiales distintos de los originales. El arreglo resulta modesto y cuidadoso. Junto a él permanece la pieza rota, guardada como si todavía pudiera servir para otra cosa. El entorno guarda suficiente silencio entre sus sonidos para escuchar lo que ocurra después. Ninguna señal obliga a intervenir; aun así, cuesta ignorar el detalle que se aparta de todos los demás.",
+      "musicUrl": "https://www.youtube.com/results?search_query=castle%20watchtower%20ambient",
+      "abilities": [
+        "Entorno: Fortalezas y puestos de vigilancia. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Lonas cubren soportes de ballesta orientados hacia una ladera despejada. Alguien ha reproducido este detalle en un mapa incompleto. Seguir la siguiente marca puede llevar a otro terreno del mismo entorno, sin exigir que la ruta sea peligrosa.",
+        "Rumbo opcional: Un puesto necesita suministros o relevo, pero sus responsables discrepan sobre cómo obtenerlos. El master puede ofrecer negociación, transporte o reconocimiento del entorno antes de recurrir a un asalto.",
+        "Personaje sugerido: El guardián de la vigilia. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Bandido. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Cuerda (SRD). Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-cuerda"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-fortalezas-24",
+      "kind": "terrain",
+      "name": "Torre del Mapa de Cuerdas",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Anonymous_-_View_of_Pirna_with_the_Fortress_of_Sonnenstein_-_1961.44_-_Art_Institute_of_Chicago.jpg/960px-Anonymous_-_View_of_Pirna_with_the_Fortress_of_Sonnenstein_-_1961.44_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "View of Pirna with the Fortress of Sonnenstein · Bernardo Bellotto · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Anonymous_-_View_of_Pirna_with_the_Fortress_of_Sonnenstein_-_1961.44_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Cuerdas de colores conectan clavijas sobre una representación del terreno. La posición permite observar los accesos antes de que lleguen hasta el recinto. Muros y desniveles distribuyen las rutas disponibles, dejando algunos pasos a la vista y protegiendo otros detrás de la construcción.\n\nEl aire transporta olor a hierro, madera trabajada y materiales almacenados. Las zonas de tránsito muestran desgaste regular, mientras los espacios de reserva permanecen más despejados. Reparaciones recientes conviven con partes antiguas que aún cumplen su función. Desde distintos puntos se aprecian señales preparadas para comunicar una llegada, pedir ayuda o cerrar el paso sin abandonar la protección.\n\nVarias señales apuntan a una ocupación reciente, pero ninguna permite saber cuántas personas estuvieron aquí. Los rastros más pequeños se cruzan con los mayores y luego se separan, siguiendo direcciones diferentes. Más allá del punto de entrada queda una perspectiva por descubrir. Desde aquí solo se percibe una parte del lugar; para conocer el resto habría que acercarse y cambiar el ángulo de observación.",
+      "musicUrl": "https://www.youtube.com/results?search_query=castle%20watchtower%20ambient",
+      "abilities": [
+        "Entorno: Fortalezas y puestos de vigilancia. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Cuerdas de colores conectan clavijas sobre una representación del terreno. Una pertenencia perdida cerca de este detalle identifica a un viajero. Devolverla puede abrir una conversación; conservarla puede provocar una reclamación posterior, sin presumir que sea un tesoro abandonado.",
+        "Rumbo opcional: Un puesto necesita suministros o relevo, pero sus responsables discrepan sobre cómo obtenerlos. El master puede ofrecer negociación, transporte o reconocimiento del entorno antes de recurrir a un asalto.",
+        "Personaje sugerido: El guardián de la vigilia. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Bandido. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Bandido. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-bandido"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-fortalezas-25",
+      "kind": "terrain",
+      "name": "Fortaleza de la Puerta Prestada",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Domenico_Gargiuli_%28Micco_Spadaro%29_-_Landscape_with_Rock_and_Fortress_-_1958.326_-_Art_Institute_of_Chicago.jpg/960px-Domenico_Gargiuli_%28Micco_Spadaro%29_-_Landscape_with_Rock_and_Fortress_-_1958.326_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "Landscape with Rock and Fortress · anonymous · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Domenico_Gargiuli_(Micco_Spadaro)_-_Landscape_with_Rock_and_Fortress_-_1958.326_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Una puerta de otro tamaño refuerza un arco parcialmente derrumbado. La posición permite observar los accesos antes de que lleguen hasta el recinto. Muros y desniveles distribuyen las rutas disponibles, dejando algunos pasos a la vista y protegiendo otros detrás de la construcción.\n\nEl aire transporta olor a hierro, madera trabajada y materiales almacenados. Las zonas de tránsito muestran desgaste regular, mientras los espacios de reserva permanecen más despejados. Reparaciones recientes conviven con partes antiguas que aún cumplen su función. Desde distintos puntos se aprecian señales preparadas para comunicar una llegada, pedir ayuda o cerrar el paso sin abandonar la protección.\n\nEn el límite entre dos superficies queda una acumulación fina de materiales. Las capas más antiguas son oscuras y compactas; por encima descansa una franja clara, todavía suelta, que deja ver el cambio reciente. El lugar no revela de inmediato si espera visitantes o si intenta mantenerlos a distancia. Sus señales admiten ambas lecturas, y el siguiente paso puede aclarar cuál resulta más convincente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=castle%20watchtower%20ambient",
+      "abilities": [
+        "Entorno: Fortalezas y puestos de vigilancia. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Una puerta de otro tamaño refuerza un arco parcialmente derrumbado. Dos grupos atribuyen significados distintos a este detalle. El master puede permitir una solución que respete ambos usos, o presentar las consecuencias de favorecer a uno de ellos.",
+        "Rumbo opcional: Un puesto necesita suministros o relevo, pero sus responsables discrepan sobre cómo obtenerlos. El master puede ofrecer negociación, transporte o reconocimiento del entorno antes de recurrir a un asalto.",
+        "Personaje sugerido: El guardián de la vigilia. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Bandido. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de El guardián de la vigilia. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-vigilia"
+        }
+      ]
+    }
+  ]
+}

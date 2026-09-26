@@ -1,6 +1,7 @@
 import { useId, useState } from "react";
 import type { ReactNode } from "react";
 import type { Item } from "../game/schema";
+import { SourceReference } from "./source-reference";
 
 export function ItemDisclosure({ item, children }: { item: Item; children?: ReactNode }) {
   const [open, setOpen] = useState(false);
@@ -12,6 +13,6 @@ export function ItemDisclosure({ item, children }: { item: Item; children?: Reac
         <path d="M2 12s3.5-7 10-7 10 7 10 7-3.5 7-10 7S2 12 2 12Z" /><circle cx="12" cy="12" r="3" />{open && <path d="m4 3 16 18" />}
       </svg>
     </button>
-    {open && <div id={id} role="region" aria-label={`Detalles de ${item.name}`} className="item-details stack"><p>{item.description}</p>{children}</div>}
+    {open && <div id={id} role="region" aria-label={`Detalles de ${item.name}`} className="item-details stack"><p>{item.description}</p><SourceReference source={item.source} />{children}</div>}
   </div>;
 }

@@ -1,0 +1,705 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "terrain-compendio-islas-01",
+      "kind": "terrain",
+      "name": "Isla del Faro Inclinado",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Paysage_%C3%A0_Port-Goulphar.jpg/960px-Paysage_%C3%A0_Port-Goulphar.jpg",
+      "imageCredit": {
+        "text": "Rocks at Port-Goulphar, Belle-Île · Claude Monet · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Paysage_%C3%A0_Port-Goulphar.jpg"
+      },
+      "description": "Un faro inclinado señala un desembarcadero oculto detrás de rocas oscuras. El lugar queda rodeado por agua, aunque sus límites se descubren poco a poco. Desde la llegada se distinguen rutas hacia el interior y señales de que otras personas eligieron accesos diferentes.\n\nEl viento lleva noticias del agua incluso cuando esta queda fuera de la vista. Los recursos aparecen agrupados en pequeños espacios, y cualquier construcción parece responder a la necesidad de conservarlos. En las elevaciones se reconocen referencias para navegar; cerca de las orillas, los rastros de desembarco se mezclan con lo que han dejado las corrientes.\n\nUn rastro del mismo color se repite sobre superficies diferentes. No parece una decoración, porque cada marca queda a una altura distinta. La última está junto a algo que nadie ha movido recientemente. El lugar no revela de inmediato si espera visitantes o si intenta mantenerlos a distancia. Sus señales admiten ambas lecturas, y el siguiente paso puede aclarar cuál resulta más convincente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=mysterious%20island%20ambient",
+      "abilities": [
+        "Entorno: Islas y archipiélagos. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Un faro inclinado señala un desembarcadero oculto detrás de rocas oscuras. Alguien ha reproducido este detalle en un mapa incompleto. Seguir la siguiente marca puede llevar a otro terreno del mismo entorno, sin exigir que la ruta sea peligrosa.",
+        "Rumbo opcional: Los habitantes o visitantes esperan un transporte que no llega. Reparar una embarcación, investigar una señal o decidir qué suministros compartir permite abrir una historia sin imponer un naufragio.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Mapa. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Serpiente constrictora. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Iria, la cartógrafa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-cartografa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-islas-02",
+      "kind": "terrain",
+      "name": "Islote de los Cien Cangrejos",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Paysage_%C3%A0_Port-Goulphar.jpg/960px-Paysage_%C3%A0_Port-Goulphar.jpg",
+      "imageCredit": {
+        "text": "Rocks at Port-Goulphar, Belle-Île · Claude Monet · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Paysage_%C3%A0_Port-Goulphar.jpg"
+      },
+      "description": "Caparazones vacíos rodean una caja cerrada sobre arena seca. El lugar queda rodeado por agua, aunque sus límites se descubren poco a poco. Desde la llegada se distinguen rutas hacia el interior y señales de que otras personas eligieron accesos diferentes.\n\nEl viento lleva noticias del agua incluso cuando esta queda fuera de la vista. Los recursos aparecen agrupados en pequeños espacios, y cualquier construcción parece responder a la necesidad de conservarlos. En las elevaciones se reconocen referencias para navegar; cerca de las orillas, los rastros de desembarco se mezclan con lo que han dejado las corrientes.\n\nUn detalle aparece repetido tres veces, con ligeras diferencias. La primera versión está gastada, la segunda incompleta y la tercera apenas alterada. Entre ellas queda espacio suficiente para imaginar una secuencia que todavía no termina. La primera impresión invita a seguir, pero un examen pausado ofrece otra posibilidad: detenerse, comparar los rastros y decidir qué detalle merece atención antes de abandonar el sitio.",
+      "musicUrl": "https://www.youtube.com/results?search_query=mysterious%20island%20ambient",
+      "abilities": [
+        "Entorno: Islas y archipiélagos. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Caparazones vacíos rodean una caja cerrada sobre arena seca. Una pertenencia perdida cerca de este detalle identifica a un viajero. Devolverla puede abrir una conversación; conservarla puede provocar una reclamación posterior, sin presumir que sea un tesoro abandonado.",
+        "Rumbo opcional: Los habitantes o visitantes esperan un transporte que no llega. Reparar una embarcación, investigar una señal o decidir qué suministros compartir permite abrir una historia sin imponer un naufragio.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Mapa. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Serpiente constrictora. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Mapa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-mapa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-islas-03",
+      "kind": "terrain",
+      "name": "Isla de las Palmas Gemelas",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Paysage_%C3%A0_Port-Goulphar.jpg/960px-Paysage_%C3%A0_Port-Goulphar.jpg",
+      "imageCredit": {
+        "text": "Rocks at Port-Goulphar, Belle-Île · Claude Monet · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Paysage_%C3%A0_Port-Goulphar.jpg"
+      },
+      "description": "Dos palmeras enlazadas dominan un pozo protegido por tablas. El lugar queda rodeado por agua, aunque sus límites se descubren poco a poco. Desde la llegada se distinguen rutas hacia el interior y señales de que otras personas eligieron accesos diferentes.\n\nEl viento lleva noticias del agua incluso cuando esta queda fuera de la vista. Los recursos aparecen agrupados en pequeños espacios, y cualquier construcción parece responder a la necesidad de conservarlos. En las elevaciones se reconocen referencias para navegar; cerca de las orillas, los rastros de desembarco se mezclan con lo que han dejado las corrientes.\n\nUna señal visible desde lejos tiene otra cara que solo se descubre al acercarse. Ambas están trabajadas de manera distinta. La parte oculta conserva un detalle que parece haber sido añadido después de terminar la primera. Desde esta posición se puede distinguir por dónde llegó la última presencia conocida. Su destino, en cambio, permanece fuera de la vista y no coincide necesariamente con la salida más evidente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=mysterious%20island%20ambient",
+      "abilities": [
+        "Entorno: Islas y archipiélagos. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Dos palmeras enlazadas dominan un pozo protegido por tablas. Dos grupos atribuyen significados distintos a este detalle. El master puede permitir una solución que respete ambos usos, o presentar las consecuencias de favorecer a uno de ellos.",
+        "Rumbo opcional: Los habitantes o visitantes esperan un transporte que no llega. Reparar una embarcación, investigar una señal o decidir qué suministros compartir permite abrir una historia sin imponer un naufragio.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Mapa. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Serpiente constrictora. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Serpiente constrictora. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-serpiente-constrictora"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-islas-04",
+      "kind": "terrain",
+      "name": "Archipiélago de las Pasarelas",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Paysage_%C3%A0_Port-Goulphar.jpg/960px-Paysage_%C3%A0_Port-Goulphar.jpg",
+      "imageCredit": {
+        "text": "Rocks at Port-Goulphar, Belle-Île · Claude Monet · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Paysage_%C3%A0_Port-Goulphar.jpg"
+      },
+      "description": "Pasarelas desmontables unen islotes separados por canales estrechos. El lugar queda rodeado por agua, aunque sus límites se descubren poco a poco. Desde la llegada se distinguen rutas hacia el interior y señales de que otras personas eligieron accesos diferentes.\n\nEl viento lleva noticias del agua incluso cuando esta queda fuera de la vista. Los recursos aparecen agrupados en pequeños espacios, y cualquier construcción parece responder a la necesidad de conservarlos. En las elevaciones se reconocen referencias para navegar; cerca de las orillas, los rastros de desembarco se mezclan con lo que han dejado las corrientes.\n\nLa distribución del lugar parece responder a una costumbre olvidada. Quien lo preparó dejó espacio alrededor de un punto central; nadie ha ocupado ese hueco, aunque todo lo demás muestra rastros de uso. El entorno guarda suficiente silencio entre sus sonidos para escuchar lo que ocurra después. Ninguna señal obliga a intervenir; aun así, cuesta ignorar el detalle que se aparta de todos los demás.",
+      "musicUrl": "https://www.youtube.com/results?search_query=mysterious%20island%20ambient",
+      "abilities": [
+        "Entorno: Islas y archipiélagos. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Pasarelas desmontables unen islotes separados por canales estrechos. Las señales de uso reciente pertenecen a alguien que evita ser encontrado. Puede necesitar ayuda, intimidad o protección; investigar no demuestra por sí solo culpabilidad ni hostilidad.",
+        "Rumbo opcional: Los habitantes o visitantes esperan un transporte que no llega. Reparar una embarcación, investigar una señal o decidir qué suministros compartir permite abrir una historia sin imponer un naufragio.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Mapa. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Serpiente constrictora. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Iria, la cartógrafa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-cartografa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-islas-05",
+      "kind": "terrain",
+      "name": "Isla del Jardín Circular",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Paysage_%C3%A0_Port-Goulphar.jpg/960px-Paysage_%C3%A0_Port-Goulphar.jpg",
+      "imageCredit": {
+        "text": "Rocks at Port-Goulphar, Belle-Île · Claude Monet · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Paysage_%C3%A0_Port-Goulphar.jpg"
+      },
+      "description": "Un jardín circular ocupa el centro de una isla de costas pedregosas. El lugar queda rodeado por agua, aunque sus límites se descubren poco a poco. Desde la llegada se distinguen rutas hacia el interior y señales de que otras personas eligieron accesos diferentes.\n\nEl viento lleva noticias del agua incluso cuando esta queda fuera de la vista. Los recursos aparecen agrupados en pequeños espacios, y cualquier construcción parece responder a la necesidad de conservarlos. En las elevaciones se reconocen referencias para navegar; cerca de las orillas, los rastros de desembarco se mezclan con lo que han dejado las corrientes.\n\nLa vista cambia al dar unos pasos hacia un lateral. Lo que desde la entrada parecía un obstáculo se convierte en una referencia útil, y detrás aparece una continuidad que no resultaba evidente a primera vista. Más allá del punto de entrada queda una perspectiva por descubrir. Desde aquí solo se percibe una parte del lugar; para conocer el resto habría que acercarse y cambiar el ángulo de observación.",
+      "musicUrl": "https://www.youtube.com/results?search_query=mysterious%20island%20ambient",
+      "abilities": [
+        "Entorno: Islas y archipiélagos. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Un jardín circular ocupa el centro de una isla de costas pedregosas. Un cambio de tiempo amenaza con borrar o dañar este detalle. Documentarlo o protegerlo ofrece una tarea breve cuya urgencia puede ajustarse al ritmo de la sesión.",
+        "Rumbo opcional: Los habitantes o visitantes esperan un transporte que no llega. Reparar una embarcación, investigar una señal o decidir qué suministros compartir permite abrir una historia sin imponer un naufragio.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Mapa. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Serpiente constrictora. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Mapa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-mapa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-islas-06",
+      "kind": "terrain",
+      "name": "Islote del Ermitaño Ausente",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Paysage_%C3%A0_Port-Goulphar.jpg/960px-Paysage_%C3%A0_Port-Goulphar.jpg",
+      "imageCredit": {
+        "text": "Rocks at Port-Goulphar, Belle-Île · Claude Monet · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Paysage_%C3%A0_Port-Goulphar.jpg"
+      },
+      "description": "Una pequeña casa conserva comida tapada y una puerta sin cerrojo. El lugar queda rodeado por agua, aunque sus límites se descubren poco a poco. Desde la llegada se distinguen rutas hacia el interior y señales de que otras personas eligieron accesos diferentes.\n\nEl viento lleva noticias del agua incluso cuando esta queda fuera de la vista. Los recursos aparecen agrupados en pequeños espacios, y cualquier construcción parece responder a la necesidad de conservarlos. En las elevaciones se reconocen referencias para navegar; cerca de las orillas, los rastros de desembarco se mezclan con lo que han dejado las corrientes.\n\nHay un elemento desplazado respecto a todos los demás. No está roto ni parece a punto de caer; sencillamente apunta hacia otro lado. Su posición permite ver un tramo del lugar que las otras referencias ocultan. El lugar no revela de inmediato si espera visitantes o si intenta mantenerlos a distancia. Sus señales admiten ambas lecturas, y el siguiente paso puede aclarar cuál resulta más convincente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=mysterious%20island%20ambient",
+      "abilities": [
+        "Entorno: Islas y archipiélagos. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Una pequeña casa conserva comida tapada y una puerta sin cerrojo. Una persona ofrece un objeto útil si el grupo comprueba qué ha cambiado aquí. La información obtenida puede interesar a otra persona y conectar este lugar con una visita anterior.",
+        "Rumbo opcional: Los habitantes o visitantes esperan un transporte que no llega. Reparar una embarcación, investigar una señal o decidir qué suministros compartir permite abrir una historia sin imponer un naufragio.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Mapa. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Serpiente constrictora. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Serpiente constrictora. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-serpiente-constrictora"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-islas-07",
+      "kind": "terrain",
+      "name": "Isla de los Barcos Colgados",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Paysage_%C3%A0_Port-Goulphar.jpg/960px-Paysage_%C3%A0_Port-Goulphar.jpg",
+      "imageCredit": {
+        "text": "Rocks at Port-Goulphar, Belle-Île · Claude Monet · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Paysage_%C3%A0_Port-Goulphar.jpg"
+      },
+      "description": "Pequeños barcos cuelgan entre árboles como si fueran depósitos elevados. El lugar queda rodeado por agua, aunque sus límites se descubren poco a poco. Desde la llegada se distinguen rutas hacia el interior y señales de que otras personas eligieron accesos diferentes.\n\nEl viento lleva noticias del agua incluso cuando esta queda fuera de la vista. Los recursos aparecen agrupados en pequeños espacios, y cualquier construcción parece responder a la necesidad de conservarlos. En las elevaciones se reconocen referencias para navegar; cerca de las orillas, los rastros de desembarco se mezclan con lo que han dejado las corrientes.\n\nLas marcas del paso de otros viajeros se interrumpen en un punto concreto. Una señal reciente se superpone a otra mucho más antigua; las dos parecen señalar destinos distintos, aunque ninguna ofrece una explicación. La primera impresión invita a seguir, pero un examen pausado ofrece otra posibilidad: detenerse, comparar los rastros y decidir qué detalle merece atención antes de abandonar el sitio.",
+      "musicUrl": "https://www.youtube.com/results?search_query=mysterious%20island%20ambient",
+      "abilities": [
+        "Entorno: Islas y archipiélagos. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Pequeños barcos cuelgan entre árboles como si fueran depósitos elevados. Este lugar admite una escena tranquila de observación o conversación. El master puede usar el detalle visible para recordar un vínculo del personaje sin introducir un nuevo conflicto.",
+        "Rumbo opcional: Los habitantes o visitantes esperan un transporte que no llega. Reparar una embarcación, investigar una señal o decidir qué suministros compartir permite abrir una historia sin imponer un naufragio.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Mapa. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Serpiente constrictora. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Iria, la cartógrafa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-cartografa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-islas-08",
+      "kind": "terrain",
+      "name": "Isla de la Arena Violeta",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Paysage_%C3%A0_Port-Goulphar.jpg/960px-Paysage_%C3%A0_Port-Goulphar.jpg",
+      "imageCredit": {
+        "text": "Rocks at Port-Goulphar, Belle-Île · Claude Monet · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Paysage_%C3%A0_Port-Goulphar.jpg"
+      },
+      "description": "Arena violácea cubre la playa alrededor de una fuente transparente. El lugar queda rodeado por agua, aunque sus límites se descubren poco a poco. Desde la llegada se distinguen rutas hacia el interior y señales de que otras personas eligieron accesos diferentes.\n\nEl viento lleva noticias del agua incluso cuando esta queda fuera de la vista. Los recursos aparecen agrupados en pequeños espacios, y cualquier construcción parece responder a la necesidad de conservarlos. En las elevaciones se reconocen referencias para navegar; cerca de las orillas, los rastros de desembarco se mezclan con lo que han dejado las corrientes.\n\nAl prestar atención se descubren dos sonidos que no siguen el mismo ritmo. Uno pertenece claramente al entorno; el otro aparece y desaparece sin que sea posible localizar su origen desde la entrada. Desde esta posición se puede distinguir por dónde llegó la última presencia conocida. Su destino, en cambio, permanece fuera de la vista y no coincide necesariamente con la salida más evidente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=mysterious%20island%20ambient",
+      "abilities": [
+        "Entorno: Islas y archipiélagos. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Arena violácea cubre la playa alrededor de una fuente transparente. Una persona conoce el origen de este detalle, pero su versión contradice la de quien lo cuida. Contrastar ambas historias puede revelar una necesidad que ninguna admite en público.",
+        "Rumbo opcional: Los habitantes o visitantes esperan un transporte que no llega. Reparar una embarcación, investigar una señal o decidir qué suministros compartir permite abrir una historia sin imponer un naufragio.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Mapa. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Serpiente constrictora. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Mapa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-mapa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-islas-09",
+      "kind": "terrain",
+      "name": "Archipiélago de las Torres Huecas",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Paysage_%C3%A0_Port-Goulphar.jpg/960px-Paysage_%C3%A0_Port-Goulphar.jpg",
+      "imageCredit": {
+        "text": "Rocks at Port-Goulphar, Belle-Île · Claude Monet · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Paysage_%C3%A0_Port-Goulphar.jpg"
+      },
+      "description": "Torres sin techo se levantan en islas de tamaños distintos. El lugar queda rodeado por agua, aunque sus límites se descubren poco a poco. Desde la llegada se distinguen rutas hacia el interior y señales de que otras personas eligieron accesos diferentes.\n\nEl viento lleva noticias del agua incluso cuando esta queda fuera de la vista. Los recursos aparecen agrupados en pequeños espacios, y cualquier construcción parece responder a la necesidad de conservarlos. En las elevaciones se reconocen referencias para navegar; cerca de las orillas, los rastros de desembarco se mezclan con lo que han dejado las corrientes.\n\nUna marca antigua se ha respetado a pesar de los cambios del entorno. Las reparaciones y el tránsito la rodean en lugar de cubrirla. Parece importar a alguien, aunque su significado no se reconoce de inmediato. El entorno guarda suficiente silencio entre sus sonidos para escuchar lo que ocurra después. Ninguna señal obliga a intervenir; aun así, cuesta ignorar el detalle que se aparta de todos los demás.",
+      "musicUrl": "https://www.youtube.com/results?search_query=mysterious%20island%20ambient",
+      "abilities": [
+        "Entorno: Islas y archipiélagos. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Torres sin techo se levantan en islas de tamaños distintos. Este detalle sirve como señal para una cita. El grupo puede encontrar a quien espera, descubrir por qué nadie acudió o dejar un mensaje para continuar la historia más adelante.",
+        "Rumbo opcional: Los habitantes o visitantes esperan un transporte que no llega. Reparar una embarcación, investigar una señal o decidir qué suministros compartir permite abrir una historia sin imponer un naufragio.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Mapa. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Serpiente constrictora. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Serpiente constrictora. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-serpiente-constrictora"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-islas-10",
+      "kind": "terrain",
+      "name": "Isla de la Campana Rajada",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Paysage_%C3%A0_Port-Goulphar.jpg/960px-Paysage_%C3%A0_Port-Goulphar.jpg",
+      "imageCredit": {
+        "text": "Rocks at Port-Goulphar, Belle-Île · Claude Monet · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Paysage_%C3%A0_Port-Goulphar.jpg"
+      },
+      "description": "Una campana rajada descansa sobre un pedestal visible desde la costa. El lugar queda rodeado por agua, aunque sus límites se descubren poco a poco. Desde la llegada se distinguen rutas hacia el interior y señales de que otras personas eligieron accesos diferentes.\n\nEl viento lleva noticias del agua incluso cuando esta queda fuera de la vista. Los recursos aparecen agrupados en pequeños espacios, y cualquier construcción parece responder a la necesidad de conservarlos. En las elevaciones se reconocen referencias para navegar; cerca de las orillas, los rastros de desembarco se mezclan con lo que han dejado las corrientes.\n\nAl detenerse, el entorno revela movimientos discretos que pasan inadvertidos al caminar. Ninguno parece acercarse directamente. Sin embargo, todos evitan el mismo punto, situado un poco más allá del acceso principal. Más allá del punto de entrada queda una perspectiva por descubrir. Desde aquí solo se percibe una parte del lugar; para conocer el resto habría que acercarse y cambiar el ángulo de observación.",
+      "musicUrl": "https://www.youtube.com/results?search_query=mysterious%20island%20ambient",
+      "abilities": [
+        "Entorno: Islas y archipiélagos. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Una campana rajada descansa sobre un pedestal visible desde la costa. Una reparación sencilla permitiría volver a utilizar este lugar. Sus responsables ofrecen información o alojamiento a cambio; decidir quién se beneficiará importa más que obtener una recompensa material.",
+        "Rumbo opcional: Los habitantes o visitantes esperan un transporte que no llega. Reparar una embarcación, investigar una señal o decidir qué suministros compartir permite abrir una historia sin imponer un naufragio.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Mapa. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Serpiente constrictora. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Iria, la cartógrafa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-cartografa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-islas-11",
+      "kind": "terrain",
+      "name": "Islote de las Plumas Largas",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Paysage_%C3%A0_Port-Goulphar.jpg/960px-Paysage_%C3%A0_Port-Goulphar.jpg",
+      "imageCredit": {
+        "text": "Rocks at Port-Goulphar, Belle-Île · Claude Monet · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Paysage_%C3%A0_Port-Goulphar.jpg"
+      },
+      "description": "Plumas de gran tamaño se acumulan junto a marcas de garras. El lugar queda rodeado por agua, aunque sus límites se descubren poco a poco. Desde la llegada se distinguen rutas hacia el interior y señales de que otras personas eligieron accesos diferentes.\n\nEl viento lleva noticias del agua incluso cuando esta queda fuera de la vista. Los recursos aparecen agrupados en pequeños espacios, y cualquier construcción parece responder a la necesidad de conservarlos. En las elevaciones se reconocen referencias para navegar; cerca de las orillas, los rastros de desembarco se mezclan con lo que han dejado las corrientes.\n\nHay una pequeña zona resguardada del entorno, suficiente para detenerse y observar sin estorbar el paso. Desde allí se aprecia un detalle que, visto de frente, quedaba escondido detrás de los demás. El lugar no revela de inmediato si espera visitantes o si intenta mantenerlos a distancia. Sus señales admiten ambas lecturas, y el siguiente paso puede aclarar cuál resulta más convincente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=mysterious%20island%20ambient",
+      "abilities": [
+        "Entorno: Islas y archipiélagos. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Plumas de gran tamaño se acumulan junto a marcas de garras. Alguien ha reproducido este detalle en un mapa incompleto. Seguir la siguiente marca puede llevar a otro terreno del mismo entorno, sin exigir que la ruta sea peligrosa.",
+        "Rumbo opcional: Los habitantes o visitantes esperan un transporte que no llega. Reparar una embarcación, investigar una señal o decidir qué suministros compartir permite abrir una historia sin imponer un naufragio.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Mapa. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Serpiente constrictora. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Mapa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-mapa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-islas-12",
+      "kind": "terrain",
+      "name": "Isla del Lago Interior",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Paysage_%C3%A0_Port-Goulphar.jpg/960px-Paysage_%C3%A0_Port-Goulphar.jpg",
+      "imageCredit": {
+        "text": "Rocks at Port-Goulphar, Belle-Île · Claude Monet · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Paysage_%C3%A0_Port-Goulphar.jpg"
+      },
+      "description": "Un lago quieto queda separado del mar por una cresta de tierra. El lugar queda rodeado por agua, aunque sus límites se descubren poco a poco. Desde la llegada se distinguen rutas hacia el interior y señales de que otras personas eligieron accesos diferentes.\n\nEl viento lleva noticias del agua incluso cuando esta queda fuera de la vista. Los recursos aparecen agrupados en pequeños espacios, y cualquier construcción parece responder a la necesidad de conservarlos. En las elevaciones se reconocen referencias para navegar; cerca de las orillas, los rastros de desembarco se mezclan con lo que han dejado las corrientes.\n\nEn un rincón se conserva algo que el resto del lugar ha perdido: una forma intacta, una superficie limpia o un color más vivo. La diferencia llama la atención precisamente porque no se repite en ninguna otra parte. La primera impresión invita a seguir, pero un examen pausado ofrece otra posibilidad: detenerse, comparar los rastros y decidir qué detalle merece atención antes de abandonar el sitio.",
+      "musicUrl": "https://www.youtube.com/results?search_query=mysterious%20island%20ambient",
+      "abilities": [
+        "Entorno: Islas y archipiélagos. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Un lago quieto queda separado del mar por una cresta de tierra. Una pertenencia perdida cerca de este detalle identifica a un viajero. Devolverla puede abrir una conversación; conservarla puede provocar una reclamación posterior, sin presumir que sea un tesoro abandonado.",
+        "Rumbo opcional: Los habitantes o visitantes esperan un transporte que no llega. Reparar una embarcación, investigar una señal o decidir qué suministros compartir permite abrir una historia sin imponer un naufragio.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Mapa. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Serpiente constrictora. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Serpiente constrictora. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-serpiente-constrictora"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-islas-13",
+      "kind": "terrain",
+      "name": "Isla de los Mástiles Vivos",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Paysage_%C3%A0_Port-Goulphar.jpg/960px-Paysage_%C3%A0_Port-Goulphar.jpg",
+      "imageCredit": {
+        "text": "Rocks at Port-Goulphar, Belle-Île · Claude Monet · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Paysage_%C3%A0_Port-Goulphar.jpg"
+      },
+      "description": "Árboles crecen junto a mástiles antiguos sujetos mediante raíces. El lugar queda rodeado por agua, aunque sus límites se descubren poco a poco. Desde la llegada se distinguen rutas hacia el interior y señales de que otras personas eligieron accesos diferentes.\n\nEl viento lleva noticias del agua incluso cuando esta queda fuera de la vista. Los recursos aparecen agrupados en pequeños espacios, y cualquier construcción parece responder a la necesidad de conservarlos. En las elevaciones se reconocen referencias para navegar; cerca de las orillas, los rastros de desembarco se mezclan con lo que han dejado las corrientes.\n\nEl camino de entrada no ofrece la mejor vista del lugar. Un giro descubre un espacio menor, protegido por las formas del entorno. Allí los rastros se ordenan de manera diferente y parecen corresponder a otra actividad. Desde esta posición se puede distinguir por dónde llegó la última presencia conocida. Su destino, en cambio, permanece fuera de la vista y no coincide necesariamente con la salida más evidente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=mysterious%20island%20ambient",
+      "abilities": [
+        "Entorno: Islas y archipiélagos. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Árboles crecen junto a mástiles antiguos sujetos mediante raíces. Dos grupos atribuyen significados distintos a este detalle. El master puede permitir una solución que respete ambos usos, o presentar las consecuencias de favorecer a uno de ellos.",
+        "Rumbo opcional: Los habitantes o visitantes esperan un transporte que no llega. Reparar una embarcación, investigar una señal o decidir qué suministros compartir permite abrir una historia sin imponer un naufragio.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Mapa. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Serpiente constrictora. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Iria, la cartógrafa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-cartografa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-islas-14",
+      "kind": "terrain",
+      "name": "Archipiélago de las Mareas Cruzadas",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Paysage_%C3%A0_Port-Goulphar.jpg/960px-Paysage_%C3%A0_Port-Goulphar.jpg",
+      "imageCredit": {
+        "text": "Rocks at Port-Goulphar, Belle-Île · Claude Monet · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Paysage_%C3%A0_Port-Goulphar.jpg"
+      },
+      "description": "Dos corrientes dibujan líneas opuestas entre los canales de desembarco. El lugar queda rodeado por agua, aunque sus límites se descubren poco a poco. Desde la llegada se distinguen rutas hacia el interior y señales de que otras personas eligieron accesos diferentes.\n\nEl viento lleva noticias del agua incluso cuando esta queda fuera de la vista. Los recursos aparecen agrupados en pequeños espacios, y cualquier construcción parece responder a la necesidad de conservarlos. En las elevaciones se reconocen referencias para navegar; cerca de las orillas, los rastros de desembarco se mezclan con lo que han dejado las corrientes.\n\nEntre los restos del uso cotidiano hay una interrupción clara. Algo ocurrió aquí antes de que la actividad se reanudara. Las señales posteriores atraviesan las anteriores, pero no llegan a borrarlas por completo. El entorno guarda suficiente silencio entre sus sonidos para escuchar lo que ocurra después. Ninguna señal obliga a intervenir; aun así, cuesta ignorar el detalle que se aparta de todos los demás.",
+      "musicUrl": "https://www.youtube.com/results?search_query=mysterious%20island%20ambient",
+      "abilities": [
+        "Entorno: Islas y archipiélagos. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Dos corrientes dibujan líneas opuestas entre los canales de desembarco. Las señales de uso reciente pertenecen a alguien que evita ser encontrado. Puede necesitar ayuda, intimidad o protección; investigar no demuestra por sí solo culpabilidad ni hostilidad.",
+        "Rumbo opcional: Los habitantes o visitantes esperan un transporte que no llega. Reparar una embarcación, investigar una señal o decidir qué suministros compartir permite abrir una historia sin imponer un naufragio.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Mapa. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Serpiente constrictora. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Mapa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-mapa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-islas-15",
+      "kind": "terrain",
+      "name": "Isla de las Máscaras Blancas",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Paysage_%C3%A0_Port-Goulphar.jpg/960px-Paysage_%C3%A0_Port-Goulphar.jpg",
+      "imageCredit": {
+        "text": "Rocks at Port-Goulphar, Belle-Île · Claude Monet · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Paysage_%C3%A0_Port-Goulphar.jpg"
+      },
+      "description": "Máscaras blancas cuelgan sobre entradas excavadas en una ladera. El lugar queda rodeado por agua, aunque sus límites se descubren poco a poco. Desde la llegada se distinguen rutas hacia el interior y señales de que otras personas eligieron accesos diferentes.\n\nEl viento lleva noticias del agua incluso cuando esta queda fuera de la vista. Los recursos aparecen agrupados en pequeños espacios, y cualquier construcción parece responder a la necesidad de conservarlos. En las elevaciones se reconocen referencias para navegar; cerca de las orillas, los rastros de desembarco se mezclan con lo que han dejado las corrientes.\n\nUna línea de pequeñas señales recorre el límite del lugar. Algunas están casi borradas y otras parecen recientes. Su separación es regular hasta el último tramo, donde falta una y las restantes se acumulan. Más allá del punto de entrada queda una perspectiva por descubrir. Desde aquí solo se percibe una parte del lugar; para conocer el resto habría que acercarse y cambiar el ángulo de observación.",
+      "musicUrl": "https://www.youtube.com/results?search_query=mysterious%20island%20ambient",
+      "abilities": [
+        "Entorno: Islas y archipiélagos. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Máscaras blancas cuelgan sobre entradas excavadas en una ladera. Un cambio de tiempo amenaza con borrar o dañar este detalle. Documentarlo o protegerlo ofrece una tarea breve cuya urgencia puede ajustarse al ritmo de la sesión.",
+        "Rumbo opcional: Los habitantes o visitantes esperan un transporte que no llega. Reparar una embarcación, investigar una señal o decidir qué suministros compartir permite abrir una historia sin imponer un naufragio.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Mapa. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Serpiente constrictora. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Serpiente constrictora. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-serpiente-constrictora"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-islas-16",
+      "kind": "terrain",
+      "name": "Islote del Puente Hundido",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Paysage_%C3%A0_Port-Goulphar.jpg/960px-Paysage_%C3%A0_Port-Goulphar.jpg",
+      "imageCredit": {
+        "text": "Rocks at Port-Goulphar, Belle-Île · Claude Monet · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Paysage_%C3%A0_Port-Goulphar.jpg"
+      },
+      "description": "Un puente emerge bajo el agua y apunta hacia otra isla cercana. El lugar queda rodeado por agua, aunque sus límites se descubren poco a poco. Desde la llegada se distinguen rutas hacia el interior y señales de que otras personas eligieron accesos diferentes.\n\nEl viento lleva noticias del agua incluso cuando esta queda fuera de la vista. Los recursos aparecen agrupados en pequeños espacios, y cualquier construcción parece responder a la necesidad de conservarlos. En las elevaciones se reconocen referencias para navegar; cerca de las orillas, los rastros de desembarco se mezclan con lo que han dejado las corrientes.\n\nSe advierte una elección deliberada entre dos recorridos. Uno es sencillo y muy visible; el otro exige acercarse para reconocerlo. Ambos desembocan fuera de la vista, sin revelar todavía qué los distingue al final. El lugar no revela de inmediato si espera visitantes o si intenta mantenerlos a distancia. Sus señales admiten ambas lecturas, y el siguiente paso puede aclarar cuál resulta más convincente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=mysterious%20island%20ambient",
+      "abilities": [
+        "Entorno: Islas y archipiélagos. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Un puente emerge bajo el agua y apunta hacia otra isla cercana. Una persona ofrece un objeto útil si el grupo comprueba qué ha cambiado aquí. La información obtenida puede interesar a otra persona y conectar este lugar con una visita anterior.",
+        "Rumbo opcional: Los habitantes o visitantes esperan un transporte que no llega. Reparar una embarcación, investigar una señal o decidir qué suministros compartir permite abrir una historia sin imponer un naufragio.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Mapa. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Serpiente constrictora. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Iria, la cartógrafa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-cartografa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-islas-17",
+      "kind": "terrain",
+      "name": "Isla de los Huertos de Sal",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Paysage_%C3%A0_Port-Goulphar.jpg/960px-Paysage_%C3%A0_Port-Goulphar.jpg",
+      "imageCredit": {
+        "text": "Rocks at Port-Goulphar, Belle-Île · Claude Monet · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Paysage_%C3%A0_Port-Goulphar.jpg"
+      },
+      "description": "Huertos elevados comparten canales estrechos junto a barreras de piedra. El lugar queda rodeado por agua, aunque sus límites se descubren poco a poco. Desde la llegada se distinguen rutas hacia el interior y señales de que otras personas eligieron accesos diferentes.\n\nEl viento lleva noticias del agua incluso cuando esta queda fuera de la vista. Los recursos aparecen agrupados en pequeños espacios, y cualquier construcción parece responder a la necesidad de conservarlos. En las elevaciones se reconocen referencias para navegar; cerca de las orillas, los rastros de desembarco se mezclan con lo que han dejado las corrientes.\n\nUn espacio pequeño ha quedado deliberadamente vacío. A su alrededor se reconocen señales de actividad, pero ninguna lo atraviesa. La ausencia no demuestra peligro: también podría tratarse de una reserva, una costumbre o una simple espera. La primera impresión invita a seguir, pero un examen pausado ofrece otra posibilidad: detenerse, comparar los rastros y decidir qué detalle merece atención antes de abandonar el sitio.",
+      "musicUrl": "https://www.youtube.com/results?search_query=mysterious%20island%20ambient",
+      "abilities": [
+        "Entorno: Islas y archipiélagos. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Huertos elevados comparten canales estrechos junto a barreras de piedra. Este lugar admite una escena tranquila de observación o conversación. El master puede usar el detalle visible para recordar un vínculo del personaje sin introducir un nuevo conflicto.",
+        "Rumbo opcional: Los habitantes o visitantes esperan un transporte que no llega. Reparar una embarcación, investigar una señal o decidir qué suministros compartir permite abrir una historia sin imponer un naufragio.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Mapa. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Serpiente constrictora. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Mapa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-mapa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-islas-18",
+      "kind": "terrain",
+      "name": "Isla del Cráter Verde",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Paysage_%C3%A0_Port-Goulphar.jpg/960px-Paysage_%C3%A0_Port-Goulphar.jpg",
+      "imageCredit": {
+        "text": "Rocks at Port-Goulphar, Belle-Île · Claude Monet · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Paysage_%C3%A0_Port-Goulphar.jpg"
+      },
+      "description": "Vegetación espesa llena un cráter con una escalera tallada en el borde. El lugar queda rodeado por agua, aunque sus límites se descubren poco a poco. Desde la llegada se distinguen rutas hacia el interior y señales de que otras personas eligieron accesos diferentes.\n\nEl viento lleva noticias del agua incluso cuando esta queda fuera de la vista. Los recursos aparecen agrupados en pequeños espacios, y cualquier construcción parece responder a la necesidad de conservarlos. En las elevaciones se reconocen referencias para navegar; cerca de las orillas, los rastros de desembarco se mezclan con lo que han dejado las corrientes.\n\nDesde un extremo se distingue un segundo acceso, estrecho y parcialmente oculto. La ruta principal invita a continuar, pero el desvío conserva señales de uso que no encajan con su aspecto abandonado. Desde esta posición se puede distinguir por dónde llegó la última presencia conocida. Su destino, en cambio, permanece fuera de la vista y no coincide necesariamente con la salida más evidente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=mysterious%20island%20ambient",
+      "abilities": [
+        "Entorno: Islas y archipiélagos. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Vegetación espesa llena un cráter con una escalera tallada en el borde. Una persona conoce el origen de este detalle, pero su versión contradice la de quien lo cuida. Contrastar ambas historias puede revelar una necesidad que ninguna admite en público.",
+        "Rumbo opcional: Los habitantes o visitantes esperan un transporte que no llega. Reparar una embarcación, investigar una señal o decidir qué suministros compartir permite abrir una historia sin imponer un naufragio.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Mapa. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Serpiente constrictora. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Serpiente constrictora. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-serpiente-constrictora"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-islas-19",
+      "kind": "terrain",
+      "name": "Archipiélago de las Luces Bajas",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Paysage_%C3%A0_Port-Goulphar.jpg/960px-Paysage_%C3%A0_Port-Goulphar.jpg",
+      "imageCredit": {
+        "text": "Rocks at Port-Goulphar, Belle-Île · Claude Monet · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Paysage_%C3%A0_Port-Goulphar.jpg"
+      },
+      "description": "Luces protegidas por pantallas señalan entradas próximas al nivel del agua. El lugar queda rodeado por agua, aunque sus límites se descubren poco a poco. Desde la llegada se distinguen rutas hacia el interior y señales de que otras personas eligieron accesos diferentes.\n\nEl viento lleva noticias del agua incluso cuando esta queda fuera de la vista. Los recursos aparecen agrupados en pequeños espacios, y cualquier construcción parece responder a la necesidad de conservarlos. En las elevaciones se reconocen referencias para navegar; cerca de las orillas, los rastros de desembarco se mezclan con lo que han dejado las corrientes.\n\nExiste un pequeño espacio de tránsito entre el exterior y la parte más protegida. Allí se acumulan señales de espera, como si quienes llegaron antes hubieran tenido que detenerse antes de recibir permiso para continuar. El entorno guarda suficiente silencio entre sus sonidos para escuchar lo que ocurra después. Ninguna señal obliga a intervenir; aun así, cuesta ignorar el detalle que se aparta de todos los demás.",
+      "musicUrl": "https://www.youtube.com/results?search_query=mysterious%20island%20ambient",
+      "abilities": [
+        "Entorno: Islas y archipiélagos. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Luces protegidas por pantallas señalan entradas próximas al nivel del agua. Este detalle sirve como señal para una cita. El grupo puede encontrar a quien espera, descubrir por qué nadie acudió o dejar un mensaje para continuar la historia más adelante.",
+        "Rumbo opcional: Los habitantes o visitantes esperan un transporte que no llega. Reparar una embarcación, investigar una señal o decidir qué suministros compartir permite abrir una historia sin imponer un naufragio.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Mapa. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Serpiente constrictora. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Iria, la cartógrafa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-cartografa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-islas-20",
+      "kind": "terrain",
+      "name": "Isla del Astillero Silencioso",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Paysage_%C3%A0_Port-Goulphar.jpg/960px-Paysage_%C3%A0_Port-Goulphar.jpg",
+      "imageCredit": {
+        "text": "Rocks at Port-Goulphar, Belle-Île · Claude Monet · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Paysage_%C3%A0_Port-Goulphar.jpg"
+      },
+      "description": "Un casco a medio construir permanece sobre soportes cuidadosamente alineados. El lugar queda rodeado por agua, aunque sus límites se descubren poco a poco. Desde la llegada se distinguen rutas hacia el interior y señales de que otras personas eligieron accesos diferentes.\n\nEl viento lleva noticias del agua incluso cuando esta queda fuera de la vista. Los recursos aparecen agrupados en pequeños espacios, y cualquier construcción parece responder a la necesidad de conservarlos. En las elevaciones se reconocen referencias para navegar; cerca de las orillas, los rastros de desembarco se mezclan con lo que han dejado las corrientes.\n\nAlgo ha dejado una sombra o una huella sin permanecer en su sitio. El contorno resulta más claro que el resto de las señales cercanas. Alrededor, nada indica si fue retirado con cuidado o llevado apresuradamente. Más allá del punto de entrada queda una perspectiva por descubrir. Desde aquí solo se percibe una parte del lugar; para conocer el resto habría que acercarse y cambiar el ángulo de observación.",
+      "musicUrl": "https://www.youtube.com/results?search_query=mysterious%20island%20ambient",
+      "abilities": [
+        "Entorno: Islas y archipiélagos. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Un casco a medio construir permanece sobre soportes cuidadosamente alineados. Una reparación sencilla permitiría volver a utilizar este lugar. Sus responsables ofrecen información o alojamiento a cambio; decidir quién se beneficiará importa más que obtener una recompensa material.",
+        "Rumbo opcional: Los habitantes o visitantes esperan un transporte que no llega. Reparar una embarcación, investigar una señal o decidir qué suministros compartir permite abrir una historia sin imponer un naufragio.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Mapa. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Serpiente constrictora. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Mapa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-mapa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-islas-21",
+      "kind": "terrain",
+      "name": "Islote de las Cuerdas Secas",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Paysage_%C3%A0_Port-Goulphar.jpg/960px-Paysage_%C3%A0_Port-Goulphar.jpg",
+      "imageCredit": {
+        "text": "Rocks at Port-Goulphar, Belle-Île · Claude Monet · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Paysage_%C3%A0_Port-Goulphar.jpg"
+      },
+      "description": "Cuerdas tendidas entre postes guardan nudos de formas diferentes. El lugar queda rodeado por agua, aunque sus límites se descubren poco a poco. Desde la llegada se distinguen rutas hacia el interior y señales de que otras personas eligieron accesos diferentes.\n\nEl viento lleva noticias del agua incluso cuando esta queda fuera de la vista. Los recursos aparecen agrupados en pequeños espacios, y cualquier construcción parece responder a la necesidad de conservarlos. En las elevaciones se reconocen referencias para navegar; cerca de las orillas, los rastros de desembarco se mezclan con lo que han dejado las corrientes.\n\nLas huellas de desgaste dibujan un recorrido más estrecho que el espacio disponible. Durante mucho tiempo, quienes pasaron eligieron el mismo trayecto. Fuera de él quedan detalles intactos que apenas han recibido atención. El lugar no revela de inmediato si espera visitantes o si intenta mantenerlos a distancia. Sus señales admiten ambas lecturas, y el siguiente paso puede aclarar cuál resulta más convincente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=mysterious%20island%20ambient",
+      "abilities": [
+        "Entorno: Islas y archipiélagos. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Cuerdas tendidas entre postes guardan nudos de formas diferentes. Alguien ha reproducido este detalle en un mapa incompleto. Seguir la siguiente marca puede llevar a otro terreno del mismo entorno, sin exigir que la ruta sea peligrosa.",
+        "Rumbo opcional: Los habitantes o visitantes esperan un transporte que no llega. Reparar una embarcación, investigar una señal o decidir qué suministros compartir permite abrir una historia sin imponer un naufragio.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Mapa. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Serpiente constrictora. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Serpiente constrictora. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-serpiente-constrictora"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-islas-22",
+      "kind": "terrain",
+      "name": "Isla de las Estatuas Orientadas",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Paysage_%C3%A0_Port-Goulphar.jpg/960px-Paysage_%C3%A0_Port-Goulphar.jpg",
+      "imageCredit": {
+        "text": "Rocks at Port-Goulphar, Belle-Île · Claude Monet · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Paysage_%C3%A0_Port-Goulphar.jpg"
+      },
+      "description": "Estatuas de rostros gastados miran hacia un mismo punto del horizonte. El lugar queda rodeado por agua, aunque sus límites se descubren poco a poco. Desde la llegada se distinguen rutas hacia el interior y señales de que otras personas eligieron accesos diferentes.\n\nEl viento lleva noticias del agua incluso cuando esta queda fuera de la vista. Los recursos aparecen agrupados en pequeños espacios, y cualquier construcción parece responder a la necesidad de conservarlos. En las elevaciones se reconocen referencias para navegar; cerca de las orillas, los rastros de desembarco se mezclan con lo que han dejado las corrientes.\n\nAlgo aquí ha sido reparado con materiales distintos de los originales. El arreglo resulta modesto y cuidadoso. Junto a él permanece la pieza rota, guardada como si todavía pudiera servir para otra cosa. La primera impresión invita a seguir, pero un examen pausado ofrece otra posibilidad: detenerse, comparar los rastros y decidir qué detalle merece atención antes de abandonar el sitio.",
+      "musicUrl": "https://www.youtube.com/results?search_query=mysterious%20island%20ambient",
+      "abilities": [
+        "Entorno: Islas y archipiélagos. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Estatuas de rostros gastados miran hacia un mismo punto del horizonte. Una pertenencia perdida cerca de este detalle identifica a un viajero. Devolverla puede abrir una conversación; conservarla puede provocar una reclamación posterior, sin presumir que sea un tesoro abandonado.",
+        "Rumbo opcional: Los habitantes o visitantes esperan un transporte que no llega. Reparar una embarcación, investigar una señal o decidir qué suministros compartir permite abrir una historia sin imponer un naufragio.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Mapa. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Serpiente constrictora. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Iria, la cartógrafa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-cartografa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-islas-23",
+      "kind": "terrain",
+      "name": "Isla de la Biblioteca Sellada",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Paysage_%C3%A0_Port-Goulphar.jpg/960px-Paysage_%C3%A0_Port-Goulphar.jpg",
+      "imageCredit": {
+        "text": "Rocks at Port-Goulphar, Belle-Île · Claude Monet · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Paysage_%C3%A0_Port-Goulphar.jpg"
+      },
+      "description": "Un edificio sin ventanas conserva una puerta cubierta de sellos de cera. El lugar queda rodeado por agua, aunque sus límites se descubren poco a poco. Desde la llegada se distinguen rutas hacia el interior y señales de que otras personas eligieron accesos diferentes.\n\nEl viento lleva noticias del agua incluso cuando esta queda fuera de la vista. Los recursos aparecen agrupados en pequeños espacios, y cualquier construcción parece responder a la necesidad de conservarlos. En las elevaciones se reconocen referencias para navegar; cerca de las orillas, los rastros de desembarco se mezclan con lo que han dejado las corrientes.\n\nVarias señales apuntan a una ocupación reciente, pero ninguna permite saber cuántas personas estuvieron aquí. Los rastros más pequeños se cruzan con los mayores y luego se separan, siguiendo direcciones diferentes. Desde esta posición se puede distinguir por dónde llegó la última presencia conocida. Su destino, en cambio, permanece fuera de la vista y no coincide necesariamente con la salida más evidente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=mysterious%20island%20ambient",
+      "abilities": [
+        "Entorno: Islas y archipiélagos. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Un edificio sin ventanas conserva una puerta cubierta de sellos de cera. Dos grupos atribuyen significados distintos a este detalle. El master puede permitir una solución que respete ambos usos, o presentar las consecuencias de favorecer a uno de ellos.",
+        "Rumbo opcional: Los habitantes o visitantes esperan un transporte que no llega. Reparar una embarcación, investigar una señal o decidir qué suministros compartir permite abrir una historia sin imponer un naufragio.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Mapa. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Serpiente constrictora. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Mapa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-mapa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-islas-24",
+      "kind": "terrain",
+      "name": "Archipiélago del Paso Estrecho",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Paysage_%C3%A0_Port-Goulphar.jpg/960px-Paysage_%C3%A0_Port-Goulphar.jpg",
+      "imageCredit": {
+        "text": "Rocks at Port-Goulphar, Belle-Île · Claude Monet · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Paysage_%C3%A0_Port-Goulphar.jpg"
+      },
+      "description": "Un paso entre arrecifes queda marcado por postes de colores alternos. El lugar queda rodeado por agua, aunque sus límites se descubren poco a poco. Desde la llegada se distinguen rutas hacia el interior y señales de que otras personas eligieron accesos diferentes.\n\nEl viento lleva noticias del agua incluso cuando esta queda fuera de la vista. Los recursos aparecen agrupados en pequeños espacios, y cualquier construcción parece responder a la necesidad de conservarlos. En las elevaciones se reconocen referencias para navegar; cerca de las orillas, los rastros de desembarco se mezclan con lo que han dejado las corrientes.\n\nEn el límite entre dos superficies queda una acumulación fina de materiales. Las capas más antiguas son oscuras y compactas; por encima descansa una franja clara, todavía suelta, que deja ver el cambio reciente. El entorno guarda suficiente silencio entre sus sonidos para escuchar lo que ocurra después. Ninguna señal obliga a intervenir; aun así, cuesta ignorar el detalle que se aparta de todos los demás.",
+      "musicUrl": "https://www.youtube.com/results?search_query=mysterious%20island%20ambient",
+      "abilities": [
+        "Entorno: Islas y archipiélagos. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Un paso entre arrecifes queda marcado por postes de colores alternos. Las señales de uso reciente pertenecen a alguien que evita ser encontrado. Puede necesitar ayuda, intimidad o protección; investigar no demuestra por sí solo culpabilidad ni hostilidad.",
+        "Rumbo opcional: Los habitantes o visitantes esperan un transporte que no llega. Reparar una embarcación, investigar una señal o decidir qué suministros compartir permite abrir una historia sin imponer un naufragio.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Mapa. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Serpiente constrictora. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Serpiente constrictora. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-serpiente-constrictora"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-islas-25",
+      "kind": "terrain",
+      "name": "Isla del Banquete Vacío",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Paysage_%C3%A0_Port-Goulphar.jpg/960px-Paysage_%C3%A0_Port-Goulphar.jpg",
+      "imageCredit": {
+        "text": "Rocks at Port-Goulphar, Belle-Île · Claude Monet · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Paysage_%C3%A0_Port-Goulphar.jpg"
+      },
+      "description": "Mesas de piedra sostienen platos limpios bajo una cubierta vegetal. El lugar queda rodeado por agua, aunque sus límites se descubren poco a poco. Desde la llegada se distinguen rutas hacia el interior y señales de que otras personas eligieron accesos diferentes.\n\nEl viento lleva noticias del agua incluso cuando esta queda fuera de la vista. Los recursos aparecen agrupados en pequeños espacios, y cualquier construcción parece responder a la necesidad de conservarlos. En las elevaciones se reconocen referencias para navegar; cerca de las orillas, los rastros de desembarco se mezclan con lo que han dejado las corrientes.\n\nUn objeto cotidiano descansa donde nadie esperaría encontrarlo. Está limpio por un lado y gastado por el otro, como si hubiera pasado mucho tiempo protegido antes de quedar expuesto de nuevo. Más allá del punto de entrada queda una perspectiva por descubrir. Desde aquí solo se percibe una parte del lugar; para conocer el resto habría que acercarse y cambiar el ángulo de observación.",
+      "musicUrl": "https://www.youtube.com/results?search_query=mysterious%20island%20ambient",
+      "abilities": [
+        "Entorno: Islas y archipiélagos. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Mesas de piedra sostienen platos limpios bajo una cubierta vegetal. Un cambio de tiempo amenaza con borrar o dañar este detalle. Documentarlo o protegerlo ofrece una tarea breve cuya urgencia puede ajustarse al ritmo de la sesión.",
+        "Rumbo opcional: Los habitantes o visitantes esperan un transporte que no llega. Reparar una embarcación, investigar una señal o decidir qué suministros compartir permite abrir una historia sin imponer un naufragio.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Mapa. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Serpiente constrictora. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Iria, la cartógrafa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-cartografa"
+        }
+      ]
+    }
+  ]
+}

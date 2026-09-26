@@ -343,7 +343,7 @@ body {
 .attribute dd { margin: 6px 0 0; padding: 7px 10px; font-size: 1.4rem; border: 1px solid var(--line); border-radius: 2px 4px; background: #ead8b250; }
 
 /* Master notebook: tools beside an independently scrollable tabletop. */
-.mode-nav { display: flex; gap: 8px; padding-bottom: 18px; margin-bottom: 20px; border-bottom: 1px solid var(--line); }
+.mode-nav { display: flex; flex-wrap: wrap; gap: 8px; padding-bottom: 18px; margin-bottom: 20px; border-bottom: 1px solid var(--line); }
 .mode-nav button { flex: 1; max-width: 200px; }
 .mode-nav [aria-current="page"] { background-color: var(--soft); }
 .app-shell:has(.master-book) { max-width: 1600px; }
@@ -431,8 +431,7 @@ body:has(.fullscreen-table) .mode-nav,
 .master-book:has(.fullscreen-table) > .master-nav,
 .master-book:has(.fullscreen-table) > div:not(.fullscreen-table) { display: none; }
 
-/* Hand-drawn RPG terrain, with a separate reading lane for card details. */
-.fullscreen-table:has(.table-inspector) .table-viewport { left: 350px; }
+/* Hand-drawn RPG terrain; details overlay the board without moving it. */
 .table-map { background: #dacba4 url("./assets/paper-grain.svg"); border: 3px double #514833; border-radius: 5px 8px 4px 7px; box-shadow: 4px 5px 0 #26231b65, inset 0 0 16px #72573445; }
 .table-map h3 { padding-bottom: 10px; color: #514329; letter-spacing: .03em; }
 .map-grid { border: 2px solid #5f6048; }
@@ -447,7 +446,6 @@ body:has(.fullscreen-table) .mode-nav,
 .map-cell b { z-index: 1; border: 1px solid #5b4a32; border-radius: 50%; width: 30px; height: 30px; display: grid; place-items: center; box-shadow: 1px 2px 0 #302a2245; font-size: 1.1rem; }
 .card-details-toggle { margin-top: 12px; width: 100%; font-size: .85rem; cursor: pointer; }
 @media (max-width: 620px) {
-  .fullscreen-table:has(.table-inspector) .table-viewport { left: 0; }
   .fullscreen-table .table-inspector { top: auto; bottom: 100px; max-height: 40dvh; }
 }
 .terrain-music { gap: 8px; }

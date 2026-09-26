@@ -1,25 +1,32 @@
-﻿{
-    "version":  1,
-    "entries":  [
-                    {
-                        "id":  "mago",
-                        "name":  "Mago",
-                        "description":  "Estudia fórmulas arcanas y moldea la magia con precisión.",
-                        "image":  "images/mistico.svg",
-                        "baseHp":  7,
-                        "starterPools":  {
-                                             "armor":  [
-                                                           "cuero"
-                                                       ],
-                                             "supply":  [
-                                                            "pocion",
-                                                            "vendas"
-                                                        ],
-                                             "weapon":  [
-                                                            "baston",
-                                                            "daga"
-                                                        ]
-                                         }
-                    }
-                ]
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "mago",
+      "name": "Mago",
+      "description": "Estudioso de la magia arcana: usa Inteligencia para investigar y lanzar conjuros. Su libro conserva fórmulas y rituales. La especialización de referencia es el evocador; esta adaptación concentra sus recursos en habilidades para niveles 1–3.",
+      "image": "images/mistico.svg",
+      "baseHp": 7,
+      "starterPools": {
+        "armor": [
+          "cuero"
+        ],
+        "supply": [
+          "pocion",
+          "vendas"
+        ],
+        "weapon": [
+          "baston",
+          "daga",
+          "srd-baston",
+          "srd-daga"
+        ]
+      },
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 71,
+        "name": "Mago"
+      }
+    }
+  ]
 }

@@ -1,25 +1,32 @@
-﻿{
-    "version":  1,
-    "entries":  [
-                    {
-                        "id":  "druida",
-                        "name":  "Druida",
-                        "description":  "Escucha la naturaleza y protege el equilibrio del mundo.",
-                        "image":  "images/mistico.svg",
-                        "baseHp":  8,
-                        "starterPools":  {
-                                             "armor":  [
-                                                           "cuero"
-                                                       ],
-                                             "supply":  [
-                                                            "pocion",
-                                                            "vendas"
-                                                        ],
-                                             "weapon":  [
-                                                            "baston",
-                                                            "daga"
-                                                        ]
-                                         }
-                    }
-                ]
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "druida",
+      "name": "Druida",
+      "description": "Guardián de la naturaleza que emplea Empatía para su magia y el vínculo con criaturas. Conoce el druídico y, más adelante, transforma su aspecto para explorar. Especialización de referencia: círculo de la tierra. No copia automáticamente perfiles de bestias.",
+      "image": "images/mistico.svg",
+      "baseHp": 8,
+      "starterPools": {
+        "armor": [
+          "cuero"
+        ],
+        "supply": [
+          "pocion",
+          "vendas"
+        ],
+        "weapon": [
+          "baston",
+          "daga",
+          "srd-baston",
+          "srd-hoz"
+        ]
+      },
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 52,
+        "name": "Druida"
+      }
+    }
+  ]
 }

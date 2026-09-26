@@ -1,0 +1,2560 @@
+{
+  "version": 1,
+  "checkedAt": "2026-09-26T18:07:23.283Z",
+  "entries": {
+    "srd-enemy-aboleth": {
+      "name": "Aboleth",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/aboleth.png",
+      "match": "exact",
+      "illustration": "Aboleth",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-acechador-invisible": {
+      "name": "Invisible Stalker",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/invisible-stalker.png",
+      "match": "exact",
+      "illustration": "Invisible Stalker",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-ankheg": {
+      "name": "Ankheg",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/ankheg.png",
+      "match": "exact",
+      "illustration": "Ankheg",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-aparicion": {
+      "name": "Wraith",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/wraith.png",
+      "match": "exact",
+      "illustration": "Wraith",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-arana-de-fase": {
+      "name": "Phase Spider",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/phase-spider.png",
+      "match": "exact",
+      "illustration": "Phase Spider",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-arpia": {
+      "name": "Harpy",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/harpy.png",
+      "match": "exact",
+      "illustration": "Harpy",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-asesino": {
+      "name": "Assassin",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/assassin.png",
+      "match": "exact",
+      "illustration": "Assassin",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-centinela-azer": {
+      "name": "Azer Sentinel",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/azer.png",
+      "match": "variant",
+      "illustration": "Azer",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-balor": {
+      "name": "Balor",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/balor.png",
+      "match": "exact",
+      "illustration": "Balor",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-bandido": {
+      "name": "Bandit",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/bandit.png",
+      "match": "exact",
+      "illustration": "Bandit",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-capitan-bandido": {
+      "name": "Bandit Captain",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/bandit-captain.png",
+      "match": "exact",
+      "illustration": "Bandit Captain",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-basilisco": {
+      "name": "Basilisk",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/basilisk.png",
+      "match": "exact",
+      "illustration": "Basilisk",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-batidor": {
+      "name": "Scout",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/scout.png",
+      "match": "exact",
+      "illustration": "Scout",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-behir": {
+      "name": "Behir",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/behir.png",
+      "match": "exact",
+      "illustration": "Behir",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-berserker": {
+      "name": "Berserker",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/berserker.png",
+      "match": "exact",
+      "illustration": "Berserker",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-bocon-barbotante": {
+      "name": "Gibbering Mouther",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/gibbering-mouther.png",
+      "match": "exact",
+      "illustration": "Gibbering Mouther",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-broza-movediza": {
+      "name": "Shambling Mound",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/shambling-mound.png",
+      "match": "exact",
+      "illustration": "Shambling Mound",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-bulette": {
+      "name": "Bulette",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/bulette.png",
+      "match": "exact",
+      "illustration": "Bulette",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-caballero": {
+      "name": "Knight",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/knight.png",
+      "match": "exact",
+      "illustration": "Knight",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-soldado-centauro": {
+      "name": "Centaur Trooper",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/centaur.png",
+      "match": "variant",
+      "illustration": "Centaur",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-chuul": {
+      "name": "Chuul",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/chuul.png",
+      "match": "exact",
+      "illustration": "Chuul",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-cieno-gris": {
+      "name": "Gray Ooze",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/gray-ooze.png",
+      "match": "exact",
+      "illustration": "Gray Ooze",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-cocatriz": {
+      "name": "Cockatrice",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/cockatrice.png",
+      "match": "exact",
+      "illustration": "Cockatrice",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-couatl": {
+      "name": "Couatl",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/couatl.png",
+      "match": "exact",
+      "illustration": "Couatl",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-cubo-gelatinoso": {
+      "name": "Gelatinous Cube",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/gelatinous-cube.png",
+      "match": "exact",
+      "illustration": "Gelatinous Cube",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-deva": {
+      "name": "Deva",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/deva.png",
+      "match": "exact",
+      "illustration": "Deva",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-diablillo": {
+      "name": "Imp",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/imp.png",
+      "match": "exact",
+      "illustration": "Imp",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-diablo-astado": {
+      "name": "Horned Devil",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/horned-devil.png",
+      "match": "exact",
+      "illustration": "Horned Devil",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-diablo-barbado": {
+      "name": "Bearded Devil",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/bearded-devil.png",
+      "match": "exact",
+      "illustration": "Bearded Devil",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-diablo-de-las-cadenas": {
+      "name": "Chain Devil",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/chain-devil.png",
+      "match": "exact",
+      "illustration": "Chain Devil",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-diablo-de-la-sima": {
+      "name": "Pit Fiend",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/pit-fiend.png",
+      "match": "exact",
+      "illustration": "Pit Fiend",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-diablo-gelido": {
+      "name": "Ice Devil",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/ice-devil.png",
+      "match": "exact",
+      "illustration": "Ice Devil",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-diablo-oseo": {
+      "name": "Bone Devil",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/bone-devil.png",
+      "match": "exact",
+      "illustration": "Bone Devil",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-diablo-punzante": {
+      "name": "Barbed Devil",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/barbed-devil.png",
+      "match": "exact",
+      "illustration": "Barbed Devil",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-djinn": {
+      "name": "Djinni",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/djinni.png",
+      "match": "exact",
+      "illustration": "Djinni",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-doppelganger": {
+      "name": "Doppelganger",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/doppelganger.png",
+      "match": "exact",
+      "illustration": "Doppelganger",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-cria-de-dragon-azul": {
+      "name": "Blue Dragon Wyrmling",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/blue-dragon-wyrmling.png",
+      "match": "exact",
+      "illustration": "Blue Dragon Wyrmling",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-dragon-azul-joven": {
+      "name": "Young Blue Dragon",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/young-blue-dragon.png",
+      "match": "exact",
+      "illustration": "Young Blue Dragon",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-dragon-azul-adulto": {
+      "name": "Adult Blue Dragon",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/adult-blue-dragon.png",
+      "match": "exact",
+      "illustration": "Adult Blue Dragon",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-dragon-azul-anciano": {
+      "name": "Ancient Blue Dragon",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/ancient-blue-dragon.png",
+      "match": "exact",
+      "illustration": "Ancient Blue Dragon",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-cria-de-dragon-blanco": {
+      "name": "White Dragon Wyrmling",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/white-dragon-wyrmling.png",
+      "match": "exact",
+      "illustration": "White Dragon Wyrmling",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-dragon-blanco-joven": {
+      "name": "Young White Dragon",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/young-white-dragon.png",
+      "match": "exact",
+      "illustration": "Young White Dragon",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-dragon-blanco-adulto": {
+      "name": "Adult White Dragon",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/adult-white-dragon.png",
+      "match": "exact",
+      "illustration": "Adult White Dragon",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-dragon-blanco-anciano": {
+      "name": "Ancient White Dragon",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/ancient-white-dragon.png",
+      "match": "exact",
+      "illustration": "Ancient White Dragon",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-cria-de-dragon-de-bronce": {
+      "name": "Bronze Dragon Wyrmling",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/bronze-dragon-wyrmling.png",
+      "match": "exact",
+      "illustration": "Bronze Dragon Wyrmling",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-dragon-de-bronce-joven": {
+      "name": "Young Bronze Dragon",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/young-bronze-dragon.png",
+      "match": "exact",
+      "illustration": "Young Bronze Dragon",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-dragon-de-bronce-adulto": {
+      "name": "Adult Bronze Dragon",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/adult-bronze-dragon.png",
+      "match": "exact",
+      "illustration": "Adult Bronze Dragon",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-dragon-de-bronce-anciano": {
+      "name": "Ancient Bronze Dragon",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/ancient-bronze-dragon.png",
+      "match": "exact",
+      "illustration": "Ancient Bronze Dragon",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-cria-de-dragon-de-cobre": {
+      "name": "Copper Dragon Wyrmling",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/copper-dragon-wyrmling.png",
+      "match": "exact",
+      "illustration": "Copper Dragon Wyrmling",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-dragon-de-cobre-joven": {
+      "name": "Young Copper Dragon",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/young-copper-dragon.png",
+      "match": "exact",
+      "illustration": "Young Copper Dragon",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-dragon-de-cobre-adulto": {
+      "name": "Adult Copper Dragon",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/adult-copper-dragon.png",
+      "match": "exact",
+      "illustration": "Adult Copper Dragon",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-dragon-de-cobre-anciano": {
+      "name": "Ancient Copper Dragon",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/ancient-copper-dragon.png",
+      "match": "exact",
+      "illustration": "Ancient Copper Dragon",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-cria-de-dragon-de-oro": {
+      "name": "Gold Dragon Wyrmling",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/gold-dragon-wyrmling.png",
+      "match": "exact",
+      "illustration": "Gold Dragon Wyrmling",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-dragon-de-oro-joven": {
+      "name": "Young Gold Dragon",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/young-gold-dragon.png",
+      "match": "exact",
+      "illustration": "Young Gold Dragon",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-dragon-de-oro-adulto": {
+      "name": "Adult Gold Dragon",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/adult-gold-dragon.png",
+      "match": "exact",
+      "illustration": "Adult Gold Dragon",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-dragon-de-oro-anciano": {
+      "name": "Ancient Gold Dragon",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/ancient-gold-dragon.png",
+      "match": "exact",
+      "illustration": "Ancient Gold Dragon",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-cria-de-dragon-de-oropel": {
+      "name": "Brass Dragon Wyrmling",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/brass-dragon-wyrmling.png",
+      "match": "exact",
+      "illustration": "Brass Dragon Wyrmling",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-dragon-de-oropel-joven": {
+      "name": "Young Brass Dragon",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/young-brass-dragon.png",
+      "match": "exact",
+      "illustration": "Young Brass Dragon",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-dragon-de-oropel-adulto": {
+      "name": "Adult Brass Dragon",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/adult-brass-dragon.png",
+      "match": "exact",
+      "illustration": "Adult Brass Dragon",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-dragon-de-oropel-anciano": {
+      "name": "Ancient Brass Dragon",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/ancient-brass-dragon.png",
+      "match": "exact",
+      "illustration": "Ancient Brass Dragon",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-cria-de-dragon-de-plata": {
+      "name": "Silver Dragon Wyrmling",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/silver-dragon-wyrmling.png",
+      "match": "exact",
+      "illustration": "Silver Dragon Wyrmling",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-dragon-de-plata-joven": {
+      "name": "Young Silver Dragon",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/young-silver-dragon.png",
+      "match": "exact",
+      "illustration": "Young Silver Dragon",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-dragon-de-plata-adulto": {
+      "name": "Adult Silver Dragon",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/adult-silver-dragon.png",
+      "match": "exact",
+      "illustration": "Adult Silver Dragon",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-dragon-de-plata-anciano": {
+      "name": "Ancient Silver Dragon",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/ancient-silver-dragon.png",
+      "match": "exact",
+      "illustration": "Ancient Silver Dragon",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-cria-de-dragon-negro": {
+      "name": "Black Dragon Wyrmling",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/black-dragon-wyrmling.png",
+      "match": "exact",
+      "illustration": "Black Dragon Wyrmling",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-dragon-negro-joven": {
+      "name": "Young Black Dragon",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/young-black-dragon.png",
+      "match": "exact",
+      "illustration": "Young Black Dragon",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-dragon-negro-adulto": {
+      "name": "Adult Black Dragon",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/adult-black-dragon.png",
+      "match": "exact",
+      "illustration": "Adult Black Dragon",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-dragon-negro-anciano": {
+      "name": "Ancient Black Dragon",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/ancient-black-dragon.png",
+      "match": "exact",
+      "illustration": "Ancient Black Dragon",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-cria-de-dragon-rojo": {
+      "name": "Red Dragon Wyrmling",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/red-dragon-wyrmling.png",
+      "match": "exact",
+      "illustration": "Red Dragon Wyrmling",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-dragon-rojo-joven": {
+      "name": "Young Red Dragon",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/young-red-dragon.png",
+      "match": "exact",
+      "illustration": "Young Red Dragon",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-dragon-rojo-adulto": {
+      "name": "Adult Red Dragon",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/adult-red-dragon.png",
+      "match": "exact",
+      "illustration": "Adult Red Dragon",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-dragon-rojo-anciano": {
+      "name": "Ancient Red Dragon",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/ancient-red-dragon.png",
+      "match": "exact",
+      "illustration": "Ancient Red Dragon",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-cria-de-dragon-verde": {
+      "name": "Green Dragon Wyrmling",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/green-dragon-wyrmling.png",
+      "match": "exact",
+      "illustration": "Green Dragon Wyrmling",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-dragon-verde-joven": {
+      "name": "Young Green Dragon",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/young-green-dragon.png",
+      "match": "exact",
+      "illustration": "Young Green Dragon",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-dragon-verde-adulto": {
+      "name": "Adult Green Dragon",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/adult-green-dragon.png",
+      "match": "exact",
+      "illustration": "Adult Green Dragon",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-dragon-verde-anciano": {
+      "name": "Ancient Green Dragon",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/ancient-green-dragon.png",
+      "match": "exact",
+      "illustration": "Ancient Green Dragon",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-dragon-tortuga": {
+      "name": "Dragon Turtle",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/dragon-turtle.png",
+      "match": "exact",
+      "illustration": "Dragon Turtle",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-drana": {
+      "name": "Drider",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/drider.png",
+      "match": "exact",
+      "illustration": "Drider",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-dretch": {
+      "name": "Dretch",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/dretch.png",
+      "match": "exact",
+      "illustration": "Dretch",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-driade": {
+      "name": "Dryad",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/dryad.png",
+      "match": "exact",
+      "illustration": "Dryad",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-druida": {
+      "name": "Druid",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/druid.png",
+      "match": "exact",
+      "illustration": "Druid",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-duende": {
+      "name": "Sprite",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/sprite.png",
+      "match": "exact",
+      "illustration": "Sprite",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-elemental-de-agua": {
+      "name": "Water Elemental",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/water-elemental.png",
+      "match": "exact",
+      "illustration": "Water Elemental",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-elemental-de-aire": {
+      "name": "Air Elemental",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/air-elemental.png",
+      "match": "exact",
+      "illustration": "Air Elemental",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-elemental-de-fuego": {
+      "name": "Fire Elemental",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/fire-elemental.png",
+      "match": "exact",
+      "illustration": "Fire Elemental",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-elemental-de-tierra": {
+      "name": "Earth Elemental",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/earth-elemental.png",
+      "match": "exact",
+      "illustration": "Earth Elemental",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-ent": {
+      "name": "Treant",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/treant.png",
+      "match": "exact",
+      "illustration": "Treant",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-erinia": {
+      "name": "Erinyes",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/erinyes.png",
+      "match": "exact",
+      "illustration": "Erinyes",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-esfinge-de-las-maravillas": {
+      "name": "Sphinx of Wonder",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/gynosphinx.png",
+      "match": "variant",
+      "illustration": "Gynosphinx",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-esfinge-del-conocimiento": {
+      "name": "Sphinx of Lore",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/gynosphinx.png",
+      "match": "variant",
+      "illustration": "Gynosphinx",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-esfinge-del-valor": {
+      "name": "Sphinx of Valor",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/androsphinx.png",
+      "match": "variant",
+      "illustration": "Androsphinx",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-espectro": {
+      "name": "Specter",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/specter.png",
+      "match": "exact",
+      "illustration": "Specter",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-espia": {
+      "name": "Spy",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/spy.png",
+      "match": "exact",
+      "illustration": "Spy",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-esqueleto": {
+      "name": "Skeleton",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/skeleton.png",
+      "match": "exact",
+      "illustration": "Skeleton",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-caballo-de-guerra-esqueleto": {
+      "name": "Warhorse Skeleton",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/warhorse-skeleton.png",
+      "match": "exact",
+      "illustration": "Warhorse Skeleton",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-minotauro-esqueleto": {
+      "name": "Minotaur Skeleton",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/minotaur-skeleton.png",
+      "match": "exact",
+      "illustration": "Minotaur Skeleton",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-estirge": {
+      "name": "Stirge",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/stirge.png",
+      "match": "exact",
+      "illustration": "Stirge",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-ettercap": {
+      "name": "Ettercap",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/ettercap.png",
+      "match": "exact",
+      "illustration": "Ettercap",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-ettin": {
+      "name": "Ettin",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/ettin.png",
+      "match": "exact",
+      "illustration": "Ettin",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-fantasma": {
+      "name": "Ghost",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/ghost.png",
+      "match": "exact",
+      "illustration": "Ghost",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-fuego-fatuo": {
+      "name": "Will-o’-Wisp",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/will-o-wisp.png",
+      "match": "exact",
+      "illustration": "Will-o’-Wisp",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-gargola": {
+      "name": "Gargoyle",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/gargoyle.png",
+      "match": "exact",
+      "illustration": "Gargoyle",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-enjambre-de-garras-reptantes": {
+      "name": "Enjambre de garras reptantes",
+      "image": "https://files.d20.io/images/421777925/wA6ut7KvllnUhpQQQ80eFg/original.png",
+      "source": "https://roll20.net/compendium/dnd5e/Monsters:Crawling%20Claw",
+      "illustration": "Crawling Claw",
+      "match": "variant"
+    },
+    "srd-enemy-gelatina-ocre": {
+      "name": "Ochre Jelly",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/ochre-jelly.png",
+      "match": "exact",
+      "illustration": "Ochre Jelly",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-ghast": {
+      "name": "Ghast",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/ghast.png",
+      "match": "exact",
+      "illustration": "Ghast",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-gigante-de-escarcha": {
+      "name": "Frost Giant",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/frost-giant.png",
+      "match": "exact",
+      "illustration": "Frost Giant",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-gigante-de-fuego": {
+      "name": "Fire Giant",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/fire-giant.png",
+      "match": "exact",
+      "illustration": "Fire Giant",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-gigante-de-las-colinas": {
+      "name": "Hill Giant",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/hill-giant.png",
+      "match": "exact",
+      "illustration": "Hill Giant",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-gigante-de-las-nubes": {
+      "name": "Cloud Giant",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/cloud-giant.png",
+      "match": "exact",
+      "illustration": "Cloud Giant",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-gigante-de-las-tormentas": {
+      "name": "Storm Giant",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/storm-giant.png",
+      "match": "exact",
+      "illustration": "Storm Giant",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-gigante-de-piedra": {
+      "name": "Stone Giant",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/stone-giant.png",
+      "match": "exact",
+      "illustration": "Stone Giant",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-glabrezu": {
+      "name": "Glabrezu",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/glabrezu.png",
+      "match": "exact",
+      "illustration": "Glabrezu",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-gladiador": {
+      "name": "Gladiator",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/gladiator.png",
+      "match": "exact",
+      "illustration": "Gladiator",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-guerrero-gnoll": {
+      "name": "Gnoll Warrior",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/gnoll.png",
+      "match": "variant",
+      "illustration": "Gnoll",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-secuaz-goblin": {
+      "name": "Goblin Minion",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/goblin.png",
+      "match": "variant",
+      "illustration": "Goblin",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-guerrero-goblin": {
+      "name": "Goblin Warrior",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/goblin.png",
+      "match": "variant",
+      "illustration": "Goblin",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-jefe-goblin": {
+      "name": "Goblin Boss",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/goblin.png",
+      "match": "variant",
+      "illustration": "Goblin",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-golem-de-arcilla": {
+      "name": "Clay Golem",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/clay-golem.png",
+      "match": "exact",
+      "illustration": "Clay Golem",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-golem-de-carne": {
+      "name": "Flesh Golem",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/flesh-golem.png",
+      "match": "exact",
+      "illustration": "Flesh Golem",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-golem-de-hierro": {
+      "name": "Iron Golem",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/iron-golem.png",
+      "match": "exact",
+      "illustration": "Iron Golem",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-golem-de-piedra": {
+      "name": "Stone Golem",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/stone-golem.png",
+      "match": "exact",
+      "illustration": "Stone Golem",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-gorgon": {
+      "name": "Gorgon",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/gorgon.png",
+      "match": "exact",
+      "illustration": "Gorgon",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-grick": {
+      "name": "Grick",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/grick.png",
+      "match": "exact",
+      "illustration": "Grick",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-grifo": {
+      "name": "Griffon",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/griffon.png",
+      "match": "exact",
+      "illustration": "Griffon",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-grimlock": {
+      "name": "Grimlock",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/grimlock.png",
+      "match": "exact",
+      "illustration": "Grimlock",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-guardian-escudo": {
+      "name": "Shield Guardian",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/shield-guardian.png",
+      "match": "exact",
+      "illustration": "Shield Guardian",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-guardia": {
+      "name": "Guard",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/guard.png",
+      "match": "exact",
+      "illustration": "Guard",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-capitan-de-la-guardia": {
+      "name": "Guard Captain",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/guard.png",
+      "match": "variant",
+      "illustration": "Guard",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-guerrero-de-infanteria": {
+      "name": "Warrior Infantry",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/guard.png",
+      "match": "variant",
+      "illustration": "Guard",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-guerrero-veterano": {
+      "name": "Warrior Veteran",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/veteran.png",
+      "match": "variant",
+      "illustration": "Veteran",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-guiverno": {
+      "name": "Wyvern",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/wyvern.png",
+      "match": "exact",
+      "illustration": "Wyvern",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-gul": {
+      "name": "Ghoul",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/ghoul.png",
+      "match": "exact",
+      "illustration": "Ghoul",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-gusano-purpura": {
+      "name": "Purple Worm",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/purple-worm.png",
+      "match": "exact",
+      "illustration": "Purple Worm",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-hezrou": {
+      "name": "Hezrou",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/hezrou.png",
+      "match": "exact",
+      "illustration": "Hezrou",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-hidra": {
+      "name": "Hydra",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/hydra.png",
+      "match": "exact",
+      "illustration": "Hydra",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-hipogrifo": {
+      "name": "Hippogriff",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/hippogriff.png",
+      "match": "exact",
+      "illustration": "Hippogriff",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-guerrero-hobgoblin": {
+      "name": "Hobgoblin Warrior",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/hobgoblin.png",
+      "match": "variant",
+      "illustration": "Hobgoblin",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-capitan-hobgoblin": {
+      "name": "Hobgoblin Captain",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/hobgoblin.png",
+      "match": "variant",
+      "illustration": "Hobgoblin",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-hombre-jabali": {
+      "name": "Wereboar",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/wereboar-hybrid.png",
+      "match": "variant",
+      "illustration": "Wereboar, Hybrid Form",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-hombre-lobo": {
+      "name": "Werewolf",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/werewolf-hybrid.png",
+      "match": "variant",
+      "illustration": "Werewolf, Hybrid Form",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-hombre-oso": {
+      "name": "Werebear",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/werebear-hybrid.png",
+      "match": "variant",
+      "illustration": "Werebear, Hybrid Form",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-hombre-rata": {
+      "name": "Wererat",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/wererat-hybrid.png",
+      "match": "variant",
+      "illustration": "Wererat, Hybrid Form",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-hombre-tigre": {
+      "name": "Weretiger",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/weretiger-hybrid.png",
+      "match": "variant",
+      "illustration": "Weretiger, Hybrid Form",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-homunculo": {
+      "name": "Homunculus",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/homunculus.png",
+      "match": "exact",
+      "illustration": "Homunculus",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-hongo-chillon": {
+      "name": "Shrieker Fungus",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/shrieker.png",
+      "match": "variant",
+      "illustration": "Shrieker",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-hongo-violeta": {
+      "name": "Violet Fungus",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/violet-fungus.png",
+      "match": "exact",
+      "illustration": "Violet Fungus",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-huargo": {
+      "name": "Worg",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/worg.png",
+      "match": "exact",
+      "illustration": "Worg",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-ifrit": {
+      "name": "Efreeti",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/efreeti.png",
+      "match": "exact",
+      "illustration": "Efreeti",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-incubo": {
+      "name": "Incubus",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/succubus-incubus.png",
+      "match": "variant",
+      "illustration": "Succubus/Incubus",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-guerrero-kobold": {
+      "name": "Kobold Warrior",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/kobold.png",
+      "match": "variant",
+      "illustration": "Kobold",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-kraken": {
+      "name": "Kraken",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/kraken.png",
+      "match": "exact",
+      "illustration": "Kraken",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-lacero": {
+      "name": "Roper",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/roper.png",
+      "match": "exact",
+      "illustration": "Roper",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-lamia": {
+      "name": "Lamia",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/lamia.png",
+      "match": "exact",
+      "illustration": "Lamia",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-lemur": {
+      "name": "Lemure",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/lemure.png",
+      "match": "exact",
+      "illustration": "Lemure",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-liche": {
+      "name": "Lich",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/lich.png",
+      "match": "exact",
+      "illustration": "Lich",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-lobo-invernal": {
+      "name": "Winter Wolf",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/winter-wolf.png",
+      "match": "exact",
+      "illustration": "Winter Wolf",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-magmin": {
+      "name": "Magmin",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/magmin.png",
+      "match": "exact",
+      "illustration": "Magmin",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-mago": {
+      "name": "Mage",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/mage.png",
+      "match": "exact",
+      "illustration": "Mage",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-archimago": {
+      "name": "Archmage",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/archmage.png",
+      "match": "exact",
+      "illustration": "Archmage",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-manticora": {
+      "name": "Manticore",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/manticore.png",
+      "match": "exact",
+      "illustration": "Manticore",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-manto": {
+      "name": "Cloaker",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/cloaker.png",
+      "match": "exact",
+      "illustration": "Cloaker",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-mantoscuro": {
+      "name": "Darkmantle",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/darkmantle.png",
+      "match": "exact",
+      "illustration": "Darkmantle",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-marilith": {
+      "name": "Marilith",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/marilith.png",
+      "match": "exact",
+      "illustration": "Marilith",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-medusa": {
+      "name": "Medusa",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/medusa.png",
+      "match": "exact",
+      "illustration": "Medusa",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-mephit-de-hielo": {
+      "name": "Ice Mephit",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/ice-mephit.png",
+      "match": "exact",
+      "illustration": "Ice Mephit",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-mephit-de-magma": {
+      "name": "Magma Mephit",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/magma-mephit.png",
+      "match": "exact",
+      "illustration": "Magma Mephit",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-mephit-de-polvo": {
+      "name": "Dust Mephit",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/dust-mephit.png",
+      "match": "exact",
+      "illustration": "Dust Mephit",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-mephit-de-vapor": {
+      "name": "Steam Mephit",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/steam-mephit.png",
+      "match": "exact",
+      "illustration": "Steam Mephit",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-merrow": {
+      "name": "Merrow",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/merrow.png",
+      "match": "exact",
+      "illustration": "Merrow",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-mimeto": {
+      "name": "Mimic",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/mimic.png",
+      "match": "exact",
+      "illustration": "Mimic",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-minotauro-de-bafomet": {
+      "name": "Minotaur of Baphomet",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/minotaur.png",
+      "match": "variant",
+      "illustration": "Minotaur",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-momia": {
+      "name": "Mummy",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/mummy.png",
+      "match": "exact",
+      "illustration": "Mummy",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-senor-de-las-momias": {
+      "name": "Mummy Lord",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/mummy-lord.png",
+      "match": "exact",
+      "illustration": "Mummy Lord",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-monstruo-corrosivo": {
+      "name": "Rust Monster",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/rust-monster.png",
+      "match": "exact",
+      "illustration": "Rust Monster",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-naga-espiritual": {
+      "name": "Spirit Naga",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/spirit-naga.png",
+      "match": "exact",
+      "illustration": "Spirit Naga",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-naga-guardiana": {
+      "name": "Guardian Naga",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/guardian-naga.png",
+      "match": "exact",
+      "illustration": "Guardian Naga",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-nalfeshnee": {
+      "name": "Nalfeshnee",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/nalfeshnee.png",
+      "match": "exact",
+      "illustration": "Nalfeshnee",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-noble": {
+      "name": "Noble",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/noble.png",
+      "match": "exact",
+      "illustration": "Noble",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-alfombra-asfixiante-animada": {
+      "name": "Animated Rug of Smothering",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/rug-of-smothering.png",
+      "match": "variant",
+      "illustration": "Rug of Smothering",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-armadura-animada": {
+      "name": "Animated Armor",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/animated-armor.png",
+      "match": "exact",
+      "illustration": "Animated Armor",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-espada-voladora-animada": {
+      "name": "Animated Flying Sword",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/flying-sword.png",
+      "match": "variant",
+      "illustration": "Flying Sword",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-ogro": {
+      "name": "Ogre",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/ogre.png",
+      "match": "exact",
+      "illustration": "Ogre",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-oni": {
+      "name": "Oni",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/oni.png",
+      "match": "exact",
+      "illustration": "Oni",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-acechador-osgo": {
+      "name": "Bugbear Stalker",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/bugbear.png",
+      "match": "variant",
+      "illustration": "Bugbear",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-guerrero-osgo": {
+      "name": "Bugbear Warrior",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/bugbear.png",
+      "match": "variant",
+      "illustration": "Bugbear",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-oso-lechuza": {
+      "name": "Owlbear",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/owlbear.png",
+      "match": "exact",
+      "illustration": "Owlbear",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-otyugh": {
+      "name": "Otyugh",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/otyugh.png",
+      "match": "exact",
+      "illustration": "Otyugh",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-pegaso": {
+      "name": "Pegasus",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/pegasus.png",
+      "match": "exact",
+      "illustration": "Pegasus",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-pendenciero": {
+      "name": "Tough",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/thug.png",
+      "match": "variant",
+      "illustration": "Thug",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-jefe-pendenciero": {
+      "name": "Tough Boss",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/thug.png",
+      "match": "variant",
+      "illustration": "Thug",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-perro-del-inframundo": {
+      "name": "Death Dog",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/death-dog.png",
+      "match": "exact",
+      "illustration": "Death Dog",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-perro-intermitente": {
+      "name": "Blink Dog",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/blink-dog.png",
+      "match": "exact",
+      "illustration": "Blink Dog",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-pesadilla": {
+      "name": "Nightmare",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/nightmare.png",
+      "match": "exact",
+      "illustration": "Nightmare",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-pico-de-hacha": {
+      "name": "Axe Beak",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/axe-beak.png",
+      "match": "exact",
+      "illustration": "Axe Beak",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-pirata": {
+      "name": "Pirate",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/bandit.png",
+      "match": "variant",
+      "illustration": "Bandit",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-capitan-pirata": {
+      "name": "Pirate Captain",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/bandit-captain.png",
+      "match": "variant",
+      "illustration": "Bandit Captain",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-planetar": {
+      "name": "Planetar",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/planetar.png",
+      "match": "exact",
+      "illustration": "Planetar",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-arbol-despertado": {
+      "name": "Awakened Tree",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/awakened-tree.png",
+      "match": "exact",
+      "illustration": "Awakened Tree",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-arbusto-despertado": {
+      "name": "Awakened Shrub",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/awakened-shrub.png",
+      "match": "exact",
+      "illustration": "Awakened Shrub",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-plebeyo": {
+      "name": "Commoner",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/commoner.png",
+      "match": "exact",
+      "illustration": "Commoner",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-pseudodragon": {
+      "name": "Pseudodragon",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/pseudodragon.png",
+      "match": "exact",
+      "illustration": "Pseudodragon",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-pudin-negro": {
+      "name": "Black Pudding",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/black-pudding.png",
+      "match": "exact",
+      "illustration": "Black Pudding",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-quasit": {
+      "name": "Quasit",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/quasit.png",
+      "match": "exact",
+      "illustration": "Quasit",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-quimera": {
+      "name": "Chimera",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/chimera.png",
+      "match": "exact",
+      "illustration": "Chimera",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-rakshasa": {
+      "name": "Rakshasa",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/rakshasa.png",
+      "match": "exact",
+      "illustration": "Rakshasa",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-remorhaz": {
+      "name": "Remorhaz",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/remorhaz.png",
+      "match": "exact",
+      "illustration": "Remorhaz",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-roc": {
+      "name": "Roc",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/roc.png",
+      "match": "exact",
+      "illustration": "Roc",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-sabueso-infernal": {
+      "name": "Hell Hound",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/hell-hound.png",
+      "match": "exact",
+      "illustration": "Hell Hound",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-sacerdote-acolito": {
+      "name": "Priest Acolyte",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/acolyte.png",
+      "match": "variant",
+      "illustration": "Acolyte",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-sacerdote": {
+      "name": "Priest",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/priest.png",
+      "match": "exact",
+      "illustration": "Priest",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-saga-cetrina": {
+      "name": "Green Hag",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/green-hag.png",
+      "match": "exact",
+      "illustration": "Green Hag",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-saga-de-la-noche": {
+      "name": "Night Hag",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/night-hag.png",
+      "match": "exact",
+      "illustration": "Night Hag",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-saga-de-los-mares": {
+      "name": "Sea Hag",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/sea-hag.png",
+      "match": "exact",
+      "illustration": "Sea Hag",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-guerrero-sahuagin": {
+      "name": "Sahuagin Warrior",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/sahuagin.png",
+      "match": "variant",
+      "illustration": "Sahuagin",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-salamandra": {
+      "name": "Salamander",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/salamander.png",
+      "match": "exact",
+      "illustration": "Salamander",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-satiro": {
+      "name": "Satyr",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/satyr.png",
+      "match": "exact",
+      "illustration": "Satyr",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-sectario": {
+      "name": "Cultist",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/cultist.png",
+      "match": "exact",
+      "illustration": "Cultist",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-fanatico-sectario": {
+      "name": "Cultist Fanatic",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/cult-fanatic.png",
+      "match": "variant",
+      "illustration": "Cult Fanatic",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-semidragon": {
+      "name": "Half-Dragon",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/half-red-dragon-veteran.png",
+      "match": "variant",
+      "illustration": "Half-Red Dragon Veteran",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-experto-en-escaramuzas-sirenido": {
+      "name": "Merfolk Skirmisher",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/merfolk.png",
+      "match": "variant",
+      "illustration": "Merfolk",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-solar": {
+      "name": "Solar",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/solar.png",
+      "match": "exact",
+      "illustration": "Solar",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-sombra": {
+      "name": "Shadow",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/shadow.png",
+      "match": "exact",
+      "illustration": "Shadow",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-sucubo": {
+      "name": "Succubus",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/succubus-incubus.png",
+      "match": "variant",
+      "illustration": "Succubus/Incubus",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-tarasca": {
+      "name": "Tarrasque",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/tarrasque.png",
+      "match": "exact",
+      "illustration": "Tarrasque",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-troll": {
+      "name": "Troll",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/troll.png",
+      "match": "exact",
+      "illustration": "Troll",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-extremidad-de-troll": {
+      "name": "Troll Limb",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/troll.png",
+      "match": "variant",
+      "illustration": "Troll",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-tumulario": {
+      "name": "Wight",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/wight.png",
+      "match": "exact",
+      "illustration": "Wight",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-unicornio": {
+      "name": "Unicorn",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/unicorn.png",
+      "match": "exact",
+      "illustration": "Unicorn",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-siervo-de-vampiro": {
+      "name": "Vampire Familiar",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/vampire-spawn.png",
+      "match": "variant",
+      "illustration": "Vampire Spawn",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-engendro-vampirico": {
+      "name": "Vampire Spawn",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/vampire-spawn.png",
+      "match": "exact",
+      "illustration": "Vampire Spawn",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-vampiro": {
+      "name": "Vampire",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/vampire-vampire.png",
+      "match": "variant",
+      "illustration": "Vampire, Vampire Form",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-vrock": {
+      "name": "Vrock",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/vrock.png",
+      "match": "exact",
+      "illustration": "Vrock",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-xorn": {
+      "name": "Xorn",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/xorn.png",
+      "match": "exact",
+      "illustration": "Xorn",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-zombi": {
+      "name": "Zombie",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/zombie.png",
+      "match": "exact",
+      "illustration": "Zombie",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-ogro-zombi": {
+      "name": "Ogre Zombie",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/ogre-zombie.png",
+      "match": "exact",
+      "illustration": "Ogre Zombie",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-aguila": {
+      "name": "Eagle",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/eagle.png",
+      "match": "exact",
+      "illustration": "Eagle",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-aguila-gigante": {
+      "name": "Giant Eagle",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/giant-eagle.png",
+      "match": "exact",
+      "illustration": "Giant Eagle",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-alce": {
+      "name": "Elk",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/elk.png",
+      "match": "exact",
+      "illustration": "Elk",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-alce-gigante": {
+      "name": "Giant Elk",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/giant-elk.png",
+      "match": "exact",
+      "illustration": "Giant Elk",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-alosaurio": {
+      "name": "Alosaurio",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Allosaurus_TD.png",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAllosaurus_TD.png",
+      "illustration": "Allosaurus restoration",
+      "match": "exact",
+      "credit": {
+        "text": "TotalDino · CC BY 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File%3AAllosaurus_TD.png"
+      }
+    },
+    "srd-enemy-anquilosaurio": {
+      "name": "Anquilosaurio",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Ankylosaurus_magniventris_reconstruction_nomargin.png",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAnkylosaurus_magniventris_reconstruction_nomargin.png",
+      "illustration": "Ankylosaurus restoration",
+      "match": "exact",
+      "credit": {
+        "text": "Emily Willoughby; modificaciones de FunkMonk · CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File%3AAnkylosaurus_magniventris_reconstruction_nomargin.png"
+      }
+    },
+    "srd-enemy-arana": {
+      "name": "Spider",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/spider.png",
+      "match": "exact",
+      "illustration": "Spider",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-arana-gigante": {
+      "name": "Giant Spider",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/giant-spider.png",
+      "match": "exact",
+      "illustration": "Giant Spider",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-archelon": {
+      "name": "Archelon",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Archelon_79300.JPG/960px-Archelon_79300.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File%3AArchelon_79300.JPG",
+      "illustration": "Archelon restoration",
+      "match": "exact",
+      "credit": {
+        "text": "Conty · Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File%3AArchelon_79300.JPG"
+      }
+    },
+    "srd-enemy-avispa-gigante": {
+      "name": "Giant Wasp",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/giant-wasp.png",
+      "match": "exact",
+      "illustration": "Giant Wasp",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-babuino": {
+      "name": "Baboon",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/baboon.png",
+      "match": "exact",
+      "illustration": "Baboon",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-buho": {
+      "name": "Owl",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/owl.png",
+      "match": "exact",
+      "illustration": "Owl",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-buho-gigante": {
+      "name": "Giant Owl",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/giant-owl.png",
+      "match": "exact",
+      "illustration": "Giant Owl",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-buitre": {
+      "name": "Vulture",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/vulture.png",
+      "match": "exact",
+      "illustration": "Vulture",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-buitre-gigante": {
+      "name": "Giant Vulture",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/giant-vulture.png",
+      "match": "exact",
+      "illustration": "Giant Vulture",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-caballito-de-mar": {
+      "name": "Seahorse",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/sea-horse.png",
+      "match": "variant",
+      "illustration": "Sea Horse",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-caballito-de-mar-gigante": {
+      "name": "Giant Seahorse",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/giant-sea-horse.png",
+      "match": "variant",
+      "illustration": "Giant Sea Horse",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-caballo-de-guerra": {
+      "name": "Warhorse",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/warhorse.png",
+      "match": "exact",
+      "illustration": "Warhorse",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-caballo-de-monta": {
+      "name": "Riding Horse",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/riding-horse.png",
+      "match": "exact",
+      "illustration": "Riding Horse",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-caballo-de-tiro": {
+      "name": "Draft Horse",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/draft-horse.png",
+      "match": "exact",
+      "illustration": "Draft Horse",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-cabra": {
+      "name": "Goat",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/goat.png",
+      "match": "exact",
+      "illustration": "Goat",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-cabra-gigante": {
+      "name": "Giant Goat",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/giant-goat.png",
+      "match": "exact",
+      "illustration": "Giant Goat",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-camello": {
+      "name": "Camel",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/camel.png",
+      "match": "exact",
+      "illustration": "Camel",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-cangrejo": {
+      "name": "Crab",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/crab.png",
+      "match": "exact",
+      "illustration": "Crab",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-cangrejo-gigante": {
+      "name": "Giant Crab",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/giant-crab.png",
+      "match": "exact",
+      "illustration": "Giant Crab",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-chacal": {
+      "name": "Jackal",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/jackal.png",
+      "match": "exact",
+      "illustration": "Jackal",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-ciempies-gigante": {
+      "name": "Giant Centipede",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/giant-centipede.png",
+      "match": "exact",
+      "illustration": "Giant Centipede",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-ciervo": {
+      "name": "Deer",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/deer.png",
+      "match": "exact",
+      "illustration": "Deer",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-cocodrilo": {
+      "name": "Crocodile",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/crocodile.png",
+      "match": "exact",
+      "illustration": "Crocodile",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-cocodrilo-gigante": {
+      "name": "Giant Crocodile",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/giant-crocodile.png",
+      "match": "exact",
+      "illustration": "Giant Crocodile",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-comadreja": {
+      "name": "Weasel",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/weasel.png",
+      "match": "exact",
+      "illustration": "Weasel",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-comadreja-gigante": {
+      "name": "Giant Weasel",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/giant-weasel.png",
+      "match": "exact",
+      "illustration": "Giant Weasel",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-cuervo": {
+      "name": "Raven",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/raven.png",
+      "match": "exact",
+      "illustration": "Raven",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-elefante": {
+      "name": "Elephant",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/elephant.png",
+      "match": "exact",
+      "illustration": "Elephant",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-enjambre-de-cuervos": {
+      "name": "Swarm of Ravens",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/swarm-of-ravens.png",
+      "match": "exact",
+      "illustration": "Swarm of Ravens",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-enjambre-de-insectos": {
+      "name": "Swarm of Insects",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/swarm-of-insects.png",
+      "match": "exact",
+      "illustration": "Swarm of Insects",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-enjambre-de-murcielagos": {
+      "name": "Swarm of Bats",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/swarm-of-bats.png",
+      "match": "exact",
+      "illustration": "Swarm of Bats",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-enjambre-de-piranas": {
+      "name": "Enjambre de pirañas",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Pygocentrus_nattereri_-_Karlsruhe_Zoo_01.jpg/330px-Pygocentrus_nattereri_-_Karlsruhe_Zoo_01.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File%3APygocentrus_nattereri_-_Karlsruhe_Zoo_01.jpg",
+      "illustration": "Piranha",
+      "match": "variant",
+      "credit": {
+        "text": "H. Zell · CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File%3APygocentrus_nattereri_-_Karlsruhe_Zoo_01.jpg"
+      }
+    },
+    "srd-enemy-enjambre-de-ratas": {
+      "name": "Swarm of Rats",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/swarm-of-rats.png",
+      "match": "exact",
+      "illustration": "Swarm of Rats",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-enjambre-de-serpientes-venenosas": {
+      "name": "Swarm of Venomous Snakes",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/swarm-of-poisonous-snakes.png",
+      "match": "variant",
+      "illustration": "Swarm of Poisonous Snakes",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-escarabajo-de-fuego-gigante": {
+      "name": "Giant Fire Beetle",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/giant-fire-beetle.png",
+      "match": "exact",
+      "illustration": "Giant Fire Beetle",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-escorpion": {
+      "name": "Scorpion",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/scorpion.png",
+      "match": "exact",
+      "illustration": "Scorpion",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-escorpion-gigante": {
+      "name": "Giant Scorpion",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/giant-scorpion.png",
+      "match": "exact",
+      "illustration": "Giant Scorpion",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-gato": {
+      "name": "Cat",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/cat.png",
+      "match": "exact",
+      "illustration": "Cat",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-halcon": {
+      "name": "Hawk",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/hawk.png",
+      "match": "exact",
+      "illustration": "Hawk",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-halcon-sangriento": {
+      "name": "Blood Hawk",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/blood-hawk.png",
+      "match": "exact",
+      "illustration": "Blood Hawk",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-hiena": {
+      "name": "Hyena",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/hyena.png",
+      "match": "exact",
+      "illustration": "Hyena",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-hiena-gigante": {
+      "name": "Giant Hyena",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/giant-hyena.png",
+      "match": "exact",
+      "illustration": "Giant Hyena",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-hipopotamo": {
+      "name": "Hipopótamo",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Portrait_Hippopotamus_in_the_water.jpg/330px-Portrait_Hippopotamus_in_the_water.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File%3APortrait_Hippopotamus_in_the_water.jpg",
+      "illustration": "Hippopotamus",
+      "match": "exact",
+      "credit": {
+        "text": "Muhammad Mahdi Karim · CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File%3APortrait_Hippopotamus_in_the_water.jpg"
+      }
+    },
+    "srd-enemy-jabali": {
+      "name": "Boar",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/boar.png",
+      "match": "exact",
+      "illustration": "Boar",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-jabali-gigante": {
+      "name": "Giant Boar",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/giant-boar.png",
+      "match": "exact",
+      "illustration": "Giant Boar",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-lagarto": {
+      "name": "Lizard",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/lizard.png",
+      "match": "exact",
+      "illustration": "Lizard",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-lagarto-gigante": {
+      "name": "Giant Lizard",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/giant-lizard.png",
+      "match": "exact",
+      "illustration": "Giant Lizard",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-leon": {
+      "name": "Lion",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/lion.png",
+      "match": "exact",
+      "illustration": "Lion",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-lobo": {
+      "name": "Wolf",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/wolf.png",
+      "match": "exact",
+      "illustration": "Wolf",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-lobo-terrible": {
+      "name": "Dire Wolf",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/dire-wolf.png",
+      "match": "exact",
+      "illustration": "Dire Wolf",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-mamut": {
+      "name": "Mammoth",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/mammoth.png",
+      "match": "exact",
+      "illustration": "Mammoth",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-mastin": {
+      "name": "Mastiff",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/mastiff.png",
+      "match": "exact",
+      "illustration": "Mastiff",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-mula": {
+      "name": "Mule",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/mule.png",
+      "match": "exact",
+      "illustration": "Mule",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-murcielago": {
+      "name": "Bat",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/bat.png",
+      "match": "exact",
+      "illustration": "Bat",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-murcielago-gigante": {
+      "name": "Giant Bat",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/giant-bat.png",
+      "match": "exact",
+      "illustration": "Giant Bat",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-orca": {
+      "name": "Killer Whale",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/killer-whale.png",
+      "match": "exact",
+      "illustration": "Killer Whale",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-oso-negro": {
+      "name": "Black Bear",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/black-bear.png",
+      "match": "exact",
+      "illustration": "Black Bear",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-oso-pardo": {
+      "name": "Brown Bear",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/brown-bear.png",
+      "match": "exact",
+      "illustration": "Brown Bear",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-oso-polar": {
+      "name": "Polar Bear",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/polar-bear.png",
+      "match": "exact",
+      "illustration": "Polar Bear",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-pantera": {
+      "name": "Panther",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/panther.png",
+      "match": "exact",
+      "illustration": "Panther",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-pirana": {
+      "name": "Piraña",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Pygocentrus_nattereri_-_Karlsruhe_Zoo_01.jpg/330px-Pygocentrus_nattereri_-_Karlsruhe_Zoo_01.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File%3APygocentrus_nattereri_-_Karlsruhe_Zoo_01.jpg",
+      "illustration": "Piranha",
+      "match": "exact",
+      "credit": {
+        "text": "H. Zell · CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File%3APygocentrus_nattereri_-_Karlsruhe_Zoo_01.jpg"
+      }
+    },
+    "srd-enemy-plesiosaurio": {
+      "name": "Plesiosaurus",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/plesiosaurus.png",
+      "match": "exact",
+      "illustration": "Plesiosaurus",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-poni": {
+      "name": "Pony",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/pony.png",
+      "match": "exact",
+      "illustration": "Pony",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-pteranodon": {
+      "name": "Pteranodon",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Pteranodon_TD.png/960px-Pteranodon_TD.png",
+      "source": "https://commons.wikimedia.org/wiki/File%3APteranodon_TD.png",
+      "illustration": "Pteranodon restoration",
+      "match": "exact",
+      "credit": {
+        "text": "TotalDino · CC BY 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File%3APteranodon_TD.png"
+      }
+    },
+    "srd-enemy-pulpo": {
+      "name": "Octopus",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/octopus.png",
+      "match": "exact",
+      "illustration": "Octopus",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-pulpo-gigante": {
+      "name": "Giant Octopus",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/giant-octopus.png",
+      "match": "exact",
+      "illustration": "Giant Octopus",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-rana": {
+      "name": "Frog",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/frog.png",
+      "match": "exact",
+      "illustration": "Frog",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-rana-gigante": {
+      "name": "Giant Frog",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/giant-frog.png",
+      "match": "exact",
+      "illustration": "Giant Frog",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-rata": {
+      "name": "Rat",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/rat.png",
+      "match": "exact",
+      "illustration": "Rat",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-rata-gigante": {
+      "name": "Giant Rat",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/giant-rat.png",
+      "match": "exact",
+      "illustration": "Giant Rat",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-rinoceronte": {
+      "name": "Rhinoceros",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/rhinoceros.png",
+      "match": "exact",
+      "illustration": "Rhinoceros",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-sapo-gigante": {
+      "name": "Giant Toad",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/giant-toad.png",
+      "match": "exact",
+      "illustration": "Giant Toad",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-serpiente-constrictora": {
+      "name": "Constrictor Snake",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/constrictor-snake.png",
+      "match": "exact",
+      "illustration": "Constrictor Snake",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-serpiente-constrictora-gigante": {
+      "name": "Giant Constrictor Snake",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/giant-constrictor-snake.png",
+      "match": "exact",
+      "illustration": "Giant Constrictor Snake",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-serpiente-venenosa": {
+      "name": "Venomous Snake",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/poisonous-snake.png",
+      "match": "variant",
+      "illustration": "Poisonous Snake",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-serpiente-venenosa-gigante": {
+      "name": "Giant Venomous Snake",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/giant-poisonous-snake.png",
+      "match": "variant",
+      "illustration": "Giant Poisonous Snake",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-serpiente-voladora": {
+      "name": "Flying Snake",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/flying-snake.png",
+      "match": "exact",
+      "illustration": "Flying Snake",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-simio": {
+      "name": "Ape",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/ape.png",
+      "match": "exact",
+      "illustration": "Ape",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-simio-gigante": {
+      "name": "Giant Ape",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/giant-ape.png",
+      "match": "exact",
+      "illustration": "Giant Ape",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-tarantula-gigante": {
+      "name": "Giant Wolf Spider",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/giant-wolf-spider.png",
+      "match": "exact",
+      "illustration": "Giant Wolf Spider",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-tejon": {
+      "name": "Badger",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/badger.png",
+      "match": "exact",
+      "illustration": "Badger",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-tejon-gigante": {
+      "name": "Giant Badger",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/giant-badger.png",
+      "match": "exact",
+      "illustration": "Giant Badger",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-tiburon-cazador": {
+      "name": "Hunter Shark",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/hunter-shark.png",
+      "match": "exact",
+      "illustration": "Hunter Shark",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-tiburon-de-arrecife": {
+      "name": "Reef Shark",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/reef-shark.png",
+      "match": "exact",
+      "illustration": "Reef Shark",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-tiburon-gigante": {
+      "name": "Giant Shark",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/giant-shark.png",
+      "match": "exact",
+      "illustration": "Giant Shark",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-tigre": {
+      "name": "Tiger",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/tiger.png",
+      "match": "exact",
+      "illustration": "Tiger",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-tigre-dientes-de-sable": {
+      "name": "Saber-Toothed Tiger",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/saber-toothed-tiger.png",
+      "match": "exact",
+      "illustration": "Saber-Toothed Tiger",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-tiranosaurio-rex": {
+      "name": "Tyrannosaurus Rex",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/tyrannosaurus-rex.png",
+      "match": "exact",
+      "illustration": "Tyrannosaurus Rex",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-enemy-triceratops": {
+      "name": "Triceratops",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/triceratops.png",
+      "match": "exact",
+      "illustration": "Triceratops",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "enemy-esqueleto": {
+      "name": "Skeleton",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/skeleton.png",
+      "match": "exact",
+      "illustration": "Skeleton",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "enemy-orco": {
+      "name": "Orco errante",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/orc.png",
+      "match": "exact",
+      "illustration": "Orc",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "enemy-ogro": {
+      "name": "Ogre",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/ogre.png",
+      "match": "exact",
+      "illustration": "Ogre",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "npc-vigilia": {
+      "name": "Guard",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/guard.png",
+      "match": "exact",
+      "illustration": "Guard",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "npc-cartografa": {
+      "name": "Iria, la cartógrafa",
+      "image": "https://i.pinimg.com/736x/ba/fb/70/bafb70ccb877f50b8846631b4b6dcc7c.jpg",
+      "match": "existing",
+      "source": "https://i.pinimg.com/736x/ba/fb/70/bafb70ccb877f50b8846631b4b6dcc7c.jpg"
+    },
+    "srd-npc-asesino": {
+      "name": "Assassin",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/assassin.png",
+      "match": "exact",
+      "illustration": "Assassin",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-npc-bandido": {
+      "name": "Bandit",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/bandit.png",
+      "match": "exact",
+      "illustration": "Bandit",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-npc-capitan-bandido": {
+      "name": "Bandit Captain",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/bandit-captain.png",
+      "match": "exact",
+      "illustration": "Bandit Captain",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-npc-batidor": {
+      "name": "Scout",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/scout.png",
+      "match": "exact",
+      "illustration": "Scout",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-npc-berserker": {
+      "name": "Berserker",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/berserker.png",
+      "match": "exact",
+      "illustration": "Berserker",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-npc-caballero": {
+      "name": "Knight",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/knight.png",
+      "match": "exact",
+      "illustration": "Knight",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-npc-druida": {
+      "name": "Druid",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/druid.png",
+      "match": "exact",
+      "illustration": "Druid",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-npc-espia": {
+      "name": "Spy",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/spy.png",
+      "match": "exact",
+      "illustration": "Spy",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-npc-gladiador": {
+      "name": "Gladiator",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/gladiator.png",
+      "match": "exact",
+      "illustration": "Gladiator",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-npc-guardia": {
+      "name": "Guard",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/guard.png",
+      "match": "exact",
+      "illustration": "Guard",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-npc-capitan-de-la-guardia": {
+      "name": "Guard Captain",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/guard.png",
+      "match": "variant",
+      "illustration": "Guard",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-npc-guerrero-de-infanteria": {
+      "name": "Warrior Infantry",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/guard.png",
+      "match": "variant",
+      "illustration": "Guard",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-npc-guerrero-veterano": {
+      "name": "Warrior Veteran",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/veteran.png",
+      "match": "variant",
+      "illustration": "Veteran",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-npc-mago": {
+      "name": "Mage",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/mage.png",
+      "match": "exact",
+      "illustration": "Mage",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-npc-archimago": {
+      "name": "Archmage",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/archmage.png",
+      "match": "exact",
+      "illustration": "Archmage",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-npc-noble": {
+      "name": "Noble",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/noble.png",
+      "match": "exact",
+      "illustration": "Noble",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-npc-pendenciero": {
+      "name": "Tough",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/thug.png",
+      "match": "variant",
+      "illustration": "Thug",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-npc-jefe-pendenciero": {
+      "name": "Tough Boss",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/thug.png",
+      "match": "variant",
+      "illustration": "Thug",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-npc-pirata": {
+      "name": "Pirate",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/bandit.png",
+      "match": "variant",
+      "illustration": "Bandit",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-npc-capitan-pirata": {
+      "name": "Pirate Captain",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/bandit-captain.png",
+      "match": "variant",
+      "illustration": "Bandit Captain",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-npc-plebeyo": {
+      "name": "Commoner",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/commoner.png",
+      "match": "exact",
+      "illustration": "Commoner",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-npc-sacerdote-acolito": {
+      "name": "Priest Acolyte",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/acolyte.png",
+      "match": "variant",
+      "illustration": "Acolyte",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-npc-sacerdote": {
+      "name": "Priest",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/priest.png",
+      "match": "exact",
+      "illustration": "Priest",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-npc-sectario": {
+      "name": "Cultist",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/cultist.png",
+      "match": "exact",
+      "illustration": "Cultist",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-npc-fanatico-sectario": {
+      "name": "Cultist Fanatic",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/cult-fanatic.png",
+      "match": "variant",
+      "illustration": "Cult Fanatic",
+      "source": "https://github.com/5e-bits/5e-database"
+    },
+    "srd-npc-siervo-de-vampiro": {
+      "name": "Vampire Familiar",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/vampire-spawn.png",
+      "match": "variant",
+      "illustration": "Vampire Spawn",
+      "source": "https://github.com/5e-bits/5e-database"
+    }
+  }
+}

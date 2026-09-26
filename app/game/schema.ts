@@ -1,4 +1,5 @@
 import { z } from "zod";
+import { sourceSchema } from "./source";
 
 export const attributeNames = ["golpes", "tiros", "constitucion", "percepcion", "inteligencia", "valor", "empatia", "carisma"] as const;
 export const attributeLabels: Record<Attribute, string> = {
@@ -21,17 +22,20 @@ export const rulesSchema = z.object({
   r.xpThresholds.every((n, i) => i === 0 || n > r.xpThresholds[i - 1]), "Umbrales de experiencia inválidos");
 
 export const classSchema = z.object({
+  source: sourceSchema.optional(),
   id, name: text, description: text, image: z.string().regex(/^images\/[a-z0-9-]+\.(svg|png|webp|jpe?g)$/),
   baseHp: z.number().int().min(1).max(100),
   starterPools: z.object({ weapon: ids.min(1), armor: ids.min(1), supply: ids.min(1) }).strict(),
 }).strict();
 
 export const skillSchema = z.object({
+  source: sourceSchema.optional(),
   id, name: text, description: text, classId: id, level: z.number().int().min(1).max(20),
   attribute: z.enum(attributeNames).optional(), damage: z.enum(["1d4", "1d6"]).optional(),
 }).strict();
 
 export const itemSchema = z.object({
+  source: sourceSchema.optional(),
   id, name: text, description: text, kind: z.enum(["weapon", "armor", "consumable", "misc"]),
   usable: z.boolean(), consumable: z.boolean(), damage: z.enum(["1d4", "1d6"]).optional(),
   armor: z.number().int().min(1).max(30).optional(),

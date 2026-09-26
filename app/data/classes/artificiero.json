@@ -1,25 +1,28 @@
-﻿{
-    "version":  1,
-    "entries":  [
-                    {
-                        "id":  "artificiero",
-                        "name":  "Artificiero",
-                        "description":  "Construye ingenios y combina herramientas con energía arcana.",
-                        "image":  "images/mistico.svg",
-                        "baseHp":  8,
-                        "starterPools":  {
-                                             "armor":  [
-                                                           "cuero"
-                                                       ],
-                                             "supply":  [
-                                                            "pocion",
-                                                            "vendas"
-                                                        ],
-                                             "weapon":  [
-                                                            "daga",
-                                                            "baston"
-                                                        ]
-                                         }
-                    }
-                ]
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "artificiero",
+      "name": "Artificiero",
+      "description": "Inventor y alquimista inspirado en Taryon y su ayudante Doty, con técnicas de tiro inspiradas en Percy, de Vox Machina. Emplea Inteligencia, Percepción y Tiros para preparar ingenios, reparar armas y dirigir un autómata. Adaptación propia de Alfa Lumin: una acción por turno y sin ataques independientes del ayudante.",
+      "image": "images/mistico.svg",
+      "baseHp": 8,
+      "starterPools": {
+        "armor": [
+          "cuero"
+        ],
+        "supply": [
+          "pocion",
+          "vendas"
+        ],
+        "weapon": [
+          "daga",
+          "baston",
+          "srd-ballesta-ligera",
+          "srd-martillo-ligero",
+          "srd-pistola"
+        ]
+      }
+    }
+  ]
 }

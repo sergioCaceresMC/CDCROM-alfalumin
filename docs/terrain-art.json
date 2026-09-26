@@ -1,0 +1,433 @@
+{
+  "version": 1,
+  "checkedAt": "2026-09-26T18:43:49.216Z",
+  "groups": {
+    "refugios": [
+      {
+        "title": "The Fisherman's Cottage",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Jean-Baptiste-Camille_Corot_-_The_Fisherman%27s_Cottage_-_Walters_37164.jpg/960px-Jean-Baptiste-Camille_Corot_-_The_Fisherman%27s_Cottage_-_Walters_37164.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Jean-Baptiste-Camille_Corot_-_The_Fisherman%27s_Cottage_-_Walters_37164.jpg",
+        "credit": {
+          "text": "The Fisherman's Cottage · Jean-Baptiste Camille Corot · Public domain · Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Jean-Baptiste-Camille_Corot_-_The_Fisherman%27s_Cottage_-_Walters_37164.jpg"
+        }
+      },
+      {
+        "title": "Landscape with Cottages and Figures",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/B._Smith_%28active_1869%29_-_Landscape_with_Cottages_and_Figures_-_ABDAG003794_-_Aberdeen_City_Council_%28Archives%2C_Gallery_and_Museums_Collection%29.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:B._Smith_(active_1869)_-_Landscape_with_Cottages_and_Figures_-_ABDAG003794_-_Aberdeen_City_Council_(Archives,_Gallery_and_Museums_Collection).jpg",
+        "credit": {
+          "text": "Landscape with Cottages and Figures · B. Smith · Public domain · Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:B._Smith_(active_1869)_-_Landscape_with_Cottages_and_Figures_-_ABDAG003794_-_Aberdeen_City_Council_(Archives,_Gallery_and_Museums_Collection).jpg"
+        }
+      }
+    ],
+    "ciudades": [
+      {
+        "title": "A Street, Possibly in Port-Marly",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Alfred_Sisley_060.jpg/960px-Alfred_Sisley_060.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Alfred_Sisley_060.jpg",
+        "credit": {
+          "text": "A Street, Possibly in Port-Marly · Alfred Sisley · Public domain · Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Alfred_Sisley_060.jpg"
+        }
+      }
+    ],
+    "aldeas": [
+      {
+        "title": "Village in Brittany",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Charles_Fran%C3%A7ois_Daubigny_-_Village_in_Brittany_-_1957.71_-_Art_Institute_of_Chicago.jpg/960px-Charles_Fran%C3%A7ois_Daubigny_-_Village_in_Brittany_-_1957.71_-_Art_Institute_of_Chicago.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Charles_Fran%C3%A7ois_Daubigny_-_Village_in_Brittany_-_1957.71_-_Art_Institute_of_Chicago.jpg",
+        "credit": {
+          "text": "Village in Brittany · Charles-François Daubigny · Public domain · Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Charles_Fran%C3%A7ois_Daubigny_-_Village_in_Brittany_-_1957.71_-_Art_Institute_of_Chicago.jpg"
+        }
+      },
+      {
+        "title": "Rose Jams in Megara",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Les_Confitures_de_Roses_a_Megara.jpg/960px-Les_Confitures_de_Roses_a_Megara.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Les_Confitures_de_Roses_a_Megara.jpg",
+        "credit": {
+          "text": "Rose Jams in Megara · Théodore Ralli · Public domain · Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Les_Confitures_de_Roses_a_Megara.jpg"
+        }
+      }
+    ],
+    "caminos": [
+      {
+        "title": "Landscape with Figures Crossing a Bridge",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/John_Rathbone_-_Landscape_with_Figures_Crossing_a_Bridge_-_1962.967_-_Art_Institute_of_Chicago.jpg/960px-John_Rathbone_-_Landscape_with_Figures_Crossing_a_Bridge_-_1962.967_-_Art_Institute_of_Chicago.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:John_Rathbone_-_Landscape_with_Figures_Crossing_a_Bridge_-_1962.967_-_Art_Institute_of_Chicago.jpg",
+        "credit": {
+          "text": "Landscape with Figures Crossing a Bridge · John Rathbone / George Morland · Public domain · Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:John_Rathbone_-_Landscape_with_Figures_Crossing_a_Bridge_-_1962.967_-_Art_Institute_of_Chicago.jpg"
+        }
+      },
+      {
+        "title": "La Route tournante",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Paul_Cezanne_A_Turn_in_the_Road.jpg/960px-Paul_Cezanne_A_Turn_in_the_Road.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Paul_Cezanne_A_Turn_in_the_Road.jpg",
+        "credit": {
+          "text": "La Route tournante · Paul Cézanne · Public domain · Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Paul_Cezanne_A_Turn_in_the_Road.jpg"
+        }
+      }
+    ],
+    "bosques": [
+      {
+        "title": "A Clearing in the Forest",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Narcisse_Virgile_Diaz_de_la_Pe%C3%B1a_%281807-1876%29_-_A_Clearing_in_the_Forest_-_NG_1042_-_National_Galleries_of_Scotland.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Narcisse_Virgile_Diaz_de_la_Pe%C3%B1a_(1807-1876)_-_A_Clearing_in_the_Forest_-_NG_1042_-_National_Galleries_of_Scotland.jpg",
+        "credit": {
+          "text": "A Clearing in the Forest · Narcisse Virgilio Díaz · Public domain · Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Narcisse_Virgile_Diaz_de_la_Pe%C3%B1a_(1807-1876)_-_A_Clearing_in_the_Forest_-_NG_1042_-_National_Galleries_of_Scotland.jpg"
+        }
+      },
+      {
+        "title": "Pond in the Woods .",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Jan_van_Goyen_Teich_im_Walde.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Jan_van_Goyen_Teich_im_Walde.jpg",
+        "credit": {
+          "text": "Pond in the Woods . · Jan van Goyen · Public domain · Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Jan_van_Goyen_Teich_im_Walde.jpg"
+        }
+      }
+    ],
+    "selvas": [
+      {
+        "title": "Tropical Scenery",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Frederic_Edwin_Church_-_Tropical_Scenery_-_Google_Art_Project.jpg/960px-Frederic_Edwin_Church_-_Tropical_Scenery_-_Google_Art_Project.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Frederic_Edwin_Church_-_Tropical_Scenery_-_Google_Art_Project.jpg",
+        "credit": {
+          "text": "Tropical Scenery · Frederic Edwin Church · Public domain · Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Frederic_Edwin_Church_-_Tropical_Scenery_-_Google_Art_Project.jpg"
+        }
+      },
+      {
+        "title": "Tropical Scenery",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Frederic_Edwin_Church_-_Tropical_Scenery_-_Google_Art_Project.jpg/960px-Frederic_Edwin_Church_-_Tropical_Scenery_-_Google_Art_Project.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Frederic_Edwin_Church_-_Tropical_Scenery_-_Google_Art_Project.jpg",
+        "credit": {
+          "text": "Tropical Scenery · Frederic Edwin Church · Public domain · Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Frederic_Edwin_Church_-_Tropical_Scenery_-_Google_Art_Project.jpg"
+        }
+      },
+      {
+        "title": "Tropical Scenery",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Frederic_Edwin_Church_-_Tropical_Scenery_-_Google_Art_Project.jpg/960px-Frederic_Edwin_Church_-_Tropical_Scenery_-_Google_Art_Project.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Frederic_Edwin_Church_-_Tropical_Scenery_-_Google_Art_Project.jpg",
+        "credit": {
+          "text": "Tropical Scenery · Frederic Edwin Church · Public domain · Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Frederic_Edwin_Church_-_Tropical_Scenery_-_Google_Art_Project.jpg"
+        }
+      }
+    ],
+    "pantanos": [
+      {
+        "title": "Marshes in New Jersey, by Henry Ossawa Tanner. SAAM-1984.149.3 1",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Marshes_in_New_Jersey%2C_by_Henry_Ossawa_Tanner._SAAM-1984.149.3_1.jpg/960px-Marshes_in_New_Jersey%2C_by_Henry_Ossawa_Tanner._SAAM-1984.149.3_1.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Marshes_in_New_Jersey,_by_Henry_Ossawa_Tanner._SAAM-1984.149.3_1.jpg",
+        "credit": {
+          "text": "Marshes in New Jersey, by Henry Ossawa Tanner. SAAM-1984.149.3 1 · Henry Ossawa Tanner · Public domain · Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Marshes_in_New_Jersey,_by_Henry_Ossawa_Tanner._SAAM-1984.149.3_1.jpg"
+        }
+      },
+      {
+        "title": "October in the Marshes",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/October_in_the_Marshes_MET_ap74.25.jpg/960px-October_in_the_Marshes_MET_ap74.25.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:October_in_the_Marshes_MET_ap74.25.jpg",
+        "credit": {
+          "text": "October in the Marshes · John Frederick Kensett · CC0 · Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:October_in_the_Marshes_MET_ap74.25.jpg"
+        }
+      }
+    ],
+    "montanas": [
+      {
+        "title": "View of Cotopaxi",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Frederic_Edwin_Church_-_View_of_Cotopaxi_-_1919.753_-_Art_Institute_of_Chicago.jpg/960px-Frederic_Edwin_Church_-_View_of_Cotopaxi_-_1919.753_-_Art_Institute_of_Chicago.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Frederic_Edwin_Church_-_View_of_Cotopaxi_-_1919.753_-_Art_Institute_of_Chicago.jpg",
+        "credit": {
+          "text": "View of Cotopaxi · Frederic Edwin Church · Public domain · Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Frederic_Edwin_Church_-_View_of_Cotopaxi_-_1919.753_-_Art_Institute_of_Chicago.jpg"
+        }
+      },
+      {
+        "title": "An Alpine Scene",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/William_James_M%C3%BCller_%281812-1845%29_-_An_Alpine_Scene_-_K812_-_Bristol_City_Museum_%5E_Art_Gallery.jpg/960px-William_James_M%C3%BCller_%281812-1845%29_-_An_Alpine_Scene_-_K812_-_Bristol_City_Museum_%5E_Art_Gallery.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:William_James_M%C3%BCller_(1812-1845)_-_An_Alpine_Scene_-_K812_-_Bristol_City_Museum_%5E_Art_Gallery.jpg",
+        "credit": {
+          "text": "An Alpine Scene · William James Müller · Public domain · Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:William_James_M%C3%BCller_(1812-1845)_-_An_Alpine_Scene_-_K812_-_Bristol_City_Museum_%5E_Art_Gallery.jpg"
+        }
+      },
+      {
+        "title": "Sunset, View on the Catskill",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Sunset%2C_View_on_the_Catskill.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Sunset,_View_on_the_Catskill.jpg",
+        "credit": {
+          "text": "Sunset, View on the Catskill · Thomas Cole · Public domain · Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Sunset,_View_on_the_Catskill.jpg"
+        }
+      }
+    ],
+    "desiertos": [
+      {
+        "title": "Anna Althea Hills When the Desert Blooms 1922",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Anna_Althea_Hills_When_the_Desert_Blooms_1922.jpg/960px-Anna_Althea_Hills_When_the_Desert_Blooms_1922.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Anna_Althea_Hills_When_the_Desert_Blooms_1922.jpg",
+        "credit": {
+          "text": "Anna Althea Hills When the Desert Blooms 1922 · Anna Althea Hills · Public domain · Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Anna_Althea_Hills_When_the_Desert_Blooms_1922.jpg"
+        }
+      },
+      {
+        "title": "Anna Althea Hills Desert Palms 1917",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Anna_Althea_Hills_Desert_Palms_1917.jpg/960px-Anna_Althea_Hills_Desert_Palms_1917.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Anna_Althea_Hills_Desert_Palms_1917.jpg",
+        "credit": {
+          "text": "Anna Althea Hills Desert Palms 1917 · Anna Althea Hills · Public domain · Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Anna_Althea_Hills_Desert_Palms_1917.jpg"
+        }
+      }
+    ],
+    "llanuras": [
+      {
+        "title": "Poppy Field (Giverny)",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Claude_Monet_-_Poppy_Field_%28Giverny%29_-_1922.4465_-_Art_Institute_of_Chicago.jpg/960px-Claude_Monet_-_Poppy_Field_%28Giverny%29_-_1922.4465_-_Art_Institute_of_Chicago.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Poppy_Field_(Giverny)_-_1922.4465_-_Art_Institute_of_Chicago.jpg",
+        "credit": {
+          "text": "Poppy Field (Giverny) · Claude Monet · Public domain · Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Poppy_Field_(Giverny)_-_1922.4465_-_Art_Institute_of_Chicago.jpg"
+        }
+      },
+      {
+        "title": "Two Cows and a Young Bull beside a Fence in a Meadow",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Paulus_Potter_-_Two_Cows_and_a_Young_Bull_beside_a_Fence_in_a_Meadow_-_1997.336_-_Art_Institute_of_Chicago.jpg/960px-Paulus_Potter_-_Two_Cows_and_a_Young_Bull_beside_a_Fence_in_a_Meadow_-_1997.336_-_Art_Institute_of_Chicago.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Paulus_Potter_-_Two_Cows_and_a_Young_Bull_beside_a_Fence_in_a_Meadow_-_1997.336_-_Art_Institute_of_Chicago.jpg",
+        "credit": {
+          "text": "Two Cows and a Young Bull beside a Fence in a Meadow · Paulus Potter · Public domain · Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Paulus_Potter_-_Two_Cows_and_a_Young_Bull_beside_a_Fence_in_a_Meadow_-_1997.336_-_Art_Institute_of_Chicago.jpg"
+        }
+      }
+    ],
+    "costas": [
+      {
+        "title": "Coast scene, possibly Capri",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Thomas_Fearnley_-_Coast_scene%2C_possibly_Capri.jpg/960px-Thomas_Fearnley_-_Coast_scene%2C_possibly_Capri.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Thomas_Fearnley_-_Coast_scene,_possibly_Capri.jpg",
+        "credit": {
+          "text": "Coast scene, possibly Capri · Thomas Fearnley · Public domain · Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Thomas_Fearnley_-_Coast_scene,_possibly_Capri.jpg"
+        }
+      },
+      {
+        "title": "Ioannis Poulakas Rocky coast",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Ioannis_Poulakas_Rocky_coast.jpg/960px-Ioannis_Poulakas_Rocky_coast.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Ioannis_Poulakas_Rocky_coast.jpg",
+        "credit": {
+          "text": "Ioannis Poulakas Rocky coast · Ioannis (Yiannis) Poulakas (1863-1942) // Ιωάννης (Γιάννης) Πούλακας (1863-1942) · Public domain · Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Ioannis_Poulakas_Rocky_coast.jpg"
+        }
+      }
+    ],
+    "islas": [
+      {
+        "title": "Rocks at Port-Goulphar, Belle-Île",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Paysage_%C3%A0_Port-Goulphar.jpg/960px-Paysage_%C3%A0_Port-Goulphar.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Paysage_%C3%A0_Port-Goulphar.jpg",
+        "credit": {
+          "text": "Rocks at Port-Goulphar, Belle-Île · Claude Monet · Public domain · Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Paysage_%C3%A0_Port-Goulphar.jpg"
+        }
+      }
+    ],
+    "rios": [
+      {
+        "title": "MET DP154433",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/MET_DP154433.jpg/960px-MET_DP154433.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:MET_DP154433.jpg",
+        "credit": {
+          "text": "MET DP154433 · Yan Wengui · CC0 · Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:MET_DP154433.jpg"
+        }
+      },
+      {
+        "title": "French: Souvenir des environs du lac Nemi Souvenir of the Surroundings of Lake Nemi",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Jean_Baptiste_Camille_Corot_-_Souvenir_of_the_Environs_of_Lake_Nemi_-_1979.1280_-_Art_Institute_of_Chicago.jpg/960px-Jean_Baptiste_Camille_Corot_-_Souvenir_of_the_Environs_of_Lake_Nemi_-_1979.1280_-_Art_Institute_of_Chicago.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Jean_Baptiste_Camille_Corot_-_Souvenir_of_the_Environs_of_Lake_Nemi_-_1979.1280_-_Art_Institute_of_Chicago.jpg",
+        "credit": {
+          "text": "French: Souvenir des environs du lac Nemi Souvenir of the Surroundings of Lake Nemi · Jean-Baptiste Camille Corot · Public domain · Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Jean_Baptiste_Camille_Corot_-_Souvenir_of_the_Environs_of_Lake_Nemi_-_1979.1280_-_Art_Institute_of_Chicago.jpg"
+        }
+      }
+    ],
+    "cavernas": [
+      {
+        "title": "A Grotto in the Gulf of Salerno, Moonlight",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Joseph_Wright_of_Derby_Grotto_in_the_Gulf_of_Salerno.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Joseph_Wright_of_Derby_Grotto_in_the_Gulf_of_Salerno.jpg",
+        "credit": {
+          "text": "A Grotto in the Gulf of Salerno, Moonlight · Joseph Wright of Derby · Public domain · Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Joseph_Wright_of_Derby_Grotto_in_the_Gulf_of_Salerno.jpg"
+        }
+      },
+      {
+        "title": "Grotto by the Seaside in the Kingdom of Naples with Banditti, Sunset",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Joseph_Wright_of_Derby._A_Grotto_with_Banditti_exhibited_1778.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Joseph_Wright_of_Derby._A_Grotto_with_Banditti_exhibited_1778.jpg",
+        "credit": {
+          "text": "Grotto by the Seaside in the Kingdom of Naples with Banditti, Sunset · Joseph Wright of Derby · Public domain · Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Joseph_Wright_of_Derby._A_Grotto_with_Banditti_exhibited_1778.jpg"
+        }
+      },
+      {
+        "title": "Wright Chalk Cavern pictures 1",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Wright_Chalk_Cavern_pictures_1.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Wright_Chalk_Cavern_pictures_1.jpg",
+        "credit": {
+          "text": "Wright Chalk Cavern pictures 1 · Joseph Wright of Derby · Public domain · Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Wright_Chalk_Cavern_pictures_1.jpg"
+        }
+      }
+    ],
+    "mazmorras": [
+      {
+        "title": "Le Carceri d'Invenzione, plate IX: The Giant Wheel",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Giovanni_Battista_Piranesi_-_Le_Carceri_d%27Invenzione_-_First_Edition_-_1750_-_09_-_The_Giant_Wheel.jpg/960px-Giovanni_Battista_Piranesi_-_Le_Carceri_d%27Invenzione_-_First_Edition_-_1750_-_09_-_The_Giant_Wheel.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Giovanni_Battista_Piranesi_-_Le_Carceri_d%27Invenzione_-_First_Edition_-_1750_-_09_-_The_Giant_Wheel.jpg",
+        "credit": {
+          "text": "Le Carceri d'Invenzione, plate IX: The Giant Wheel · Giovanni Battista Piranesi · Public domain · Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Giovanni_Battista_Piranesi_-_Le_Carceri_d%27Invenzione_-_First_Edition_-_1750_-_09_-_The_Giant_Wheel.jpg"
+        }
+      },
+      {
+        "title": "The Prisons (plate VII)",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Giovanni_Battista_Piranesi_-_The_Prisons_%28plate_VII%29_-_WGA17846.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Giovanni_Battista_Piranesi_-_The_Prisons_(plate_VII)_-_WGA17846.jpg",
+        "credit": {
+          "text": "The Prisons (plate VII) · Giovanni Battista Piranesi · Public domain · Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Giovanni_Battista_Piranesi_-_The_Prisons_(plate_VII)_-_WGA17846.jpg"
+        }
+      },
+      {
+        "title": "The Prisons (plate IV)",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Giovanni_Battista_Piranesi_-_The_Prisons_%28plate_IV%29_-_WGA17845.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Giovanni_Battista_Piranesi_-_The_Prisons_(plate_IV)_-_WGA17845.jpg",
+        "credit": {
+          "text": "The Prisons (plate IV) · Giovanni Battista Piranesi · Public domain · Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Giovanni_Battista_Piranesi_-_The_Prisons_(plate_IV)_-_WGA17845.jpg"
+        }
+      }
+    ],
+    "ruinas": [
+      {
+        "title": "Pastoral Landscape with Ruins",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Adriaen_van_de_Velde_-_Pastoral_Landscape_with_Ruins_-_1894.1024_-_Art_Institute_of_Chicago.jpg/960px-Adriaen_van_de_Velde_-_Pastoral_Landscape_with_Ruins_-_1894.1024_-_Art_Institute_of_Chicago.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Adriaen_van_de_Velde_-_Pastoral_Landscape_with_Ruins_-_1894.1024_-_Art_Institute_of_Chicago.jpg",
+        "credit": {
+          "text": "Pastoral Landscape with Ruins · Adriaen van de Velde · Public domain · Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Adriaen_van_de_Velde_-_Pastoral_Landscape_with_Ruins_-_1894.1024_-_Art_Institute_of_Chicago.jpg"
+        }
+      },
+      {
+        "title": "A Landscape with a Ruined Archway",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Jan_Wijnants_-_A_Landscape_with_a_Woman_driving_Sheep_through_a_Ruined_Archway_NG_NG_NG2532.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Jan_Wijnants_-_A_Landscape_with_a_Woman_driving_Sheep_through_a_Ruined_Archway_NG_NG_NG2532.jpg",
+        "credit": {
+          "text": "A Landscape with a Ruined Archway · Jan Wijnants · Public domain · Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Jan_Wijnants_-_A_Landscape_with_a_Woman_driving_Sheep_through_a_Ruined_Archway_NG_NG_NG2532.jpg"
+        }
+      }
+    ],
+    "santuarios": [
+      {
+        "title": "Interior of Saint Bavo, Haarlem",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Pieter_Jansz._Saenredam%2C_Dutch_%28active_Haarlem_and_Utrecht%29_-_Interior_of_Saint_Bavo%2C_Haarlem_-_Google_Art_Project.jpg/960px-Pieter_Jansz._Saenredam%2C_Dutch_%28active_Haarlem_and_Utrecht%29_-_Interior_of_Saint_Bavo%2C_Haarlem_-_Google_Art_Project.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Pieter_Jansz._Saenredam,_Dutch_(active_Haarlem_and_Utrecht)_-_Interior_of_Saint_Bavo,_Haarlem_-_Google_Art_Project.jpg",
+        "credit": {
+          "text": "Interior of Saint Bavo, Haarlem · Pieter Jansz. Saenredam · Public domain · Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Pieter_Jansz._Saenredam,_Dutch_(active_Haarlem_and_Utrecht)_-_Interior_of_Saint_Bavo,_Haarlem_-_Google_Art_Project.jpg"
+        }
+      },
+      {
+        "title": "Interior of the Buurkerk, Utrecht",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Pieter_Jansz._Saenredam_-_Interior_of_the_Buurkerk%2C_Utrecht_-_Google_Art_Project.jpg/960px-Pieter_Jansz._Saenredam_-_Interior_of_the_Buurkerk%2C_Utrecht_-_Google_Art_Project.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Pieter_Jansz._Saenredam_-_Interior_of_the_Buurkerk,_Utrecht_-_Google_Art_Project.jpg",
+        "credit": {
+          "text": "Interior of the Buurkerk, Utrecht · Pieter Jansz. Saenredam · Public domain · Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Pieter_Jansz._Saenredam_-_Interior_of_the_Buurkerk,_Utrecht_-_Google_Art_Project.jpg"
+        }
+      },
+      {
+        "title": "Church Interior",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Saenredam%2C_Pieter_-_Church_Interior_-_Google_Art_Project.jpg/960px-Saenredam%2C_Pieter_-_Church_Interior_-_Google_Art_Project.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Saenredam,_Pieter_-_Church_Interior_-_Google_Art_Project.jpg",
+        "credit": {
+          "text": "Church Interior · Saenredam, Pieter (1597 - 1665) – After Details on Google Art Project · Public domain · Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Saenredam,_Pieter_-_Church_Interior_-_Google_Art_Project.jpg"
+        }
+      }
+    ],
+    "fortalezas": [
+      {
+        "title": "Landscape with Rock and Fortress",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Domenico_Gargiuli_%28Micco_Spadaro%29_-_Landscape_with_Rock_and_Fortress_-_1958.326_-_Art_Institute_of_Chicago.jpg/960px-Domenico_Gargiuli_%28Micco_Spadaro%29_-_Landscape_with_Rock_and_Fortress_-_1958.326_-_Art_Institute_of_Chicago.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Domenico_Gargiuli_(Micco_Spadaro)_-_Landscape_with_Rock_and_Fortress_-_1958.326_-_Art_Institute_of_Chicago.jpg",
+        "credit": {
+          "text": "Landscape with Rock and Fortress · anonymous · Public domain · Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Domenico_Gargiuli_(Micco_Spadaro)_-_Landscape_with_Rock_and_Fortress_-_1958.326_-_Art_Institute_of_Chicago.jpg"
+        }
+      },
+      {
+        "title": "View of Pirna with the Fortress of Sonnenstein",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Anonymous_-_View_of_Pirna_with_the_Fortress_of_Sonnenstein_-_1961.44_-_Art_Institute_of_Chicago.jpg/960px-Anonymous_-_View_of_Pirna_with_the_Fortress_of_Sonnenstein_-_1961.44_-_Art_Institute_of_Chicago.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Anonymous_-_View_of_Pirna_with_the_Fortress_of_Sonnenstein_-_1961.44_-_Art_Institute_of_Chicago.jpg",
+        "credit": {
+          "text": "View of Pirna with the Fortress of Sonnenstein · Bernardo Bellotto · Public domain · Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Anonymous_-_View_of_Pirna_with_the_Fortress_of_Sonnenstein_-_1961.44_-_Art_Institute_of_Chicago.jpg"
+        }
+      }
+    ],
+    "tierras-heladas": [
+      {
+        "title": "Snow Field, Morning, Roxbury",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/John_La_Farge_-_Snow_Field%2C_Morning%2C_Roxbury_-_1981.287_-_Art_Institute_of_Chicago.jpg/960px-John_La_Farge_-_Snow_Field%2C_Morning%2C_Roxbury_-_1981.287_-_Art_Institute_of_Chicago.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:John_La_Farge_-_Snow_Field,_Morning,_Roxbury_-_1981.287_-_Art_Institute_of_Chicago.jpg",
+        "credit": {
+          "text": "Snow Field, Morning, Roxbury · John La Farge · Public domain · Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:John_La_Farge_-_Snow_Field,_Morning,_Roxbury_-_1981.287_-_Art_Institute_of_Chicago.jpg"
+        }
+      },
+      {
+        "title": "Snow at Louveciennes",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Sisley_-_Snow-At-Louveciennes-1874.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Sisley_-_Snow-At-Louveciennes-1874.jpg",
+        "credit": {
+          "text": "Snow at Louveciennes · Alfred Sisley · Public domain · Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Sisley_-_Snow-At-Louveciennes-1874.jpg"
+        }
+      }
+    ],
+    "lugares-extranos": [
+      {
+        "title": "Moorise by Casbah, by Henry Ossawa Tanner",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Moorise_by_Casbah%2C_by_Henry_Ossawa_Tanner.jpg/960px-Moorise_by_Casbah%2C_by_Henry_Ossawa_Tanner.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Moorise_by_Casbah,_by_Henry_Ossawa_Tanner.jpg",
+        "credit": {
+          "text": "Moorise by Casbah, by Henry Ossawa Tanner · Henry Ossawa Tanner · Public domain · Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Moorise_by_Casbah,_by_Henry_Ossawa_Tanner.jpg"
+        }
+      },
+      {
+        "title": "Mist Rising at Sunset in the Catskills",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Sanford_Robinson_Gifford_-_Mist_Rising_at_Sunset_in_the_Catskills_-_1988.217_-_Art_Institute_of_Chicago.jpg/960px-Sanford_Robinson_Gifford_-_Mist_Rising_at_Sunset_in_the_Catskills_-_1988.217_-_Art_Institute_of_Chicago.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Sanford_Robinson_Gifford_-_Mist_Rising_at_Sunset_in_the_Catskills_-_1988.217_-_Art_Institute_of_Chicago.jpg",
+        "credit": {
+          "text": "Mist Rising at Sunset in the Catskills · Sanford Robinson Gifford · Public domain · Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Sanford_Robinson_Gifford_-_Mist_Rising_at_Sunset_in_the_Catskills_-_1988.217_-_Art_Institute_of_Chicago.jpg"
+        }
+      }
+    ]
+  }
+}

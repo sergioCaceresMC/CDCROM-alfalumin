@@ -1,4 +1,4 @@
-﻿{
+{
   "version": 1,
   "entries": [
     {
@@ -17,7 +17,11 @@
       "id": "terrain-ruinas",
       "kind": "terrain",
       "musicUrl": "https://www.youtube.com/results?search_query=ancient+ruins+rpg+ambient",
-      "image": "https://i.pinimg.com/736x/4a/d1/d9/4ad1d9c8dea1d9652797559c0e1df58e.jpg"
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Adriaen_van_de_Velde_-_Pastoral_Landscape_with_Ruins_-_1894.1024_-_Art_Institute_of_Chicago.jpg/960px-Adriaen_van_de_Velde_-_Pastoral_Landscape_with_Ruins_-_1894.1024_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "Pastoral Landscape with Ruins · Adriaen van de Velde · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Adriaen_van_de_Velde_-_Pastoral_Landscape_with_Ruins_-_1894.1024_-_Art_Institute_of_Chicago.jpg"
+      }
     },
     {
       "instructions": [
@@ -31,7 +35,11 @@
       "id": "terrain-bosque",
       "kind": "terrain",
       "musicUrl": "https://www.youtube.com/results?search_query=enchanted+forest+rpg+ambient",
-      "image": "https://i.pinimg.com/736x/4a/d1/d9/4ad1d9c8dea1d9652797559c0e1df58e.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Narcisse_Virgile_Diaz_de_la_Pe%C3%B1a_%281807-1876%29_-_A_Clearing_in_the_Forest_-_NG_1042_-_National_Galleries_of_Scotland.jpg",
+      "imageCredit": {
+        "text": "A Clearing in the Forest · Narcisse Virgilio Díaz · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Narcisse_Virgile_Diaz_de_la_Pe%C3%B1a_(1807-1876)_-_A_Clearing_in_the_Forest_-_NG_1042_-_National_Galleries_of_Scotland.jpg"
+      }
     }
   ]
 }

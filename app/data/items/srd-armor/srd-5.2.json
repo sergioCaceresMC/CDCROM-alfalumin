@@ -1,0 +1,185 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "srd-armadura-acolchada",
+      "name": "Armadura acolchada",
+      "kind": "armor",
+      "usable": false,
+      "consumable": false,
+      "armor": 12,
+      "description": "Protección adaptada: armadura 12, sin modificador de atributo. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 100,
+        "name": "Armadura acolchada",
+        "text": "Armadura acolchada 11 + modificador por Des — Desventaja 4 kg 5 po"
+      }
+    },
+    {
+      "id": "srd-armadura-de-cuero",
+      "name": "Armadura de cuero",
+      "kind": "armor",
+      "usable": false,
+      "consumable": false,
+      "armor": 12,
+      "description": "Protección adaptada: armadura 12, sin modificador de atributo. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 100,
+        "name": "Armadura de cuero",
+        "text": "Armadura de cuero 11 + modificador por Des — — 5 kg 10 po"
+      }
+    },
+    {
+      "id": "srd-armadura-de-cuero-tachonado",
+      "name": "Armadura de cuero tachonado",
+      "kind": "armor",
+      "usable": false,
+      "consumable": false,
+      "armor": 12,
+      "description": "Protección adaptada: armadura 12, sin modificador de atributo. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 100,
+        "name": "Armadura de cuero tachonado",
+        "text": "Armadura de cuero 12 + modificador por Des — — 6,5 kg 45 po tachonado"
+      }
+    },
+    {
+      "id": "srd-armadura-de-pieles",
+      "name": "Armadura de pieles",
+      "kind": "armor",
+      "usable": false,
+      "consumable": false,
+      "armor": 12,
+      "description": "Protección adaptada: armadura 12, sin modificador de atributo. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 100,
+        "name": "Armadura de pieles",
+        "text": "Armadura de pieles 12 + modificador por Des (máx. 2) — — 6 kg 10 po"
+      }
+    },
+    {
+      "id": "srd-camisa-de-malla",
+      "name": "Camisa de malla",
+      "kind": "armor",
+      "usable": false,
+      "consumable": false,
+      "armor": 12,
+      "description": "Protección adaptada: armadura 12, sin modificador de atributo. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 100,
+        "name": "Camisa de malla",
+        "text": "Camisa de malla 13 + modificador por Des (máx. 2) — — 10 kg 50 po"
+      }
+    },
+    {
+      "id": "srd-cota-de-escamas",
+      "name": "Cota de escamas",
+      "kind": "armor",
+      "usable": false,
+      "consumable": false,
+      "armor": 12,
+      "description": "Protección adaptada: armadura 12, sin modificador de atributo. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 100,
+        "name": "Cota de escamas",
+        "text": "Cota de escamas 14 + modificador por Des (máx. 2) — Desventaja 22,5 kg 50 po"
+      }
+    },
+    {
+      "id": "srd-coraza",
+      "name": "Coraza",
+      "kind": "armor",
+      "usable": false,
+      "consumable": false,
+      "armor": 12,
+      "description": "Protección adaptada: armadura 12, sin modificador de atributo. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 100,
+        "name": "Coraza",
+        "text": "Coraza 14 + modificador por Des (máx. 2) — — 10 kg 400 po"
+      }
+    },
+    {
+      "id": "srd-media-armadura",
+      "name": "Media armadura",
+      "kind": "armor",
+      "usable": false,
+      "consumable": false,
+      "armor": 12,
+      "description": "Protección adaptada: armadura 12, sin modificador de atributo. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 100,
+        "name": "Media armadura",
+        "text": "Media armadura 15 + modificador por Des (máx. 2) — Desventaja 20 kg 750 po"
+      }
+    },
+    {
+      "id": "srd-cota-guarnecida",
+      "name": "Cota guarnecida",
+      "kind": "armor",
+      "usable": false,
+      "consumable": false,
+      "armor": 14,
+      "description": "Protección adaptada: armadura 14, sin modificador de atributo. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 100,
+        "name": "Cota guarnecida",
+        "text": "Cota guarnecida 14 — Desventaja 20 kg 30 po"
+      }
+    },
+    {
+      "id": "srd-cota-de-malla",
+      "name": "Cota de malla",
+      "kind": "armor",
+      "usable": false,
+      "consumable": false,
+      "armor": 14,
+      "description": "Protección adaptada: armadura 14, sin modificador de atributo. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 100,
+        "name": "Cota de malla",
+        "text": "Cota de malla 16 Fue 13 Desventaja 27,5 kg 75 po"
+      }
+    },
+    {
+      "id": "srd-armadura-de-bandas",
+      "name": "Armadura de bandas",
+      "kind": "armor",
+      "usable": false,
+      "consumable": false,
+      "armor": 14,
+      "description": "Protección adaptada: armadura 14, sin modificador de atributo. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 100,
+        "name": "Armadura de bandas",
+        "text": "Armadura de bandas 17 Fue 15 Desventaja 30 kg 200 po"
+      }
+    },
+    {
+      "id": "srd-armadura-de-placas",
+      "name": "Armadura de placas",
+      "kind": "armor",
+      "usable": false,
+      "consumable": false,
+      "armor": 14,
+      "description": "Protección adaptada: armadura 14, sin modificador de atributo. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 100,
+        "name": "Armadura de placas",
+        "text": "Armadura de placas 18 Fue 15 Desventaja 32,5 kg 1500 po"
+      }
+    }
+  ]
+}

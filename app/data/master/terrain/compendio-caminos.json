@@ -1,0 +1,705 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "terrain-compendio-caminos-01",
+      "kind": "terrain",
+      "name": "Cruce de los Cuatro Hitos",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/John_Rathbone_-_Landscape_with_Figures_Crossing_a_Bridge_-_1962.967_-_Art_Institute_of_Chicago.jpg/960px-John_Rathbone_-_Landscape_with_Figures_Crossing_a_Bridge_-_1962.967_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "Landscape with Figures Crossing a Bridge · John Rathbone / George Morland · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:John_Rathbone_-_Landscape_with_Figures_Crossing_a_Bridge_-_1962.967_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Cuatro piedras señalan rutas diferentes y una quinta yace tumbada entre ellas. La ruta cambia de carácter en este tramo. El firme, la anchura y las referencias del paisaje obligan a ajustar el paso; lo que parecía un simple camino empieza a mostrar decisiones tomadas por quienes lo trazaron.\n\nLas señales más antiguas no siempre coinciden con el tránsito actual. Algunos viajeros han preferido acortar y otros han dejado rodeos cuidadosamente marcados. Desde el punto de llegada pueden compararse varias direcciones, pero los accidentes del terreno ocultan sus destinos. Incluso una pausa breve permite reconocer qué trayectos se usan con más frecuencia.\n\nExiste un pequeño espacio de tránsito entre el exterior y la parte más protegida. Allí se acumulan señales de espera, como si quienes llegaron antes hubieran tenido que detenerse antes de recibir permiso para continuar. Desde esta posición se puede distinguir por dónde llegó la última presencia conocida. Su destino, en cambio, permanece fuera de la vista y no coincide necesariamente con la salida más evidente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=fantasy%20road%20journey%20ambient",
+      "abilities": [
+        "Entorno: Caminos y cruces. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Cuatro piedras señalan rutas diferentes y una quinta yace tumbada entre ellas. Este lugar admite una escena tranquila de observación o conversación. El master puede usar el detalle visible para recordar un vínculo del personaje sin introducir un nuevo conflicto.",
+        "Rumbo opcional: Una señal de ruta fue movida para beneficiar a alguien. Un viajero conoce parte del cambio; devolverla a su sitio, seguir el desvío o preguntar por su autor ofrece alternativas.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Bandido. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Iria, la cartógrafa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-cartografa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-caminos-02",
+      "kind": "terrain",
+      "name": "Calzada de las Lajas Sueltas",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Paul_Cezanne_A_Turn_in_the_Road.jpg/960px-Paul_Cezanne_A_Turn_in_the_Road.jpg",
+      "imageCredit": {
+        "text": "La Route tournante · Paul Cézanne · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Paul_Cezanne_A_Turn_in_the_Road.jpg"
+      },
+      "description": "Las lajas se levantan ligeramente al pisarlas y dejan ver tierra oscura debajo. La ruta cambia de carácter en este tramo. El firme, la anchura y las referencias del paisaje obligan a ajustar el paso; lo que parecía un simple camino empieza a mostrar decisiones tomadas por quienes lo trazaron.\n\nLas señales más antiguas no siempre coinciden con el tránsito actual. Algunos viajeros han preferido acortar y otros han dejado rodeos cuidadosamente marcados. Desde el punto de llegada pueden compararse varias direcciones, pero los accidentes del terreno ocultan sus destinos. Incluso una pausa breve permite reconocer qué trayectos se usan con más frecuencia.\n\nAlgo ha dejado una sombra o una huella sin permanecer en su sitio. El contorno resulta más claro que el resto de las señales cercanas. Alrededor, nada indica si fue retirado con cuidado o llevado apresuradamente. El entorno guarda suficiente silencio entre sus sonidos para escuchar lo que ocurra después. Ninguna señal obliga a intervenir; aun así, cuesta ignorar el detalle que se aparta de todos los demás.",
+      "musicUrl": "https://www.youtube.com/results?search_query=fantasy%20road%20journey%20ambient",
+      "abilities": [
+        "Entorno: Caminos y cruces. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Las lajas se levantan ligeramente al pisarlas y dejan ver tierra oscura debajo. Una persona conoce el origen de este detalle, pero su versión contradice la de quien lo cuida. Contrastar ambas historias puede revelar una necesidad que ninguna admite en público.",
+        "Rumbo opcional: Una señal de ruta fue movida para beneficiar a alguien. Un viajero conoce parte del cambio; devolverla a su sitio, seguir el desvío o preguntar por su autor ofrece alternativas.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Bandido. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Cuerda (SRD). Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-cuerda"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-caminos-03",
+      "kind": "terrain",
+      "name": "Camino de los Carros Quemados",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/John_Rathbone_-_Landscape_with_Figures_Crossing_a_Bridge_-_1962.967_-_Art_Institute_of_Chicago.jpg/960px-John_Rathbone_-_Landscape_with_Figures_Crossing_a_Bridge_-_1962.967_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "Landscape with Figures Crossing a Bridge · John Rathbone / George Morland · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:John_Rathbone_-_Landscape_with_Figures_Crossing_a_Bridge_-_1962.967_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Restos de ruedas ennegrecidas forman una hilera junto a una vía todavía transitada. La ruta cambia de carácter en este tramo. El firme, la anchura y las referencias del paisaje obligan a ajustar el paso; lo que parecía un simple camino empieza a mostrar decisiones tomadas por quienes lo trazaron.\n\nLas señales más antiguas no siempre coinciden con el tránsito actual. Algunos viajeros han preferido acortar y otros han dejado rodeos cuidadosamente marcados. Desde el punto de llegada pueden compararse varias direcciones, pero los accidentes del terreno ocultan sus destinos. Incluso una pausa breve permite reconocer qué trayectos se usan con más frecuencia.\n\nLas huellas de desgaste dibujan un recorrido más estrecho que el espacio disponible. Durante mucho tiempo, quienes pasaron eligieron el mismo trayecto. Fuera de él quedan detalles intactos que apenas han recibido atención. Más allá del punto de entrada queda una perspectiva por descubrir. Desde aquí solo se percibe una parte del lugar; para conocer el resto habría que acercarse y cambiar el ángulo de observación.",
+      "musicUrl": "https://www.youtube.com/results?search_query=fantasy%20road%20journey%20ambient",
+      "abilities": [
+        "Entorno: Caminos y cruces. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Restos de ruedas ennegrecidas forman una hilera junto a una vía todavía transitada. Este detalle sirve como señal para una cita. El grupo puede encontrar a quien espera, descubrir por qué nadie acudió o dejar un mensaje para continuar la historia más adelante.",
+        "Rumbo opcional: Una señal de ruta fue movida para beneficiar a alguien. Un viajero conoce parte del cambio; devolverla a su sitio, seguir el desvío o preguntar por su autor ofrece alternativas.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Bandido. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Bandido. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-bandido"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-caminos-04",
+      "kind": "terrain",
+      "name": "Sendero del Peaje Abandonado",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Paul_Cezanne_A_Turn_in_the_Road.jpg/960px-Paul_Cezanne_A_Turn_in_the_Road.jpg",
+      "imageCredit": {
+        "text": "La Route tournante · Paul Cézanne · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Paul_Cezanne_A_Turn_in_the_Road.jpg"
+      },
+      "description": "Una barrera levantada conserva un cuenco de monedas y una caseta sin techo. La ruta cambia de carácter en este tramo. El firme, la anchura y las referencias del paisaje obligan a ajustar el paso; lo que parecía un simple camino empieza a mostrar decisiones tomadas por quienes lo trazaron.\n\nLas señales más antiguas no siempre coinciden con el tránsito actual. Algunos viajeros han preferido acortar y otros han dejado rodeos cuidadosamente marcados. Desde el punto de llegada pueden compararse varias direcciones, pero los accidentes del terreno ocultan sus destinos. Incluso una pausa breve permite reconocer qué trayectos se usan con más frecuencia.\n\nAlgo aquí ha sido reparado con materiales distintos de los originales. El arreglo resulta modesto y cuidadoso. Junto a él permanece la pieza rota, guardada como si todavía pudiera servir para otra cosa. El lugar no revela de inmediato si espera visitantes o si intenta mantenerlos a distancia. Sus señales admiten ambas lecturas, y el siguiente paso puede aclarar cuál resulta más convincente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=fantasy%20road%20journey%20ambient",
+      "abilities": [
+        "Entorno: Caminos y cruces. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Una barrera levantada conserva un cuenco de monedas y una caseta sin techo. Una reparación sencilla permitiría volver a utilizar este lugar. Sus responsables ofrecen información o alojamiento a cambio; decidir quién se beneficiará importa más que obtener una recompensa material.",
+        "Rumbo opcional: Una señal de ruta fue movida para beneficiar a alguien. Un viajero conoce parte del cambio; devolverla a su sitio, seguir el desvío o preguntar por su autor ofrece alternativas.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Bandido. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Iria, la cartógrafa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-cartografa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-caminos-05",
+      "kind": "terrain",
+      "name": "Paso de las Marcas Blancas",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/John_Rathbone_-_Landscape_with_Figures_Crossing_a_Bridge_-_1962.967_-_Art_Institute_of_Chicago.jpg/960px-John_Rathbone_-_Landscape_with_Figures_Crossing_a_Bridge_-_1962.967_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "Landscape with Figures Crossing a Bridge · John Rathbone / George Morland · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:John_Rathbone_-_Landscape_with_Figures_Crossing_a_Bridge_-_1962.967_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Manchas blancas señalan un recorrido que se separa de las huellas más profundas. La ruta cambia de carácter en este tramo. El firme, la anchura y las referencias del paisaje obligan a ajustar el paso; lo que parecía un simple camino empieza a mostrar decisiones tomadas por quienes lo trazaron.\n\nLas señales más antiguas no siempre coinciden con el tránsito actual. Algunos viajeros han preferido acortar y otros han dejado rodeos cuidadosamente marcados. Desde el punto de llegada pueden compararse varias direcciones, pero los accidentes del terreno ocultan sus destinos. Incluso una pausa breve permite reconocer qué trayectos se usan con más frecuencia.\n\nVarias señales apuntan a una ocupación reciente, pero ninguna permite saber cuántas personas estuvieron aquí. Los rastros más pequeños se cruzan con los mayores y luego se separan, siguiendo direcciones diferentes. La primera impresión invita a seguir, pero un examen pausado ofrece otra posibilidad: detenerse, comparar los rastros y decidir qué detalle merece atención antes de abandonar el sitio.",
+      "musicUrl": "https://www.youtube.com/results?search_query=fantasy%20road%20journey%20ambient",
+      "abilities": [
+        "Entorno: Caminos y cruces. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Manchas blancas señalan un recorrido que se separa de las huellas más profundas. Alguien ha reproducido este detalle en un mapa incompleto. Seguir la siguiente marca puede llevar a otro terreno del mismo entorno, sin exigir que la ruta sea peligrosa.",
+        "Rumbo opcional: Una señal de ruta fue movida para beneficiar a alguien. Un viajero conoce parte del cambio; devolverla a su sitio, seguir el desvío o preguntar por su autor ofrece alternativas.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Bandido. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Cuerda (SRD). Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-cuerda"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-caminos-06",
+      "kind": "terrain",
+      "name": "Puente de las Cadenas Flojas",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Paul_Cezanne_A_Turn_in_the_Road.jpg/960px-Paul_Cezanne_A_Turn_in_the_Road.jpg",
+      "imageCredit": {
+        "text": "La Route tournante · Paul Cézanne · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Paul_Cezanne_A_Turn_in_the_Road.jpg"
+      },
+      "description": "Las cadenas del puente cuelgan más de un lado y hacen sonar sus anillas. La ruta cambia de carácter en este tramo. El firme, la anchura y las referencias del paisaje obligan a ajustar el paso; lo que parecía un simple camino empieza a mostrar decisiones tomadas por quienes lo trazaron.\n\nLas señales más antiguas no siempre coinciden con el tránsito actual. Algunos viajeros han preferido acortar y otros han dejado rodeos cuidadosamente marcados. Desde el punto de llegada pueden compararse varias direcciones, pero los accidentes del terreno ocultan sus destinos. Incluso una pausa breve permite reconocer qué trayectos se usan con más frecuencia.\n\nEn el límite entre dos superficies queda una acumulación fina de materiales. Las capas más antiguas son oscuras y compactas; por encima descansa una franja clara, todavía suelta, que deja ver el cambio reciente. Desde esta posición se puede distinguir por dónde llegó la última presencia conocida. Su destino, en cambio, permanece fuera de la vista y no coincide necesariamente con la salida más evidente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=fantasy%20road%20journey%20ambient",
+      "abilities": [
+        "Entorno: Caminos y cruces. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Las cadenas del puente cuelgan más de un lado y hacen sonar sus anillas. Una pertenencia perdida cerca de este detalle identifica a un viajero. Devolverla puede abrir una conversación; conservarla puede provocar una reclamación posterior, sin presumir que sea un tesoro abandonado.",
+        "Rumbo opcional: Una señal de ruta fue movida para beneficiar a alguien. Un viajero conoce parte del cambio; devolverla a su sitio, seguir el desvío o preguntar por su autor ofrece alternativas.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Bandido. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Bandido. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-bandido"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-caminos-07",
+      "kind": "terrain",
+      "name": "Desvío de los Dos Mojones",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/John_Rathbone_-_Landscape_with_Figures_Crossing_a_Bridge_-_1962.967_-_Art_Institute_of_Chicago.jpg/960px-John_Rathbone_-_Landscape_with_Figures_Crossing_a_Bridge_-_1962.967_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "Landscape with Figures Crossing a Bridge · John Rathbone / George Morland · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:John_Rathbone_-_Landscape_with_Figures_Crossing_a_Bridge_-_1962.967_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Dos mojones idénticos se ven desde el mismo lugar, a ambos lados de una curva. La ruta cambia de carácter en este tramo. El firme, la anchura y las referencias del paisaje obligan a ajustar el paso; lo que parecía un simple camino empieza a mostrar decisiones tomadas por quienes lo trazaron.\n\nLas señales más antiguas no siempre coinciden con el tránsito actual. Algunos viajeros han preferido acortar y otros han dejado rodeos cuidadosamente marcados. Desde el punto de llegada pueden compararse varias direcciones, pero los accidentes del terreno ocultan sus destinos. Incluso una pausa breve permite reconocer qué trayectos se usan con más frecuencia.\n\nUn objeto cotidiano descansa donde nadie esperaría encontrarlo. Está limpio por un lado y gastado por el otro, como si hubiera pasado mucho tiempo protegido antes de quedar expuesto de nuevo. El entorno guarda suficiente silencio entre sus sonidos para escuchar lo que ocurra después. Ninguna señal obliga a intervenir; aun así, cuesta ignorar el detalle que se aparta de todos los demás.",
+      "musicUrl": "https://www.youtube.com/results?search_query=fantasy%20road%20journey%20ambient",
+      "abilities": [
+        "Entorno: Caminos y cruces. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Dos mojones idénticos se ven desde el mismo lugar, a ambos lados de una curva. Dos grupos atribuyen significados distintos a este detalle. El master puede permitir una solución que respete ambos usos, o presentar las consecuencias de favorecer a uno de ellos.",
+        "Rumbo opcional: Una señal de ruta fue movida para beneficiar a alguien. Un viajero conoce parte del cambio; devolverla a su sitio, seguir el desvío o preguntar por su autor ofrece alternativas.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Bandido. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Iria, la cartógrafa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-cartografa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-caminos-08",
+      "kind": "terrain",
+      "name": "Camino del Árbol Señalado",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Paul_Cezanne_A_Turn_in_the_Road.jpg/960px-Paul_Cezanne_A_Turn_in_the_Road.jpg",
+      "imageCredit": {
+        "text": "La Route tournante · Paul Cézanne · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Paul_Cezanne_A_Turn_in_the_Road.jpg"
+      },
+      "description": "Un árbol contiene tantas señales clavadas que apenas se distingue su corteza. La ruta cambia de carácter en este tramo. El firme, la anchura y las referencias del paisaje obligan a ajustar el paso; lo que parecía un simple camino empieza a mostrar decisiones tomadas por quienes lo trazaron.\n\nLas señales más antiguas no siempre coinciden con el tránsito actual. Algunos viajeros han preferido acortar y otros han dejado rodeos cuidadosamente marcados. Desde el punto de llegada pueden compararse varias direcciones, pero los accidentes del terreno ocultan sus destinos. Incluso una pausa breve permite reconocer qué trayectos se usan con más frecuencia.\n\nUn rastro del mismo color se repite sobre superficies diferentes. No parece una decoración, porque cada marca queda a una altura distinta. La última está junto a algo que nadie ha movido recientemente. Más allá del punto de entrada queda una perspectiva por descubrir. Desde aquí solo se percibe una parte del lugar; para conocer el resto habría que acercarse y cambiar el ángulo de observación.",
+      "musicUrl": "https://www.youtube.com/results?search_query=fantasy%20road%20journey%20ambient",
+      "abilities": [
+        "Entorno: Caminos y cruces. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Un árbol contiene tantas señales clavadas que apenas se distingue su corteza. Las señales de uso reciente pertenecen a alguien que evita ser encontrado. Puede necesitar ayuda, intimidad o protección; investigar no demuestra por sí solo culpabilidad ni hostilidad.",
+        "Rumbo opcional: Una señal de ruta fue movida para beneficiar a alguien. Un viajero conoce parte del cambio; devolverla a su sitio, seguir el desvío o preguntar por su autor ofrece alternativas.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Bandido. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Cuerda (SRD). Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-cuerda"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-caminos-09",
+      "kind": "terrain",
+      "name": "Calzada del Carro Detenido",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/John_Rathbone_-_Landscape_with_Figures_Crossing_a_Bridge_-_1962.967_-_Art_Institute_of_Chicago.jpg/960px-John_Rathbone_-_Landscape_with_Figures_Crossing_a_Bridge_-_1962.967_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "Landscape with Figures Crossing a Bridge · John Rathbone / George Morland · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:John_Rathbone_-_Landscape_with_Figures_Crossing_a_Bridge_-_1962.967_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Un carro sin tiro ocupa media calzada y conserva sus cargas bien sujetas. La ruta cambia de carácter en este tramo. El firme, la anchura y las referencias del paisaje obligan a ajustar el paso; lo que parecía un simple camino empieza a mostrar decisiones tomadas por quienes lo trazaron.\n\nLas señales más antiguas no siempre coinciden con el tránsito actual. Algunos viajeros han preferido acortar y otros han dejado rodeos cuidadosamente marcados. Desde el punto de llegada pueden compararse varias direcciones, pero los accidentes del terreno ocultan sus destinos. Incluso una pausa breve permite reconocer qué trayectos se usan con más frecuencia.\n\nUn detalle aparece repetido tres veces, con ligeras diferencias. La primera versión está gastada, la segunda incompleta y la tercera apenas alterada. Entre ellas queda espacio suficiente para imaginar una secuencia que todavía no termina. El lugar no revela de inmediato si espera visitantes o si intenta mantenerlos a distancia. Sus señales admiten ambas lecturas, y el siguiente paso puede aclarar cuál resulta más convincente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=fantasy%20road%20journey%20ambient",
+      "abilities": [
+        "Entorno: Caminos y cruces. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Un carro sin tiro ocupa media calzada y conserva sus cargas bien sujetas. Un cambio de tiempo amenaza con borrar o dañar este detalle. Documentarlo o protegerlo ofrece una tarea breve cuya urgencia puede ajustarse al ritmo de la sesión.",
+        "Rumbo opcional: Una señal de ruta fue movida para beneficiar a alguien. Un viajero conoce parte del cambio; devolverla a su sitio, seguir el desvío o preguntar por su autor ofrece alternativas.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Bandido. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Bandido. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-bandido"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-caminos-10",
+      "kind": "terrain",
+      "name": "Paso de la Zanja Nueva",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Paul_Cezanne_A_Turn_in_the_Road.jpg/960px-Paul_Cezanne_A_Turn_in_the_Road.jpg",
+      "imageCredit": {
+        "text": "La Route tournante · Paul Cézanne · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Paul_Cezanne_A_Turn_in_the_Road.jpg"
+      },
+      "description": "Una zanja reciente cruza la ruta y termina de forma abrupta antes del borde. La ruta cambia de carácter en este tramo. El firme, la anchura y las referencias del paisaje obligan a ajustar el paso; lo que parecía un simple camino empieza a mostrar decisiones tomadas por quienes lo trazaron.\n\nLas señales más antiguas no siempre coinciden con el tránsito actual. Algunos viajeros han preferido acortar y otros han dejado rodeos cuidadosamente marcados. Desde el punto de llegada pueden compararse varias direcciones, pero los accidentes del terreno ocultan sus destinos. Incluso una pausa breve permite reconocer qué trayectos se usan con más frecuencia.\n\nUna señal visible desde lejos tiene otra cara que solo se descubre al acercarse. Ambas están trabajadas de manera distinta. La parte oculta conserva un detalle que parece haber sido añadido después de terminar la primera. La primera impresión invita a seguir, pero un examen pausado ofrece otra posibilidad: detenerse, comparar los rastros y decidir qué detalle merece atención antes de abandonar el sitio.",
+      "musicUrl": "https://www.youtube.com/results?search_query=fantasy%20road%20journey%20ambient",
+      "abilities": [
+        "Entorno: Caminos y cruces. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Una zanja reciente cruza la ruta y termina de forma abrupta antes del borde. Una persona ofrece un objeto útil si el grupo comprueba qué ha cambiado aquí. La información obtenida puede interesar a otra persona y conectar este lugar con una visita anterior.",
+        "Rumbo opcional: Una señal de ruta fue movida para beneficiar a alguien. Un viajero conoce parte del cambio; devolverla a su sitio, seguir el desvío o preguntar por su autor ofrece alternativas.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Bandido. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Iria, la cartógrafa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-cartografa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-caminos-11",
+      "kind": "terrain",
+      "name": "Ruta de las Piedras Numeradas",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/John_Rathbone_-_Landscape_with_Figures_Crossing_a_Bridge_-_1962.967_-_Art_Institute_of_Chicago.jpg/960px-John_Rathbone_-_Landscape_with_Figures_Crossing_a_Bridge_-_1962.967_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "Landscape with Figures Crossing a Bridge · John Rathbone / George Morland · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:John_Rathbone_-_Landscape_with_Figures_Crossing_a_Bridge_-_1962.967_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Números tallados en piedras bajas no mantienen el orden que sugieren las distancias. La ruta cambia de carácter en este tramo. El firme, la anchura y las referencias del paisaje obligan a ajustar el paso; lo que parecía un simple camino empieza a mostrar decisiones tomadas por quienes lo trazaron.\n\nLas señales más antiguas no siempre coinciden con el tránsito actual. Algunos viajeros han preferido acortar y otros han dejado rodeos cuidadosamente marcados. Desde el punto de llegada pueden compararse varias direcciones, pero los accidentes del terreno ocultan sus destinos. Incluso una pausa breve permite reconocer qué trayectos se usan con más frecuencia.\n\nLa distribución del lugar parece responder a una costumbre olvidada. Quien lo preparó dejó espacio alrededor de un punto central; nadie ha ocupado ese hueco, aunque todo lo demás muestra rastros de uso. Desde esta posición se puede distinguir por dónde llegó la última presencia conocida. Su destino, en cambio, permanece fuera de la vista y no coincide necesariamente con la salida más evidente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=fantasy%20road%20journey%20ambient",
+      "abilities": [
+        "Entorno: Caminos y cruces. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Números tallados en piedras bajas no mantienen el orden que sugieren las distancias. Este lugar admite una escena tranquila de observación o conversación. El master puede usar el detalle visible para recordar un vínculo del personaje sin introducir un nuevo conflicto.",
+        "Rumbo opcional: Una señal de ruta fue movida para beneficiar a alguien. Un viajero conoce parte del cambio; devolverla a su sitio, seguir el desvío o preguntar por su autor ofrece alternativas.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Bandido. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Cuerda (SRD). Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-cuerda"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-caminos-12",
+      "kind": "terrain",
+      "name": "Camino del Talud Desprendido",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Paul_Cezanne_A_Turn_in_the_Road.jpg/960px-Paul_Cezanne_A_Turn_in_the_Road.jpg",
+      "imageCredit": {
+        "text": "La Route tournante · Paul Cézanne · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Paul_Cezanne_A_Turn_in_the_Road.jpg"
+      },
+      "description": "Un derrumbe parcial ha dejado visible una capa de piedra trabajada dentro del talud. La ruta cambia de carácter en este tramo. El firme, la anchura y las referencias del paisaje obligan a ajustar el paso; lo que parecía un simple camino empieza a mostrar decisiones tomadas por quienes lo trazaron.\n\nLas señales más antiguas no siempre coinciden con el tránsito actual. Algunos viajeros han preferido acortar y otros han dejado rodeos cuidadosamente marcados. Desde el punto de llegada pueden compararse varias direcciones, pero los accidentes del terreno ocultan sus destinos. Incluso una pausa breve permite reconocer qué trayectos se usan con más frecuencia.\n\nLa vista cambia al dar unos pasos hacia un lateral. Lo que desde la entrada parecía un obstáculo se convierte en una referencia útil, y detrás aparece una continuidad que no resultaba evidente a primera vista. El entorno guarda suficiente silencio entre sus sonidos para escuchar lo que ocurra después. Ninguna señal obliga a intervenir; aun así, cuesta ignorar el detalle que se aparta de todos los demás.",
+      "musicUrl": "https://www.youtube.com/results?search_query=fantasy%20road%20journey%20ambient",
+      "abilities": [
+        "Entorno: Caminos y cruces. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Un derrumbe parcial ha dejado visible una capa de piedra trabajada dentro del talud. Una persona conoce el origen de este detalle, pero su versión contradice la de quien lo cuida. Contrastar ambas historias puede revelar una necesidad que ninguna admite en público.",
+        "Rumbo opcional: Una señal de ruta fue movida para beneficiar a alguien. Un viajero conoce parte del cambio; devolverla a su sitio, seguir el desvío o preguntar por su autor ofrece alternativas.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Bandido. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Bandido. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-bandido"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-caminos-13",
+      "kind": "terrain",
+      "name": "Cruce del Poste Torcido",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/John_Rathbone_-_Landscape_with_Figures_Crossing_a_Bridge_-_1962.967_-_Art_Institute_of_Chicago.jpg/960px-John_Rathbone_-_Landscape_with_Figures_Crossing_a_Bridge_-_1962.967_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "Landscape with Figures Crossing a Bridge · John Rathbone / George Morland · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:John_Rathbone_-_Landscape_with_Figures_Crossing_a_Bridge_-_1962.967_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "El poste central se ha girado y muestra manchas donde antes apoyaba sus letreros. La ruta cambia de carácter en este tramo. El firme, la anchura y las referencias del paisaje obligan a ajustar el paso; lo que parecía un simple camino empieza a mostrar decisiones tomadas por quienes lo trazaron.\n\nLas señales más antiguas no siempre coinciden con el tránsito actual. Algunos viajeros han preferido acortar y otros han dejado rodeos cuidadosamente marcados. Desde el punto de llegada pueden compararse varias direcciones, pero los accidentes del terreno ocultan sus destinos. Incluso una pausa breve permite reconocer qué trayectos se usan con más frecuencia.\n\nHay un elemento desplazado respecto a todos los demás. No está roto ni parece a punto de caer; sencillamente apunta hacia otro lado. Su posición permite ver un tramo del lugar que las otras referencias ocultan. Más allá del punto de entrada queda una perspectiva por descubrir. Desde aquí solo se percibe una parte del lugar; para conocer el resto habría que acercarse y cambiar el ángulo de observación.",
+      "musicUrl": "https://www.youtube.com/results?search_query=fantasy%20road%20journey%20ambient",
+      "abilities": [
+        "Entorno: Caminos y cruces. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: El poste central se ha girado y muestra manchas donde antes apoyaba sus letreros. Este detalle sirve como señal para una cita. El grupo puede encontrar a quien espera, descubrir por qué nadie acudió o dejar un mensaje para continuar la historia más adelante.",
+        "Rumbo opcional: Una señal de ruta fue movida para beneficiar a alguien. Un viajero conoce parte del cambio; devolverla a su sitio, seguir el desvío o preguntar por su autor ofrece alternativas.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Bandido. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Iria, la cartógrafa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-cartografa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-caminos-14",
+      "kind": "terrain",
+      "name": "Puente del Cobrador Ausente",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Paul_Cezanne_A_Turn_in_the_Road.jpg/960px-Paul_Cezanne_A_Turn_in_the_Road.jpg",
+      "imageCredit": {
+        "text": "La Route tournante · Paul Cézanne · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Paul_Cezanne_A_Turn_in_the_Road.jpg"
+      },
+      "description": "Una mesa de cobro conserva fichas ordenadas y una campanilla sujeta con cuerda. La ruta cambia de carácter en este tramo. El firme, la anchura y las referencias del paisaje obligan a ajustar el paso; lo que parecía un simple camino empieza a mostrar decisiones tomadas por quienes lo trazaron.\n\nLas señales más antiguas no siempre coinciden con el tránsito actual. Algunos viajeros han preferido acortar y otros han dejado rodeos cuidadosamente marcados. Desde el punto de llegada pueden compararse varias direcciones, pero los accidentes del terreno ocultan sus destinos. Incluso una pausa breve permite reconocer qué trayectos se usan con más frecuencia.\n\nLas marcas del paso de otros viajeros se interrumpen en un punto concreto. Una señal reciente se superpone a otra mucho más antigua; las dos parecen señalar destinos distintos, aunque ninguna ofrece una explicación. El lugar no revela de inmediato si espera visitantes o si intenta mantenerlos a distancia. Sus señales admiten ambas lecturas, y el siguiente paso puede aclarar cuál resulta más convincente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=fantasy%20road%20journey%20ambient",
+      "abilities": [
+        "Entorno: Caminos y cruces. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Una mesa de cobro conserva fichas ordenadas y una campanilla sujeta con cuerda. Una reparación sencilla permitiría volver a utilizar este lugar. Sus responsables ofrecen información o alojamiento a cambio; decidir quién se beneficiará importa más que obtener una recompensa material.",
+        "Rumbo opcional: Una señal de ruta fue movida para beneficiar a alguien. Un viajero conoce parte del cambio; devolverla a su sitio, seguir el desvío o preguntar por su autor ofrece alternativas.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Bandido. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Cuerda (SRD). Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-cuerda"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-caminos-15",
+      "kind": "terrain",
+      "name": "Sendero de las Linternas Apagadas",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/John_Rathbone_-_Landscape_with_Figures_Crossing_a_Bridge_-_1962.967_-_Art_Institute_of_Chicago.jpg/960px-John_Rathbone_-_Landscape_with_Figures_Crossing_a_Bridge_-_1962.967_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "Landscape with Figures Crossing a Bridge · John Rathbone / George Morland · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:John_Rathbone_-_Landscape_with_Figures_Crossing_a_Bridge_-_1962.967_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Ganchos regulares sostienen linternas cerradas cuyas mechas parecen nuevas. La ruta cambia de carácter en este tramo. El firme, la anchura y las referencias del paisaje obligan a ajustar el paso; lo que parecía un simple camino empieza a mostrar decisiones tomadas por quienes lo trazaron.\n\nLas señales más antiguas no siempre coinciden con el tránsito actual. Algunos viajeros han preferido acortar y otros han dejado rodeos cuidadosamente marcados. Desde el punto de llegada pueden compararse varias direcciones, pero los accidentes del terreno ocultan sus destinos. Incluso una pausa breve permite reconocer qué trayectos se usan con más frecuencia.\n\nAl prestar atención se descubren dos sonidos que no siguen el mismo ritmo. Uno pertenece claramente al entorno; el otro aparece y desaparece sin que sea posible localizar su origen desde la entrada. La primera impresión invita a seguir, pero un examen pausado ofrece otra posibilidad: detenerse, comparar los rastros y decidir qué detalle merece atención antes de abandonar el sitio.",
+      "musicUrl": "https://www.youtube.com/results?search_query=fantasy%20road%20journey%20ambient",
+      "abilities": [
+        "Entorno: Caminos y cruces. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Ganchos regulares sostienen linternas cerradas cuyas mechas parecen nuevas. Alguien ha reproducido este detalle en un mapa incompleto. Seguir la siguiente marca puede llevar a otro terreno del mismo entorno, sin exigir que la ruta sea peligrosa.",
+        "Rumbo opcional: Una señal de ruta fue movida para beneficiar a alguien. Un viajero conoce parte del cambio; devolverla a su sitio, seguir el desvío o preguntar por su autor ofrece alternativas.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Bandido. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Bandido. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-bandido"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-caminos-16",
+      "kind": "terrain",
+      "name": "Calzada de los Pasos Laterales",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Paul_Cezanne_A_Turn_in_the_Road.jpg/960px-Paul_Cezanne_A_Turn_in_the_Road.jpg",
+      "imageCredit": {
+        "text": "La Route tournante · Paul Cézanne · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Paul_Cezanne_A_Turn_in_the_Road.jpg"
+      },
+      "description": "El centro de la vía está limpio, mientras ambos bordes muestran huellas continuas. La ruta cambia de carácter en este tramo. El firme, la anchura y las referencias del paisaje obligan a ajustar el paso; lo que parecía un simple camino empieza a mostrar decisiones tomadas por quienes lo trazaron.\n\nLas señales más antiguas no siempre coinciden con el tránsito actual. Algunos viajeros han preferido acortar y otros han dejado rodeos cuidadosamente marcados. Desde el punto de llegada pueden compararse varias direcciones, pero los accidentes del terreno ocultan sus destinos. Incluso una pausa breve permite reconocer qué trayectos se usan con más frecuencia.\n\nUna marca antigua se ha respetado a pesar de los cambios del entorno. Las reparaciones y el tránsito la rodean en lugar de cubrirla. Parece importar a alguien, aunque su significado no se reconoce de inmediato. Desde esta posición se puede distinguir por dónde llegó la última presencia conocida. Su destino, en cambio, permanece fuera de la vista y no coincide necesariamente con la salida más evidente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=fantasy%20road%20journey%20ambient",
+      "abilities": [
+        "Entorno: Caminos y cruces. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: El centro de la vía está limpio, mientras ambos bordes muestran huellas continuas. Una pertenencia perdida cerca de este detalle identifica a un viajero. Devolverla puede abrir una conversación; conservarla puede provocar una reclamación posterior, sin presumir que sea un tesoro abandonado.",
+        "Rumbo opcional: Una señal de ruta fue movida para beneficiar a alguien. Un viajero conoce parte del cambio; devolverla a su sitio, seguir el desvío o preguntar por su autor ofrece alternativas.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Bandido. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Iria, la cartógrafa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-cartografa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-caminos-17",
+      "kind": "terrain",
+      "name": "Camino de la Carga Derramada",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/John_Rathbone_-_Landscape_with_Figures_Crossing_a_Bridge_-_1962.967_-_Art_Institute_of_Chicago.jpg/960px-John_Rathbone_-_Landscape_with_Figures_Crossing_a_Bridge_-_1962.967_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "Landscape with Figures Crossing a Bridge · John Rathbone / George Morland · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:John_Rathbone_-_Landscape_with_Figures_Crossing_a_Bridge_-_1962.967_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Pequeños granos y fragmentos de tela marcan una ruta que se pierde fuera del firme. La ruta cambia de carácter en este tramo. El firme, la anchura y las referencias del paisaje obligan a ajustar el paso; lo que parecía un simple camino empieza a mostrar decisiones tomadas por quienes lo trazaron.\n\nLas señales más antiguas no siempre coinciden con el tránsito actual. Algunos viajeros han preferido acortar y otros han dejado rodeos cuidadosamente marcados. Desde el punto de llegada pueden compararse varias direcciones, pero los accidentes del terreno ocultan sus destinos. Incluso una pausa breve permite reconocer qué trayectos se usan con más frecuencia.\n\nAl detenerse, el entorno revela movimientos discretos que pasan inadvertidos al caminar. Ninguno parece acercarse directamente. Sin embargo, todos evitan el mismo punto, situado un poco más allá del acceso principal. El entorno guarda suficiente silencio entre sus sonidos para escuchar lo que ocurra después. Ninguna señal obliga a intervenir; aun así, cuesta ignorar el detalle que se aparta de todos los demás.",
+      "musicUrl": "https://www.youtube.com/results?search_query=fantasy%20road%20journey%20ambient",
+      "abilities": [
+        "Entorno: Caminos y cruces. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Pequeños granos y fragmentos de tela marcan una ruta que se pierde fuera del firme. Dos grupos atribuyen significados distintos a este detalle. El master puede permitir una solución que respete ambos usos, o presentar las consecuencias de favorecer a uno de ellos.",
+        "Rumbo opcional: Una señal de ruta fue movida para beneficiar a alguien. Un viajero conoce parte del cambio; devolverla a su sitio, seguir el desvío o preguntar por su autor ofrece alternativas.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Bandido. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Cuerda (SRD). Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-cuerda"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-caminos-18",
+      "kind": "terrain",
+      "name": "Paso de las Dos Sombras",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Paul_Cezanne_A_Turn_in_the_Road.jpg/960px-Paul_Cezanne_A_Turn_in_the_Road.jpg",
+      "imageCredit": {
+        "text": "La Route tournante · Paul Cézanne · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Paul_Cezanne_A_Turn_in_the_Road.jpg"
+      },
+      "description": "Dos elevaciones cercanas cubren el camino en momentos distintos y ocultan sendas separadas. La ruta cambia de carácter en este tramo. El firme, la anchura y las referencias del paisaje obligan a ajustar el paso; lo que parecía un simple camino empieza a mostrar decisiones tomadas por quienes lo trazaron.\n\nLas señales más antiguas no siempre coinciden con el tránsito actual. Algunos viajeros han preferido acortar y otros han dejado rodeos cuidadosamente marcados. Desde el punto de llegada pueden compararse varias direcciones, pero los accidentes del terreno ocultan sus destinos. Incluso una pausa breve permite reconocer qué trayectos se usan con más frecuencia.\n\nHay una pequeña zona resguardada del entorno, suficiente para detenerse y observar sin estorbar el paso. Desde allí se aprecia un detalle que, visto de frente, quedaba escondido detrás de los demás. Más allá del punto de entrada queda una perspectiva por descubrir. Desde aquí solo se percibe una parte del lugar; para conocer el resto habría que acercarse y cambiar el ángulo de observación.",
+      "musicUrl": "https://www.youtube.com/results?search_query=fantasy%20road%20journey%20ambient",
+      "abilities": [
+        "Entorno: Caminos y cruces. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Dos elevaciones cercanas cubren el camino en momentos distintos y ocultan sendas separadas. Las señales de uso reciente pertenecen a alguien que evita ser encontrado. Puede necesitar ayuda, intimidad o protección; investigar no demuestra por sí solo culpabilidad ni hostilidad.",
+        "Rumbo opcional: Una señal de ruta fue movida para beneficiar a alguien. Un viajero conoce parte del cambio; devolverla a su sitio, seguir el desvío o preguntar por su autor ofrece alternativas.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Bandido. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Bandido. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-bandido"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-caminos-19",
+      "kind": "terrain",
+      "name": "Cruce del Refugio Cerrado",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/John_Rathbone_-_Landscape_with_Figures_Crossing_a_Bridge_-_1962.967_-_Art_Institute_of_Chicago.jpg/960px-John_Rathbone_-_Landscape_with_Figures_Crossing_a_Bridge_-_1962.967_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "Landscape with Figures Crossing a Bridge · John Rathbone / George Morland · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:John_Rathbone_-_Landscape_with_Figures_Crossing_a_Bridge_-_1962.967_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Una pequeña caseta tiene el cerrojo puesto desde fuera y una ventana sin cristal. La ruta cambia de carácter en este tramo. El firme, la anchura y las referencias del paisaje obligan a ajustar el paso; lo que parecía un simple camino empieza a mostrar decisiones tomadas por quienes lo trazaron.\n\nLas señales más antiguas no siempre coinciden con el tránsito actual. Algunos viajeros han preferido acortar y otros han dejado rodeos cuidadosamente marcados. Desde el punto de llegada pueden compararse varias direcciones, pero los accidentes del terreno ocultan sus destinos. Incluso una pausa breve permite reconocer qué trayectos se usan con más frecuencia.\n\nEn un rincón se conserva algo que el resto del lugar ha perdido: una forma intacta, una superficie limpia o un color más vivo. La diferencia llama la atención precisamente porque no se repite en ninguna otra parte. El lugar no revela de inmediato si espera visitantes o si intenta mantenerlos a distancia. Sus señales admiten ambas lecturas, y el siguiente paso puede aclarar cuál resulta más convincente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=fantasy%20road%20journey%20ambient",
+      "abilities": [
+        "Entorno: Caminos y cruces. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Una pequeña caseta tiene el cerrojo puesto desde fuera y una ventana sin cristal. Un cambio de tiempo amenaza con borrar o dañar este detalle. Documentarlo o protegerlo ofrece una tarea breve cuya urgencia puede ajustarse al ritmo de la sesión.",
+        "Rumbo opcional: Una señal de ruta fue movida para beneficiar a alguien. Un viajero conoce parte del cambio; devolverla a su sitio, seguir el desvío o preguntar por su autor ofrece alternativas.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Bandido. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Iria, la cartógrafa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-cartografa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-caminos-20",
+      "kind": "terrain",
+      "name": "Ruta de los Muretes Bajos",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Paul_Cezanne_A_Turn_in_the_Road.jpg/960px-Paul_Cezanne_A_Turn_in_the_Road.jpg",
+      "imageCredit": {
+        "text": "La Route tournante · Paul Cézanne · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Paul_Cezanne_A_Turn_in_the_Road.jpg"
+      },
+      "description": "Muretes delimitan un paso estrecho y ofrecen aberturas orientadas hacia caminos secundarios. La ruta cambia de carácter en este tramo. El firme, la anchura y las referencias del paisaje obligan a ajustar el paso; lo que parecía un simple camino empieza a mostrar decisiones tomadas por quienes lo trazaron.\n\nLas señales más antiguas no siempre coinciden con el tránsito actual. Algunos viajeros han preferido acortar y otros han dejado rodeos cuidadosamente marcados. Desde el punto de llegada pueden compararse varias direcciones, pero los accidentes del terreno ocultan sus destinos. Incluso una pausa breve permite reconocer qué trayectos se usan con más frecuencia.\n\nEl camino de entrada no ofrece la mejor vista del lugar. Un giro descubre un espacio menor, protegido por las formas del entorno. Allí los rastros se ordenan de manera diferente y parecen corresponder a otra actividad. La primera impresión invita a seguir, pero un examen pausado ofrece otra posibilidad: detenerse, comparar los rastros y decidir qué detalle merece atención antes de abandonar el sitio.",
+      "musicUrl": "https://www.youtube.com/results?search_query=fantasy%20road%20journey%20ambient",
+      "abilities": [
+        "Entorno: Caminos y cruces. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Muretes delimitan un paso estrecho y ofrecen aberturas orientadas hacia caminos secundarios. Una persona ofrece un objeto útil si el grupo comprueba qué ha cambiado aquí. La información obtenida puede interesar a otra persona y conectar este lugar con una visita anterior.",
+        "Rumbo opcional: Una señal de ruta fue movida para beneficiar a alguien. Un viajero conoce parte del cambio; devolverla a su sitio, seguir el desvío o preguntar por su autor ofrece alternativas.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Bandido. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Cuerda (SRD). Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-cuerda"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-caminos-21",
+      "kind": "terrain",
+      "name": "Camino del Arroyo Desviado",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/John_Rathbone_-_Landscape_with_Figures_Crossing_a_Bridge_-_1962.967_-_Art_Institute_of_Chicago.jpg/960px-John_Rathbone_-_Landscape_with_Figures_Crossing_a_Bridge_-_1962.967_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "Landscape with Figures Crossing a Bridge · John Rathbone / George Morland · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:John_Rathbone_-_Landscape_with_Figures_Crossing_a_Bridge_-_1962.967_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Un cauce reciente corre junto a la ruta y conserva restos de un antiguo puente. La ruta cambia de carácter en este tramo. El firme, la anchura y las referencias del paisaje obligan a ajustar el paso; lo que parecía un simple camino empieza a mostrar decisiones tomadas por quienes lo trazaron.\n\nLas señales más antiguas no siempre coinciden con el tránsito actual. Algunos viajeros han preferido acortar y otros han dejado rodeos cuidadosamente marcados. Desde el punto de llegada pueden compararse varias direcciones, pero los accidentes del terreno ocultan sus destinos. Incluso una pausa breve permite reconocer qué trayectos se usan con más frecuencia.\n\nEntre los restos del uso cotidiano hay una interrupción clara. Algo ocurrió aquí antes de que la actividad se reanudara. Las señales posteriores atraviesan las anteriores, pero no llegan a borrarlas por completo. Desde esta posición se puede distinguir por dónde llegó la última presencia conocida. Su destino, en cambio, permanece fuera de la vista y no coincide necesariamente con la salida más evidente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=fantasy%20road%20journey%20ambient",
+      "abilities": [
+        "Entorno: Caminos y cruces. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Un cauce reciente corre junto a la ruta y conserva restos de un antiguo puente. Este lugar admite una escena tranquila de observación o conversación. El master puede usar el detalle visible para recordar un vínculo del personaje sin introducir un nuevo conflicto.",
+        "Rumbo opcional: Una señal de ruta fue movida para beneficiar a alguien. Un viajero conoce parte del cambio; devolverla a su sitio, seguir el desvío o preguntar por su autor ofrece alternativas.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Bandido. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Bandido. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-bandido"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-caminos-22",
+      "kind": "terrain",
+      "name": "Calzada de las Flechas Borradas",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Paul_Cezanne_A_Turn_in_the_Road.jpg/960px-Paul_Cezanne_A_Turn_in_the_Road.jpg",
+      "imageCredit": {
+        "text": "La Route tournante · Paul Cézanne · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Paul_Cezanne_A_Turn_in_the_Road.jpg"
+      },
+      "description": "Las flechas pintadas fueron raspadas, pero sus contornos sobreviven en las zonas protegidas. La ruta cambia de carácter en este tramo. El firme, la anchura y las referencias del paisaje obligan a ajustar el paso; lo que parecía un simple camino empieza a mostrar decisiones tomadas por quienes lo trazaron.\n\nLas señales más antiguas no siempre coinciden con el tránsito actual. Algunos viajeros han preferido acortar y otros han dejado rodeos cuidadosamente marcados. Desde el punto de llegada pueden compararse varias direcciones, pero los accidentes del terreno ocultan sus destinos. Incluso una pausa breve permite reconocer qué trayectos se usan con más frecuencia.\n\nUna línea de pequeñas señales recorre el límite del lugar. Algunas están casi borradas y otras parecen recientes. Su separación es regular hasta el último tramo, donde falta una y las restantes se acumulan. El entorno guarda suficiente silencio entre sus sonidos para escuchar lo que ocurra después. Ninguna señal obliga a intervenir; aun así, cuesta ignorar el detalle que se aparta de todos los demás.",
+      "musicUrl": "https://www.youtube.com/results?search_query=fantasy%20road%20journey%20ambient",
+      "abilities": [
+        "Entorno: Caminos y cruces. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Las flechas pintadas fueron raspadas, pero sus contornos sobreviven en las zonas protegidas. Una persona conoce el origen de este detalle, pero su versión contradice la de quien lo cuida. Contrastar ambas historias puede revelar una necesidad que ninguna admite en público.",
+        "Rumbo opcional: Una señal de ruta fue movida para beneficiar a alguien. Un viajero conoce parte del cambio; devolverla a su sitio, seguir el desvío o preguntar por su autor ofrece alternativas.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Bandido. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Iria, la cartógrafa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-cartografa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-caminos-23",
+      "kind": "terrain",
+      "name": "Paso del Carillón de Viento",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/John_Rathbone_-_Landscape_with_Figures_Crossing_a_Bridge_-_1962.967_-_Art_Institute_of_Chicago.jpg/960px-John_Rathbone_-_Landscape_with_Figures_Crossing_a_Bridge_-_1962.967_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "Landscape with Figures Crossing a Bridge · John Rathbone / George Morland · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:John_Rathbone_-_Landscape_with_Figures_Crossing_a_Bridge_-_1962.967_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Piezas metálicas cuelgan sobre la ruta y suenan de forma distinta según el acceso. La ruta cambia de carácter en este tramo. El firme, la anchura y las referencias del paisaje obligan a ajustar el paso; lo que parecía un simple camino empieza a mostrar decisiones tomadas por quienes lo trazaron.\n\nLas señales más antiguas no siempre coinciden con el tránsito actual. Algunos viajeros han preferido acortar y otros han dejado rodeos cuidadosamente marcados. Desde el punto de llegada pueden compararse varias direcciones, pero los accidentes del terreno ocultan sus destinos. Incluso una pausa breve permite reconocer qué trayectos se usan con más frecuencia.\n\nSe advierte una elección deliberada entre dos recorridos. Uno es sencillo y muy visible; el otro exige acercarse para reconocerlo. Ambos desembocan fuera de la vista, sin revelar todavía qué los distingue al final. Más allá del punto de entrada queda una perspectiva por descubrir. Desde aquí solo se percibe una parte del lugar; para conocer el resto habría que acercarse y cambiar el ángulo de observación.",
+      "musicUrl": "https://www.youtube.com/results?search_query=fantasy%20road%20journey%20ambient",
+      "abilities": [
+        "Entorno: Caminos y cruces. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Piezas metálicas cuelgan sobre la ruta y suenan de forma distinta según el acceso. Este detalle sirve como señal para una cita. El grupo puede encontrar a quien espera, descubrir por qué nadie acudió o dejar un mensaje para continuar la historia más adelante.",
+        "Rumbo opcional: Una señal de ruta fue movida para beneficiar a alguien. Un viajero conoce parte del cambio; devolverla a su sitio, seguir el desvío o preguntar por su autor ofrece alternativas.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Bandido. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Cuerda (SRD). Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-cuerda"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-caminos-24",
+      "kind": "terrain",
+      "name": "Cruce de las Mantas Tendidas",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Paul_Cezanne_A_Turn_in_the_Road.jpg/960px-Paul_Cezanne_A_Turn_in_the_Road.jpg",
+      "imageCredit": {
+        "text": "La Route tournante · Paul Cézanne · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Paul_Cezanne_A_Turn_in_the_Road.jpg"
+      },
+      "description": "Mantas secándose sobre cuerdas atraviesan un cruce cuya salida permanece despejada. La ruta cambia de carácter en este tramo. El firme, la anchura y las referencias del paisaje obligan a ajustar el paso; lo que parecía un simple camino empieza a mostrar decisiones tomadas por quienes lo trazaron.\n\nLas señales más antiguas no siempre coinciden con el tránsito actual. Algunos viajeros han preferido acortar y otros han dejado rodeos cuidadosamente marcados. Desde el punto de llegada pueden compararse varias direcciones, pero los accidentes del terreno ocultan sus destinos. Incluso una pausa breve permite reconocer qué trayectos se usan con más frecuencia.\n\nUn espacio pequeño ha quedado deliberadamente vacío. A su alrededor se reconocen señales de actividad, pero ninguna lo atraviesa. La ausencia no demuestra peligro: también podría tratarse de una reserva, una costumbre o una simple espera. El lugar no revela de inmediato si espera visitantes o si intenta mantenerlos a distancia. Sus señales admiten ambas lecturas, y el siguiente paso puede aclarar cuál resulta más convincente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=fantasy%20road%20journey%20ambient",
+      "abilities": [
+        "Entorno: Caminos y cruces. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Mantas secándose sobre cuerdas atraviesan un cruce cuya salida permanece despejada. Una reparación sencilla permitiría volver a utilizar este lugar. Sus responsables ofrecen información o alojamiento a cambio; decidir quién se beneficiará importa más que obtener una recompensa material.",
+        "Rumbo opcional: Una señal de ruta fue movida para beneficiar a alguien. Un viajero conoce parte del cambio; devolverla a su sitio, seguir el desvío o preguntar por su autor ofrece alternativas.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Bandido. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Bandido. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-bandido"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-caminos-25",
+      "kind": "terrain",
+      "name": "Camino de las Botas Colgadas",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/John_Rathbone_-_Landscape_with_Figures_Crossing_a_Bridge_-_1962.967_-_Art_Institute_of_Chicago.jpg/960px-John_Rathbone_-_Landscape_with_Figures_Crossing_a_Bridge_-_1962.967_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "Landscape with Figures Crossing a Bridge · John Rathbone / George Morland · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:John_Rathbone_-_Landscape_with_Figures_Crossing_a_Bridge_-_1962.967_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Pares de botas cuelgan de postes bajos, ordenados por tamaños a lo largo del sendero. La ruta cambia de carácter en este tramo. El firme, la anchura y las referencias del paisaje obligan a ajustar el paso; lo que parecía un simple camino empieza a mostrar decisiones tomadas por quienes lo trazaron.\n\nLas señales más antiguas no siempre coinciden con el tránsito actual. Algunos viajeros han preferido acortar y otros han dejado rodeos cuidadosamente marcados. Desde el punto de llegada pueden compararse varias direcciones, pero los accidentes del terreno ocultan sus destinos. Incluso una pausa breve permite reconocer qué trayectos se usan con más frecuencia.\n\nDesde un extremo se distingue un segundo acceso, estrecho y parcialmente oculto. La ruta principal invita a continuar, pero el desvío conserva señales de uso que no encajan con su aspecto abandonado. La primera impresión invita a seguir, pero un examen pausado ofrece otra posibilidad: detenerse, comparar los rastros y decidir qué detalle merece atención antes de abandonar el sitio.",
+      "musicUrl": "https://www.youtube.com/results?search_query=fantasy%20road%20journey%20ambient",
+      "abilities": [
+        "Entorno: Caminos y cruces. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Pares de botas cuelgan de postes bajos, ordenados por tamaños a lo largo del sendero. Alguien ha reproducido este detalle en un mapa incompleto. Seguir la siguiente marca puede llevar a otro terreno del mismo entorno, sin exigir que la ruta sea peligrosa.",
+        "Rumbo opcional: Una señal de ruta fue movida para beneficiar a alguien. Un viajero conoce parte del cambio; devolverla a su sitio, seguir el desvío o preguntar por su autor ofrece alternativas.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Bandido. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Iria, la cartógrafa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-cartografa"
+        }
+      ]
+    }
+  ]
+}

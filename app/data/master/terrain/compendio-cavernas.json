@@ -1,0 +1,705 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "terrain-compendio-cavernas-01",
+      "kind": "terrain",
+      "name": "Cueva de las Columnas Blancas",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Joseph_Wright_of_Derby_Grotto_in_the_Gulf_of_Salerno.jpg",
+      "imageCredit": {
+        "text": "A Grotto in the Gulf of Salerno, Moonlight · Joseph Wright of Derby · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Joseph_Wright_of_Derby_Grotto_in_the_Gulf_of_Salerno.jpg"
+      },
+      "description": "Columnas blancas estrechan el paso alrededor de una poza inmóvil. La abertura conduce a un espacio donde la luz pierde alcance rápidamente. Las formas de la piedra ofrecen salientes, huecos y pasos que solo se distinguen al cambiar la posición desde la que se observan.\n\nLa temperatura varía menos que afuera y el aire transporta olor mineral. Las gotas marcan un ritmo irregular, acompañado por corrientes que señalan conexiones invisibles. El suelo alterna superficies secas, humedad y restos arrastrados desde otras cámaras. Los ecos prolongan algunos sonidos y absorben otros, dificultando saber qué distancia separa una sala de la siguiente.\n\nUna marca antigua se ha respetado a pesar de los cambios del entorno. Las reparaciones y el tránsito la rodean en lugar de cubrirla. Parece importar a alguien, aunque su significado no se reconoce de inmediato. Desde esta posición se puede distinguir por dónde llegó la última presencia conocida. Su destino, en cambio, permanece fuera de la vista y no coincide necesariamente con la salida más evidente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=underground%20cavern%20ambience",
+      "abilities": [
+        "Entorno: Cuevas y profundidades. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Columnas blancas estrechan el paso alrededor de una poza inmóvil. Este lugar admite una escena tranquila de observación o conversación. El master puede usar el detalle visible para recordar un vínculo del personaje sin introducir un nuevo conflicto.",
+        "Rumbo opcional: Una expedición dejó señales incompletas para una ruta segura. El master puede ofrecer rescate, exploración o recuperación de herramientas; las marcas no tienen por qué ocultar una criatura hostil.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Antorcha (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Murciélago gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Iria, la cartógrafa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-cartografa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-cavernas-02",
+      "kind": "terrain",
+      "name": "Gruta de los Cristales Rojos",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Joseph_Wright_of_Derby._A_Grotto_with_Banditti_exhibited_1778.jpg",
+      "imageCredit": {
+        "text": "Grotto by the Seaside in the Kingdom of Naples with Banditti, Sunset · Joseph Wright of Derby · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Joseph_Wright_of_Derby._A_Grotto_with_Banditti_exhibited_1778.jpg"
+      },
+      "description": "Cristales rojos reflejan la luz sobre paredes cubiertas de pequeños arañazos. La abertura conduce a un espacio donde la luz pierde alcance rápidamente. Las formas de la piedra ofrecen salientes, huecos y pasos que solo se distinguen al cambiar la posición desde la que se observan.\n\nLa temperatura varía menos que afuera y el aire transporta olor mineral. Las gotas marcan un ritmo irregular, acompañado por corrientes que señalan conexiones invisibles. El suelo alterna superficies secas, humedad y restos arrastrados desde otras cámaras. Los ecos prolongan algunos sonidos y absorben otros, dificultando saber qué distancia separa una sala de la siguiente.\n\nAl detenerse, el entorno revela movimientos discretos que pasan inadvertidos al caminar. Ninguno parece acercarse directamente. Sin embargo, todos evitan el mismo punto, situado un poco más allá del acceso principal. El entorno guarda suficiente silencio entre sus sonidos para escuchar lo que ocurra después. Ninguna señal obliga a intervenir; aun así, cuesta ignorar el detalle que se aparta de todos los demás.",
+      "musicUrl": "https://www.youtube.com/results?search_query=underground%20cavern%20ambience",
+      "abilities": [
+        "Entorno: Cuevas y profundidades. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Cristales rojos reflejan la luz sobre paredes cubiertas de pequeños arañazos. Una persona conoce el origen de este detalle, pero su versión contradice la de quien lo cuida. Contrastar ambas historias puede revelar una necesidad que ninguna admite en público.",
+        "Rumbo opcional: Una expedición dejó señales incompletas para una ruta segura. El master puede ofrecer rescate, exploración o recuperación de herramientas; las marcas no tienen por qué ocultar una criatura hostil.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Antorcha (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Murciélago gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Antorcha (SRD). Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-antorcha"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-cavernas-03",
+      "kind": "terrain",
+      "name": "Galería del Lago Negro",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Wright_Chalk_Cavern_pictures_1.jpg",
+      "imageCredit": {
+        "text": "Wright Chalk Cavern pictures 1 · Joseph Wright of Derby · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Wright_Chalk_Cavern_pictures_1.jpg"
+      },
+      "description": "Un lago oscuro ocupa la galería y deja una cornisa en un lateral. La abertura conduce a un espacio donde la luz pierde alcance rápidamente. Las formas de la piedra ofrecen salientes, huecos y pasos que solo se distinguen al cambiar la posición desde la que se observan.\n\nLa temperatura varía menos que afuera y el aire transporta olor mineral. Las gotas marcan un ritmo irregular, acompañado por corrientes que señalan conexiones invisibles. El suelo alterna superficies secas, humedad y restos arrastrados desde otras cámaras. Los ecos prolongan algunos sonidos y absorben otros, dificultando saber qué distancia separa una sala de la siguiente.\n\nHay una pequeña zona resguardada del entorno, suficiente para detenerse y observar sin estorbar el paso. Desde allí se aprecia un detalle que, visto de frente, quedaba escondido detrás de los demás. Más allá del punto de entrada queda una perspectiva por descubrir. Desde aquí solo se percibe una parte del lugar; para conocer el resto habría que acercarse y cambiar el ángulo de observación.",
+      "musicUrl": "https://www.youtube.com/results?search_query=underground%20cavern%20ambience",
+      "abilities": [
+        "Entorno: Cuevas y profundidades. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Un lago oscuro ocupa la galería y deja una cornisa en un lateral. Este detalle sirve como señal para una cita. El grupo puede encontrar a quien espera, descubrir por qué nadie acudió o dejar un mensaje para continuar la historia más adelante.",
+        "Rumbo opcional: Una expedición dejó señales incompletas para una ruta segura. El master puede ofrecer rescate, exploración o recuperación de herramientas; las marcas no tienen por qué ocultar una criatura hostil.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Antorcha (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Murciélago gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Murciélago gigante. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-murcielago-gigante"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-cavernas-04",
+      "kind": "terrain",
+      "name": "Cavidad de las Escaleras Naturales",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Joseph_Wright_of_Derby_Grotto_in_the_Gulf_of_Salerno.jpg",
+      "imageCredit": {
+        "text": "A Grotto in the Gulf of Salerno, Moonlight · Joseph Wright of Derby · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Joseph_Wright_of_Derby_Grotto_in_the_Gulf_of_Salerno.jpg"
+      },
+      "description": "Escalones de roca descienden hacia una abertura desde la que sopla aire. La abertura conduce a un espacio donde la luz pierde alcance rápidamente. Las formas de la piedra ofrecen salientes, huecos y pasos que solo se distinguen al cambiar la posición desde la que se observan.\n\nLa temperatura varía menos que afuera y el aire transporta olor mineral. Las gotas marcan un ritmo irregular, acompañado por corrientes que señalan conexiones invisibles. El suelo alterna superficies secas, humedad y restos arrastrados desde otras cámaras. Los ecos prolongan algunos sonidos y absorben otros, dificultando saber qué distancia separa una sala de la siguiente.\n\nEn un rincón se conserva algo que el resto del lugar ha perdido: una forma intacta, una superficie limpia o un color más vivo. La diferencia llama la atención precisamente porque no se repite en ninguna otra parte. El lugar no revela de inmediato si espera visitantes o si intenta mantenerlos a distancia. Sus señales admiten ambas lecturas, y el siguiente paso puede aclarar cuál resulta más convincente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=underground%20cavern%20ambience",
+      "abilities": [
+        "Entorno: Cuevas y profundidades. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Escalones de roca descienden hacia una abertura desde la que sopla aire. Una reparación sencilla permitiría volver a utilizar este lugar. Sus responsables ofrecen información o alojamiento a cambio; decidir quién se beneficiará importa más que obtener una recompensa material.",
+        "Rumbo opcional: Una expedición dejó señales incompletas para una ruta segura. El master puede ofrecer rescate, exploración o recuperación de herramientas; las marcas no tienen por qué ocultar una criatura hostil.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Antorcha (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Murciélago gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Iria, la cartógrafa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-cartografa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-cavernas-05",
+      "kind": "terrain",
+      "name": "Cueva de los Nidos Ciegos",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Joseph_Wright_of_Derby._A_Grotto_with_Banditti_exhibited_1778.jpg",
+      "imageCredit": {
+        "text": "Grotto by the Seaside in the Kingdom of Naples with Banditti, Sunset · Joseph Wright of Derby · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Joseph_Wright_of_Derby._A_Grotto_with_Banditti_exhibited_1778.jpg"
+      },
+      "description": "Nidos vacíos ocupan huecos altos junto a plumas cubiertas de polvo. La abertura conduce a un espacio donde la luz pierde alcance rápidamente. Las formas de la piedra ofrecen salientes, huecos y pasos que solo se distinguen al cambiar la posición desde la que se observan.\n\nLa temperatura varía menos que afuera y el aire transporta olor mineral. Las gotas marcan un ritmo irregular, acompañado por corrientes que señalan conexiones invisibles. El suelo alterna superficies secas, humedad y restos arrastrados desde otras cámaras. Los ecos prolongan algunos sonidos y absorben otros, dificultando saber qué distancia separa una sala de la siguiente.\n\nEl camino de entrada no ofrece la mejor vista del lugar. Un giro descubre un espacio menor, protegido por las formas del entorno. Allí los rastros se ordenan de manera diferente y parecen corresponder a otra actividad. La primera impresión invita a seguir, pero un examen pausado ofrece otra posibilidad: detenerse, comparar los rastros y decidir qué detalle merece atención antes de abandonar el sitio.",
+      "musicUrl": "https://www.youtube.com/results?search_query=underground%20cavern%20ambience",
+      "abilities": [
+        "Entorno: Cuevas y profundidades. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Nidos vacíos ocupan huecos altos junto a plumas cubiertas de polvo. Alguien ha reproducido este detalle en un mapa incompleto. Seguir la siguiente marca puede llevar a otro terreno del mismo entorno, sin exigir que la ruta sea peligrosa.",
+        "Rumbo opcional: Una expedición dejó señales incompletas para una ruta segura. El master puede ofrecer rescate, exploración o recuperación de herramientas; las marcas no tienen por qué ocultar una criatura hostil.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Antorcha (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Murciélago gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Antorcha (SRD). Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-antorcha"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-cavernas-06",
+      "kind": "terrain",
+      "name": "Gruta de las Raíces Colgantes",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Wright_Chalk_Cavern_pictures_1.jpg",
+      "imageCredit": {
+        "text": "Wright Chalk Cavern pictures 1 · Joseph Wright of Derby · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Wright_Chalk_Cavern_pictures_1.jpg"
+      },
+      "description": "Raíces atraviesan el techo y llegan hasta un suelo de barro claro. La abertura conduce a un espacio donde la luz pierde alcance rápidamente. Las formas de la piedra ofrecen salientes, huecos y pasos que solo se distinguen al cambiar la posición desde la que se observan.\n\nLa temperatura varía menos que afuera y el aire transporta olor mineral. Las gotas marcan un ritmo irregular, acompañado por corrientes que señalan conexiones invisibles. El suelo alterna superficies secas, humedad y restos arrastrados desde otras cámaras. Los ecos prolongan algunos sonidos y absorben otros, dificultando saber qué distancia separa una sala de la siguiente.\n\nEntre los restos del uso cotidiano hay una interrupción clara. Algo ocurrió aquí antes de que la actividad se reanudara. Las señales posteriores atraviesan las anteriores, pero no llegan a borrarlas por completo. Desde esta posición se puede distinguir por dónde llegó la última presencia conocida. Su destino, en cambio, permanece fuera de la vista y no coincide necesariamente con la salida más evidente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=underground%20cavern%20ambience",
+      "abilities": [
+        "Entorno: Cuevas y profundidades. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Raíces atraviesan el techo y llegan hasta un suelo de barro claro. Una pertenencia perdida cerca de este detalle identifica a un viajero. Devolverla puede abrir una conversación; conservarla puede provocar una reclamación posterior, sin presumir que sea un tesoro abandonado.",
+        "Rumbo opcional: Una expedición dejó señales incompletas para una ruta segura. El master puede ofrecer rescate, exploración o recuperación de herramientas; las marcas no tienen por qué ocultar una criatura hostil.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Antorcha (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Murciélago gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Murciélago gigante. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-murcielago-gigante"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-cavernas-07",
+      "kind": "terrain",
+      "name": "Galería de las Herramientas Rotas",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Joseph_Wright_of_Derby_Grotto_in_the_Gulf_of_Salerno.jpg",
+      "imageCredit": {
+        "text": "A Grotto in the Gulf of Salerno, Moonlight · Joseph Wright of Derby · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Joseph_Wright_of_Derby_Grotto_in_the_Gulf_of_Salerno.jpg"
+      },
+      "description": "Herramientas rotas se apilan contra una pared con marcas de extracción. La abertura conduce a un espacio donde la luz pierde alcance rápidamente. Las formas de la piedra ofrecen salientes, huecos y pasos que solo se distinguen al cambiar la posición desde la que se observan.\n\nLa temperatura varía menos que afuera y el aire transporta olor mineral. Las gotas marcan un ritmo irregular, acompañado por corrientes que señalan conexiones invisibles. El suelo alterna superficies secas, humedad y restos arrastrados desde otras cámaras. Los ecos prolongan algunos sonidos y absorben otros, dificultando saber qué distancia separa una sala de la siguiente.\n\nUna línea de pequeñas señales recorre el límite del lugar. Algunas están casi borradas y otras parecen recientes. Su separación es regular hasta el último tramo, donde falta una y las restantes se acumulan. El entorno guarda suficiente silencio entre sus sonidos para escuchar lo que ocurra después. Ninguna señal obliga a intervenir; aun así, cuesta ignorar el detalle que se aparta de todos los demás.",
+      "musicUrl": "https://www.youtube.com/results?search_query=underground%20cavern%20ambience",
+      "abilities": [
+        "Entorno: Cuevas y profundidades. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Herramientas rotas se apilan contra una pared con marcas de extracción. Dos grupos atribuyen significados distintos a este detalle. El master puede permitir una solución que respete ambos usos, o presentar las consecuencias de favorecer a uno de ellos.",
+        "Rumbo opcional: Una expedición dejó señales incompletas para una ruta segura. El master puede ofrecer rescate, exploración o recuperación de herramientas; las marcas no tienen por qué ocultar una criatura hostil.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Antorcha (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Murciélago gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Iria, la cartógrafa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-cartografa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-cavernas-08",
+      "kind": "terrain",
+      "name": "Cueva del Eco Doble",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Joseph_Wright_of_Derby._A_Grotto_with_Banditti_exhibited_1778.jpg",
+      "imageCredit": {
+        "text": "Grotto by the Seaside in the Kingdom of Naples with Banditti, Sunset · Joseph Wright of Derby · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Joseph_Wright_of_Derby._A_Grotto_with_Banditti_exhibited_1778.jpg"
+      },
+      "description": "Dos corredores devuelven cada sonido con retrasos diferentes. La abertura conduce a un espacio donde la luz pierde alcance rápidamente. Las formas de la piedra ofrecen salientes, huecos y pasos que solo se distinguen al cambiar la posición desde la que se observan.\n\nLa temperatura varía menos que afuera y el aire transporta olor mineral. Las gotas marcan un ritmo irregular, acompañado por corrientes que señalan conexiones invisibles. El suelo alterna superficies secas, humedad y restos arrastrados desde otras cámaras. Los ecos prolongan algunos sonidos y absorben otros, dificultando saber qué distancia separa una sala de la siguiente.\n\nSe advierte una elección deliberada entre dos recorridos. Uno es sencillo y muy visible; el otro exige acercarse para reconocerlo. Ambos desembocan fuera de la vista, sin revelar todavía qué los distingue al final. Más allá del punto de entrada queda una perspectiva por descubrir. Desde aquí solo se percibe una parte del lugar; para conocer el resto habría que acercarse y cambiar el ángulo de observación.",
+      "musicUrl": "https://www.youtube.com/results?search_query=underground%20cavern%20ambience",
+      "abilities": [
+        "Entorno: Cuevas y profundidades. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Dos corredores devuelven cada sonido con retrasos diferentes. Las señales de uso reciente pertenecen a alguien que evita ser encontrado. Puede necesitar ayuda, intimidad o protección; investigar no demuestra por sí solo culpabilidad ni hostilidad.",
+        "Rumbo opcional: Una expedición dejó señales incompletas para una ruta segura. El master puede ofrecer rescate, exploración o recuperación de herramientas; las marcas no tienen por qué ocultar una criatura hostil.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Antorcha (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Murciélago gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Antorcha (SRD). Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-antorcha"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-cavernas-09",
+      "kind": "terrain",
+      "name": "Cavidad de los Hongos Pálidos",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Wright_Chalk_Cavern_pictures_1.jpg",
+      "imageCredit": {
+        "text": "Wright Chalk Cavern pictures 1 · Joseph Wright of Derby · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Wright_Chalk_Cavern_pictures_1.jpg"
+      },
+      "description": "Hongos pálidos iluminan una grieta lo suficiente para distinguir su borde. La abertura conduce a un espacio donde la luz pierde alcance rápidamente. Las formas de la piedra ofrecen salientes, huecos y pasos que solo se distinguen al cambiar la posición desde la que se observan.\n\nLa temperatura varía menos que afuera y el aire transporta olor mineral. Las gotas marcan un ritmo irregular, acompañado por corrientes que señalan conexiones invisibles. El suelo alterna superficies secas, humedad y restos arrastrados desde otras cámaras. Los ecos prolongan algunos sonidos y absorben otros, dificultando saber qué distancia separa una sala de la siguiente.\n\nUn espacio pequeño ha quedado deliberadamente vacío. A su alrededor se reconocen señales de actividad, pero ninguna lo atraviesa. La ausencia no demuestra peligro: también podría tratarse de una reserva, una costumbre o una simple espera. El lugar no revela de inmediato si espera visitantes o si intenta mantenerlos a distancia. Sus señales admiten ambas lecturas, y el siguiente paso puede aclarar cuál resulta más convincente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=underground%20cavern%20ambience",
+      "abilities": [
+        "Entorno: Cuevas y profundidades. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Hongos pálidos iluminan una grieta lo suficiente para distinguir su borde. Un cambio de tiempo amenaza con borrar o dañar este detalle. Documentarlo o protegerlo ofrece una tarea breve cuya urgencia puede ajustarse al ritmo de la sesión.",
+        "Rumbo opcional: Una expedición dejó señales incompletas para una ruta segura. El master puede ofrecer rescate, exploración o recuperación de herramientas; las marcas no tienen por qué ocultar una criatura hostil.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Antorcha (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Murciélago gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Murciélago gigante. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-murcielago-gigante"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-cavernas-10",
+      "kind": "terrain",
+      "name": "Gruta del Puente Mineral",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Joseph_Wright_of_Derby_Grotto_in_the_Gulf_of_Salerno.jpg",
+      "imageCredit": {
+        "text": "A Grotto in the Gulf of Salerno, Moonlight · Joseph Wright of Derby · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Joseph_Wright_of_Derby_Grotto_in_the_Gulf_of_Salerno.jpg"
+      },
+      "description": "Una formación mineral enlaza dos plataformas sobre agua profunda. La abertura conduce a un espacio donde la luz pierde alcance rápidamente. Las formas de la piedra ofrecen salientes, huecos y pasos que solo se distinguen al cambiar la posición desde la que se observan.\n\nLa temperatura varía menos que afuera y el aire transporta olor mineral. Las gotas marcan un ritmo irregular, acompañado por corrientes que señalan conexiones invisibles. El suelo alterna superficies secas, humedad y restos arrastrados desde otras cámaras. Los ecos prolongan algunos sonidos y absorben otros, dificultando saber qué distancia separa una sala de la siguiente.\n\nDesde un extremo se distingue un segundo acceso, estrecho y parcialmente oculto. La ruta principal invita a continuar, pero el desvío conserva señales de uso que no encajan con su aspecto abandonado. La primera impresión invita a seguir, pero un examen pausado ofrece otra posibilidad: detenerse, comparar los rastros y decidir qué detalle merece atención antes de abandonar el sitio.",
+      "musicUrl": "https://www.youtube.com/results?search_query=underground%20cavern%20ambience",
+      "abilities": [
+        "Entorno: Cuevas y profundidades. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Una formación mineral enlaza dos plataformas sobre agua profunda. Una persona ofrece un objeto útil si el grupo comprueba qué ha cambiado aquí. La información obtenida puede interesar a otra persona y conectar este lugar con una visita anterior.",
+        "Rumbo opcional: Una expedición dejó señales incompletas para una ruta segura. El master puede ofrecer rescate, exploración o recuperación de herramientas; las marcas no tienen por qué ocultar una criatura hostil.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Antorcha (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Murciélago gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Iria, la cartógrafa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-cartografa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-cavernas-11",
+      "kind": "terrain",
+      "name": "Galería de los Carros Bajos",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Joseph_Wright_of_Derby._A_Grotto_with_Banditti_exhibited_1778.jpg",
+      "imageCredit": {
+        "text": "Grotto by the Seaside in the Kingdom of Naples with Banditti, Sunset · Joseph Wright of Derby · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Joseph_Wright_of_Derby._A_Grotto_with_Banditti_exhibited_1778.jpg"
+      },
+      "description": "Pequeños carros de mina permanecen sobre rieles que se separan. La abertura conduce a un espacio donde la luz pierde alcance rápidamente. Las formas de la piedra ofrecen salientes, huecos y pasos que solo se distinguen al cambiar la posición desde la que se observan.\n\nLa temperatura varía menos que afuera y el aire transporta olor mineral. Las gotas marcan un ritmo irregular, acompañado por corrientes que señalan conexiones invisibles. El suelo alterna superficies secas, humedad y restos arrastrados desde otras cámaras. Los ecos prolongan algunos sonidos y absorben otros, dificultando saber qué distancia separa una sala de la siguiente.\n\nExiste un pequeño espacio de tránsito entre el exterior y la parte más protegida. Allí se acumulan señales de espera, como si quienes llegaron antes hubieran tenido que detenerse antes de recibir permiso para continuar. Desde esta posición se puede distinguir por dónde llegó la última presencia conocida. Su destino, en cambio, permanece fuera de la vista y no coincide necesariamente con la salida más evidente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=underground%20cavern%20ambience",
+      "abilities": [
+        "Entorno: Cuevas y profundidades. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Pequeños carros de mina permanecen sobre rieles que se separan. Este lugar admite una escena tranquila de observación o conversación. El master puede usar el detalle visible para recordar un vínculo del personaje sin introducir un nuevo conflicto.",
+        "Rumbo opcional: Una expedición dejó señales incompletas para una ruta segura. El master puede ofrecer rescate, exploración o recuperación de herramientas; las marcas no tienen por qué ocultar una criatura hostil.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Antorcha (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Murciélago gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Antorcha (SRD). Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-antorcha"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-cavernas-12",
+      "kind": "terrain",
+      "name": "Cueva de la Cascada Oculta",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Wright_Chalk_Cavern_pictures_1.jpg",
+      "imageCredit": {
+        "text": "Wright Chalk Cavern pictures 1 · Joseph Wright of Derby · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Wright_Chalk_Cavern_pictures_1.jpg"
+      },
+      "description": "Una cascada se oye detrás de una pared perforada por huecos estrechos. La abertura conduce a un espacio donde la luz pierde alcance rápidamente. Las formas de la piedra ofrecen salientes, huecos y pasos que solo se distinguen al cambiar la posición desde la que se observan.\n\nLa temperatura varía menos que afuera y el aire transporta olor mineral. Las gotas marcan un ritmo irregular, acompañado por corrientes que señalan conexiones invisibles. El suelo alterna superficies secas, humedad y restos arrastrados desde otras cámaras. Los ecos prolongan algunos sonidos y absorben otros, dificultando saber qué distancia separa una sala de la siguiente.\n\nAlgo ha dejado una sombra o una huella sin permanecer en su sitio. El contorno resulta más claro que el resto de las señales cercanas. Alrededor, nada indica si fue retirado con cuidado o llevado apresuradamente. El entorno guarda suficiente silencio entre sus sonidos para escuchar lo que ocurra después. Ninguna señal obliga a intervenir; aun así, cuesta ignorar el detalle que se aparta de todos los demás.",
+      "musicUrl": "https://www.youtube.com/results?search_query=underground%20cavern%20ambience",
+      "abilities": [
+        "Entorno: Cuevas y profundidades. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Una cascada se oye detrás de una pared perforada por huecos estrechos. Una persona conoce el origen de este detalle, pero su versión contradice la de quien lo cuida. Contrastar ambas historias puede revelar una necesidad que ninguna admite en público.",
+        "Rumbo opcional: Una expedición dejó señales incompletas para una ruta segura. El master puede ofrecer rescate, exploración o recuperación de herramientas; las marcas no tienen por qué ocultar una criatura hostil.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Antorcha (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Murciélago gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Murciélago gigante. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-murcielago-gigante"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-cavernas-13",
+      "kind": "terrain",
+      "name": "Gruta de los Escudos Calcificados",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Joseph_Wright_of_Derby_Grotto_in_the_Gulf_of_Salerno.jpg",
+      "imageCredit": {
+        "text": "A Grotto in the Gulf of Salerno, Moonlight · Joseph Wright of Derby · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Joseph_Wright_of_Derby_Grotto_in_the_Gulf_of_Salerno.jpg"
+      },
+      "description": "Formas de escudos sobresalen de una costra mineral sobre el suelo. La abertura conduce a un espacio donde la luz pierde alcance rápidamente. Las formas de la piedra ofrecen salientes, huecos y pasos que solo se distinguen al cambiar la posición desde la que se observan.\n\nLa temperatura varía menos que afuera y el aire transporta olor mineral. Las gotas marcan un ritmo irregular, acompañado por corrientes que señalan conexiones invisibles. El suelo alterna superficies secas, humedad y restos arrastrados desde otras cámaras. Los ecos prolongan algunos sonidos y absorben otros, dificultando saber qué distancia separa una sala de la siguiente.\n\nLas huellas de desgaste dibujan un recorrido más estrecho que el espacio disponible. Durante mucho tiempo, quienes pasaron eligieron el mismo trayecto. Fuera de él quedan detalles intactos que apenas han recibido atención. Más allá del punto de entrada queda una perspectiva por descubrir. Desde aquí solo se percibe una parte del lugar; para conocer el resto habría que acercarse y cambiar el ángulo de observación.",
+      "musicUrl": "https://www.youtube.com/results?search_query=underground%20cavern%20ambience",
+      "abilities": [
+        "Entorno: Cuevas y profundidades. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Formas de escudos sobresalen de una costra mineral sobre el suelo. Este detalle sirve como señal para una cita. El grupo puede encontrar a quien espera, descubrir por qué nadie acudió o dejar un mensaje para continuar la historia más adelante.",
+        "Rumbo opcional: Una expedición dejó señales incompletas para una ruta segura. El master puede ofrecer rescate, exploración o recuperación de herramientas; las marcas no tienen por qué ocultar una criatura hostil.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Antorcha (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Murciélago gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Iria, la cartógrafa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-cartografa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-cavernas-14",
+      "kind": "terrain",
+      "name": "Cavidad de la Luz Vertical",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Joseph_Wright_of_Derby._A_Grotto_with_Banditti_exhibited_1778.jpg",
+      "imageCredit": {
+        "text": "Grotto by the Seaside in the Kingdom of Naples with Banditti, Sunset · Joseph Wright of Derby · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Joseph_Wright_of_Derby._A_Grotto_with_Banditti_exhibited_1778.jpg"
+      },
+      "description": "Un pozo en el techo deja entrar una franja vertical de luz. La abertura conduce a un espacio donde la luz pierde alcance rápidamente. Las formas de la piedra ofrecen salientes, huecos y pasos que solo se distinguen al cambiar la posición desde la que se observan.\n\nLa temperatura varía menos que afuera y el aire transporta olor mineral. Las gotas marcan un ritmo irregular, acompañado por corrientes que señalan conexiones invisibles. El suelo alterna superficies secas, humedad y restos arrastrados desde otras cámaras. Los ecos prolongan algunos sonidos y absorben otros, dificultando saber qué distancia separa una sala de la siguiente.\n\nAlgo aquí ha sido reparado con materiales distintos de los originales. El arreglo resulta modesto y cuidadoso. Junto a él permanece la pieza rota, guardada como si todavía pudiera servir para otra cosa. El lugar no revela de inmediato si espera visitantes o si intenta mantenerlos a distancia. Sus señales admiten ambas lecturas, y el siguiente paso puede aclarar cuál resulta más convincente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=underground%20cavern%20ambience",
+      "abilities": [
+        "Entorno: Cuevas y profundidades. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Un pozo en el techo deja entrar una franja vertical de luz. Una reparación sencilla permitiría volver a utilizar este lugar. Sus responsables ofrecen información o alojamiento a cambio; decidir quién se beneficiará importa más que obtener una recompensa material.",
+        "Rumbo opcional: Una expedición dejó señales incompletas para una ruta segura. El master puede ofrecer rescate, exploración o recuperación de herramientas; las marcas no tienen por qué ocultar una criatura hostil.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Antorcha (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Murciélago gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Antorcha (SRD). Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-antorcha"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-cavernas-15",
+      "kind": "terrain",
+      "name": "Galería del Polvo Azul",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Wright_Chalk_Cavern_pictures_1.jpg",
+      "imageCredit": {
+        "text": "Wright Chalk Cavern pictures 1 · Joseph Wright of Derby · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Wright_Chalk_Cavern_pictures_1.jpg"
+      },
+      "description": "Polvo azul cubre una sección de suelo sin alcanzar las paredes. La abertura conduce a un espacio donde la luz pierde alcance rápidamente. Las formas de la piedra ofrecen salientes, huecos y pasos que solo se distinguen al cambiar la posición desde la que se observan.\n\nLa temperatura varía menos que afuera y el aire transporta olor mineral. Las gotas marcan un ritmo irregular, acompañado por corrientes que señalan conexiones invisibles. El suelo alterna superficies secas, humedad y restos arrastrados desde otras cámaras. Los ecos prolongan algunos sonidos y absorben otros, dificultando saber qué distancia separa una sala de la siguiente.\n\nVarias señales apuntan a una ocupación reciente, pero ninguna permite saber cuántas personas estuvieron aquí. Los rastros más pequeños se cruzan con los mayores y luego se separan, siguiendo direcciones diferentes. La primera impresión invita a seguir, pero un examen pausado ofrece otra posibilidad: detenerse, comparar los rastros y decidir qué detalle merece atención antes de abandonar el sitio.",
+      "musicUrl": "https://www.youtube.com/results?search_query=underground%20cavern%20ambience",
+      "abilities": [
+        "Entorno: Cuevas y profundidades. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Polvo azul cubre una sección de suelo sin alcanzar las paredes. Alguien ha reproducido este detalle en un mapa incompleto. Seguir la siguiente marca puede llevar a otro terreno del mismo entorno, sin exigir que la ruta sea peligrosa.",
+        "Rumbo opcional: Una expedición dejó señales incompletas para una ruta segura. El master puede ofrecer rescate, exploración o recuperación de herramientas; las marcas no tienen por qué ocultar una criatura hostil.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Antorcha (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Murciélago gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Murciélago gigante. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-murcielago-gigante"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-cavernas-16",
+      "kind": "terrain",
+      "name": "Cueva de las Mesas Planas",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Joseph_Wright_of_Derby_Grotto_in_the_Gulf_of_Salerno.jpg",
+      "imageCredit": {
+        "text": "A Grotto in the Gulf of Salerno, Moonlight · Joseph Wright of Derby · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Joseph_Wright_of_Derby_Grotto_in_the_Gulf_of_Salerno.jpg"
+      },
+      "description": "Rocas planas forman superficies semejantes a mesas alrededor de un hueco. La abertura conduce a un espacio donde la luz pierde alcance rápidamente. Las formas de la piedra ofrecen salientes, huecos y pasos que solo se distinguen al cambiar la posición desde la que se observan.\n\nLa temperatura varía menos que afuera y el aire transporta olor mineral. Las gotas marcan un ritmo irregular, acompañado por corrientes que señalan conexiones invisibles. El suelo alterna superficies secas, humedad y restos arrastrados desde otras cámaras. Los ecos prolongan algunos sonidos y absorben otros, dificultando saber qué distancia separa una sala de la siguiente.\n\nEn el límite entre dos superficies queda una acumulación fina de materiales. Las capas más antiguas son oscuras y compactas; por encima descansa una franja clara, todavía suelta, que deja ver el cambio reciente. Desde esta posición se puede distinguir por dónde llegó la última presencia conocida. Su destino, en cambio, permanece fuera de la vista y no coincide necesariamente con la salida más evidente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=underground%20cavern%20ambience",
+      "abilities": [
+        "Entorno: Cuevas y profundidades. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Rocas planas forman superficies semejantes a mesas alrededor de un hueco. Una pertenencia perdida cerca de este detalle identifica a un viajero. Devolverla puede abrir una conversación; conservarla puede provocar una reclamación posterior, sin presumir que sea un tesoro abandonado.",
+        "Rumbo opcional: Una expedición dejó señales incompletas para una ruta segura. El master puede ofrecer rescate, exploración o recuperación de herramientas; las marcas no tienen por qué ocultar una criatura hostil.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Antorcha (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Murciélago gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Iria, la cartógrafa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-cartografa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-cavernas-17",
+      "kind": "terrain",
+      "name": "Gruta del Río Subterráneo",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Joseph_Wright_of_Derby._A_Grotto_with_Banditti_exhibited_1778.jpg",
+      "imageCredit": {
+        "text": "Grotto by the Seaside in the Kingdom of Naples with Banditti, Sunset · Joseph Wright of Derby · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Joseph_Wright_of_Derby._A_Grotto_with_Banditti_exhibited_1778.jpg"
+      },
+      "description": "Un río veloz cruza bajo un acceso tallado a media altura. La abertura conduce a un espacio donde la luz pierde alcance rápidamente. Las formas de la piedra ofrecen salientes, huecos y pasos que solo se distinguen al cambiar la posición desde la que se observan.\n\nLa temperatura varía menos que afuera y el aire transporta olor mineral. Las gotas marcan un ritmo irregular, acompañado por corrientes que señalan conexiones invisibles. El suelo alterna superficies secas, humedad y restos arrastrados desde otras cámaras. Los ecos prolongan algunos sonidos y absorben otros, dificultando saber qué distancia separa una sala de la siguiente.\n\nUn objeto cotidiano descansa donde nadie esperaría encontrarlo. Está limpio por un lado y gastado por el otro, como si hubiera pasado mucho tiempo protegido antes de quedar expuesto de nuevo. El entorno guarda suficiente silencio entre sus sonidos para escuchar lo que ocurra después. Ninguna señal obliga a intervenir; aun así, cuesta ignorar el detalle que se aparta de todos los demás.",
+      "musicUrl": "https://www.youtube.com/results?search_query=underground%20cavern%20ambience",
+      "abilities": [
+        "Entorno: Cuevas y profundidades. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Un río veloz cruza bajo un acceso tallado a media altura. Dos grupos atribuyen significados distintos a este detalle. El master puede permitir una solución que respete ambos usos, o presentar las consecuencias de favorecer a uno de ellos.",
+        "Rumbo opcional: Una expedición dejó señales incompletas para una ruta segura. El master puede ofrecer rescate, exploración o recuperación de herramientas; las marcas no tienen por qué ocultar una criatura hostil.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Antorcha (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Murciélago gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Antorcha (SRD). Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-antorcha"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-cavernas-18",
+      "kind": "terrain",
+      "name": "Galería de los Cascabeles Quietos",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Wright_Chalk_Cavern_pictures_1.jpg",
+      "imageCredit": {
+        "text": "Wright Chalk Cavern pictures 1 · Joseph Wright of Derby · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Wright_Chalk_Cavern_pictures_1.jpg"
+      },
+      "description": "Cascabeles sujetos a cuerdas delimitan una zona libre de piedras. La abertura conduce a un espacio donde la luz pierde alcance rápidamente. Las formas de la piedra ofrecen salientes, huecos y pasos que solo se distinguen al cambiar la posición desde la que se observan.\n\nLa temperatura varía menos que afuera y el aire transporta olor mineral. Las gotas marcan un ritmo irregular, acompañado por corrientes que señalan conexiones invisibles. El suelo alterna superficies secas, humedad y restos arrastrados desde otras cámaras. Los ecos prolongan algunos sonidos y absorben otros, dificultando saber qué distancia separa una sala de la siguiente.\n\nUn rastro del mismo color se repite sobre superficies diferentes. No parece una decoración, porque cada marca queda a una altura distinta. La última está junto a algo que nadie ha movido recientemente. Más allá del punto de entrada queda una perspectiva por descubrir. Desde aquí solo se percibe una parte del lugar; para conocer el resto habría que acercarse y cambiar el ángulo de observación.",
+      "musicUrl": "https://www.youtube.com/results?search_query=underground%20cavern%20ambience",
+      "abilities": [
+        "Entorno: Cuevas y profundidades. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Cascabeles sujetos a cuerdas delimitan una zona libre de piedras. Las señales de uso reciente pertenecen a alguien que evita ser encontrado. Puede necesitar ayuda, intimidad o protección; investigar no demuestra por sí solo culpabilidad ni hostilidad.",
+        "Rumbo opcional: Una expedición dejó señales incompletas para una ruta segura. El master puede ofrecer rescate, exploración o recuperación de herramientas; las marcas no tienen por qué ocultar una criatura hostil.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Antorcha (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Murciélago gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Murciélago gigante. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-murcielago-gigante"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-cavernas-19",
+      "kind": "terrain",
+      "name": "Cavidad del Gigante Sentado",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Joseph_Wright_of_Derby_Grotto_in_the_Gulf_of_Salerno.jpg",
+      "imageCredit": {
+        "text": "A Grotto in the Gulf of Salerno, Moonlight · Joseph Wright of Derby · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Joseph_Wright_of_Derby_Grotto_in_the_Gulf_of_Salerno.jpg"
+      },
+      "description": "Una formación rocosa recuerda una figura sentada con manos abiertas. La abertura conduce a un espacio donde la luz pierde alcance rápidamente. Las formas de la piedra ofrecen salientes, huecos y pasos que solo se distinguen al cambiar la posición desde la que se observan.\n\nLa temperatura varía menos que afuera y el aire transporta olor mineral. Las gotas marcan un ritmo irregular, acompañado por corrientes que señalan conexiones invisibles. El suelo alterna superficies secas, humedad y restos arrastrados desde otras cámaras. Los ecos prolongan algunos sonidos y absorben otros, dificultando saber qué distancia separa una sala de la siguiente.\n\nUn detalle aparece repetido tres veces, con ligeras diferencias. La primera versión está gastada, la segunda incompleta y la tercera apenas alterada. Entre ellas queda espacio suficiente para imaginar una secuencia que todavía no termina. El lugar no revela de inmediato si espera visitantes o si intenta mantenerlos a distancia. Sus señales admiten ambas lecturas, y el siguiente paso puede aclarar cuál resulta más convincente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=underground%20cavern%20ambience",
+      "abilities": [
+        "Entorno: Cuevas y profundidades. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Una formación rocosa recuerda una figura sentada con manos abiertas. Un cambio de tiempo amenaza con borrar o dañar este detalle. Documentarlo o protegerlo ofrece una tarea breve cuya urgencia puede ajustarse al ritmo de la sesión.",
+        "Rumbo opcional: Una expedición dejó señales incompletas para una ruta segura. El master puede ofrecer rescate, exploración o recuperación de herramientas; las marcas no tienen por qué ocultar una criatura hostil.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Antorcha (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Murciélago gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Iria, la cartógrafa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-cartografa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-cavernas-20",
+      "kind": "terrain",
+      "name": "Cueva de las Cuerdas Antiguas",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Joseph_Wright_of_Derby._A_Grotto_with_Banditti_exhibited_1778.jpg",
+      "imageCredit": {
+        "text": "Grotto by the Seaside in the Kingdom of Naples with Banditti, Sunset · Joseph Wright of Derby · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Joseph_Wright_of_Derby._A_Grotto_with_Banditti_exhibited_1778.jpg"
+      },
+      "description": "Cuerdas endurecidas por minerales descienden desde anclajes en el techo. La abertura conduce a un espacio donde la luz pierde alcance rápidamente. Las formas de la piedra ofrecen salientes, huecos y pasos que solo se distinguen al cambiar la posición desde la que se observan.\n\nLa temperatura varía menos que afuera y el aire transporta olor mineral. Las gotas marcan un ritmo irregular, acompañado por corrientes que señalan conexiones invisibles. El suelo alterna superficies secas, humedad y restos arrastrados desde otras cámaras. Los ecos prolongan algunos sonidos y absorben otros, dificultando saber qué distancia separa una sala de la siguiente.\n\nUna señal visible desde lejos tiene otra cara que solo se descubre al acercarse. Ambas están trabajadas de manera distinta. La parte oculta conserva un detalle que parece haber sido añadido después de terminar la primera. La primera impresión invita a seguir, pero un examen pausado ofrece otra posibilidad: detenerse, comparar los rastros y decidir qué detalle merece atención antes de abandonar el sitio.",
+      "musicUrl": "https://www.youtube.com/results?search_query=underground%20cavern%20ambience",
+      "abilities": [
+        "Entorno: Cuevas y profundidades. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Cuerdas endurecidas por minerales descienden desde anclajes en el techo. Una persona ofrece un objeto útil si el grupo comprueba qué ha cambiado aquí. La información obtenida puede interesar a otra persona y conectar este lugar con una visita anterior.",
+        "Rumbo opcional: Una expedición dejó señales incompletas para una ruta segura. El master puede ofrecer rescate, exploración o recuperación de herramientas; las marcas no tienen por qué ocultar una criatura hostil.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Antorcha (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Murciélago gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Antorcha (SRD). Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-antorcha"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-cavernas-21",
+      "kind": "terrain",
+      "name": "Gruta del Cristal Partido",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Wright_Chalk_Cavern_pictures_1.jpg",
+      "imageCredit": {
+        "text": "Wright Chalk Cavern pictures 1 · Joseph Wright of Derby · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Wright_Chalk_Cavern_pictures_1.jpg"
+      },
+      "description": "Un cristal enorme está partido y sus mitades contienen burbujas alineadas. La abertura conduce a un espacio donde la luz pierde alcance rápidamente. Las formas de la piedra ofrecen salientes, huecos y pasos que solo se distinguen al cambiar la posición desde la que se observan.\n\nLa temperatura varía menos que afuera y el aire transporta olor mineral. Las gotas marcan un ritmo irregular, acompañado por corrientes que señalan conexiones invisibles. El suelo alterna superficies secas, humedad y restos arrastrados desde otras cámaras. Los ecos prolongan algunos sonidos y absorben otros, dificultando saber qué distancia separa una sala de la siguiente.\n\nLa distribución del lugar parece responder a una costumbre olvidada. Quien lo preparó dejó espacio alrededor de un punto central; nadie ha ocupado ese hueco, aunque todo lo demás muestra rastros de uso. Desde esta posición se puede distinguir por dónde llegó la última presencia conocida. Su destino, en cambio, permanece fuera de la vista y no coincide necesariamente con la salida más evidente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=underground%20cavern%20ambience",
+      "abilities": [
+        "Entorno: Cuevas y profundidades. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Un cristal enorme está partido y sus mitades contienen burbujas alineadas. Este lugar admite una escena tranquila de observación o conversación. El master puede usar el detalle visible para recordar un vínculo del personaje sin introducir un nuevo conflicto.",
+        "Rumbo opcional: Una expedición dejó señales incompletas para una ruta segura. El master puede ofrecer rescate, exploración o recuperación de herramientas; las marcas no tienen por qué ocultar una criatura hostil.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Antorcha (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Murciélago gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Murciélago gigante. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-murcielago-gigante"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-cavernas-22",
+      "kind": "terrain",
+      "name": "Galería de las Huellas Profundas",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Joseph_Wright_of_Derby_Grotto_in_the_Gulf_of_Salerno.jpg",
+      "imageCredit": {
+        "text": "A Grotto in the Gulf of Salerno, Moonlight · Joseph Wright of Derby · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Joseph_Wright_of_Derby_Grotto_in_the_Gulf_of_Salerno.jpg"
+      },
+      "description": "Huellas profundas atraviesan arcilla húmeda y desaparecen sobre roca lisa. La abertura conduce a un espacio donde la luz pierde alcance rápidamente. Las formas de la piedra ofrecen salientes, huecos y pasos que solo se distinguen al cambiar la posición desde la que se observan.\n\nLa temperatura varía menos que afuera y el aire transporta olor mineral. Las gotas marcan un ritmo irregular, acompañado por corrientes que señalan conexiones invisibles. El suelo alterna superficies secas, humedad y restos arrastrados desde otras cámaras. Los ecos prolongan algunos sonidos y absorben otros, dificultando saber qué distancia separa una sala de la siguiente.\n\nLa vista cambia al dar unos pasos hacia un lateral. Lo que desde la entrada parecía un obstáculo se convierte en una referencia útil, y detrás aparece una continuidad que no resultaba evidente a primera vista. El entorno guarda suficiente silencio entre sus sonidos para escuchar lo que ocurra después. Ninguna señal obliga a intervenir; aun así, cuesta ignorar el detalle que se aparta de todos los demás.",
+      "musicUrl": "https://www.youtube.com/results?search_query=underground%20cavern%20ambience",
+      "abilities": [
+        "Entorno: Cuevas y profundidades. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Huellas profundas atraviesan arcilla húmeda y desaparecen sobre roca lisa. Una persona conoce el origen de este detalle, pero su versión contradice la de quien lo cuida. Contrastar ambas historias puede revelar una necesidad que ninguna admite en público.",
+        "Rumbo opcional: Una expedición dejó señales incompletas para una ruta segura. El master puede ofrecer rescate, exploración o recuperación de herramientas; las marcas no tienen por qué ocultar una criatura hostil.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Antorcha (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Murciélago gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Iria, la cartógrafa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-cartografa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-cavernas-23",
+      "kind": "terrain",
+      "name": "Cueva de la Puerta de Hueso",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Joseph_Wright_of_Derby._A_Grotto_with_Banditti_exhibited_1778.jpg",
+      "imageCredit": {
+        "text": "Grotto by the Seaside in the Kingdom of Naples with Banditti, Sunset · Joseph Wright of Derby · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Joseph_Wright_of_Derby._A_Grotto_with_Banditti_exhibited_1778.jpg"
+      },
+      "description": "Huesos entrelazados forman una puerta baja junto a una abertura natural. La abertura conduce a un espacio donde la luz pierde alcance rápidamente. Las formas de la piedra ofrecen salientes, huecos y pasos que solo se distinguen al cambiar la posición desde la que se observan.\n\nLa temperatura varía menos que afuera y el aire transporta olor mineral. Las gotas marcan un ritmo irregular, acompañado por corrientes que señalan conexiones invisibles. El suelo alterna superficies secas, humedad y restos arrastrados desde otras cámaras. Los ecos prolongan algunos sonidos y absorben otros, dificultando saber qué distancia separa una sala de la siguiente.\n\nHay un elemento desplazado respecto a todos los demás. No está roto ni parece a punto de caer; sencillamente apunta hacia otro lado. Su posición permite ver un tramo del lugar que las otras referencias ocultan. Más allá del punto de entrada queda una perspectiva por descubrir. Desde aquí solo se percibe una parte del lugar; para conocer el resto habría que acercarse y cambiar el ángulo de observación.",
+      "musicUrl": "https://www.youtube.com/results?search_query=underground%20cavern%20ambience",
+      "abilities": [
+        "Entorno: Cuevas y profundidades. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Huesos entrelazados forman una puerta baja junto a una abertura natural. Este detalle sirve como señal para una cita. El grupo puede encontrar a quien espera, descubrir por qué nadie acudió o dejar un mensaje para continuar la historia más adelante.",
+        "Rumbo opcional: Una expedición dejó señales incompletas para una ruta segura. El master puede ofrecer rescate, exploración o recuperación de herramientas; las marcas no tienen por qué ocultar una criatura hostil.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Antorcha (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Murciélago gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Antorcha (SRD). Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-antorcha"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-cavernas-24",
+      "kind": "terrain",
+      "name": "Cavidad de los Vapores Tibios",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Wright_Chalk_Cavern_pictures_1.jpg",
+      "imageCredit": {
+        "text": "Wright Chalk Cavern pictures 1 · Joseph Wright of Derby · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Wright_Chalk_Cavern_pictures_1.jpg"
+      },
+      "description": "Vapor tibio emerge de fisuras que rodean una plataforma seca. La abertura conduce a un espacio donde la luz pierde alcance rápidamente. Las formas de la piedra ofrecen salientes, huecos y pasos que solo se distinguen al cambiar la posición desde la que se observan.\n\nLa temperatura varía menos que afuera y el aire transporta olor mineral. Las gotas marcan un ritmo irregular, acompañado por corrientes que señalan conexiones invisibles. El suelo alterna superficies secas, humedad y restos arrastrados desde otras cámaras. Los ecos prolongan algunos sonidos y absorben otros, dificultando saber qué distancia separa una sala de la siguiente.\n\nLas marcas del paso de otros viajeros se interrumpen en un punto concreto. Una señal reciente se superpone a otra mucho más antigua; las dos parecen señalar destinos distintos, aunque ninguna ofrece una explicación. El lugar no revela de inmediato si espera visitantes o si intenta mantenerlos a distancia. Sus señales admiten ambas lecturas, y el siguiente paso puede aclarar cuál resulta más convincente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=underground%20cavern%20ambience",
+      "abilities": [
+        "Entorno: Cuevas y profundidades. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Vapor tibio emerge de fisuras que rodean una plataforma seca. Una reparación sencilla permitiría volver a utilizar este lugar. Sus responsables ofrecen información o alojamiento a cambio; decidir quién se beneficiará importa más que obtener una recompensa material.",
+        "Rumbo opcional: Una expedición dejó señales incompletas para una ruta segura. El master puede ofrecer rescate, exploración o recuperación de herramientas; las marcas no tienen por qué ocultar una criatura hostil.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Antorcha (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Murciélago gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Murciélago gigante. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-murcielago-gigante"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-cavernas-25",
+      "kind": "terrain",
+      "name": "Gruta de los Mapas Rayados",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Joseph_Wright_of_Derby_Grotto_in_the_Gulf_of_Salerno.jpg",
+      "imageCredit": {
+        "text": "A Grotto in the Gulf of Salerno, Moonlight · Joseph Wright of Derby · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Joseph_Wright_of_Derby_Grotto_in_the_Gulf_of_Salerno.jpg"
+      },
+      "description": "Dibujos de pasajes cubren una pared protegida de las filtraciones. La abertura conduce a un espacio donde la luz pierde alcance rápidamente. Las formas de la piedra ofrecen salientes, huecos y pasos que solo se distinguen al cambiar la posición desde la que se observan.\n\nLa temperatura varía menos que afuera y el aire transporta olor mineral. Las gotas marcan un ritmo irregular, acompañado por corrientes que señalan conexiones invisibles. El suelo alterna superficies secas, humedad y restos arrastrados desde otras cámaras. Los ecos prolongan algunos sonidos y absorben otros, dificultando saber qué distancia separa una sala de la siguiente.\n\nAl prestar atención se descubren dos sonidos que no siguen el mismo ritmo. Uno pertenece claramente al entorno; el otro aparece y desaparece sin que sea posible localizar su origen desde la entrada. La primera impresión invita a seguir, pero un examen pausado ofrece otra posibilidad: detenerse, comparar los rastros y decidir qué detalle merece atención antes de abandonar el sitio.",
+      "musicUrl": "https://www.youtube.com/results?search_query=underground%20cavern%20ambience",
+      "abilities": [
+        "Entorno: Cuevas y profundidades. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Dibujos de pasajes cubren una pared protegida de las filtraciones. Alguien ha reproducido este detalle en un mapa incompleto. Seguir la siguiente marca puede llevar a otro terreno del mismo entorno, sin exigir que la ruta sea peligrosa.",
+        "Rumbo opcional: Una expedición dejó señales incompletas para una ruta segura. El master puede ofrecer rescate, exploración o recuperación de herramientas; las marcas no tienen por qué ocultar una criatura hostil.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Antorcha (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Murciélago gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Iria, la cartógrafa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-cartografa"
+        }
+      ]
+    }
+  ]
+}

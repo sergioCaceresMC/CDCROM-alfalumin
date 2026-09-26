@@ -1,0 +1,103 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "artificiero-alfa-reparacion-de-campo",
+      "classId": "artificiero",
+      "level": 1,
+      "name": "Reparación de campo",
+      "attribute": "inteligencia",
+      "description": "Con herramientas, usa una acción para intentar reparar un arma atascada o un mecanismo pequeño. El master decide el chequeo; no recupera vida ni crea equipo."
+    },
+    {
+      "id": "artificiero-alfa-municion-alquimica",
+      "classId": "artificiero",
+      "level": 1,
+      "name": "Munición alquímica",
+      "attribute": "tiros",
+      "description": "Prepara un disparo incendiario contra un objetivo visible. Causa 1d4 de fuego en lugar del daño normal del arma; no suma dados ni ataques.",
+      "damage": "1d4"
+    },
+    {
+      "id": "artificiero-alfa-lente-de-precision",
+      "classId": "artificiero",
+      "level": 1,
+      "name": "Lente de precisión",
+      "attribute": "percepcion",
+      "description": "Dedica una acción a observar un objetivo y preguntar por un detalle visible de su equipo o posición. No revela invisibilidad ni aumenta el daño."
+    },
+    {
+      "id": "artificiero-alfa-garra-mecanica",
+      "classId": "artificiero",
+      "level": 1,
+      "name": "Garra mecánica",
+      "attribute": "golpes",
+      "description": "Manipula con una pinza de taller un objeto a una celda de distancia. Puede apartar un cable o recoger una pieza, sin atacar ni desactivar trampas automáticamente."
+    },
+    {
+      "id": "artificiero-alfa-burbuja-de-humo",
+      "classId": "artificiero",
+      "level": 1,
+      "name": "Burbuja de humo",
+      "attribute": "inteligencia",
+      "description": "Una vez por escena, usa una acción para cubrir una celda con humo durante un turno. El master resuelve la visibilidad; no causa daño."
+    },
+    {
+      "id": "artificiero-alfa-analizador-de-materiales",
+      "classId": "artificiero",
+      "level": 1,
+      "name": "Analizador de materiales",
+      "attribute": "inteligencia",
+      "description": "Examina una muestra con tu equipo de alquimia para reconocer su material o un riesgo evidente. Necesita contacto y una acción; no identifica maldiciones."
+    },
+    {
+      "id": "artificiero-alfa-revestimiento-protector",
+      "classId": "artificiero",
+      "level": 2,
+      "name": "Disparo desarmante",
+      "attribute": "tiros",
+      "description": "Una vez por escena, intenta hacer soltar un objeto sostenido por un enemigo visible. Usa una acción y un chequeo de Tiros decidido por el master, en lugar de causar daño."
+    },
+    {
+      "id": "artificiero-alfa-dron-explorador",
+      "classId": "artificiero",
+      "level": 2,
+      "name": "Autómata escribiente",
+      "attribute": "inteligencia",
+      "description": "Construye un ayudante que registra mensajes o lleva un objeto pequeño dentro de la escena. Darle una orden emplea tu acción; no tiene turnos ni ataques propios."
+    },
+    {
+      "id": "artificiero-alfa-catalizador-curativo",
+      "classId": "artificiero",
+      "level": 2,
+      "name": "Preparado restaurador",
+      "attribute": "inteligencia",
+      "description": "Una vez por escena, usa una acción para administrar un preparado a un aliado adyacente y curar 2 puntos de vida. Ajusta la vida manualmente sin superar el máximo; no añade una poción al inventario."
+    },
+    {
+      "id": "artificiero-alfa-torreta-portatil",
+      "classId": "artificiero",
+      "level": 3,
+      "name": "Disparo de largo alcance",
+      "attribute": "tiros",
+      "description": "Usa una acción para disparar a un objetivo visible más allá del alcance habitual si el master permite la línea de tiro. Causa 1d6 en lugar del daño del arma; no añade ataques.",
+      "damage": "1d6"
+    },
+    {
+      "id": "artificiero-alfa-armadura-modular",
+      "classId": "artificiero",
+      "level": 3,
+      "name": "Infusión protectora",
+      "attribute": "constitucion",
+      "description": "Una vez por escena, dedica una acción a activar una protección de taller que reduce en 1 el daño del siguiente impacto recibido antes de tu próximo turno. Ajusta el daño manualmente; no cambia la armadura ni se acumula."
+    },
+    {
+      "id": "artificiero-alfa-desactivador-arcano",
+      "classId": "artificiero",
+      "level": 3,
+      "name": "Autómata asistente",
+      "attribute": "inteligencia",
+      "description": "Mejora tu ayudante para que sostenga una herramienta o ayude en una reparación cercana. Ordenarlo consume tu acción y sustituye cualquier otra orden al ayudante ese turno. No crea otro autómata ni concede ataques adicionales."
+    }
+  ]
+}

@@ -1,0 +1,705 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "terrain-compendio-lugares-extranos-01",
+      "kind": "terrain",
+      "name": "Jardín de las Sombras Floridas",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Moorise_by_Casbah%2C_by_Henry_Ossawa_Tanner.jpg/960px-Moorise_by_Casbah%2C_by_Henry_Ossawa_Tanner.jpg",
+      "imageCredit": {
+        "text": "Moorise by Casbah, by Henry Ossawa Tanner · Henry Ossawa Tanner · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Moorise_by_Casbah,_by_Henry_Ossawa_Tanner.jpg"
+      },
+      "description": "Flores dibujadas por sombras se desplazan sin que cambien las plantas. Hay algo en la disposición del lugar que no coincide con lo esperado. Las formas siguen siendo reconocibles, pero una relación entre distancia, luz o movimiento invita a mirar de nuevo antes de decidir cómo avanzar.\n\nLos materiales presentan huellas de uso cotidiano pese a la anomalía. Eso sugiere que alguien encontró una manera de habitar o atravesar el espacio sin eliminar su rareza. Las señales próximas ofrecen referencias más fiables que las perspectivas lejanas. Una parte del entorno responde como cualquier otro lugar, mientras otra conserva una diferencia que solo se aprecia al observarla con calma.\n\nAl prestar atención se descubren dos sonidos que no siguen el mismo ritmo. Uno pertenece claramente al entorno; el otro aparece y desaparece sin que sea posible localizar su origen desde la entrada. El entorno guarda suficiente silencio entre sus sonidos para escuchar lo que ocurra después. Ninguna señal obliga a intervenir; aun así, cuesta ignorar el detalle que se aparta de todos los demás.",
+      "musicUrl": "https://www.youtube.com/results?search_query=surreal%20magical%20realm%20ambient",
+      "abilities": [
+        "Entorno: Lugares extraños y fronteras mágicas. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Flores dibujadas por sombras se desplazan sin que cambien las plantas. Un cambio de tiempo amenaza con borrar o dañar este detalle. Documentarlo o protegerlo ofrece una tarea breve cuya urgencia puede ajustarse al ritmo de la sesión.",
+        "Rumbo opcional: La anomalía tiene una condición que puede descubrirse mediante observación y pruebas prudentes. El master decide su alcance; puede ser una oportunidad, un inconveniente o una costumbre local, sin infligir efectos automáticos.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Espejo. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Sombra. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Iria, la cartógrafa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-cartografa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-lugares-extranos-02",
+      "kind": "terrain",
+      "name": "Puente de la Lluvia Ascendente",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Sanford_Robinson_Gifford_-_Mist_Rising_at_Sunset_in_the_Catskills_-_1988.217_-_Art_Institute_of_Chicago.jpg/960px-Sanford_Robinson_Gifford_-_Mist_Rising_at_Sunset_in_the_Catskills_-_1988.217_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "Mist Rising at Sunset in the Catskills · Sanford Robinson Gifford · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Sanford_Robinson_Gifford_-_Mist_Rising_at_Sunset_in_the_Catskills_-_1988.217_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Gotas de agua suben desde el río bajo un puente seco. Hay algo en la disposición del lugar que no coincide con lo esperado. Las formas siguen siendo reconocibles, pero una relación entre distancia, luz o movimiento invita a mirar de nuevo antes de decidir cómo avanzar.\n\nLos materiales presentan huellas de uso cotidiano pese a la anomalía. Eso sugiere que alguien encontró una manera de habitar o atravesar el espacio sin eliminar su rareza. Las señales próximas ofrecen referencias más fiables que las perspectivas lejanas. Una parte del entorno responde como cualquier otro lugar, mientras otra conserva una diferencia que solo se aprecia al observarla con calma.\n\nUna marca antigua se ha respetado a pesar de los cambios del entorno. Las reparaciones y el tránsito la rodean en lugar de cubrirla. Parece importar a alguien, aunque su significado no se reconoce de inmediato. Más allá del punto de entrada queda una perspectiva por descubrir. Desde aquí solo se percibe una parte del lugar; para conocer el resto habría que acercarse y cambiar el ángulo de observación.",
+      "musicUrl": "https://www.youtube.com/results?search_query=surreal%20magical%20realm%20ambient",
+      "abilities": [
+        "Entorno: Lugares extraños y fronteras mágicas. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Gotas de agua suben desde el río bajo un puente seco. Una persona ofrece un objeto útil si el grupo comprueba qué ha cambiado aquí. La información obtenida puede interesar a otra persona y conectar este lugar con una visita anterior.",
+        "Rumbo opcional: La anomalía tiene una condición que puede descubrirse mediante observación y pruebas prudentes. El master decide su alcance; puede ser una oportunidad, un inconveniente o una costumbre local, sin infligir efectos automáticos.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Espejo. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Sombra. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Espejo. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-espejo"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-lugares-extranos-03",
+      "kind": "terrain",
+      "name": "Plaza de los Relojes Desacordados",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Moorise_by_Casbah%2C_by_Henry_Ossawa_Tanner.jpg/960px-Moorise_by_Casbah%2C_by_Henry_Ossawa_Tanner.jpg",
+      "imageCredit": {
+        "text": "Moorise by Casbah, by Henry Ossawa Tanner · Henry Ossawa Tanner · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Moorise_by_Casbah,_by_Henry_Ossawa_Tanner.jpg"
+      },
+      "description": "Relojes de una plaza marcan horas distintas mientras sus péndulos coinciden. Hay algo en la disposición del lugar que no coincide con lo esperado. Las formas siguen siendo reconocibles, pero una relación entre distancia, luz o movimiento invita a mirar de nuevo antes de decidir cómo avanzar.\n\nLos materiales presentan huellas de uso cotidiano pese a la anomalía. Eso sugiere que alguien encontró una manera de habitar o atravesar el espacio sin eliminar su rareza. Las señales próximas ofrecen referencias más fiables que las perspectivas lejanas. Una parte del entorno responde como cualquier otro lugar, mientras otra conserva una diferencia que solo se aprecia al observarla con calma.\n\nAl detenerse, el entorno revela movimientos discretos que pasan inadvertidos al caminar. Ninguno parece acercarse directamente. Sin embargo, todos evitan el mismo punto, situado un poco más allá del acceso principal. El lugar no revela de inmediato si espera visitantes o si intenta mantenerlos a distancia. Sus señales admiten ambas lecturas, y el siguiente paso puede aclarar cuál resulta más convincente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=surreal%20magical%20realm%20ambient",
+      "abilities": [
+        "Entorno: Lugares extraños y fronteras mágicas. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Relojes de una plaza marcan horas distintas mientras sus péndulos coinciden. Este lugar admite una escena tranquila de observación o conversación. El master puede usar el detalle visible para recordar un vínculo del personaje sin introducir un nuevo conflicto.",
+        "Rumbo opcional: La anomalía tiene una condición que puede descubrirse mediante observación y pruebas prudentes. El master decide su alcance; puede ser una oportunidad, un inconveniente o una costumbre local, sin infligir efectos automáticos.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Espejo. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Sombra. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Sombra. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-sombra"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-lugares-extranos-04",
+      "kind": "terrain",
+      "name": "Bosque de los Árboles Transparentes",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Sanford_Robinson_Gifford_-_Mist_Rising_at_Sunset_in_the_Catskills_-_1988.217_-_Art_Institute_of_Chicago.jpg/960px-Sanford_Robinson_Gifford_-_Mist_Rising_at_Sunset_in_the_Catskills_-_1988.217_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "Mist Rising at Sunset in the Catskills · Sanford Robinson Gifford · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Sanford_Robinson_Gifford_-_Mist_Rising_at_Sunset_in_the_Catskills_-_1988.217_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Los troncos dejan ver caminos que desaparecen al rodearlos. Hay algo en la disposición del lugar que no coincide con lo esperado. Las formas siguen siendo reconocibles, pero una relación entre distancia, luz o movimiento invita a mirar de nuevo antes de decidir cómo avanzar.\n\nLos materiales presentan huellas de uso cotidiano pese a la anomalía. Eso sugiere que alguien encontró una manera de habitar o atravesar el espacio sin eliminar su rareza. Las señales próximas ofrecen referencias más fiables que las perspectivas lejanas. Una parte del entorno responde como cualquier otro lugar, mientras otra conserva una diferencia que solo se aprecia al observarla con calma.\n\nHay una pequeña zona resguardada del entorno, suficiente para detenerse y observar sin estorbar el paso. Desde allí se aprecia un detalle que, visto de frente, quedaba escondido detrás de los demás. La primera impresión invita a seguir, pero un examen pausado ofrece otra posibilidad: detenerse, comparar los rastros y decidir qué detalle merece atención antes de abandonar el sitio.",
+      "musicUrl": "https://www.youtube.com/results?search_query=surreal%20magical%20realm%20ambient",
+      "abilities": [
+        "Entorno: Lugares extraños y fronteras mágicas. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Los troncos dejan ver caminos que desaparecen al rodearlos. Una persona conoce el origen de este detalle, pero su versión contradice la de quien lo cuida. Contrastar ambas historias puede revelar una necesidad que ninguna admite en público.",
+        "Rumbo opcional: La anomalía tiene una condición que puede descubrirse mediante observación y pruebas prudentes. El master decide su alcance; puede ser una oportunidad, un inconveniente o una costumbre local, sin infligir efectos automáticos.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Espejo. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Sombra. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Iria, la cartógrafa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-cartografa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-lugares-extranos-05",
+      "kind": "terrain",
+      "name": "Lago de los Reflejos Ausentes",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Moorise_by_Casbah%2C_by_Henry_Ossawa_Tanner.jpg/960px-Moorise_by_Casbah%2C_by_Henry_Ossawa_Tanner.jpg",
+      "imageCredit": {
+        "text": "Moorise by Casbah, by Henry Ossawa Tanner · Henry Ossawa Tanner · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Moorise_by_Casbah,_by_Henry_Ossawa_Tanner.jpg"
+      },
+      "description": "El agua refleja las nubes, pero no los objetos de la orilla. Hay algo en la disposición del lugar que no coincide con lo esperado. Las formas siguen siendo reconocibles, pero una relación entre distancia, luz o movimiento invita a mirar de nuevo antes de decidir cómo avanzar.\n\nLos materiales presentan huellas de uso cotidiano pese a la anomalía. Eso sugiere que alguien encontró una manera de habitar o atravesar el espacio sin eliminar su rareza. Las señales próximas ofrecen referencias más fiables que las perspectivas lejanas. Una parte del entorno responde como cualquier otro lugar, mientras otra conserva una diferencia que solo se aprecia al observarla con calma.\n\nEn un rincón se conserva algo que el resto del lugar ha perdido: una forma intacta, una superficie limpia o un color más vivo. La diferencia llama la atención precisamente porque no se repite en ninguna otra parte. Desde esta posición se puede distinguir por dónde llegó la última presencia conocida. Su destino, en cambio, permanece fuera de la vista y no coincide necesariamente con la salida más evidente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=surreal%20magical%20realm%20ambient",
+      "abilities": [
+        "Entorno: Lugares extraños y fronteras mágicas. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: El agua refleja las nubes, pero no los objetos de la orilla. Este detalle sirve como señal para una cita. El grupo puede encontrar a quien espera, descubrir por qué nadie acudió o dejar un mensaje para continuar la historia más adelante.",
+        "Rumbo opcional: La anomalía tiene una condición que puede descubrirse mediante observación y pruebas prudentes. El master decide su alcance; puede ser una oportunidad, un inconveniente o una costumbre local, sin infligir efectos automáticos.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Espejo. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Sombra. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Espejo. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-espejo"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-lugares-extranos-06",
+      "kind": "terrain",
+      "name": "Escalera de las Puertas Estacionales",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Sanford_Robinson_Gifford_-_Mist_Rising_at_Sunset_in_the_Catskills_-_1988.217_-_Art_Institute_of_Chicago.jpg/960px-Sanford_Robinson_Gifford_-_Mist_Rising_at_Sunset_in_the_Catskills_-_1988.217_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "Mist Rising at Sunset in the Catskills · Sanford Robinson Gifford · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Sanford_Robinson_Gifford_-_Mist_Rising_at_Sunset_in_the_Catskills_-_1988.217_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Cada descansillo conserva plantas de una estación diferente. Hay algo en la disposición del lugar que no coincide con lo esperado. Las formas siguen siendo reconocibles, pero una relación entre distancia, luz o movimiento invita a mirar de nuevo antes de decidir cómo avanzar.\n\nLos materiales presentan huellas de uso cotidiano pese a la anomalía. Eso sugiere que alguien encontró una manera de habitar o atravesar el espacio sin eliminar su rareza. Las señales próximas ofrecen referencias más fiables que las perspectivas lejanas. Una parte del entorno responde como cualquier otro lugar, mientras otra conserva una diferencia que solo se aprecia al observarla con calma.\n\nEl camino de entrada no ofrece la mejor vista del lugar. Un giro descubre un espacio menor, protegido por las formas del entorno. Allí los rastros se ordenan de manera diferente y parecen corresponder a otra actividad. El entorno guarda suficiente silencio entre sus sonidos para escuchar lo que ocurra después. Ninguna señal obliga a intervenir; aun así, cuesta ignorar el detalle que se aparta de todos los demás.",
+      "musicUrl": "https://www.youtube.com/results?search_query=surreal%20magical%20realm%20ambient",
+      "abilities": [
+        "Entorno: Lugares extraños y fronteras mágicas. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Cada descansillo conserva plantas de una estación diferente. Una reparación sencilla permitiría volver a utilizar este lugar. Sus responsables ofrecen información o alojamiento a cambio; decidir quién se beneficiará importa más que obtener una recompensa material.",
+        "Rumbo opcional: La anomalía tiene una condición que puede descubrirse mediante observación y pruebas prudentes. El master decide su alcance; puede ser una oportunidad, un inconveniente o una costumbre local, sin infligir efectos automáticos.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Espejo. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Sombra. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Sombra. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-sombra"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-lugares-extranos-07",
+      "kind": "terrain",
+      "name": "Mercado de las Voces Guardadas",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Moorise_by_Casbah%2C_by_Henry_Ossawa_Tanner.jpg/960px-Moorise_by_Casbah%2C_by_Henry_Ossawa_Tanner.jpg",
+      "imageCredit": {
+        "text": "Moorise by Casbah, by Henry Ossawa Tanner · Henry Ossawa Tanner · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Moorise_by_Casbah,_by_Henry_Ossawa_Tanner.jpg"
+      },
+      "description": "Frascos tapados vibran sobre mostradores con etiquetas escritas a mano. Hay algo en la disposición del lugar que no coincide con lo esperado. Las formas siguen siendo reconocibles, pero una relación entre distancia, luz o movimiento invita a mirar de nuevo antes de decidir cómo avanzar.\n\nLos materiales presentan huellas de uso cotidiano pese a la anomalía. Eso sugiere que alguien encontró una manera de habitar o atravesar el espacio sin eliminar su rareza. Las señales próximas ofrecen referencias más fiables que las perspectivas lejanas. Una parte del entorno responde como cualquier otro lugar, mientras otra conserva una diferencia que solo se aprecia al observarla con calma.\n\nEntre los restos del uso cotidiano hay una interrupción clara. Algo ocurrió aquí antes de que la actividad se reanudara. Las señales posteriores atraviesan las anteriores, pero no llegan a borrarlas por completo. Más allá del punto de entrada queda una perspectiva por descubrir. Desde aquí solo se percibe una parte del lugar; para conocer el resto habría que acercarse y cambiar el ángulo de observación.",
+      "musicUrl": "https://www.youtube.com/results?search_query=surreal%20magical%20realm%20ambient",
+      "abilities": [
+        "Entorno: Lugares extraños y fronteras mágicas. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Frascos tapados vibran sobre mostradores con etiquetas escritas a mano. Alguien ha reproducido este detalle en un mapa incompleto. Seguir la siguiente marca puede llevar a otro terreno del mismo entorno, sin exigir que la ruta sea peligrosa.",
+        "Rumbo opcional: La anomalía tiene una condición que puede descubrirse mediante observación y pruebas prudentes. El master decide su alcance; puede ser una oportunidad, un inconveniente o una costumbre local, sin infligir efectos automáticos.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Espejo. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Sombra. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Iria, la cartógrafa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-cartografa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-lugares-extranos-08",
+      "kind": "terrain",
+      "name": "Desierto de las Estrellas Bajas",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Sanford_Robinson_Gifford_-_Mist_Rising_at_Sunset_in_the_Catskills_-_1988.217_-_Art_Institute_of_Chicago.jpg/960px-Sanford_Robinson_Gifford_-_Mist_Rising_at_Sunset_in_the_Catskills_-_1988.217_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "Mist Rising at Sunset in the Catskills · Sanford Robinson Gifford · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Sanford_Robinson_Gifford_-_Mist_Rising_at_Sunset_in_the_Catskills_-_1988.217_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Puntos luminosos permanecen suspendidos sobre una extensión de arena oscura. Hay algo en la disposición del lugar que no coincide con lo esperado. Las formas siguen siendo reconocibles, pero una relación entre distancia, luz o movimiento invita a mirar de nuevo antes de decidir cómo avanzar.\n\nLos materiales presentan huellas de uso cotidiano pese a la anomalía. Eso sugiere que alguien encontró una manera de habitar o atravesar el espacio sin eliminar su rareza. Las señales próximas ofrecen referencias más fiables que las perspectivas lejanas. Una parte del entorno responde como cualquier otro lugar, mientras otra conserva una diferencia que solo se aprecia al observarla con calma.\n\nUna línea de pequeñas señales recorre el límite del lugar. Algunas están casi borradas y otras parecen recientes. Su separación es regular hasta el último tramo, donde falta una y las restantes se acumulan. El lugar no revela de inmediato si espera visitantes o si intenta mantenerlos a distancia. Sus señales admiten ambas lecturas, y el siguiente paso puede aclarar cuál resulta más convincente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=surreal%20magical%20realm%20ambient",
+      "abilities": [
+        "Entorno: Lugares extraños y fronteras mágicas. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Puntos luminosos permanecen suspendidos sobre una extensión de arena oscura. Una pertenencia perdida cerca de este detalle identifica a un viajero. Devolverla puede abrir una conversación; conservarla puede provocar una reclamación posterior, sin presumir que sea un tesoro abandonado.",
+        "Rumbo opcional: La anomalía tiene una condición que puede descubrirse mediante observación y pruebas prudentes. El master decide su alcance; puede ser una oportunidad, un inconveniente o una costumbre local, sin infligir efectos automáticos.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Espejo. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Sombra. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Espejo. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-espejo"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-lugares-extranos-09",
+      "kind": "terrain",
+      "name": "Casa de las Ventanas Lejanas",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Moorise_by_Casbah%2C_by_Henry_Ossawa_Tanner.jpg/960px-Moorise_by_Casbah%2C_by_Henry_Ossawa_Tanner.jpg",
+      "imageCredit": {
+        "text": "Moorise by Casbah, by Henry Ossawa Tanner · Henry Ossawa Tanner · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Moorise_by_Casbah,_by_Henry_Ossawa_Tanner.jpg"
+      },
+      "description": "Las ventanas muestran paisajes distintos de lo que rodea la casa. Hay algo en la disposición del lugar que no coincide con lo esperado. Las formas siguen siendo reconocibles, pero una relación entre distancia, luz o movimiento invita a mirar de nuevo antes de decidir cómo avanzar.\n\nLos materiales presentan huellas de uso cotidiano pese a la anomalía. Eso sugiere que alguien encontró una manera de habitar o atravesar el espacio sin eliminar su rareza. Las señales próximas ofrecen referencias más fiables que las perspectivas lejanas. Una parte del entorno responde como cualquier otro lugar, mientras otra conserva una diferencia que solo se aprecia al observarla con calma.\n\nSe advierte una elección deliberada entre dos recorridos. Uno es sencillo y muy visible; el otro exige acercarse para reconocerlo. Ambos desembocan fuera de la vista, sin revelar todavía qué los distingue al final. La primera impresión invita a seguir, pero un examen pausado ofrece otra posibilidad: detenerse, comparar los rastros y decidir qué detalle merece atención antes de abandonar el sitio.",
+      "musicUrl": "https://www.youtube.com/results?search_query=surreal%20magical%20realm%20ambient",
+      "abilities": [
+        "Entorno: Lugares extraños y fronteras mágicas. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Las ventanas muestran paisajes distintos de lo que rodea la casa. Dos grupos atribuyen significados distintos a este detalle. El master puede permitir una solución que respete ambos usos, o presentar las consecuencias de favorecer a uno de ellos.",
+        "Rumbo opcional: La anomalía tiene una condición que puede descubrirse mediante observación y pruebas prudentes. El master decide su alcance; puede ser una oportunidad, un inconveniente o una costumbre local, sin infligir efectos automáticos.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Espejo. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Sombra. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Sombra. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-sombra"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-lugares-extranos-10",
+      "kind": "terrain",
+      "name": "Camino de los Pasos Repetidos",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Sanford_Robinson_Gifford_-_Mist_Rising_at_Sunset_in_the_Catskills_-_1988.217_-_Art_Institute_of_Chicago.jpg/960px-Sanford_Robinson_Gifford_-_Mist_Rising_at_Sunset_in_the_Catskills_-_1988.217_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "Mist Rising at Sunset in the Catskills · Sanford Robinson Gifford · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Sanford_Robinson_Gifford_-_Mist_Rising_at_Sunset_in_the_Catskills_-_1988.217_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Una misma marca de bota reaparece antes de cada curva. Hay algo en la disposición del lugar que no coincide con lo esperado. Las formas siguen siendo reconocibles, pero una relación entre distancia, luz o movimiento invita a mirar de nuevo antes de decidir cómo avanzar.\n\nLos materiales presentan huellas de uso cotidiano pese a la anomalía. Eso sugiere que alguien encontró una manera de habitar o atravesar el espacio sin eliminar su rareza. Las señales próximas ofrecen referencias más fiables que las perspectivas lejanas. Una parte del entorno responde como cualquier otro lugar, mientras otra conserva una diferencia que solo se aprecia al observarla con calma.\n\nUn espacio pequeño ha quedado deliberadamente vacío. A su alrededor se reconocen señales de actividad, pero ninguna lo atraviesa. La ausencia no demuestra peligro: también podría tratarse de una reserva, una costumbre o una simple espera. Desde esta posición se puede distinguir por dónde llegó la última presencia conocida. Su destino, en cambio, permanece fuera de la vista y no coincide necesariamente con la salida más evidente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=surreal%20magical%20realm%20ambient",
+      "abilities": [
+        "Entorno: Lugares extraños y fronteras mágicas. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Una misma marca de bota reaparece antes de cada curva. Las señales de uso reciente pertenecen a alguien que evita ser encontrado. Puede necesitar ayuda, intimidad o protección; investigar no demuestra por sí solo culpabilidad ni hostilidad.",
+        "Rumbo opcional: La anomalía tiene una condición que puede descubrirse mediante observación y pruebas prudentes. El master decide su alcance; puede ser una oportunidad, un inconveniente o una costumbre local, sin infligir efectos automáticos.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Espejo. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Sombra. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Iria, la cartógrafa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-cartografa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-lugares-extranos-11",
+      "kind": "terrain",
+      "name": "Isla de la Marea Aérea",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Moorise_by_Casbah%2C_by_Henry_Ossawa_Tanner.jpg/960px-Moorise_by_Casbah%2C_by_Henry_Ossawa_Tanner.jpg",
+      "imageCredit": {
+        "text": "Moorise by Casbah, by Henry Ossawa Tanner · Henry Ossawa Tanner · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Moorise_by_Casbah,_by_Henry_Ossawa_Tanner.jpg"
+      },
+      "description": "Una franja de agua flota sobre la playa y deja caer gotas lentas. Hay algo en la disposición del lugar que no coincide con lo esperado. Las formas siguen siendo reconocibles, pero una relación entre distancia, luz o movimiento invita a mirar de nuevo antes de decidir cómo avanzar.\n\nLos materiales presentan huellas de uso cotidiano pese a la anomalía. Eso sugiere que alguien encontró una manera de habitar o atravesar el espacio sin eliminar su rareza. Las señales próximas ofrecen referencias más fiables que las perspectivas lejanas. Una parte del entorno responde como cualquier otro lugar, mientras otra conserva una diferencia que solo se aprecia al observarla con calma.\n\nDesde un extremo se distingue un segundo acceso, estrecho y parcialmente oculto. La ruta principal invita a continuar, pero el desvío conserva señales de uso que no encajan con su aspecto abandonado. El entorno guarda suficiente silencio entre sus sonidos para escuchar lo que ocurra después. Ninguna señal obliga a intervenir; aun así, cuesta ignorar el detalle que se aparta de todos los demás.",
+      "musicUrl": "https://www.youtube.com/results?search_query=surreal%20magical%20realm%20ambient",
+      "abilities": [
+        "Entorno: Lugares extraños y fronteras mágicas. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Una franja de agua flota sobre la playa y deja caer gotas lentas. Un cambio de tiempo amenaza con borrar o dañar este detalle. Documentarlo o protegerlo ofrece una tarea breve cuya urgencia puede ajustarse al ritmo de la sesión.",
+        "Rumbo opcional: La anomalía tiene una condición que puede descubrirse mediante observación y pruebas prudentes. El master decide su alcance; puede ser una oportunidad, un inconveniente o una costumbre local, sin infligir efectos automáticos.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Espejo. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Sombra. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Espejo. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-espejo"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-lugares-extranos-12",
+      "kind": "terrain",
+      "name": "Biblioteca de las Letras Sueltas",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Sanford_Robinson_Gifford_-_Mist_Rising_at_Sunset_in_the_Catskills_-_1988.217_-_Art_Institute_of_Chicago.jpg/960px-Sanford_Robinson_Gifford_-_Mist_Rising_at_Sunset_in_the_Catskills_-_1988.217_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "Mist Rising at Sunset in the Catskills · Sanford Robinson Gifford · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Sanford_Robinson_Gifford_-_Mist_Rising_at_Sunset_in_the_Catskills_-_1988.217_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Letras luminosas se desplazan sobre páginas aparentemente vacías. Hay algo en la disposición del lugar que no coincide con lo esperado. Las formas siguen siendo reconocibles, pero una relación entre distancia, luz o movimiento invita a mirar de nuevo antes de decidir cómo avanzar.\n\nLos materiales presentan huellas de uso cotidiano pese a la anomalía. Eso sugiere que alguien encontró una manera de habitar o atravesar el espacio sin eliminar su rareza. Las señales próximas ofrecen referencias más fiables que las perspectivas lejanas. Una parte del entorno responde como cualquier otro lugar, mientras otra conserva una diferencia que solo se aprecia al observarla con calma.\n\nExiste un pequeño espacio de tránsito entre el exterior y la parte más protegida. Allí se acumulan señales de espera, como si quienes llegaron antes hubieran tenido que detenerse antes de recibir permiso para continuar. Más allá del punto de entrada queda una perspectiva por descubrir. Desde aquí solo se percibe una parte del lugar; para conocer el resto habría que acercarse y cambiar el ángulo de observación.",
+      "musicUrl": "https://www.youtube.com/results?search_query=surreal%20magical%20realm%20ambient",
+      "abilities": [
+        "Entorno: Lugares extraños y fronteras mágicas. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Letras luminosas se desplazan sobre páginas aparentemente vacías. Una persona ofrece un objeto útil si el grupo comprueba qué ha cambiado aquí. La información obtenida puede interesar a otra persona y conectar este lugar con una visita anterior.",
+        "Rumbo opcional: La anomalía tiene una condición que puede descubrirse mediante observación y pruebas prudentes. El master decide su alcance; puede ser una oportunidad, un inconveniente o una costumbre local, sin infligir efectos automáticos.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Espejo. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Sombra. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Sombra. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-sombra"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-lugares-extranos-13",
+      "kind": "terrain",
+      "name": "Valle de la Nieve Tibia",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Moorise_by_Casbah%2C_by_Henry_Ossawa_Tanner.jpg/960px-Moorise_by_Casbah%2C_by_Henry_Ossawa_Tanner.jpg",
+      "imageCredit": {
+        "text": "Moorise by Casbah, by Henry Ossawa Tanner · Henry Ossawa Tanner · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Moorise_by_Casbah,_by_Henry_Ossawa_Tanner.jpg"
+      },
+      "description": "Nieve tibia se acumula alrededor de plantas que siguen verdes. Hay algo en la disposición del lugar que no coincide con lo esperado. Las formas siguen siendo reconocibles, pero una relación entre distancia, luz o movimiento invita a mirar de nuevo antes de decidir cómo avanzar.\n\nLos materiales presentan huellas de uso cotidiano pese a la anomalía. Eso sugiere que alguien encontró una manera de habitar o atravesar el espacio sin eliminar su rareza. Las señales próximas ofrecen referencias más fiables que las perspectivas lejanas. Una parte del entorno responde como cualquier otro lugar, mientras otra conserva una diferencia que solo se aprecia al observarla con calma.\n\nAlgo ha dejado una sombra o una huella sin permanecer en su sitio. El contorno resulta más claro que el resto de las señales cercanas. Alrededor, nada indica si fue retirado con cuidado o llevado apresuradamente. El lugar no revela de inmediato si espera visitantes o si intenta mantenerlos a distancia. Sus señales admiten ambas lecturas, y el siguiente paso puede aclarar cuál resulta más convincente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=surreal%20magical%20realm%20ambient",
+      "abilities": [
+        "Entorno: Lugares extraños y fronteras mágicas. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Nieve tibia se acumula alrededor de plantas que siguen verdes. Este lugar admite una escena tranquila de observación o conversación. El master puede usar el detalle visible para recordar un vínculo del personaje sin introducir un nuevo conflicto.",
+        "Rumbo opcional: La anomalía tiene una condición que puede descubrirse mediante observación y pruebas prudentes. El master decide su alcance; puede ser una oportunidad, un inconveniente o una costumbre local, sin infligir efectos automáticos.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Espejo. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Sombra. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Iria, la cartógrafa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-cartografa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-lugares-extranos-14",
+      "kind": "terrain",
+      "name": "Torre del Eco Adelantado",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Sanford_Robinson_Gifford_-_Mist_Rising_at_Sunset_in_the_Catskills_-_1988.217_-_Art_Institute_of_Chicago.jpg/960px-Sanford_Robinson_Gifford_-_Mist_Rising_at_Sunset_in_the_Catskills_-_1988.217_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "Mist Rising at Sunset in the Catskills · Sanford Robinson Gifford · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Sanford_Robinson_Gifford_-_Mist_Rising_at_Sunset_in_the_Catskills_-_1988.217_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Un sonido parece surgir en la torre antes de repetirse cerca del acceso. Hay algo en la disposición del lugar que no coincide con lo esperado. Las formas siguen siendo reconocibles, pero una relación entre distancia, luz o movimiento invita a mirar de nuevo antes de decidir cómo avanzar.\n\nLos materiales presentan huellas de uso cotidiano pese a la anomalía. Eso sugiere que alguien encontró una manera de habitar o atravesar el espacio sin eliminar su rareza. Las señales próximas ofrecen referencias más fiables que las perspectivas lejanas. Una parte del entorno responde como cualquier otro lugar, mientras otra conserva una diferencia que solo se aprecia al observarla con calma.\n\nLas huellas de desgaste dibujan un recorrido más estrecho que el espacio disponible. Durante mucho tiempo, quienes pasaron eligieron el mismo trayecto. Fuera de él quedan detalles intactos que apenas han recibido atención. La primera impresión invita a seguir, pero un examen pausado ofrece otra posibilidad: detenerse, comparar los rastros y decidir qué detalle merece atención antes de abandonar el sitio.",
+      "musicUrl": "https://www.youtube.com/results?search_query=surreal%20magical%20realm%20ambient",
+      "abilities": [
+        "Entorno: Lugares extraños y fronteras mágicas. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Un sonido parece surgir en la torre antes de repetirse cerca del acceso. Una persona conoce el origen de este detalle, pero su versión contradice la de quien lo cuida. Contrastar ambas historias puede revelar una necesidad que ninguna admite en público.",
+        "Rumbo opcional: La anomalía tiene una condición que puede descubrirse mediante observación y pruebas prudentes. El master decide su alcance; puede ser una oportunidad, un inconveniente o una costumbre local, sin infligir efectos automáticos.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Espejo. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Sombra. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Espejo. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-espejo"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-lugares-extranos-15",
+      "kind": "terrain",
+      "name": "Jardín de los Frutos de Cristal",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Moorise_by_Casbah%2C_by_Henry_Ossawa_Tanner.jpg/960px-Moorise_by_Casbah%2C_by_Henry_Ossawa_Tanner.jpg",
+      "imageCredit": {
+        "text": "Moorise by Casbah, by Henry Ossawa Tanner · Henry Ossawa Tanner · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Moorise_by_Casbah,_by_Henry_Ossawa_Tanner.jpg"
+      },
+      "description": "Frutos transparentes contienen pequeñas formas suspendidas dentro. Hay algo en la disposición del lugar que no coincide con lo esperado. Las formas siguen siendo reconocibles, pero una relación entre distancia, luz o movimiento invita a mirar de nuevo antes de decidir cómo avanzar.\n\nLos materiales presentan huellas de uso cotidiano pese a la anomalía. Eso sugiere que alguien encontró una manera de habitar o atravesar el espacio sin eliminar su rareza. Las señales próximas ofrecen referencias más fiables que las perspectivas lejanas. Una parte del entorno responde como cualquier otro lugar, mientras otra conserva una diferencia que solo se aprecia al observarla con calma.\n\nAlgo aquí ha sido reparado con materiales distintos de los originales. El arreglo resulta modesto y cuidadoso. Junto a él permanece la pieza rota, guardada como si todavía pudiera servir para otra cosa. Desde esta posición se puede distinguir por dónde llegó la última presencia conocida. Su destino, en cambio, permanece fuera de la vista y no coincide necesariamente con la salida más evidente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=surreal%20magical%20realm%20ambient",
+      "abilities": [
+        "Entorno: Lugares extraños y fronteras mágicas. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Frutos transparentes contienen pequeñas formas suspendidas dentro. Este detalle sirve como señal para una cita. El grupo puede encontrar a quien espera, descubrir por qué nadie acudió o dejar un mensaje para continuar la historia más adelante.",
+        "Rumbo opcional: La anomalía tiene una condición que puede descubrirse mediante observación y pruebas prudentes. El master decide su alcance; puede ser una oportunidad, un inconveniente o una costumbre local, sin infligir efectos automáticos.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Espejo. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Sombra. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Sombra. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-sombra"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-lugares-extranos-16",
+      "kind": "terrain",
+      "name": "Cueva del Horizonte Interior",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Sanford_Robinson_Gifford_-_Mist_Rising_at_Sunset_in_the_Catskills_-_1988.217_-_Art_Institute_of_Chicago.jpg/960px-Sanford_Robinson_Gifford_-_Mist_Rising_at_Sunset_in_the_Catskills_-_1988.217_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "Mist Rising at Sunset in the Catskills · Sanford Robinson Gifford · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Sanford_Robinson_Gifford_-_Mist_Rising_at_Sunset_in_the_Catskills_-_1988.217_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Un horizonte claro ocupa el fondo de una cueva de paredes cercanas. Hay algo en la disposición del lugar que no coincide con lo esperado. Las formas siguen siendo reconocibles, pero una relación entre distancia, luz o movimiento invita a mirar de nuevo antes de decidir cómo avanzar.\n\nLos materiales presentan huellas de uso cotidiano pese a la anomalía. Eso sugiere que alguien encontró una manera de habitar o atravesar el espacio sin eliminar su rareza. Las señales próximas ofrecen referencias más fiables que las perspectivas lejanas. Una parte del entorno responde como cualquier otro lugar, mientras otra conserva una diferencia que solo se aprecia al observarla con calma.\n\nVarias señales apuntan a una ocupación reciente, pero ninguna permite saber cuántas personas estuvieron aquí. Los rastros más pequeños se cruzan con los mayores y luego se separan, siguiendo direcciones diferentes. El entorno guarda suficiente silencio entre sus sonidos para escuchar lo que ocurra después. Ninguna señal obliga a intervenir; aun así, cuesta ignorar el detalle que se aparta de todos los demás.",
+      "musicUrl": "https://www.youtube.com/results?search_query=surreal%20magical%20realm%20ambient",
+      "abilities": [
+        "Entorno: Lugares extraños y fronteras mágicas. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Un horizonte claro ocupa el fondo de una cueva de paredes cercanas. Una reparación sencilla permitiría volver a utilizar este lugar. Sus responsables ofrecen información o alojamiento a cambio; decidir quién se beneficiará importa más que obtener una recompensa material.",
+        "Rumbo opcional: La anomalía tiene una condición que puede descubrirse mediante observación y pruebas prudentes. El master decide su alcance; puede ser una oportunidad, un inconveniente o una costumbre local, sin infligir efectos automáticos.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Espejo. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Sombra. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Iria, la cartógrafa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-cartografa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-lugares-extranos-17",
+      "kind": "terrain",
+      "name": "Plaza de las Estatuas Migratorias",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Moorise_by_Casbah%2C_by_Henry_Ossawa_Tanner.jpg/960px-Moorise_by_Casbah%2C_by_Henry_Ossawa_Tanner.jpg",
+      "imageCredit": {
+        "text": "Moorise by Casbah, by Henry Ossawa Tanner · Henry Ossawa Tanner · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Moorise_by_Casbah,_by_Henry_Ossawa_Tanner.jpg"
+      },
+      "description": "Bases vacías y marcas de arrastre rodean estatuas orientadas de forma distinta. Hay algo en la disposición del lugar que no coincide con lo esperado. Las formas siguen siendo reconocibles, pero una relación entre distancia, luz o movimiento invita a mirar de nuevo antes de decidir cómo avanzar.\n\nLos materiales presentan huellas de uso cotidiano pese a la anomalía. Eso sugiere que alguien encontró una manera de habitar o atravesar el espacio sin eliminar su rareza. Las señales próximas ofrecen referencias más fiables que las perspectivas lejanas. Una parte del entorno responde como cualquier otro lugar, mientras otra conserva una diferencia que solo se aprecia al observarla con calma.\n\nEn el límite entre dos superficies queda una acumulación fina de materiales. Las capas más antiguas son oscuras y compactas; por encima descansa una franja clara, todavía suelta, que deja ver el cambio reciente. Más allá del punto de entrada queda una perspectiva por descubrir. Desde aquí solo se percibe una parte del lugar; para conocer el resto habría que acercarse y cambiar el ángulo de observación.",
+      "musicUrl": "https://www.youtube.com/results?search_query=surreal%20magical%20realm%20ambient",
+      "abilities": [
+        "Entorno: Lugares extraños y fronteras mágicas. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Bases vacías y marcas de arrastre rodean estatuas orientadas de forma distinta. Alguien ha reproducido este detalle en un mapa incompleto. Seguir la siguiente marca puede llevar a otro terreno del mismo entorno, sin exigir que la ruta sea peligrosa.",
+        "Rumbo opcional: La anomalía tiene una condición que puede descubrirse mediante observación y pruebas prudentes. El master decide su alcance; puede ser una oportunidad, un inconveniente o una costumbre local, sin infligir efectos automáticos.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Espejo. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Sombra. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Espejo. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-espejo"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-lugares-extranos-18",
+      "kind": "terrain",
+      "name": "Río de las Hojas Inmóviles",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Sanford_Robinson_Gifford_-_Mist_Rising_at_Sunset_in_the_Catskills_-_1988.217_-_Art_Institute_of_Chicago.jpg/960px-Sanford_Robinson_Gifford_-_Mist_Rising_at_Sunset_in_the_Catskills_-_1988.217_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "Mist Rising at Sunset in the Catskills · Sanford Robinson Gifford · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Sanford_Robinson_Gifford_-_Mist_Rising_at_Sunset_in_the_Catskills_-_1988.217_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Hojas suspendidas permanecen quietas mientras el agua corre por debajo. Hay algo en la disposición del lugar que no coincide con lo esperado. Las formas siguen siendo reconocibles, pero una relación entre distancia, luz o movimiento invita a mirar de nuevo antes de decidir cómo avanzar.\n\nLos materiales presentan huellas de uso cotidiano pese a la anomalía. Eso sugiere que alguien encontró una manera de habitar o atravesar el espacio sin eliminar su rareza. Las señales próximas ofrecen referencias más fiables que las perspectivas lejanas. Una parte del entorno responde como cualquier otro lugar, mientras otra conserva una diferencia que solo se aprecia al observarla con calma.\n\nUn objeto cotidiano descansa donde nadie esperaría encontrarlo. Está limpio por un lado y gastado por el otro, como si hubiera pasado mucho tiempo protegido antes de quedar expuesto de nuevo. El lugar no revela de inmediato si espera visitantes o si intenta mantenerlos a distancia. Sus señales admiten ambas lecturas, y el siguiente paso puede aclarar cuál resulta más convincente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=surreal%20magical%20realm%20ambient",
+      "abilities": [
+        "Entorno: Lugares extraños y fronteras mágicas. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Hojas suspendidas permanecen quietas mientras el agua corre por debajo. Una pertenencia perdida cerca de este detalle identifica a un viajero. Devolverla puede abrir una conversación; conservarla puede provocar una reclamación posterior, sin presumir que sea un tesoro abandonado.",
+        "Rumbo opcional: La anomalía tiene una condición que puede descubrirse mediante observación y pruebas prudentes. El master decide su alcance; puede ser una oportunidad, un inconveniente o una costumbre local, sin infligir efectos automáticos.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Espejo. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Sombra. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Sombra. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-sombra"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-lugares-extranos-19",
+      "kind": "terrain",
+      "name": "Bosque del Cielo Bajo",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Moorise_by_Casbah%2C_by_Henry_Ossawa_Tanner.jpg/960px-Moorise_by_Casbah%2C_by_Henry_Ossawa_Tanner.jpg",
+      "imageCredit": {
+        "text": "Moorise by Casbah, by Henry Ossawa Tanner · Henry Ossawa Tanner · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Moorise_by_Casbah,_by_Henry_Ossawa_Tanner.jpg"
+      },
+      "description": "Una capa de nubes atraviesa el bosque por debajo de sus ramas. Hay algo en la disposición del lugar que no coincide con lo esperado. Las formas siguen siendo reconocibles, pero una relación entre distancia, luz o movimiento invita a mirar de nuevo antes de decidir cómo avanzar.\n\nLos materiales presentan huellas de uso cotidiano pese a la anomalía. Eso sugiere que alguien encontró una manera de habitar o atravesar el espacio sin eliminar su rareza. Las señales próximas ofrecen referencias más fiables que las perspectivas lejanas. Una parte del entorno responde como cualquier otro lugar, mientras otra conserva una diferencia que solo se aprecia al observarla con calma.\n\nUn rastro del mismo color se repite sobre superficies diferentes. No parece una decoración, porque cada marca queda a una altura distinta. La última está junto a algo que nadie ha movido recientemente. La primera impresión invita a seguir, pero un examen pausado ofrece otra posibilidad: detenerse, comparar los rastros y decidir qué detalle merece atención antes de abandonar el sitio.",
+      "musicUrl": "https://www.youtube.com/results?search_query=surreal%20magical%20realm%20ambient",
+      "abilities": [
+        "Entorno: Lugares extraños y fronteras mágicas. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Una capa de nubes atraviesa el bosque por debajo de sus ramas. Dos grupos atribuyen significados distintos a este detalle. El master puede permitir una solución que respete ambos usos, o presentar las consecuencias de favorecer a uno de ellos.",
+        "Rumbo opcional: La anomalía tiene una condición que puede descubrirse mediante observación y pruebas prudentes. El master decide su alcance; puede ser una oportunidad, un inconveniente o una costumbre local, sin infligir efectos automáticos.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Espejo. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Sombra. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Iria, la cartógrafa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-cartografa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-lugares-extranos-20",
+      "kind": "terrain",
+      "name": "Puerta de los Colores Prestados",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Sanford_Robinson_Gifford_-_Mist_Rising_at_Sunset_in_the_Catskills_-_1988.217_-_Art_Institute_of_Chicago.jpg/960px-Sanford_Robinson_Gifford_-_Mist_Rising_at_Sunset_in_the_Catskills_-_1988.217_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "Mist Rising at Sunset in the Catskills · Sanford Robinson Gifford · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Sanford_Robinson_Gifford_-_Mist_Rising_at_Sunset_in_the_Catskills_-_1988.217_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Los colores cercanos parecen concentrarse sobre una puerta de madera. Hay algo en la disposición del lugar que no coincide con lo esperado. Las formas siguen siendo reconocibles, pero una relación entre distancia, luz o movimiento invita a mirar de nuevo antes de decidir cómo avanzar.\n\nLos materiales presentan huellas de uso cotidiano pese a la anomalía. Eso sugiere que alguien encontró una manera de habitar o atravesar el espacio sin eliminar su rareza. Las señales próximas ofrecen referencias más fiables que las perspectivas lejanas. Una parte del entorno responde como cualquier otro lugar, mientras otra conserva una diferencia que solo se aprecia al observarla con calma.\n\nUn detalle aparece repetido tres veces, con ligeras diferencias. La primera versión está gastada, la segunda incompleta y la tercera apenas alterada. Entre ellas queda espacio suficiente para imaginar una secuencia que todavía no termina. Desde esta posición se puede distinguir por dónde llegó la última presencia conocida. Su destino, en cambio, permanece fuera de la vista y no coincide necesariamente con la salida más evidente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=surreal%20magical%20realm%20ambient",
+      "abilities": [
+        "Entorno: Lugares extraños y fronteras mágicas. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Los colores cercanos parecen concentrarse sobre una puerta de madera. Las señales de uso reciente pertenecen a alguien que evita ser encontrado. Puede necesitar ayuda, intimidad o protección; investigar no demuestra por sí solo culpabilidad ni hostilidad.",
+        "Rumbo opcional: La anomalía tiene una condición que puede descubrirse mediante observación y pruebas prudentes. El master decide su alcance; puede ser una oportunidad, un inconveniente o una costumbre local, sin infligir efectos automáticos.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Espejo. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Sombra. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Espejo. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-espejo"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-lugares-extranos-21",
+      "kind": "terrain",
+      "name": "Pradera de las Campanas Invisibles",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Moorise_by_Casbah%2C_by_Henry_Ossawa_Tanner.jpg/960px-Moorise_by_Casbah%2C_by_Henry_Ossawa_Tanner.jpg",
+      "imageCredit": {
+        "text": "Moorise by Casbah, by Henry Ossawa Tanner · Henry Ossawa Tanner · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Moorise_by_Casbah,_by_Henry_Ossawa_Tanner.jpg"
+      },
+      "description": "Las hierbas se inclinan alrededor de sonidos de campanas sin soporte visible. Hay algo en la disposición del lugar que no coincide con lo esperado. Las formas siguen siendo reconocibles, pero una relación entre distancia, luz o movimiento invita a mirar de nuevo antes de decidir cómo avanzar.\n\nLos materiales presentan huellas de uso cotidiano pese a la anomalía. Eso sugiere que alguien encontró una manera de habitar o atravesar el espacio sin eliminar su rareza. Las señales próximas ofrecen referencias más fiables que las perspectivas lejanas. Una parte del entorno responde como cualquier otro lugar, mientras otra conserva una diferencia que solo se aprecia al observarla con calma.\n\nUna señal visible desde lejos tiene otra cara que solo se descubre al acercarse. Ambas están trabajadas de manera distinta. La parte oculta conserva un detalle que parece haber sido añadido después de terminar la primera. El entorno guarda suficiente silencio entre sus sonidos para escuchar lo que ocurra después. Ninguna señal obliga a intervenir; aun así, cuesta ignorar el detalle que se aparta de todos los demás.",
+      "musicUrl": "https://www.youtube.com/results?search_query=surreal%20magical%20realm%20ambient",
+      "abilities": [
+        "Entorno: Lugares extraños y fronteras mágicas. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Las hierbas se inclinan alrededor de sonidos de campanas sin soporte visible. Un cambio de tiempo amenaza con borrar o dañar este detalle. Documentarlo o protegerlo ofrece una tarea breve cuya urgencia puede ajustarse al ritmo de la sesión.",
+        "Rumbo opcional: La anomalía tiene una condición que puede descubrirse mediante observación y pruebas prudentes. El master decide su alcance; puede ser una oportunidad, un inconveniente o una costumbre local, sin infligir efectos automáticos.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Espejo. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Sombra. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Sombra. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-sombra"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-lugares-extranos-22",
+      "kind": "terrain",
+      "name": "Ruinas de los Muros Dibujados",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Sanford_Robinson_Gifford_-_Mist_Rising_at_Sunset_in_the_Catskills_-_1988.217_-_Art_Institute_of_Chicago.jpg/960px-Sanford_Robinson_Gifford_-_Mist_Rising_at_Sunset_in_the_Catskills_-_1988.217_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "Mist Rising at Sunset in the Catskills · Sanford Robinson Gifford · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Sanford_Robinson_Gifford_-_Mist_Rising_at_Sunset_in_the_Catskills_-_1988.217_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Líneas sobre el suelo proyectan sombras semejantes a paredes enteras. Hay algo en la disposición del lugar que no coincide con lo esperado. Las formas siguen siendo reconocibles, pero una relación entre distancia, luz o movimiento invita a mirar de nuevo antes de decidir cómo avanzar.\n\nLos materiales presentan huellas de uso cotidiano pese a la anomalía. Eso sugiere que alguien encontró una manera de habitar o atravesar el espacio sin eliminar su rareza. Las señales próximas ofrecen referencias más fiables que las perspectivas lejanas. Una parte del entorno responde como cualquier otro lugar, mientras otra conserva una diferencia que solo se aprecia al observarla con calma.\n\nLa distribución del lugar parece responder a una costumbre olvidada. Quien lo preparó dejó espacio alrededor de un punto central; nadie ha ocupado ese hueco, aunque todo lo demás muestra rastros de uso. Más allá del punto de entrada queda una perspectiva por descubrir. Desde aquí solo se percibe una parte del lugar; para conocer el resto habría que acercarse y cambiar el ángulo de observación.",
+      "musicUrl": "https://www.youtube.com/results?search_query=surreal%20magical%20realm%20ambient",
+      "abilities": [
+        "Entorno: Lugares extraños y fronteras mágicas. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Líneas sobre el suelo proyectan sombras semejantes a paredes enteras. Una persona ofrece un objeto útil si el grupo comprueba qué ha cambiado aquí. La información obtenida puede interesar a otra persona y conectar este lugar con una visita anterior.",
+        "Rumbo opcional: La anomalía tiene una condición que puede descubrirse mediante observación y pruebas prudentes. El master decide su alcance; puede ser una oportunidad, un inconveniente o una costumbre local, sin infligir efectos automáticos.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Espejo. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Sombra. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Iria, la cartógrafa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-cartografa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-lugares-extranos-23",
+      "kind": "terrain",
+      "name": "Santuario de las Llamas Frías",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Moorise_by_Casbah%2C_by_Henry_Ossawa_Tanner.jpg/960px-Moorise_by_Casbah%2C_by_Henry_Ossawa_Tanner.jpg",
+      "imageCredit": {
+        "text": "Moorise by Casbah, by Henry Ossawa Tanner · Henry Ossawa Tanner · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Moorise_by_Casbah,_by_Henry_Ossawa_Tanner.jpg"
+      },
+      "description": "Llamas pálidas arden en cuencos cuyo exterior permanece cubierto de escarcha. Hay algo en la disposición del lugar que no coincide con lo esperado. Las formas siguen siendo reconocibles, pero una relación entre distancia, luz o movimiento invita a mirar de nuevo antes de decidir cómo avanzar.\n\nLos materiales presentan huellas de uso cotidiano pese a la anomalía. Eso sugiere que alguien encontró una manera de habitar o atravesar el espacio sin eliminar su rareza. Las señales próximas ofrecen referencias más fiables que las perspectivas lejanas. Una parte del entorno responde como cualquier otro lugar, mientras otra conserva una diferencia que solo se aprecia al observarla con calma.\n\nLa vista cambia al dar unos pasos hacia un lateral. Lo que desde la entrada parecía un obstáculo se convierte en una referencia útil, y detrás aparece una continuidad que no resultaba evidente a primera vista. El lugar no revela de inmediato si espera visitantes o si intenta mantenerlos a distancia. Sus señales admiten ambas lecturas, y el siguiente paso puede aclarar cuál resulta más convincente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=surreal%20magical%20realm%20ambient",
+      "abilities": [
+        "Entorno: Lugares extraños y fronteras mágicas. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Llamas pálidas arden en cuencos cuyo exterior permanece cubierto de escarcha. Este lugar admite una escena tranquila de observación o conversación. El master puede usar el detalle visible para recordar un vínculo del personaje sin introducir un nuevo conflicto.",
+        "Rumbo opcional: La anomalía tiene una condición que puede descubrirse mediante observación y pruebas prudentes. El master decide su alcance; puede ser una oportunidad, un inconveniente o una costumbre local, sin infligir efectos automáticos.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Espejo. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Sombra. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Espejo. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-espejo"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-lugares-extranos-24",
+      "kind": "terrain",
+      "name": "Estación de los Caminos Plegados",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Sanford_Robinson_Gifford_-_Mist_Rising_at_Sunset_in_the_Catskills_-_1988.217_-_Art_Institute_of_Chicago.jpg/960px-Sanford_Robinson_Gifford_-_Mist_Rising_at_Sunset_in_the_Catskills_-_1988.217_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "Mist Rising at Sunset in the Catskills · Sanford Robinson Gifford · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Sanford_Robinson_Gifford_-_Mist_Rising_at_Sunset_in_the_Catskills_-_1988.217_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Mapas desplegados muestran rutas que coinciden con los pliegues del papel. Hay algo en la disposición del lugar que no coincide con lo esperado. Las formas siguen siendo reconocibles, pero una relación entre distancia, luz o movimiento invita a mirar de nuevo antes de decidir cómo avanzar.\n\nLos materiales presentan huellas de uso cotidiano pese a la anomalía. Eso sugiere que alguien encontró una manera de habitar o atravesar el espacio sin eliminar su rareza. Las señales próximas ofrecen referencias más fiables que las perspectivas lejanas. Una parte del entorno responde como cualquier otro lugar, mientras otra conserva una diferencia que solo se aprecia al observarla con calma.\n\nHay un elemento desplazado respecto a todos los demás. No está roto ni parece a punto de caer; sencillamente apunta hacia otro lado. Su posición permite ver un tramo del lugar que las otras referencias ocultan. La primera impresión invita a seguir, pero un examen pausado ofrece otra posibilidad: detenerse, comparar los rastros y decidir qué detalle merece atención antes de abandonar el sitio.",
+      "musicUrl": "https://www.youtube.com/results?search_query=surreal%20magical%20realm%20ambient",
+      "abilities": [
+        "Entorno: Lugares extraños y fronteras mágicas. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Mapas desplegados muestran rutas que coinciden con los pliegues del papel. Una persona conoce el origen de este detalle, pero su versión contradice la de quien lo cuida. Contrastar ambas historias puede revelar una necesidad que ninguna admite en público.",
+        "Rumbo opcional: La anomalía tiene una condición que puede descubrirse mediante observación y pruebas prudentes. El master decide su alcance; puede ser una oportunidad, un inconveniente o una costumbre local, sin infligir efectos automáticos.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Espejo. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Sombra. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Sombra. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-sombra"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-lugares-extranos-25",
+      "kind": "terrain",
+      "name": "Mirador de las Lunas Pequeñas",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Moorise_by_Casbah%2C_by_Henry_Ossawa_Tanner.jpg/960px-Moorise_by_Casbah%2C_by_Henry_Ossawa_Tanner.jpg",
+      "imageCredit": {
+        "text": "Moorise by Casbah, by Henry Ossawa Tanner · Henry Ossawa Tanner · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Moorise_by_Casbah,_by_Henry_Ossawa_Tanner.jpg"
+      },
+      "description": "Esferas luminosas recorren círculos lentos por debajo de la barandilla. Hay algo en la disposición del lugar que no coincide con lo esperado. Las formas siguen siendo reconocibles, pero una relación entre distancia, luz o movimiento invita a mirar de nuevo antes de decidir cómo avanzar.\n\nLos materiales presentan huellas de uso cotidiano pese a la anomalía. Eso sugiere que alguien encontró una manera de habitar o atravesar el espacio sin eliminar su rareza. Las señales próximas ofrecen referencias más fiables que las perspectivas lejanas. Una parte del entorno responde como cualquier otro lugar, mientras otra conserva una diferencia que solo se aprecia al observarla con calma.\n\nLas marcas del paso de otros viajeros se interrumpen en un punto concreto. Una señal reciente se superpone a otra mucho más antigua; las dos parecen señalar destinos distintos, aunque ninguna ofrece una explicación. Desde esta posición se puede distinguir por dónde llegó la última presencia conocida. Su destino, en cambio, permanece fuera de la vista y no coincide necesariamente con la salida más evidente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=surreal%20magical%20realm%20ambient",
+      "abilities": [
+        "Entorno: Lugares extraños y fronteras mágicas. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Esferas luminosas recorren círculos lentos por debajo de la barandilla. Este detalle sirve como señal para una cita. El grupo puede encontrar a quien espera, descubrir por qué nadie acudió o dejar un mensaje para continuar la historia más adelante.",
+        "Rumbo opcional: La anomalía tiene una condición que puede descubrirse mediante observación y pruebas prudentes. El master decide su alcance; puede ser una oportunidad, un inconveniente o una costumbre local, sin infligir efectos automáticos.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Espejo. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Sombra. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Iria, la cartógrafa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-cartografa"
+        }
+      ]
+    }
+  ]
+}

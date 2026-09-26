@@ -21,6 +21,15 @@ export async function loadClasses(): Promise<ClassDefinition[]> {
   if (new Set(classes.map(c => c.id)).size !== classes.length) throw new Error("Clases duplicadas");
   return classes;
 }
+export async function loadSkills(classId?: string) {
+  const [classes, raw] = await Promise.all([loadClasses(), category("skills", classId)]);
+  const skills = z.array(skillSchema).max(10000).parse(raw);
+  if (new Set(skills.map(skill => skill.id)).size !== skills.length ||
+    skills.some(skill => !classes.some(cls => cls.id === skill.classId) || (classId && skill.classId !== classId))) {
+    throw new Error("Habilidades duplicadas o referencias de clase inválidas");
+  }
+  return skills;
+}
 export async function loadCharacterCatalog(classId: string): Promise<Catalog> {
   const [classes, skills, items] = await Promise.all([loadClasses(), category("skills", classId), category("items")]);
   return catalogSchema.parse({ version: 1, classes: classes.filter(c => c.id === classId),

@@ -1,6 +1,7 @@
 import type { ReactNode } from "react";
 import type { Gender, Skill } from "../game/schema";
 import { attributeLabels } from "../game/schema";
+import { SourceReference } from "./source-reference";
 
 const portraits = import.meta.glob<string>("../data/classes/images/*.{webp,png,jpg,jpeg}", { eager: true, query: "?url", import: "default" });
 export function portraitSource(classId: string, gender: Gender): string | undefined {
@@ -18,6 +19,7 @@ export function SkillCard({ skill, action }: { skill: Skill; action?: ReactNode 
   return <article className="entry">
     <div className="entry-heading"><h3>{skill.name}</h3><span className="badge">Nivel {skill.level}</span></div>
     <p>{skill.description}</p>
+    <SourceReference source={skill.source} />
     <div className="tags">{skill.attribute && <span>Chequeo · {attributeLabels[skill.attribute]}</span>}{skill.damage && <span>Daño · {skill.damage}</span>}</div>
     {action}
   </article>;

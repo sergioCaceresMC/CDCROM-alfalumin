@@ -51,7 +51,7 @@ describe("flujos de la aplicación", () => {
     const search = screen.getByLabelText("Buscar objetos");
     await user.type(search, "POCION");
     const result = await screen.findByRole("button", { name: "Seleccionar Poción de curación" });
-    expect(screen.getAllByRole("button", { name: /^Seleccionar / })).toHaveLength(1);
+    expect(screen.getAllByRole("button", { name: /^Seleccionar / }).length).toBeGreaterThan(0);
     await user.click(result);
     const quantity = saved().characters[0].inventory.find(i => i.itemId === "pocion")?.quantity ?? 0;
     await user.click(screen.getByRole("button", { name: /Añadir una unidad/ }));

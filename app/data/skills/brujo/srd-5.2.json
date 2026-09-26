@@ -1,0 +1,510 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "brujo-srd-pacto-de-la-hoja",
+      "classId": "brujo",
+      "level": 1,
+      "name": "Pacto de la hoja",
+      "attribute": "golpes",
+      "description": "Manifiesta un arma vinculada a tu pacto. Desaparece al terminar la escena y no se añade al inventario.",
+      "damage": "1d4",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 40,
+        "name": "Pacto de la hoja"
+      }
+    },
+    {
+      "id": "brujo-srd-pacto-de-la-cadena",
+      "classId": "brujo",
+      "level": 1,
+      "name": "Pacto de la cadena",
+      "attribute": "carisma",
+      "description": "Un familiar narrativo puede explorar o entregar un mensaje; no realiza ataques independientes.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 40,
+        "name": "Pacto de la cadena"
+      }
+    },
+    {
+      "id": "brujo-srd-pacto-del-tomo",
+      "classId": "brujo",
+      "level": 1,
+      "name": "Pacto del tomo",
+      "attribute": "inteligencia",
+      "description": "Tu tomo permite interpretar símbolos de pactos y tradiciones sobrenaturales.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 40,
+        "name": "Pacto del tomo"
+      }
+    },
+    {
+      "id": "brujo-srd-vision-del-diablo",
+      "classId": "brujo",
+      "level": 2,
+      "name": "Visión del diablo",
+      "attribute": "percepcion",
+      "description": "Puedes distinguir formas en oscuridad sobrenatural durante una escena; no revela criaturas invisibles.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 40,
+        "name": "Visión del diablo"
+      }
+    },
+    {
+      "id": "brujo-srd-descarga-repelente",
+      "classId": "brujo",
+      "level": 2,
+      "name": "Descarga repelente",
+      "attribute": "carisma",
+      "description": "Si aciertas con tu descarga, puedes empujar una celda en lugar de causar daño.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 40,
+        "name": "Descarga repelente"
+      }
+    },
+    {
+      "id": "brujo-srd-astucia-magica",
+      "classId": "brujo",
+      "level": 2,
+      "name": "Astucia mágica",
+      "attribute": "carisma",
+      "description": "Durante una pausa segura renueva una habilidad del pacto con uso limitado, una vez por sesión y con acuerdo del master.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 40,
+        "name": "Astucia mágica"
+      }
+    },
+    {
+      "id": "brujo-srd-bendicion-del-infernal",
+      "classId": "brujo",
+      "level": 3,
+      "name": "Bendición del infernal",
+      "attribute": "constitucion",
+      "description": "Una vez por escena, al derrotar a un enemigo recupera 1 punto de vida. No supera el máximo; ajusta manualmente.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 40,
+        "name": "Bendición del infernal"
+      }
+    },
+    {
+      "id": "brujo-srd-clavo-mental",
+      "classId": "brujo",
+      "name": "Clavo mental",
+      "level": 3,
+      "attribute": "carisma",
+      "description": "Inspiración: Introduces una púa de energía psiónica en la mente de una criatura que puedas ver dentro del alcance. Adaptación: una acción, un objetivo, daño 1d6. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "damage": "1d6",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 129,
+        "name": "Clavo mental",
+        "text": "Adivinación de nivel 2 (brujo, hechicero, mago) Tiempo de lanzamiento: Acción Alcance: 36 m Componentes: S Duración: Concentración, hasta 1 hora Introduces una púa de energía psiónica en la mente de una criatura que puedas ver dentro del alcance. El objetivo hace una tirada de salvación de Sabiduría; sufrirá 3d8 de daño psíquico si la falla o la mitad del daño si la supera. Además, si falla la tirada, conocerás en todo momento la ubicación del objetivo hasta que el conjuro termine, pero solo mientras los dos estéis en el mismo plano de existencia. Mientras tengas este conocimiento, la criatura no podrá ocultarse de ti y, si tiene el estado de invisible, no se beneficiará de dicho estado contra ti. Con un espacio de conjuro de nivel superior. El daño aumenta en 1d8 por cada nivel por encima de 2 que tenga el espacio."
+      }
+    },
+    {
+      "id": "brujo-srd-descarga-sobrenatural",
+      "classId": "brujo",
+      "name": "Descarga sobrenatural",
+      "level": 1,
+      "attribute": "carisma",
+      "description": "Inspiración: Lanzas un rayo de energía chisporroteante. Adaptación: una acción, un objetivo, daño 1d4. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "damage": "1d4",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 139,
+        "name": "Descarga sobrenatural",
+        "text": "Truco de evocación (brujo) Tiempo de lanzamiento: Acción Alcance: 36 m Componentes: V, S Duración: Instantáneo Lanzas un rayo de energía chisporroteante. Haz un ataque de conjuro a distancia contra una criatura u objeto dentro del alcance. Si acierta, el objetivo recibe 1d10 de daño de fuerza. Mejora de truco. El conjuro crea dos rayos a nivel 5, tres rayos a nivel 11 y cuatro rayos a nivel 17. Puedes dirigir los rayos al mismo objetivo o a objetivos distintos. Realiza una tirada de ataque por separado para cada rayo."
+      }
+    },
+    {
+      "id": "brujo-srd-detectar-magia",
+      "classId": "brujo",
+      "name": "Detectar magia",
+      "level": 2,
+      "attribute": "carisma",
+      "description": "Inspiración: Hasta que el conjuro termine, podrás percibir la presencia de efectos mágicos a una cantidad acordada m o menos de ti. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 141,
+        "name": "Detectar magia",
+        "text": "Adivinación de nivel 1 (bardo, brujo, clérigo, druida, explorador, hechicero, mago, paladín) Tiempo de lanzamiento: Acción o ritual Alcance: Lanzador Componentes: V, S Duración: Concentración, hasta 10 minutos Hasta que el conjuro termine, podrás percibir la presencia de efectos mágicos a 9 m o menos de ti. Si percibes alguno, puedes usar una acción de magia para ver una débil aura alrededor de cualquier objeto o criatura visible dentro de la zona que esté afectada por la magia y, si el efecto lo creó un conjuro, distingues a qué escuela mágica pertenece. El conjuro no puede atravesar 30 cm de piedra, tierra o madera, 2,5 cm de metal o una lámina fina de plomo."
+      }
+    },
+    {
+      "id": "brujo-srd-embelesar",
+      "classId": "brujo",
+      "name": "Embelesar",
+      "level": 3,
+      "attribute": "carisma",
+      "description": "Inspiración: Creas una serie de palabras encantadoras que provocan que una o más criaturas de tu elección a las que puedas ver dentro del alcance deban hacer una tirada de salvación de Sabiduría. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 144,
+        "name": "Embelesar",
+        "text": "Encantamiento de nivel 2 (bardo, brujo) Tiempo de lanzamiento: Acción Alcance: 18 m Componentes: V, S Duración: Concentración, hasta 1 minuto Creas una serie de palabras encantadoras que provocan que una o más criaturas de tu elección a las que puedas ver dentro del alcance deban hacer una tirada de salvación de Sabiduría. Cualquier criatura contra la que luchéis tus aliados o tú superará automáticamente esta tirada. Si la falla, el objetivo sufrirá un penalizador de −10 a las pruebas de Sabiduría (Percepción) y a la Percepción pasiva hasta que el conjuro termine."
+      }
+    },
+    {
+      "id": "brujo-srd-entender-idiomas",
+      "classId": "brujo",
+      "name": "Entender idiomas",
+      "level": 2,
+      "attribute": "carisma",
+      "description": "Inspiración: Hasta que el conjuro termine, entiendes el significado literal de las palabras que escuches o veas signadas en cualquier idioma. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 146,
+        "name": "Entender idiomas",
+        "text": "Adivinación de nivel 1 (bardo, brujo, hechicero, mago) Tiempo de lanzamiento: Acción o ritual Alcance: Lanzador Componentes: V, S, M (una pizca de hollín y sal) Duración: 1 hora Hasta que el conjuro termine, entiendes el significado literal de las palabras que escuches o veas signadas en cualquier idioma. También comprendes todas las palabras escritas que ves, independientemente del idioma en el que estén, pero debes tocar la superficie en la que estén inscritas. Tardas aproximadamente 1 minuto en leer una página. Este conjuro no descifra mensajes secretos ni símbolos."
+      }
+    },
+    {
+      "id": "brujo-srd-hablar-con-los-animales",
+      "classId": "brujo",
+      "name": "Hablar con los animales",
+      "level": 2,
+      "attribute": "carisma",
+      "description": "Inspiración: Hasta que termine el conjuro, puedes comprender y comunicarte verbalmente con bestias y usar con ellas cualquiera de las opciones de la acción de influir. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 154,
+        "name": "Hablar con los animales",
+        "text": "Adivinación de nivel 1 (bardo, brujo, druida, explorador) Tiempo de lanzamiento: Acción o ritual Alcance: Lanzador Componentes: V, S Duración: 10 minutos Hasta que termine el conjuro, puedes comprender y comunicarte verbalmente con bestias y usar con ellas cualquiera de las opciones de la acción de influir. La mayoría de bestias tienen poco que decir en cuestiones que no tengan que ver con la supervivencia o la compañía, pero como mínimo podrán proporcionarte información sobre los lugares y monstruos cercanos, incluyendo lo que hayan percibido en el último día."
+      }
+    },
+    {
+      "id": "brujo-srd-hechizar-persona",
+      "classId": "brujo",
+      "name": "Hechizar persona",
+      "level": 2,
+      "attribute": "carisma",
+      "description": "Inspiración: Un humanoide que puedas ver dentro del alcance realiza una tirada de salvación de Sabiduría. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 156,
+        "name": "Hechizar persona",
+        "text": "Encantamiento de nivel 1 (bardo, brujo, druida, hechicero, mago) Tiempo de lanzamiento: Acción Alcance: 9 m Componentes: V, S Duración: 1 hora Un humanoide que puedas ver dentro del alcance realiza una tirada de salvación de Sabiduría. La hace con ventaja si está luchando contra ti o tus aliados. Si la falla, tendrá el estado de hechizado hasta que el conjuro termine o hasta que tus aliados o tú le hagáis daño. La criatura hechizada es amistosa contigo, pero cuando el conjuro termine, sabrá que la hechizaste. Con un espacio de conjuro de nivel superior. Puedes hacer objetivo a una criatura adicional por cada nivel por encima de 1 que tenga el espacio."
+      }
+    },
+    {
+      "id": "brujo-srd-ilusion-menor",
+      "classId": "brujo",
+      "name": "Ilusión menor",
+      "level": 1,
+      "attribute": "carisma",
+      "description": "Inspiración: Creas un sonido o una imagen de un objeto situado dentro del alcance que permanecerá hasta que termine el conjuro. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 156,
+        "name": "Ilusión menor",
+        "text": "Truco de ilusionismo (bardo, brujo, hechicero, mago) Tiempo de lanzamiento: Acción Alcance: 9 m Componentes: S, M (un poco de vellón) Duración: 1 minuto Creas un sonido o una imagen de un objeto situado dentro del alcance que permanecerá hasta que termine el conjuro. Consulta las descripciones a continuación para conocer sus efectos. La ilusión termina si lanzas el conjuro de nuevo. Si una criatura emplea su acción de estudiar para examinar la imagen o el sonido, puede determinar que es una ilusión si supera una prueba de Inteligencia (Investigación) contra tu CD de salvación de conjuros. Si la criatura descubre que se trata de una ilusión, esta se irá desvaneciendo para esa criatura. Sonido. Si creas un sonido, su volumen se situará entre el de un susurro y el de un grito. Puede ser tu voz, la de otra criatura, el rugido de un león, un redoblar de tambores o cualquier otro sonido que elijas. El sonido continúa incesante mientras dure el conjuro o puedes originar sonidos distintos en diferentes momentos antes del fin del conjuro. Imagen. Si creas la imagen de un objeto (como una silla, pisadas embarradas o un pequeño cofre), no podrá ser mayor que un cubo de 1,5 m de lado. La imagen no puede generar sonido, luz, olor o cualquier otro efecto sensorial. La interacción física con la imagen revela que es una ilusión, ya que las cosas pueden atravesarla."
+      }
+    },
+    {
+      "id": "brujo-srd-imagen-multiple",
+      "classId": "brujo",
+      "name": "Imagen múltiple",
+      "level": 3,
+      "attribute": "carisma",
+      "description": "Inspiración: En tu espacio aparecen tres duplicados ilusorios de ti. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 157,
+        "name": "Imagen múltiple",
+        "text": "Ilusionismo de nivel 2 (bardo, brujo, hechicero, mago) Tiempo de lanzamiento: Acción Alcance: Lanzador Componentes: V, S Duración: 1 minuto En tu espacio aparecen tres duplicados ilusorios de ti. Hasta que el conjuro termine, estos duplicados se mueven a la vez que tú e imitan tus acciones cambiando de posición, por lo que es imposible saber cuál es la imagen real. Cada vez que una criatura te acierte con una tirada de ataque mientras dure el conjuro, tira 1d6 por cada uno de tus duplicados restantes. Si cualquiera de los resultados es de 3 o más, uno de los duplicados recibe el golpe en tu lugar y es destruido. Por lo demás, los duplicados ignoran el resto del daño y efectos. Cuando los tres duplicados son destruidos, el conjuro termina. Una criatura no se verá afectada por este conjuro si tiene el estado de cegada, visión ciega o visión verdadera."
+      }
+    },
+    {
+      "id": "brujo-srd-impacto-certero",
+      "classId": "brujo",
+      "name": "Impacto certero",
+      "level": 1,
+      "attribute": "carisma",
+      "description": "Inspiración: Un destello de perspicacia mágica te guía y haces un ataque con el arma empleada para lanzar el conjuro. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 158,
+        "name": "Impacto certero",
+        "text": "Truco de adivinación (bardo, brujo, hechicero, mago) Tiempo de lanzamiento: Acción Alcance: Lanzador Componentes: S, M (un arma con la que tengas competencia y que valga al menos 1 pc) Duración: Instantáneo Un destello de perspicacia mágica te guía y haces un ataque con el arma empleada para lanzar el conjuro. El ataque usa tu aptitud mágica para las tiradas de ataque y de daño en lugar de la Fuerza o la Destreza. Si el ataque inflige daño, puede ser radiante o del tipo de daño normal del arma (a tu elección). Mejora de truco. Independientemente de si haces daño radiante o del tipo normal del arma, el ataque inflige daño radiante adicional cuando alcanzas los niveles 5 (1d6), 11 (2d6) y 17 (3d6)."
+      }
+    },
+    {
+      "id": "brujo-srd-inmovilizar-persona",
+      "classId": "brujo",
+      "name": "Inmovilizar persona",
+      "level": 3,
+      "attribute": "carisma",
+      "description": "Inspiración: Elige a un humanoide que puedas ver dentro del alcance. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 159,
+        "name": "Inmovilizar persona",
+        "text": "Encantamiento de nivel 2 (bardo, brujo, clérigo, druida, hechicero, mago) Tiempo de lanzamiento: Acción Alcance: 18 m Componentes: V, S, M (un trozo de hierro recto) Duración: Concentración, hasta 1 minuto Elige a un humanoide que puedas ver dentro del alcance. El objetivo deberá superar una tirada de salvación de Sabiduría o tendrá el estado de paralizado hasta que termine el conjuro. Al final de cada uno de sus turnos, el objetivo repite la tirada de salvación y, si tiene éxito, se librará del conjuro. Con un espacio de conjuro de nivel superior. Puedes hacer objetivo a un humanoide adicional por cada nivel por encima de 2 que tenga el espacio."
+      }
+    },
+    {
+      "id": "brujo-srd-invisibilidad",
+      "classId": "brujo",
+      "name": "Invisibilidad",
+      "level": 3,
+      "attribute": "carisma",
+      "description": "Inspiración: Una criatura a la que tocas tiene el estado de invisible hasta que el conjuro termine. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 159,
+        "name": "Invisibilidad",
+        "text": "Ilusionismo de nivel 2 (bardo, brujo, hechicero, mago) Tiempo de lanzamiento: Acción Alcance: Toque Componentes: V, S, M (una pestaña envuelta en goma arábiga) Duración: Concentración, hasta 1 hora Una criatura a la que tocas tiene el estado de invisible hasta que el conjuro termine. El conjuro terminará inmediatamente después de que el objetivo haga una tirada de ataque, cause daño o lance un conjuro. Con un espacio de conjuro de nivel superior. Puedes hacer objetivo a una criatura adicional por cada nivel por encima de 2 que tenga el espacio."
+      }
+    },
+    {
+      "id": "brujo-srd-maleficio",
+      "classId": "brujo",
+      "name": "Maleficio",
+      "level": 2,
+      "attribute": "carisma",
+      "description": "Inspiración: Impones una maldición a una criatura que puedas ver dentro del alcance. Adaptación: una acción, un objetivo, daño 1d4. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "damage": "1d4",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 163,
+        "name": "Maleficio",
+        "text": "Encantamiento de nivel 1 (brujo) Tiempo de lanzamiento: Acción adicional Alcance: 27 m Componentes: V, S, M (el ojo petrificado de un tritón) Duración: Concentración, hasta 1 hora Impones una maldición a una criatura que puedas ver dentro del alcance. Hasta que el conjuro termine, infliges 1d6 de daño necrótico adicional al objetivo siempre que le aciertes con una tirada de ataque. Además, elige una característica cuando lances el conjuro. El objetivo tendrá desventaja en las pruebas que haga con la característica elegida. Si los puntos de golpe del objetivo se reducen a 0 antes de que el conjuro termine, puedes usar una acción adicional en un turno posterior para maldecir a una nueva criatura. Con un espacio de conjuro de nivel superior. Tu concentración puede durar más si usas un espacio de conjuro de nivel 2 (hasta 4 horas), 3 o 4 (hasta 8 horas) o 5 o más (24 horas)."
+      }
+    },
+    {
+      "id": "brujo-srd-mano-de-mago",
+      "classId": "brujo",
+      "name": "Mano de mago",
+      "level": 1,
+      "attribute": "carisma",
+      "description": "Inspiración: Conjuras una mano espectral flotante en un punto de tu elección dentro del alcance. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 164,
+        "name": "Mano de mago",
+        "text": "Truco de conjuración (bardo, brujo, hechicero, mago) Tiempo de lanzamiento: Acción Alcance: 9 m Componentes: V, S Duración: 1 minuto Conjuras una mano espectral flotante en un punto de tu elección dentro del alcance. La mano dura hasta que el conjuro termine. Además, desaparecerá si en algún momento está a más de 9 m de ti o si vuelves a lanzar este conjuro. Cuando lances este conjuro, puedes utilizar la mano para manipular un objeto, abrir una puerta o un recipiente que no estén cerrados con llave, sacar un objeto de un recipiente abierto o guardarlo en él o verter el contenido de un vial. Como acción de magia en tus siguientes turnos, puedes volver a controlar la mano de esta forma. Como parte de la acción, puedes mover la mano hasta 9 m. La mano no puede atacar, activar objetos mágicos ni llevar más de 5 kg de peso."
+      }
+    },
+    {
+      "id": "brujo-srd-oscuridad",
+      "classId": "brujo",
+      "name": "Oscuridad",
+      "level": 3,
+      "attribute": "carisma",
+      "description": "Inspiración: Hasta que el conjuro termine, una oscuridad mágica se propaga desde un punto dentro del alcance y llena una esfera de una cantidad acordada m de radio. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 171,
+        "name": "Oscuridad",
+        "text": "Evocación de nivel 2 (brujo, hechicero, mago) Tiempo de lanzamiento: Acción Alcance: 18 m Componentes: V, M (pelaje de murciélago y un trozo de carbón) Duración: Concentración, hasta 10 minutos Hasta que el conjuro termine, una oscuridad mágica se propaga desde un punto dentro del alcance y llena una esfera de 4,5 m de radio. La visión en la oscuridad no puede ver a través de ella y la luz no mágica no puede alumbrarla. Como alternativa, lanzas el conjuro sobre un objeto que no lleve o vista nadie, lo que hará que la oscuridad llene una emanación de 4,5 m que se origina en él. Cubrir el objeto con algo opaco, como un cuenco o un casco, bloqueará la oscuridad. Si cualquier zona del conjuro se superpone con una zona de luz brillante o luz tenue creada por un conjuro de nivel 2 o inferior, el conjuro que creó esa luz se disipa."
+      }
+    },
+    {
+      "id": "brujo-srd-paso-brumoso",
+      "classId": "brujo",
+      "name": "Paso brumoso",
+      "level": 3,
+      "attribute": "carisma",
+      "description": "Inspiración: Una niebla plateada te rodea brevemente y te teletransportas hasta una cantidad acordada m a un espacio sin ocupar que puedas ver. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 173,
+        "name": "Paso brumoso",
+        "text": "Conjuración de nivel 2 (brujo, hechicero, mago) Tiempo de lanzamiento: Acción adicional Alcance: Lanzador Componentes: V Duración: Instantáneo Una niebla plateada te rodea brevemente y te teletransportas hasta 9 m a un espacio sin ocupar que puedas ver."
+      }
+    },
+    {
+      "id": "brujo-srd-perdicion",
+      "classId": "brujo",
+      "name": "Perdición",
+      "level": 2,
+      "attribute": "carisma",
+      "description": "Inspiración: Hasta tres criaturas de tu elección a las que puedas ver dentro del alcance deberán hacer una tirada de salvación de Carisma cada una. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 173,
+        "name": "Perdición",
+        "text": "Encantamiento de nivel 1 (bardo, brujo, clérigo) Tiempo de lanzamiento: Acción Alcance: 9 m Componentes: V, S, M (una gota de sangre) Duración: Concentración, hasta 1 minuto Hasta tres criaturas de tu elección a las que puedas ver dentro del alcance deberán hacer una tirada de salvación de Carisma cada una. Siempre que un objetivo que haya fallado esta tirada de salvación haga una tirada de ataque o de salvación antes de que termine el conjuro, deberá restar 1d4 al resultado de dicha tirada. Con un espacio de conjuro de nivel superior. Puedes hacer objetivo a una criatura adicional por cada nivel por encima de 1 que tenga el espacio."
+      }
+    },
+    {
+      "id": "brujo-srd-prestidigitacion",
+      "classId": "brujo",
+      "name": "Prestidigitación",
+      "level": 1,
+      "attribute": "carisma",
+      "description": "Inspiración: Creas un efecto mágico dentro del alcance, elegido de entre las opciones a continuación. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 176,
+        "name": "Prestidigitación",
+        "text": "Truco de transmutación (bardo, brujo, hechicero, mago) Tiempo de lanzamiento: Acción Alcance: 3 m Componentes: V, S Duración: Hasta 1 hora Creas un efecto mágico dentro del alcance, elegido de entre las opciones a continuación. Si lanzas este conjuro varias veces, puedes mantener activos a la vez hasta tres de sus efectos no instantáneos. Creación menor. Creas un abalorio no mágico o una imagen ilusoria que te cabe en la mano y dura hasta el final de tu siguiente turno. El abalorio no inflige daño y no tiene valor monetario. Efecto sensorial. Creas un efecto sensorial instantáneo e inofensivo, como una lluvia de chispas, una ligera ráfaga de viento, tenues notas musicales o un olor extraño. Jugar con fuego. Enciendes o apagas al instante una vela, una antorcha o una hoguera pequeña. Limpiar o ensuciar. Limpias o ensucias al 3 instante un objeto de hasta 0,03 m. Marca mágica. Haces que aparezca una mancha de color, una pequeña marca o un símbolo en un objeto o superficie durante 1 hora. Sensación menor. Enfrías, calientas o das sabor a 3 un material inerte de hasta 0,03 m durante 1 hora."
+      }
+    },
+    {
+      "id": "brujo-srd-proteccion-contra-el-bien-y-el-mal",
+      "classId": "brujo",
+      "name": "Protección contra el bien y el mal",
+      "level": 2,
+      "attribute": "carisma",
+      "description": "Inspiración: Hasta que el conjuro termine, una criatura voluntaria a la que toques estará protegida contra aberraciones, celestiales, elementales, feéricos, infernales o muertos vivientes. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 176,
+        "name": "Protección contra el bien y el mal",
+        "text": "Abjuración de nivel 1 (brujo, clérigo, druida, mago, paladín) Tiempo de lanzamiento: Acción Alcance: Toque Componentes: V, S, M (un frasco de agua bendita que valga al menos 25 po, que se consume como parte del conjuro) Duración: Concentración, hasta 10 minutos Hasta que el conjuro termine, una criatura voluntaria a la que toques estará protegida contra aberraciones, celestiales, elementales, feéricos, infernales o muertos vivientes. La protección concede varios beneficios. Las criaturas de esos tipos tendrán desventaja en las tiradas de ataque contra el objetivo. El objetivo tampoco puede ser poseído por las criaturas ni obtener los estados de asustado o hechizado a causa de ellas. Si el objetivo ya está asustado, hechizado o poseído por una criatura de estos tipos, dicho objetivo tendrá ventaja en cualquier nueva tirada de salvación contra el efecto correspondiente."
+      }
+    },
+    {
+      "id": "brujo-srd-rayo-debilitador",
+      "classId": "brujo",
+      "name": "Rayo debilitador",
+      "level": 3,
+      "attribute": "carisma",
+      "description": "Inspiración: Un haz de energía debilitadora surge de ti hacia una criatura dentro del alcance. Adaptación: una acción, un objetivo, daño 1d6. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "damage": "1d6",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 179,
+        "name": "Rayo debilitador",
+        "text": "Nigromancia de nivel 2 (brujo, mago) Tiempo de lanzamiento: Acción Alcance: 18 m Componentes: V, S Duración: Concentración, hasta 1 minuto Un haz de energía debilitadora surge de ti hacia una criatura dentro del alcance. El objetivo deberá hacer una tirada de salvación de Constitución. Si la supera, tendrá desventaja en la siguiente tirada de ataque que haga hasta el principio de tu siguiente turno. Si la falla, tendrá desventaja en las pruebas con d20 basadas en la Fuerza hasta que termine el conjuro. Durante ese tiempo, también restará 1d8 a todas las tiradas de daño que haga. El objetivo repetirá la tirada de salvación al final de cada uno de sus turnos y, si tiene éxito, se librará del conjuro."
+      }
+    },
+    {
+      "id": "brujo-srd-reprension-infernal",
+      "classId": "brujo",
+      "name": "Reprensión infernal",
+      "level": 2,
+      "attribute": "carisma",
+      "description": "Inspiración: La criatura que te ha dañado se ve rodeada momentáneamente por unas llamas verdes y hará una tirada de salvación de Destreza; sufrirá el daño adaptado de daño de fuego si la falla o la mitad del daño si la supera. Adaptación: una acción, un objetivo, daño 1d4. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "damage": "1d4",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 180,
+        "name": "Reprensión infernal",
+        "text": "Evocación de nivel 1 (brujo) Tiempo de lanzamiento: Reacción, que llevas a cabo en respuesta a recibir daño de una criatura que puedas ver a 18 m o menos de ti Alcance: 18 m Componentes: V, S Duración: Instantáneo La criatura que te ha dañado se ve rodeada momentáneamente por unas llamas verdes y hará una tirada de salvación de Destreza; sufrirá 2d10 de daño de fuego si la falla o la mitad del daño si la supera. Con un espacio de conjuro de nivel superior. El daño aumenta en 1d10 por cada nivel por encima de 1 que tenga el espacio."
+      }
+    },
+    {
+      "id": "brujo-srd-retirada-expeditiva",
+      "classId": "brujo",
+      "name": "Retirada expeditiva",
+      "level": 2,
+      "attribute": "carisma",
+      "description": "Inspiración: Realizas la acción de correr y, hasta que el conjuro termine, puedes volver a hacerla como acción adicional. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 182,
+        "name": "Retirada expeditiva",
+        "text": "Transmutación de nivel 1 (brujo, hechicero, mago) Tiempo de lanzamiento: Acción adicional Alcance: Lanzador Componentes: V, S Duración: Concentración, hasta 10 minutos Realizas la acción de correr y, hasta que el conjuro termine, puedes volver a hacerla como acción adicional."
+      }
+    },
+    {
+      "id": "brujo-srd-risa-horrible",
+      "classId": "brujo",
+      "name": "Risa horrible",
+      "level": 2,
+      "attribute": "carisma",
+      "description": "Inspiración: Una criatura de tu elección que puedas ver dentro del alcance realiza una tirada de salvación de Sabiduría. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 182,
+        "name": "Risa horrible",
+        "text": "Encantamiento de nivel 1 (bardo, brujo, mago) Tiempo de lanzamiento: Acción Alcance: 9 m Componentes: V, S, M (una tarta y una pluma) Duración: Concentración, hasta 1 minuto Una criatura de tu elección que puedas ver dentro del alcance realiza una tirada de salvación de Sabiduría. Si la falla, tendrá los estados de derribada e incapacitada hasta que el conjuro termine. Durante ese tiempo, se reirá de forma incontrolable si tiene la capacidad de reírse y no podrá poner fin a su estado de derribada. Al final de cada uno de sus turnos y cada vez que reciba daño, realizará otra tirada de salvación de Sabiduría. Tendrá ventaja en ella si la realiza por sufrir daño. Si la supera, el conjuro terminará. Con un espacio de conjuro de nivel superior. Puedes hacer objetivo a una criatura adicional por cada nivel por encima de 1 que tenga el espacio."
+      }
+    },
+    {
+      "id": "brujo-srd-rociada-venenosa",
+      "classId": "brujo",
+      "name": "Rociada venenosa",
+      "level": 1,
+      "attribute": "carisma",
+      "description": "Inspiración: Rocías a una criatura dentro del alcance con una niebla tóxica. Adaptación: una acción, un objetivo, daño 1d4. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "damage": "1d4",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 182,
+        "name": "Rociada venenosa",
+        "text": "Truco de nigromancia (brujo, druida, hechicero, mago) Tiempo de lanzamiento: Acción Alcance: 9 m Componentes: V, S Duración: Instantáneo Rocías a una criatura dentro del alcance con una niebla tóxica. Haz un ataque de conjuro a distancia contra el objetivo. Si acierta, el objetivo recibe 1d12 de daño de veneno. Mejora de truco. El daño aumenta en 1d12 cuando alcanzas los niveles 5 (2d12), 11 (3d12) y 17 (4d12)."
+      }
+    },
+    {
+      "id": "brujo-srd-sirviente-invisible",
+      "classId": "brujo",
+      "name": "Sirviente invisible",
+      "level": 2,
+      "attribute": "carisma",
+      "description": "Inspiración: Este conjuro crea una fuerza invisible de tamaño Mediano, sin mente y sin forma, que realiza las tareas sencillas que le ordenes hasta que el conjuro termine. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 185,
+        "name": "Sirviente invisible",
+        "text": "Conjuración de nivel 1 (bardo, brujo, mago) Tiempo de lanzamiento: Acción o ritual Alcance: 18 m Componentes: V, S, M (un trozo de cuerda y uno de madera) Duración: 1 hora Este conjuro crea una fuerza invisible de tamaño Mediano, sin mente y sin forma, que realiza las tareas sencillas que le ordenes hasta que el conjuro termine. El sirviente surge en un espacio sin ocupar en el suelo dentro del alcance. Tiene una CA de 10, 1 punto de golpe, una Fuerza de 2 y no puede atacar. Si sus puntos de golpe se reducen a 0, el conjuro termina. Una vez en cada uno de tus turnos como acción adicional, puedes ordenar mentalmente al sirviente que se mueva hasta 4,5 m y que interactúe con un objeto. El sirviente puede realizar tareas sencillas que también podría llevar a cabo un humano, como traer y llevar cosas, limpiar, remendar, plegar ropa, encender un fuego y servir comida o bebida. En cuanto das la orden, el sirviente realiza la tarea lo mejor que puede hasta que la completa y luego espera tu siguiente orden. Si ordenas al sirviente que lleve a cabo una tarea que lo alejaría más de 18 m de ti, el conjuro termina."
+      }
+    },
+    {
+      "id": "brujo-srd-sugestion",
+      "classId": "brujo",
+      "name": "Sugestión",
+      "level": 3,
+      "attribute": "carisma",
+      "description": "Inspiración: Sugieres un curso de acción (de no más de una cantidad acordada palabras) a una criatura que puedas ver dentro del alcance y que te pueda oír y entender. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 186,
+        "name": "Sugestión",
+        "text": "Encantamiento de nivel 2 (bardo, brujo, hechicero, mago) Tiempo de lanzamiento: Acción Alcance: 9 m Componentes: V, M (una gota de miel) Duración: Concentración, hasta 8 horas Sugieres un curso de acción (de no más de 25 palabras) a una criatura que puedas ver dentro del alcance y que te pueda oír y entender. La sugerencia tiene que parecer factible y no ser claramente dañina para el objetivo o sus aliados. Por ejemplo, podrías decir: “Ve a por la llave de la cámara del tesoro de la secta y tráemela”, o quizá “deja de luchar, vete pacíficamente de la biblioteca y no vuelvas”. El objetivo deberá superar una tirada de salvación de Sabiduría o tendrá el estado de hechizado hasta que termine el conjuro o hasta que tus aliados o tú le hagáis daño. El objetivo hechizado llevará a cabo la sugerencia lo mejor que pueda. La actividad sugerida puede seguir hasta que termine el conjuro, pero si se puede completar en menos tiempo, el conjuro terminará sobre el objetivo cuando la complete."
+      }
+    },
+    {
+      "id": "brujo-srd-texto-ilusorio",
+      "classId": "brujo",
+      "name": "Texto ilusorio",
+      "level": 2,
+      "attribute": "carisma",
+      "description": "Inspiración: Escribes en pergamino, papel u otro material adecuado y lo impregnas con una ilusión hasta que termine el conjuro. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 189,
+        "name": "Texto ilusorio",
+        "text": "Ilusionismo de nivel 1 (bardo, brujo, mago) Tiempo de lanzamiento: 1 minuto o un ritual Alcance: Toque Componentes: S, M (tinta que valga al menos 10 po, que se consume como parte del conjuro) Duración: 10 días Escribes en pergamino, papel u otro material adecuado y lo impregnas con una ilusión hasta que termine el conjuro. Para ti y las demás criaturas que designes cuando lanzas el conjuro, el texto parece normal, escrito con tu letra, y transmite el significado que pretendieras al escribirlo. Para los demás, el texto parece escrito en letra mágica o desconocida y es ininteligible. Como alternativa, la ilusión puede modificar el significado, la caligrafía y el idioma de un texto, aunque el idioma debe ser uno que conozcas. Si el conjuro se disipa, desaparecerán tanto el escrito original como la ilusión. Una criatura con visión verdadera puede leer el mensaje oculto."
+      }
+    },
+    {
+      "id": "brujo-srd-toque-helado",
+      "classId": "brujo",
+      "name": "Toque helado",
+      "level": 1,
+      "attribute": "carisma",
+      "description": "Inspiración: Canalizas un frío sepulcral y haces un ataque de conjuro cuerpo a cuerpo contra un objetivo dentro del alcance. Adaptación: una acción, un objetivo, daño 1d4, cura 2 puntos de vida manualmente sin superar el máximo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "damage": "1d4",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 189,
+        "name": "Toque helado",
+        "text": "Truco de nigromancia (brujo, hechicero, mago) Tiempo de lanzamiento: Acción Alcance: Toque Componentes: V, S Duración: Instantáneo Canalizas un frío sepulcral y haces un ataque de conjuro cuerpo a cuerpo contra un objetivo dentro del alcance. Si acierta, el objetivo recibirá 1d10 de daño necrótico y no podrá recuperar puntos de golpe hasta el final de tu siguiente turno. Mejora de truco. El daño aumenta en 1d10 cuando alcanzas los niveles 5 (2d10), 11 (3d10) y 17 (4d10)."
+      }
+    },
+    {
+      "id": "brujo-srd-trepar-cual-aracnido",
+      "classId": "brujo",
+      "name": "Trepar cual arácnido",
+      "level": 3,
+      "attribute": "carisma",
+      "description": "Inspiración: Hasta que el conjuro termine, una criatura voluntaria a la que toques gana la capacidad de moverse hacia arriba, hacia abajo y de lado por superficies verticales, así como por techos. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 191,
+        "name": "Trepar cual arácnido",
+        "text": "Transmutación de nivel 2 (brujo, hechicero, mago) Tiempo de lanzamiento: Acción Alcance: Toque Componentes: V, S, M (una gota de betún y una araña) Duración: Concentración, hasta 1 hora Hasta que el conjuro termine, una criatura voluntaria a la que toques gana la capacidad de moverse hacia arriba, hacia abajo y de lado por superficies verticales, así como por techos. Esta manera de moverse no requiere del uso de las manos, que quedan libres. Además, el objetivo obtiene una velocidad trepando igual a su velocidad. Con un espacio de conjuro de nivel superior. Puedes hacer objetivo a una criatura adicional por cada nivel por encima de 2 que tenga el espacio."
+      }
+    }
+  ]
+}

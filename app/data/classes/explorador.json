@@ -4,13 +4,15 @@
     {
       "id": "explorador",
       "name": "Explorador",
-      "description": "Lee el terreno, descubre peligros y ataca desde la distancia.",
+      "description": "Rastreador y cazador que combina Tiros, Percepción y magia de la naturaleza. Reconoce huellas, marca presas y estudia sus defensas. Especialización de referencia: cazador. Sus ventajas narrativas requieren acuerdo del master.",
       "image": "images/explorador.svg",
       "baseHp": 8,
       "starterPools": {
         "weapon": [
           "arco",
-          "daga"
+          "daga",
+          "srd-arco-largo",
+          "srd-espada-corta"
         ],
         "armor": [
           "cuero"
@@ -19,6 +21,11 @@
           "pocion",
           "antorcha"
         ]
+      },
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 58,
+        "name": "Explorador"
       }
     }
   ]

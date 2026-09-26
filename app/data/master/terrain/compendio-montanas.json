@@ -1,0 +1,705 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "terrain-compendio-montanas-01",
+      "kind": "terrain",
+      "name": "Paso de las Agujas Gemelas",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Frederic_Edwin_Church_-_View_of_Cotopaxi_-_1919.753_-_Art_Institute_of_Chicago.jpg/960px-Frederic_Edwin_Church_-_View_of_Cotopaxi_-_1919.753_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "View of Cotopaxi · Frederic Edwin Church · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Frederic_Edwin_Church_-_View_of_Cotopaxi_-_1919.753_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Dos agujas de roca enmarcan una senda marcada con piedras blancas. Las pendientes fragmentan el paisaje en planos de piedra. Cada curva oculta el siguiente tramo, y los perfiles de las cumbres cambian al acercarse hasta perder el parecido con su forma vista desde abajo.\n\nEl viento llega en ráfagas que transportan polvo fino y un frío seco. La roca muestra vetas, derrumbes antiguos y superficies pulidas por quienes buscaron apoyo. Entre las alturas se distinguen pequeños refugios naturales; algunos reciben el sol, otros conservan sombra durante horas. La ruta más corta no parece necesariamente la más sencilla ni la más protegida.\n\nAl detenerse, el entorno revela movimientos discretos que pasan inadvertidos al caminar. Ninguno parece acercarse directamente. Sin embargo, todos evitan el mismo punto, situado un poco más allá del acceso principal. La primera impresión invita a seguir, pero un examen pausado ofrece otra posibilidad: detenerse, comparar los rastros y decidir qué detalle merece atención antes de abandonar el sitio.",
+      "musicUrl": "https://www.youtube.com/results?search_query=mountain%20wind%20adventure%20ambient",
+      "abilities": [
+        "Entorno: Montañas y barrancos. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Dos agujas de roca enmarcan una senda marcada con piedras blancas. Este detalle sirve como señal para una cita. El grupo puede encontrar a quien espera, descubrir por qué nadie acudió o dejar un mensaje para continuar la historia más adelante.",
+        "Rumbo opcional: El paso habitual está cerrado y dos guías proponen alternativas. Investigar sus razones puede revelar una necesidad local antes que un enemigo.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Águila gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Iria, la cartógrafa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-cartografa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-montanas-02",
+      "kind": "terrain",
+      "name": "Barranco del Puente Roto",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/William_James_M%C3%BCller_%281812-1845%29_-_An_Alpine_Scene_-_K812_-_Bristol_City_Museum_%5E_Art_Gallery.jpg/960px-William_James_M%C3%BCller_%281812-1845%29_-_An_Alpine_Scene_-_K812_-_Bristol_City_Museum_%5E_Art_Gallery.jpg",
+      "imageCredit": {
+        "text": "An Alpine Scene · William James Müller · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:William_James_M%C3%BCller_(1812-1845)_-_An_Alpine_Scene_-_K812_-_Bristol_City_Museum_%5E_Art_Gallery.jpg"
+      },
+      "description": "Restos de un puente cuelgan sobre un vacío cuyo fondo no se distingue. Las pendientes fragmentan el paisaje en planos de piedra. Cada curva oculta el siguiente tramo, y los perfiles de las cumbres cambian al acercarse hasta perder el parecido con su forma vista desde abajo.\n\nEl viento llega en ráfagas que transportan polvo fino y un frío seco. La roca muestra vetas, derrumbes antiguos y superficies pulidas por quienes buscaron apoyo. Entre las alturas se distinguen pequeños refugios naturales; algunos reciben el sol, otros conservan sombra durante horas. La ruta más corta no parece necesariamente la más sencilla ni la más protegida.\n\nHay una pequeña zona resguardada del entorno, suficiente para detenerse y observar sin estorbar el paso. Desde allí se aprecia un detalle que, visto de frente, quedaba escondido detrás de los demás. Desde esta posición se puede distinguir por dónde llegó la última presencia conocida. Su destino, en cambio, permanece fuera de la vista y no coincide necesariamente con la salida más evidente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=mountain%20wind%20adventure%20ambient",
+      "abilities": [
+        "Entorno: Montañas y barrancos. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Restos de un puente cuelgan sobre un vacío cuyo fondo no se distingue. Una reparación sencilla permitiría volver a utilizar este lugar. Sus responsables ofrecen información o alojamiento a cambio; decidir quién se beneficiará importa más que obtener una recompensa material.",
+        "Rumbo opcional: El paso habitual está cerrado y dos guías proponen alternativas. Investigar sus razones puede revelar una necesidad local antes que un enemigo.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Águila gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Cuerda (SRD). Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-cuerda"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-montanas-03",
+      "kind": "terrain",
+      "name": "Cornisa del Nido Antiguo",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Sunset%2C_View_on_the_Catskill.jpg",
+      "imageCredit": {
+        "text": "Sunset, View on the Catskill · Thomas Cole · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Sunset,_View_on_the_Catskill.jpg"
+      },
+      "description": "Un nido desocupado llena una cornisa protegida del viento dominante. Las pendientes fragmentan el paisaje en planos de piedra. Cada curva oculta el siguiente tramo, y los perfiles de las cumbres cambian al acercarse hasta perder el parecido con su forma vista desde abajo.\n\nEl viento llega en ráfagas que transportan polvo fino y un frío seco. La roca muestra vetas, derrumbes antiguos y superficies pulidas por quienes buscaron apoyo. Entre las alturas se distinguen pequeños refugios naturales; algunos reciben el sol, otros conservan sombra durante horas. La ruta más corta no parece necesariamente la más sencilla ni la más protegida.\n\nEn un rincón se conserva algo que el resto del lugar ha perdido: una forma intacta, una superficie limpia o un color más vivo. La diferencia llama la atención precisamente porque no se repite en ninguna otra parte. El entorno guarda suficiente silencio entre sus sonidos para escuchar lo que ocurra después. Ninguna señal obliga a intervenir; aun así, cuesta ignorar el detalle que se aparta de todos los demás.",
+      "musicUrl": "https://www.youtube.com/results?search_query=mountain%20wind%20adventure%20ambient",
+      "abilities": [
+        "Entorno: Montañas y barrancos. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Un nido desocupado llena una cornisa protegida del viento dominante. Alguien ha reproducido este detalle en un mapa incompleto. Seguir la siguiente marca puede llevar a otro terreno del mismo entorno, sin exigir que la ruta sea peligrosa.",
+        "Rumbo opcional: El paso habitual está cerrado y dos guías proponen alternativas. Investigar sus razones puede revelar una necesidad local antes que un enemigo.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Águila gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Águila gigante. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-aguila-gigante"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-montanas-04",
+      "kind": "terrain",
+      "name": "Valle de las Campanas de Hierro",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Frederic_Edwin_Church_-_View_of_Cotopaxi_-_1919.753_-_Art_Institute_of_Chicago.jpg/960px-Frederic_Edwin_Church_-_View_of_Cotopaxi_-_1919.753_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "View of Cotopaxi · Frederic Edwin Church · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Frederic_Edwin_Church_-_View_of_Cotopaxi_-_1919.753_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Campanas de hierro penden entre refugios dispersos a distintas alturas. Las pendientes fragmentan el paisaje en planos de piedra. Cada curva oculta el siguiente tramo, y los perfiles de las cumbres cambian al acercarse hasta perder el parecido con su forma vista desde abajo.\n\nEl viento llega en ráfagas que transportan polvo fino y un frío seco. La roca muestra vetas, derrumbes antiguos y superficies pulidas por quienes buscaron apoyo. Entre las alturas se distinguen pequeños refugios naturales; algunos reciben el sol, otros conservan sombra durante horas. La ruta más corta no parece necesariamente la más sencilla ni la más protegida.\n\nEl camino de entrada no ofrece la mejor vista del lugar. Un giro descubre un espacio menor, protegido por las formas del entorno. Allí los rastros se ordenan de manera diferente y parecen corresponder a otra actividad. Más allá del punto de entrada queda una perspectiva por descubrir. Desde aquí solo se percibe una parte del lugar; para conocer el resto habría que acercarse y cambiar el ángulo de observación.",
+      "musicUrl": "https://www.youtube.com/results?search_query=mountain%20wind%20adventure%20ambient",
+      "abilities": [
+        "Entorno: Montañas y barrancos. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Campanas de hierro penden entre refugios dispersos a distintas alturas. Una pertenencia perdida cerca de este detalle identifica a un viajero. Devolverla puede abrir una conversación; conservarla puede provocar una reclamación posterior, sin presumir que sea un tesoro abandonado.",
+        "Rumbo opcional: El paso habitual está cerrado y dos guías proponen alternativas. Investigar sus razones puede revelar una necesidad local antes que un enemigo.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Águila gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Iria, la cartógrafa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-cartografa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-montanas-05",
+      "kind": "terrain",
+      "name": "Ladera de los Cristales Verdes",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/William_James_M%C3%BCller_%281812-1845%29_-_An_Alpine_Scene_-_K812_-_Bristol_City_Museum_%5E_Art_Gallery.jpg/960px-William_James_M%C3%BCller_%281812-1845%29_-_An_Alpine_Scene_-_K812_-_Bristol_City_Museum_%5E_Art_Gallery.jpg",
+      "imageCredit": {
+        "text": "An Alpine Scene · William James Müller · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:William_James_M%C3%BCller_(1812-1845)_-_An_Alpine_Scene_-_K812_-_Bristol_City_Museum_%5E_Art_Gallery.jpg"
+      },
+      "description": "Cristales verdosos asoman en una veta junto a herramientas de extracción. Las pendientes fragmentan el paisaje en planos de piedra. Cada curva oculta el siguiente tramo, y los perfiles de las cumbres cambian al acercarse hasta perder el parecido con su forma vista desde abajo.\n\nEl viento llega en ráfagas que transportan polvo fino y un frío seco. La roca muestra vetas, derrumbes antiguos y superficies pulidas por quienes buscaron apoyo. Entre las alturas se distinguen pequeños refugios naturales; algunos reciben el sol, otros conservan sombra durante horas. La ruta más corta no parece necesariamente la más sencilla ni la más protegida.\n\nEntre los restos del uso cotidiano hay una interrupción clara. Algo ocurrió aquí antes de que la actividad se reanudara. Las señales posteriores atraviesan las anteriores, pero no llegan a borrarlas por completo. El lugar no revela de inmediato si espera visitantes o si intenta mantenerlos a distancia. Sus señales admiten ambas lecturas, y el siguiente paso puede aclarar cuál resulta más convincente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=mountain%20wind%20adventure%20ambient",
+      "abilities": [
+        "Entorno: Montañas y barrancos. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Cristales verdosos asoman en una veta junto a herramientas de extracción. Dos grupos atribuyen significados distintos a este detalle. El master puede permitir una solución que respete ambos usos, o presentar las consecuencias de favorecer a uno de ellos.",
+        "Rumbo opcional: El paso habitual está cerrado y dos guías proponen alternativas. Investigar sus razones puede revelar una necesidad local antes que un enemigo.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Águila gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Cuerda (SRD). Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-cuerda"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-montanas-06",
+      "kind": "terrain",
+      "name": "Garganta del Río Lejano",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Sunset%2C_View_on_the_Catskill.jpg",
+      "imageCredit": {
+        "text": "Sunset, View on the Catskill · Thomas Cole · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Sunset,_View_on_the_Catskill.jpg"
+      },
+      "description": "El río apenas se ve al fondo, pero su rumor llena toda la garganta. Las pendientes fragmentan el paisaje en planos de piedra. Cada curva oculta el siguiente tramo, y los perfiles de las cumbres cambian al acercarse hasta perder el parecido con su forma vista desde abajo.\n\nEl viento llega en ráfagas que transportan polvo fino y un frío seco. La roca muestra vetas, derrumbes antiguos y superficies pulidas por quienes buscaron apoyo. Entre las alturas se distinguen pequeños refugios naturales; algunos reciben el sol, otros conservan sombra durante horas. La ruta más corta no parece necesariamente la más sencilla ni la más protegida.\n\nUna línea de pequeñas señales recorre el límite del lugar. Algunas están casi borradas y otras parecen recientes. Su separación es regular hasta el último tramo, donde falta una y las restantes se acumulan. La primera impresión invita a seguir, pero un examen pausado ofrece otra posibilidad: detenerse, comparar los rastros y decidir qué detalle merece atención antes de abandonar el sitio.",
+      "musicUrl": "https://www.youtube.com/results?search_query=mountain%20wind%20adventure%20ambient",
+      "abilities": [
+        "Entorno: Montañas y barrancos. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: El río apenas se ve al fondo, pero su rumor llena toda la garganta. Las señales de uso reciente pertenecen a alguien que evita ser encontrado. Puede necesitar ayuda, intimidad o protección; investigar no demuestra por sí solo culpabilidad ni hostilidad.",
+        "Rumbo opcional: El paso habitual está cerrado y dos guías proponen alternativas. Investigar sus razones puede revelar una necesidad local antes que un enemigo.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Águila gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Águila gigante. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-aguila-gigante"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-montanas-07",
+      "kind": "terrain",
+      "name": "Cumbre de las Banderas Deshilachadas",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Frederic_Edwin_Church_-_View_of_Cotopaxi_-_1919.753_-_Art_Institute_of_Chicago.jpg/960px-Frederic_Edwin_Church_-_View_of_Cotopaxi_-_1919.753_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "View of Cotopaxi · Frederic Edwin Church · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Frederic_Edwin_Church_-_View_of_Cotopaxi_-_1919.753_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Banderas de distintos colores rodean un hito de piedras sueltas. Las pendientes fragmentan el paisaje en planos de piedra. Cada curva oculta el siguiente tramo, y los perfiles de las cumbres cambian al acercarse hasta perder el parecido con su forma vista desde abajo.\n\nEl viento llega en ráfagas que transportan polvo fino y un frío seco. La roca muestra vetas, derrumbes antiguos y superficies pulidas por quienes buscaron apoyo. Entre las alturas se distinguen pequeños refugios naturales; algunos reciben el sol, otros conservan sombra durante horas. La ruta más corta no parece necesariamente la más sencilla ni la más protegida.\n\nSe advierte una elección deliberada entre dos recorridos. Uno es sencillo y muy visible; el otro exige acercarse para reconocerlo. Ambos desembocan fuera de la vista, sin revelar todavía qué los distingue al final. Desde esta posición se puede distinguir por dónde llegó la última presencia conocida. Su destino, en cambio, permanece fuera de la vista y no coincide necesariamente con la salida más evidente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=mountain%20wind%20adventure%20ambient",
+      "abilities": [
+        "Entorno: Montañas y barrancos. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Banderas de distintos colores rodean un hito de piedras sueltas. Un cambio de tiempo amenaza con borrar o dañar este detalle. Documentarlo o protegerlo ofrece una tarea breve cuya urgencia puede ajustarse al ritmo de la sesión.",
+        "Rumbo opcional: El paso habitual está cerrado y dos guías proponen alternativas. Investigar sus razones puede revelar una necesidad local antes que un enemigo.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Águila gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Iria, la cartógrafa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-cartografa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-montanas-08",
+      "kind": "terrain",
+      "name": "Cantera de las Estatuas Inacabadas",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/William_James_M%C3%BCller_%281812-1845%29_-_An_Alpine_Scene_-_K812_-_Bristol_City_Museum_%5E_Art_Gallery.jpg/960px-William_James_M%C3%BCller_%281812-1845%29_-_An_Alpine_Scene_-_K812_-_Bristol_City_Museum_%5E_Art_Gallery.jpg",
+      "imageCredit": {
+        "text": "An Alpine Scene · William James Müller · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:William_James_M%C3%BCller_(1812-1845)_-_An_Alpine_Scene_-_K812_-_Bristol_City_Museum_%5E_Art_Gallery.jpg"
+      },
+      "description": "Figuras incompletas permanecen unidas a la roca de la que fueron talladas. Las pendientes fragmentan el paisaje en planos de piedra. Cada curva oculta el siguiente tramo, y los perfiles de las cumbres cambian al acercarse hasta perder el parecido con su forma vista desde abajo.\n\nEl viento llega en ráfagas que transportan polvo fino y un frío seco. La roca muestra vetas, derrumbes antiguos y superficies pulidas por quienes buscaron apoyo. Entre las alturas se distinguen pequeños refugios naturales; algunos reciben el sol, otros conservan sombra durante horas. La ruta más corta no parece necesariamente la más sencilla ni la más protegida.\n\nUn espacio pequeño ha quedado deliberadamente vacío. A su alrededor se reconocen señales de actividad, pero ninguna lo atraviesa. La ausencia no demuestra peligro: también podría tratarse de una reserva, una costumbre o una simple espera. El entorno guarda suficiente silencio entre sus sonidos para escuchar lo que ocurra después. Ninguna señal obliga a intervenir; aun así, cuesta ignorar el detalle que se aparta de todos los demás.",
+      "musicUrl": "https://www.youtube.com/results?search_query=mountain%20wind%20adventure%20ambient",
+      "abilities": [
+        "Entorno: Montañas y barrancos. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Figuras incompletas permanecen unidas a la roca de la que fueron talladas. Una persona ofrece un objeto útil si el grupo comprueba qué ha cambiado aquí. La información obtenida puede interesar a otra persona y conectar este lugar con una visita anterior.",
+        "Rumbo opcional: El paso habitual está cerrado y dos guías proponen alternativas. Investigar sus razones puede revelar una necesidad local antes que un enemigo.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Águila gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Cuerda (SRD). Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-cuerda"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-montanas-09",
+      "kind": "terrain",
+      "name": "Paso de la Nieve Manchada",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Sunset%2C_View_on_the_Catskill.jpg",
+      "imageCredit": {
+        "text": "Sunset, View on the Catskill · Thomas Cole · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Sunset,_View_on_the_Catskill.jpg"
+      },
+      "description": "Una franja de nieve teñida de rojo cruza la senda sin huellas alrededor. Las pendientes fragmentan el paisaje en planos de piedra. Cada curva oculta el siguiente tramo, y los perfiles de las cumbres cambian al acercarse hasta perder el parecido con su forma vista desde abajo.\n\nEl viento llega en ráfagas que transportan polvo fino y un frío seco. La roca muestra vetas, derrumbes antiguos y superficies pulidas por quienes buscaron apoyo. Entre las alturas se distinguen pequeños refugios naturales; algunos reciben el sol, otros conservan sombra durante horas. La ruta más corta no parece necesariamente la más sencilla ni la más protegida.\n\nDesde un extremo se distingue un segundo acceso, estrecho y parcialmente oculto. La ruta principal invita a continuar, pero el desvío conserva señales de uso que no encajan con su aspecto abandonado. Más allá del punto de entrada queda una perspectiva por descubrir. Desde aquí solo se percibe una parte del lugar; para conocer el resto habría que acercarse y cambiar el ángulo de observación.",
+      "musicUrl": "https://www.youtube.com/results?search_query=mountain%20wind%20adventure%20ambient",
+      "abilities": [
+        "Entorno: Montañas y barrancos. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Una franja de nieve teñida de rojo cruza la senda sin huellas alrededor. Este lugar admite una escena tranquila de observación o conversación. El master puede usar el detalle visible para recordar un vínculo del personaje sin introducir un nuevo conflicto.",
+        "Rumbo opcional: El paso habitual está cerrado y dos guías proponen alternativas. Investigar sus razones puede revelar una necesidad local antes que un enemigo.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Águila gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Águila gigante. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-aguila-gigante"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-montanas-10",
+      "kind": "terrain",
+      "name": "Mirador de los Siete Picos",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Frederic_Edwin_Church_-_View_of_Cotopaxi_-_1919.753_-_Art_Institute_of_Chicago.jpg/960px-Frederic_Edwin_Church_-_View_of_Cotopaxi_-_1919.753_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "View of Cotopaxi · Frederic Edwin Church · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Frederic_Edwin_Church_-_View_of_Cotopaxi_-_1919.753_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Siete cumbres rodean una plataforma con marcas de observación en el suelo. Las pendientes fragmentan el paisaje en planos de piedra. Cada curva oculta el siguiente tramo, y los perfiles de las cumbres cambian al acercarse hasta perder el parecido con su forma vista desde abajo.\n\nEl viento llega en ráfagas que transportan polvo fino y un frío seco. La roca muestra vetas, derrumbes antiguos y superficies pulidas por quienes buscaron apoyo. Entre las alturas se distinguen pequeños refugios naturales; algunos reciben el sol, otros conservan sombra durante horas. La ruta más corta no parece necesariamente la más sencilla ni la más protegida.\n\nExiste un pequeño espacio de tránsito entre el exterior y la parte más protegida. Allí se acumulan señales de espera, como si quienes llegaron antes hubieran tenido que detenerse antes de recibir permiso para continuar. El lugar no revela de inmediato si espera visitantes o si intenta mantenerlos a distancia. Sus señales admiten ambas lecturas, y el siguiente paso puede aclarar cuál resulta más convincente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=mountain%20wind%20adventure%20ambient",
+      "abilities": [
+        "Entorno: Montañas y barrancos. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Siete cumbres rodean una plataforma con marcas de observación en el suelo. Una persona conoce el origen de este detalle, pero su versión contradice la de quien lo cuida. Contrastar ambas historias puede revelar una necesidad que ninguna admite en público.",
+        "Rumbo opcional: El paso habitual está cerrado y dos guías proponen alternativas. Investigar sus razones puede revelar una necesidad local antes que un enemigo.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Águila gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Iria, la cartógrafa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-cartografa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-montanas-11",
+      "kind": "terrain",
+      "name": "Barranco de los Troncos Encallados",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/William_James_M%C3%BCller_%281812-1845%29_-_An_Alpine_Scene_-_K812_-_Bristol_City_Museum_%5E_Art_Gallery.jpg/960px-William_James_M%C3%BCller_%281812-1845%29_-_An_Alpine_Scene_-_K812_-_Bristol_City_Museum_%5E_Art_Gallery.jpg",
+      "imageCredit": {
+        "text": "An Alpine Scene · William James Müller · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:William_James_M%C3%BCller_(1812-1845)_-_An_Alpine_Scene_-_K812_-_Bristol_City_Museum_%5E_Art_Gallery.jpg"
+      },
+      "description": "Troncos arrastrados forman una barrera sobre un cauce estrecho. Las pendientes fragmentan el paisaje en planos de piedra. Cada curva oculta el siguiente tramo, y los perfiles de las cumbres cambian al acercarse hasta perder el parecido con su forma vista desde abajo.\n\nEl viento llega en ráfagas que transportan polvo fino y un frío seco. La roca muestra vetas, derrumbes antiguos y superficies pulidas por quienes buscaron apoyo. Entre las alturas se distinguen pequeños refugios naturales; algunos reciben el sol, otros conservan sombra durante horas. La ruta más corta no parece necesariamente la más sencilla ni la más protegida.\n\nAlgo ha dejado una sombra o una huella sin permanecer en su sitio. El contorno resulta más claro que el resto de las señales cercanas. Alrededor, nada indica si fue retirado con cuidado o llevado apresuradamente. La primera impresión invita a seguir, pero un examen pausado ofrece otra posibilidad: detenerse, comparar los rastros y decidir qué detalle merece atención antes de abandonar el sitio.",
+      "musicUrl": "https://www.youtube.com/results?search_query=mountain%20wind%20adventure%20ambient",
+      "abilities": [
+        "Entorno: Montañas y barrancos. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Troncos arrastrados forman una barrera sobre un cauce estrecho. Este detalle sirve como señal para una cita. El grupo puede encontrar a quien espera, descubrir por qué nadie acudió o dejar un mensaje para continuar la historia más adelante.",
+        "Rumbo opcional: El paso habitual está cerrado y dos guías proponen alternativas. Investigar sus razones puede revelar una necesidad local antes que un enemigo.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Águila gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Cuerda (SRD). Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-cuerda"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-montanas-12",
+      "kind": "terrain",
+      "name": "Ladera de las Escaleras Talladas",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Sunset%2C_View_on_the_Catskill.jpg",
+      "imageCredit": {
+        "text": "Sunset, View on the Catskill · Thomas Cole · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Sunset,_View_on_the_Catskill.jpg"
+      },
+      "description": "Escalones de tamaños desiguales ascienden hasta una abertura oscura. Las pendientes fragmentan el paisaje en planos de piedra. Cada curva oculta el siguiente tramo, y los perfiles de las cumbres cambian al acercarse hasta perder el parecido con su forma vista desde abajo.\n\nEl viento llega en ráfagas que transportan polvo fino y un frío seco. La roca muestra vetas, derrumbes antiguos y superficies pulidas por quienes buscaron apoyo. Entre las alturas se distinguen pequeños refugios naturales; algunos reciben el sol, otros conservan sombra durante horas. La ruta más corta no parece necesariamente la más sencilla ni la más protegida.\n\nLas huellas de desgaste dibujan un recorrido más estrecho que el espacio disponible. Durante mucho tiempo, quienes pasaron eligieron el mismo trayecto. Fuera de él quedan detalles intactos que apenas han recibido atención. Desde esta posición se puede distinguir por dónde llegó la última presencia conocida. Su destino, en cambio, permanece fuera de la vista y no coincide necesariamente con la salida más evidente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=mountain%20wind%20adventure%20ambient",
+      "abilities": [
+        "Entorno: Montañas y barrancos. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Escalones de tamaños desiguales ascienden hasta una abertura oscura. Una reparación sencilla permitiría volver a utilizar este lugar. Sus responsables ofrecen información o alojamiento a cambio; decidir quién se beneficiará importa más que obtener una recompensa material.",
+        "Rumbo opcional: El paso habitual está cerrado y dos guías proponen alternativas. Investigar sus razones puede revelar una necesidad local antes que un enemigo.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Águila gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Águila gigante. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-aguila-gigante"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-montanas-13",
+      "kind": "terrain",
+      "name": "Valle del Humo Azul",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Frederic_Edwin_Church_-_View_of_Cotopaxi_-_1919.753_-_Art_Institute_of_Chicago.jpg/960px-Frederic_Edwin_Church_-_View_of_Cotopaxi_-_1919.753_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "View of Cotopaxi · Frederic Edwin Church · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Frederic_Edwin_Church_-_View_of_Cotopaxi_-_1919.753_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Columnas de humo azulado surgen entre rocas próximas a un pequeño campamento. Las pendientes fragmentan el paisaje en planos de piedra. Cada curva oculta el siguiente tramo, y los perfiles de las cumbres cambian al acercarse hasta perder el parecido con su forma vista desde abajo.\n\nEl viento llega en ráfagas que transportan polvo fino y un frío seco. La roca muestra vetas, derrumbes antiguos y superficies pulidas por quienes buscaron apoyo. Entre las alturas se distinguen pequeños refugios naturales; algunos reciben el sol, otros conservan sombra durante horas. La ruta más corta no parece necesariamente la más sencilla ni la más protegida.\n\nAlgo aquí ha sido reparado con materiales distintos de los originales. El arreglo resulta modesto y cuidadoso. Junto a él permanece la pieza rota, guardada como si todavía pudiera servir para otra cosa. El entorno guarda suficiente silencio entre sus sonidos para escuchar lo que ocurra después. Ninguna señal obliga a intervenir; aun así, cuesta ignorar el detalle que se aparta de todos los demás.",
+      "musicUrl": "https://www.youtube.com/results?search_query=mountain%20wind%20adventure%20ambient",
+      "abilities": [
+        "Entorno: Montañas y barrancos. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Columnas de humo azulado surgen entre rocas próximas a un pequeño campamento. Alguien ha reproducido este detalle en un mapa incompleto. Seguir la siguiente marca puede llevar a otro terreno del mismo entorno, sin exigir que la ruta sea peligrosa.",
+        "Rumbo opcional: El paso habitual está cerrado y dos guías proponen alternativas. Investigar sus razones puede revelar una necesidad local antes que un enemigo.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Águila gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Iria, la cartógrafa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-cartografa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-montanas-14",
+      "kind": "terrain",
+      "name": "Paso de las Cadenas Antiguas",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/William_James_M%C3%BCller_%281812-1845%29_-_An_Alpine_Scene_-_K812_-_Bristol_City_Museum_%5E_Art_Gallery.jpg/960px-William_James_M%C3%BCller_%281812-1845%29_-_An_Alpine_Scene_-_K812_-_Bristol_City_Museum_%5E_Art_Gallery.jpg",
+      "imageCredit": {
+        "text": "An Alpine Scene · William James Müller · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:William_James_M%C3%BCller_(1812-1845)_-_An_Alpine_Scene_-_K812_-_Bristol_City_Museum_%5E_Art_Gallery.jpg"
+      },
+      "description": "Cadenas fijadas a la pared permiten cruzar una pendiente muy expuesta. Las pendientes fragmentan el paisaje en planos de piedra. Cada curva oculta el siguiente tramo, y los perfiles de las cumbres cambian al acercarse hasta perder el parecido con su forma vista desde abajo.\n\nEl viento llega en ráfagas que transportan polvo fino y un frío seco. La roca muestra vetas, derrumbes antiguos y superficies pulidas por quienes buscaron apoyo. Entre las alturas se distinguen pequeños refugios naturales; algunos reciben el sol, otros conservan sombra durante horas. La ruta más corta no parece necesariamente la más sencilla ni la más protegida.\n\nVarias señales apuntan a una ocupación reciente, pero ninguna permite saber cuántas personas estuvieron aquí. Los rastros más pequeños se cruzan con los mayores y luego se separan, siguiendo direcciones diferentes. Más allá del punto de entrada queda una perspectiva por descubrir. Desde aquí solo se percibe una parte del lugar; para conocer el resto habría que acercarse y cambiar el ángulo de observación.",
+      "musicUrl": "https://www.youtube.com/results?search_query=mountain%20wind%20adventure%20ambient",
+      "abilities": [
+        "Entorno: Montañas y barrancos. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Cadenas fijadas a la pared permiten cruzar una pendiente muy expuesta. Una pertenencia perdida cerca de este detalle identifica a un viajero. Devolverla puede abrir una conversación; conservarla puede provocar una reclamación posterior, sin presumir que sea un tesoro abandonado.",
+        "Rumbo opcional: El paso habitual está cerrado y dos guías proponen alternativas. Investigar sus razones puede revelar una necesidad local antes que un enemigo.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Águila gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Cuerda (SRD). Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-cuerda"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-montanas-15",
+      "kind": "terrain",
+      "name": "Cresta del Viento Silbador",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Sunset%2C_View_on_the_Catskill.jpg",
+      "imageCredit": {
+        "text": "Sunset, View on the Catskill · Thomas Cole · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Sunset,_View_on_the_Catskill.jpg"
+      },
+      "description": "Grietas estrechas producen notas distintas cuando cambia la dirección del viento. Las pendientes fragmentan el paisaje en planos de piedra. Cada curva oculta el siguiente tramo, y los perfiles de las cumbres cambian al acercarse hasta perder el parecido con su forma vista desde abajo.\n\nEl viento llega en ráfagas que transportan polvo fino y un frío seco. La roca muestra vetas, derrumbes antiguos y superficies pulidas por quienes buscaron apoyo. Entre las alturas se distinguen pequeños refugios naturales; algunos reciben el sol, otros conservan sombra durante horas. La ruta más corta no parece necesariamente la más sencilla ni la más protegida.\n\nEn el límite entre dos superficies queda una acumulación fina de materiales. Las capas más antiguas son oscuras y compactas; por encima descansa una franja clara, todavía suelta, que deja ver el cambio reciente. El lugar no revela de inmediato si espera visitantes o si intenta mantenerlos a distancia. Sus señales admiten ambas lecturas, y el siguiente paso puede aclarar cuál resulta más convincente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=mountain%20wind%20adventure%20ambient",
+      "abilities": [
+        "Entorno: Montañas y barrancos. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Grietas estrechas producen notas distintas cuando cambia la dirección del viento. Dos grupos atribuyen significados distintos a este detalle. El master puede permitir una solución que respete ambos usos, o presentar las consecuencias de favorecer a uno de ellos.",
+        "Rumbo opcional: El paso habitual está cerrado y dos guías proponen alternativas. Investigar sus razones puede revelar una necesidad local antes que un enemigo.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Águila gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Águila gigante. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-aguila-gigante"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-montanas-16",
+      "kind": "terrain",
+      "name": "Circo de las Piedras Redondas",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Frederic_Edwin_Church_-_View_of_Cotopaxi_-_1919.753_-_Art_Institute_of_Chicago.jpg/960px-Frederic_Edwin_Church_-_View_of_Cotopaxi_-_1919.753_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "View of Cotopaxi · Frederic Edwin Church · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Frederic_Edwin_Church_-_View_of_Cotopaxi_-_1919.753_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Piedras redondas se agrupan en el fondo de una depresión casi circular. Las pendientes fragmentan el paisaje en planos de piedra. Cada curva oculta el siguiente tramo, y los perfiles de las cumbres cambian al acercarse hasta perder el parecido con su forma vista desde abajo.\n\nEl viento llega en ráfagas que transportan polvo fino y un frío seco. La roca muestra vetas, derrumbes antiguos y superficies pulidas por quienes buscaron apoyo. Entre las alturas se distinguen pequeños refugios naturales; algunos reciben el sol, otros conservan sombra durante horas. La ruta más corta no parece necesariamente la más sencilla ni la más protegida.\n\nUn objeto cotidiano descansa donde nadie esperaría encontrarlo. Está limpio por un lado y gastado por el otro, como si hubiera pasado mucho tiempo protegido antes de quedar expuesto de nuevo. La primera impresión invita a seguir, pero un examen pausado ofrece otra posibilidad: detenerse, comparar los rastros y decidir qué detalle merece atención antes de abandonar el sitio.",
+      "musicUrl": "https://www.youtube.com/results?search_query=mountain%20wind%20adventure%20ambient",
+      "abilities": [
+        "Entorno: Montañas y barrancos. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Piedras redondas se agrupan en el fondo de una depresión casi circular. Las señales de uso reciente pertenecen a alguien que evita ser encontrado. Puede necesitar ayuda, intimidad o protección; investigar no demuestra por sí solo culpabilidad ni hostilidad.",
+        "Rumbo opcional: El paso habitual está cerrado y dos guías proponen alternativas. Investigar sus razones puede revelar una necesidad local antes que un enemigo.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Águila gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Iria, la cartógrafa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-cartografa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-montanas-17",
+      "kind": "terrain",
+      "name": "Montaña del Cráter Dormido",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/William_James_M%C3%BCller_%281812-1845%29_-_An_Alpine_Scene_-_K812_-_Bristol_City_Museum_%5E_Art_Gallery.jpg/960px-William_James_M%C3%BCller_%281812-1845%29_-_An_Alpine_Scene_-_K812_-_Bristol_City_Museum_%5E_Art_Gallery.jpg",
+      "imageCredit": {
+        "text": "An Alpine Scene · William James Müller · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:William_James_M%C3%BCller_(1812-1845)_-_An_Alpine_Scene_-_K812_-_Bristol_City_Museum_%5E_Art_Gallery.jpg"
+      },
+      "description": "El borde de un cráter conserva una senda y pequeños respiraderos tibios. Las pendientes fragmentan el paisaje en planos de piedra. Cada curva oculta el siguiente tramo, y los perfiles de las cumbres cambian al acercarse hasta perder el parecido con su forma vista desde abajo.\n\nEl viento llega en ráfagas que transportan polvo fino y un frío seco. La roca muestra vetas, derrumbes antiguos y superficies pulidas por quienes buscaron apoyo. Entre las alturas se distinguen pequeños refugios naturales; algunos reciben el sol, otros conservan sombra durante horas. La ruta más corta no parece necesariamente la más sencilla ni la más protegida.\n\nUn rastro del mismo color se repite sobre superficies diferentes. No parece una decoración, porque cada marca queda a una altura distinta. La última está junto a algo que nadie ha movido recientemente. Desde esta posición se puede distinguir por dónde llegó la última presencia conocida. Su destino, en cambio, permanece fuera de la vista y no coincide necesariamente con la salida más evidente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=mountain%20wind%20adventure%20ambient",
+      "abilities": [
+        "Entorno: Montañas y barrancos. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: El borde de un cráter conserva una senda y pequeños respiraderos tibios. Un cambio de tiempo amenaza con borrar o dañar este detalle. Documentarlo o protegerlo ofrece una tarea breve cuya urgencia puede ajustarse al ritmo de la sesión.",
+        "Rumbo opcional: El paso habitual está cerrado y dos guías proponen alternativas. Investigar sus razones puede revelar una necesidad local antes que un enemigo.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Águila gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Cuerda (SRD). Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-cuerda"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-montanas-18",
+      "kind": "terrain",
+      "name": "Ladera de los Carneros Tallados",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Sunset%2C_View_on_the_Catskill.jpg",
+      "imageCredit": {
+        "text": "Sunset, View on the Catskill · Thomas Cole · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Sunset,_View_on_the_Catskill.jpg"
+      },
+      "description": "Relieves de carneros aparecen sobre apoyos de una vieja ruta de carga. Las pendientes fragmentan el paisaje en planos de piedra. Cada curva oculta el siguiente tramo, y los perfiles de las cumbres cambian al acercarse hasta perder el parecido con su forma vista desde abajo.\n\nEl viento llega en ráfagas que transportan polvo fino y un frío seco. La roca muestra vetas, derrumbes antiguos y superficies pulidas por quienes buscaron apoyo. Entre las alturas se distinguen pequeños refugios naturales; algunos reciben el sol, otros conservan sombra durante horas. La ruta más corta no parece necesariamente la más sencilla ni la más protegida.\n\nUn detalle aparece repetido tres veces, con ligeras diferencias. La primera versión está gastada, la segunda incompleta y la tercera apenas alterada. Entre ellas queda espacio suficiente para imaginar una secuencia que todavía no termina. El entorno guarda suficiente silencio entre sus sonidos para escuchar lo que ocurra después. Ninguna señal obliga a intervenir; aun así, cuesta ignorar el detalle que se aparta de todos los demás.",
+      "musicUrl": "https://www.youtube.com/results?search_query=mountain%20wind%20adventure%20ambient",
+      "abilities": [
+        "Entorno: Montañas y barrancos. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Relieves de carneros aparecen sobre apoyos de una vieja ruta de carga. Una persona ofrece un objeto útil si el grupo comprueba qué ha cambiado aquí. La información obtenida puede interesar a otra persona y conectar este lugar con una visita anterior.",
+        "Rumbo opcional: El paso habitual está cerrado y dos guías proponen alternativas. Investigar sus razones puede revelar una necesidad local antes que un enemigo.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Águila gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Águila gigante. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-aguila-gigante"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-montanas-19",
+      "kind": "terrain",
+      "name": "Paso del Refugio Excavado",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Frederic_Edwin_Church_-_View_of_Cotopaxi_-_1919.753_-_Art_Institute_of_Chicago.jpg/960px-Frederic_Edwin_Church_-_View_of_Cotopaxi_-_1919.753_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "View of Cotopaxi · Frederic Edwin Church · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Frederic_Edwin_Church_-_View_of_Cotopaxi_-_1919.753_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Una puerta baja conduce a un refugio abierto directamente en la roca. Las pendientes fragmentan el paisaje en planos de piedra. Cada curva oculta el siguiente tramo, y los perfiles de las cumbres cambian al acercarse hasta perder el parecido con su forma vista desde abajo.\n\nEl viento llega en ráfagas que transportan polvo fino y un frío seco. La roca muestra vetas, derrumbes antiguos y superficies pulidas por quienes buscaron apoyo. Entre las alturas se distinguen pequeños refugios naturales; algunos reciben el sol, otros conservan sombra durante horas. La ruta más corta no parece necesariamente la más sencilla ni la más protegida.\n\nUna señal visible desde lejos tiene otra cara que solo se descubre al acercarse. Ambas están trabajadas de manera distinta. La parte oculta conserva un detalle que parece haber sido añadido después de terminar la primera. Más allá del punto de entrada queda una perspectiva por descubrir. Desde aquí solo se percibe una parte del lugar; para conocer el resto habría que acercarse y cambiar el ángulo de observación.",
+      "musicUrl": "https://www.youtube.com/results?search_query=mountain%20wind%20adventure%20ambient",
+      "abilities": [
+        "Entorno: Montañas y barrancos. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Una puerta baja conduce a un refugio abierto directamente en la roca. Este lugar admite una escena tranquila de observación o conversación. El master puede usar el detalle visible para recordar un vínculo del personaje sin introducir un nuevo conflicto.",
+        "Rumbo opcional: El paso habitual está cerrado y dos guías proponen alternativas. Investigar sus razones puede revelar una necesidad local antes que un enemigo.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Águila gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Iria, la cartógrafa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-cartografa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-montanas-20",
+      "kind": "terrain",
+      "name": "Balcón de las Nubes Bajas",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/William_James_M%C3%BCller_%281812-1845%29_-_An_Alpine_Scene_-_K812_-_Bristol_City_Museum_%5E_Art_Gallery.jpg/960px-William_James_M%C3%BCller_%281812-1845%29_-_An_Alpine_Scene_-_K812_-_Bristol_City_Museum_%5E_Art_Gallery.jpg",
+      "imageCredit": {
+        "text": "An Alpine Scene · William James Müller · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:William_James_M%C3%BCller_(1812-1845)_-_An_Alpine_Scene_-_K812_-_Bristol_City_Museum_%5E_Art_Gallery.jpg"
+      },
+      "description": "Las nubes cruzan por debajo de una terraza con postes de amarre. Las pendientes fragmentan el paisaje en planos de piedra. Cada curva oculta el siguiente tramo, y los perfiles de las cumbres cambian al acercarse hasta perder el parecido con su forma vista desde abajo.\n\nEl viento llega en ráfagas que transportan polvo fino y un frío seco. La roca muestra vetas, derrumbes antiguos y superficies pulidas por quienes buscaron apoyo. Entre las alturas se distinguen pequeños refugios naturales; algunos reciben el sol, otros conservan sombra durante horas. La ruta más corta no parece necesariamente la más sencilla ni la más protegida.\n\nLa distribución del lugar parece responder a una costumbre olvidada. Quien lo preparó dejó espacio alrededor de un punto central; nadie ha ocupado ese hueco, aunque todo lo demás muestra rastros de uso. El lugar no revela de inmediato si espera visitantes o si intenta mantenerlos a distancia. Sus señales admiten ambas lecturas, y el siguiente paso puede aclarar cuál resulta más convincente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=mountain%20wind%20adventure%20ambient",
+      "abilities": [
+        "Entorno: Montañas y barrancos. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Las nubes cruzan por debajo de una terraza con postes de amarre. Una persona conoce el origen de este detalle, pero su versión contradice la de quien lo cuida. Contrastar ambas historias puede revelar una necesidad que ninguna admite en público.",
+        "Rumbo opcional: El paso habitual está cerrado y dos guías proponen alternativas. Investigar sus razones puede revelar una necesidad local antes que un enemigo.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Águila gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Cuerda (SRD). Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-cuerda"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-montanas-21",
+      "kind": "terrain",
+      "name": "Garganta de las Voces Partidas",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Sunset%2C_View_on_the_Catskill.jpg",
+      "imageCredit": {
+        "text": "Sunset, View on the Catskill · Thomas Cole · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Sunset,_View_on_the_Catskill.jpg"
+      },
+      "description": "Cada palabra vuelve desde paredes opuestas en fragmentos separados. Las pendientes fragmentan el paisaje en planos de piedra. Cada curva oculta el siguiente tramo, y los perfiles de las cumbres cambian al acercarse hasta perder el parecido con su forma vista desde abajo.\n\nEl viento llega en ráfagas que transportan polvo fino y un frío seco. La roca muestra vetas, derrumbes antiguos y superficies pulidas por quienes buscaron apoyo. Entre las alturas se distinguen pequeños refugios naturales; algunos reciben el sol, otros conservan sombra durante horas. La ruta más corta no parece necesariamente la más sencilla ni la más protegida.\n\nLa vista cambia al dar unos pasos hacia un lateral. Lo que desde la entrada parecía un obstáculo se convierte en una referencia útil, y detrás aparece una continuidad que no resultaba evidente a primera vista. La primera impresión invita a seguir, pero un examen pausado ofrece otra posibilidad: detenerse, comparar los rastros y decidir qué detalle merece atención antes de abandonar el sitio.",
+      "musicUrl": "https://www.youtube.com/results?search_query=mountain%20wind%20adventure%20ambient",
+      "abilities": [
+        "Entorno: Montañas y barrancos. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Cada palabra vuelve desde paredes opuestas en fragmentos separados. Este detalle sirve como señal para una cita. El grupo puede encontrar a quien espera, descubrir por qué nadie acudió o dejar un mensaje para continuar la historia más adelante.",
+        "Rumbo opcional: El paso habitual está cerrado y dos guías proponen alternativas. Investigar sus razones puede revelar una necesidad local antes que un enemigo.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Águila gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Águila gigante. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-aguila-gigante"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-montanas-22",
+      "kind": "terrain",
+      "name": "Cantera del Bloque Suspendido",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Frederic_Edwin_Church_-_View_of_Cotopaxi_-_1919.753_-_Art_Institute_of_Chicago.jpg/960px-Frederic_Edwin_Church_-_View_of_Cotopaxi_-_1919.753_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "View of Cotopaxi · Frederic Edwin Church · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Frederic_Edwin_Church_-_View_of_Cotopaxi_-_1919.753_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Un bloque enorme queda sujeto por vigas junto a una pista abandonada. Las pendientes fragmentan el paisaje en planos de piedra. Cada curva oculta el siguiente tramo, y los perfiles de las cumbres cambian al acercarse hasta perder el parecido con su forma vista desde abajo.\n\nEl viento llega en ráfagas que transportan polvo fino y un frío seco. La roca muestra vetas, derrumbes antiguos y superficies pulidas por quienes buscaron apoyo. Entre las alturas se distinguen pequeños refugios naturales; algunos reciben el sol, otros conservan sombra durante horas. La ruta más corta no parece necesariamente la más sencilla ni la más protegida.\n\nHay un elemento desplazado respecto a todos los demás. No está roto ni parece a punto de caer; sencillamente apunta hacia otro lado. Su posición permite ver un tramo del lugar que las otras referencias ocultan. Desde esta posición se puede distinguir por dónde llegó la última presencia conocida. Su destino, en cambio, permanece fuera de la vista y no coincide necesariamente con la salida más evidente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=mountain%20wind%20adventure%20ambient",
+      "abilities": [
+        "Entorno: Montañas y barrancos. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Un bloque enorme queda sujeto por vigas junto a una pista abandonada. Una reparación sencilla permitiría volver a utilizar este lugar. Sus responsables ofrecen información o alojamiento a cambio; decidir quién se beneficiará importa más que obtener una recompensa material.",
+        "Rumbo opcional: El paso habitual está cerrado y dos guías proponen alternativas. Investigar sus razones puede revelar una necesidad local antes que un enemigo.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Águila gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Iria, la cartógrafa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-cartografa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-montanas-23",
+      "kind": "terrain",
+      "name": "Valle de las Fuentes Minerales",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/William_James_M%C3%BCller_%281812-1845%29_-_An_Alpine_Scene_-_K812_-_Bristol_City_Museum_%5E_Art_Gallery.jpg/960px-William_James_M%C3%BCller_%281812-1845%29_-_An_Alpine_Scene_-_K812_-_Bristol_City_Museum_%5E_Art_Gallery.jpg",
+      "imageCredit": {
+        "text": "An Alpine Scene · William James Müller · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:William_James_M%C3%BCller_(1812-1845)_-_An_Alpine_Scene_-_K812_-_Bristol_City_Museum_%5E_Art_Gallery.jpg"
+      },
+      "description": "Manchas de colores rodean fuentes que brotan a distintas temperaturas. Las pendientes fragmentan el paisaje en planos de piedra. Cada curva oculta el siguiente tramo, y los perfiles de las cumbres cambian al acercarse hasta perder el parecido con su forma vista desde abajo.\n\nEl viento llega en ráfagas que transportan polvo fino y un frío seco. La roca muestra vetas, derrumbes antiguos y superficies pulidas por quienes buscaron apoyo. Entre las alturas se distinguen pequeños refugios naturales; algunos reciben el sol, otros conservan sombra durante horas. La ruta más corta no parece necesariamente la más sencilla ni la más protegida.\n\nLas marcas del paso de otros viajeros se interrumpen en un punto concreto. Una señal reciente se superpone a otra mucho más antigua; las dos parecen señalar destinos distintos, aunque ninguna ofrece una explicación. El entorno guarda suficiente silencio entre sus sonidos para escuchar lo que ocurra después. Ninguna señal obliga a intervenir; aun así, cuesta ignorar el detalle que se aparta de todos los demás.",
+      "musicUrl": "https://www.youtube.com/results?search_query=mountain%20wind%20adventure%20ambient",
+      "abilities": [
+        "Entorno: Montañas y barrancos. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Manchas de colores rodean fuentes que brotan a distintas temperaturas. Alguien ha reproducido este detalle en un mapa incompleto. Seguir la siguiente marca puede llevar a otro terreno del mismo entorno, sin exigir que la ruta sea peligrosa.",
+        "Rumbo opcional: El paso habitual está cerrado y dos guías proponen alternativas. Investigar sus razones puede revelar una necesidad local antes que un enemigo.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Águila gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Cuerda (SRD). Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-cuerda"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-montanas-24",
+      "kind": "terrain",
+      "name": "Paso de los Clavos Dobles",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Sunset%2C_View_on_the_Catskill.jpg",
+      "imageCredit": {
+        "text": "Sunset, View on the Catskill · Thomas Cole · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Sunset,_View_on_the_Catskill.jpg"
+      },
+      "description": "Clavos viejos y nuevos comparten una línea de ascenso sobre piedra lisa. Las pendientes fragmentan el paisaje en planos de piedra. Cada curva oculta el siguiente tramo, y los perfiles de las cumbres cambian al acercarse hasta perder el parecido con su forma vista desde abajo.\n\nEl viento llega en ráfagas que transportan polvo fino y un frío seco. La roca muestra vetas, derrumbes antiguos y superficies pulidas por quienes buscaron apoyo. Entre las alturas se distinguen pequeños refugios naturales; algunos reciben el sol, otros conservan sombra durante horas. La ruta más corta no parece necesariamente la más sencilla ni la más protegida.\n\nAl prestar atención se descubren dos sonidos que no siguen el mismo ritmo. Uno pertenece claramente al entorno; el otro aparece y desaparece sin que sea posible localizar su origen desde la entrada. Más allá del punto de entrada queda una perspectiva por descubrir. Desde aquí solo se percibe una parte del lugar; para conocer el resto habría que acercarse y cambiar el ángulo de observación.",
+      "musicUrl": "https://www.youtube.com/results?search_query=mountain%20wind%20adventure%20ambient",
+      "abilities": [
+        "Entorno: Montañas y barrancos. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Clavos viejos y nuevos comparten una línea de ascenso sobre piedra lisa. Una pertenencia perdida cerca de este detalle identifica a un viajero. Devolverla puede abrir una conversación; conservarla puede provocar una reclamación posterior, sin presumir que sea un tesoro abandonado.",
+        "Rumbo opcional: El paso habitual está cerrado y dos guías proponen alternativas. Investigar sus razones puede revelar una necesidad local antes que un enemigo.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Águila gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Águila gigante. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-aguila-gigante"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-montanas-25",
+      "kind": "terrain",
+      "name": "Cumbre del Espejo Roto",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Frederic_Edwin_Church_-_View_of_Cotopaxi_-_1919.753_-_Art_Institute_of_Chicago.jpg/960px-Frederic_Edwin_Church_-_View_of_Cotopaxi_-_1919.753_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "View of Cotopaxi · Frederic Edwin Church · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Frederic_Edwin_Church_-_View_of_Cotopaxi_-_1919.753_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Fragmentos de un espejo orientado al valle permanecen sujetos a un marco. Las pendientes fragmentan el paisaje en planos de piedra. Cada curva oculta el siguiente tramo, y los perfiles de las cumbres cambian al acercarse hasta perder el parecido con su forma vista desde abajo.\n\nEl viento llega en ráfagas que transportan polvo fino y un frío seco. La roca muestra vetas, derrumbes antiguos y superficies pulidas por quienes buscaron apoyo. Entre las alturas se distinguen pequeños refugios naturales; algunos reciben el sol, otros conservan sombra durante horas. La ruta más corta no parece necesariamente la más sencilla ni la más protegida.\n\nUna marca antigua se ha respetado a pesar de los cambios del entorno. Las reparaciones y el tránsito la rodean en lugar de cubrirla. Parece importar a alguien, aunque su significado no se reconoce de inmediato. El lugar no revela de inmediato si espera visitantes o si intenta mantenerlos a distancia. Sus señales admiten ambas lecturas, y el siguiente paso puede aclarar cuál resulta más convincente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=mountain%20wind%20adventure%20ambient",
+      "abilities": [
+        "Entorno: Montañas y barrancos. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Fragmentos de un espejo orientado al valle permanecen sujetos a un marco. Dos grupos atribuyen significados distintos a este detalle. El master puede permitir una solución que respete ambos usos, o presentar las consecuencias de favorecer a uno de ellos.",
+        "Rumbo opcional: El paso habitual está cerrado y dos guías proponen alternativas. Investigar sus razones puede revelar una necesidad local antes que un enemigo.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Águila gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Iria, la cartógrafa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-cartografa"
+        }
+      ]
+    }
+  ]
+}

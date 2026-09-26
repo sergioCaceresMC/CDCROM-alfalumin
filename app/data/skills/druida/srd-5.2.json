@@ -1,0 +1,780 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "druida-srd-druidico",
+      "classId": "druida",
+      "level": 1,
+      "name": "Druídico",
+      "attribute": "inteligencia",
+      "description": "Comprende mensajes secretos druídicos y puede dejar señales para otros iniciados.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 52,
+        "name": "Druídico"
+      }
+    },
+    {
+      "id": "druida-srd-orden-primigenia",
+      "classId": "druida",
+      "level": 1,
+      "name": "Orden primigenia",
+      "attribute": "empatia",
+      "description": "Reconoce rastros de animales y el estado de una planta mediante observación cercana.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 52,
+        "name": "Orden primigenia"
+      }
+    },
+    {
+      "id": "druida-srd-forma-salvaje",
+      "classId": "druida",
+      "level": 2,
+      "name": "Forma salvaje",
+      "attribute": "empatia",
+      "description": "Una vez por escena adopta la forma de una bestia pequeña para explorar. Conserva tu vida; no copia sus ataques ni permite lanzar conjuros.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 52,
+        "name": "Forma salvaje"
+      }
+    },
+    {
+      "id": "druida-srd-companero-salvaje",
+      "classId": "druida",
+      "level": 2,
+      "name": "Compañero salvaje",
+      "attribute": "empatia",
+      "description": "Invoca un compañero animal narrativo que explora o transmite una señal; no tiene un turno de ataque independiente.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 52,
+        "name": "Compañero salvaje"
+      }
+    },
+    {
+      "id": "druida-srd-circulo-de-la-tierra",
+      "classId": "druida",
+      "level": 3,
+      "name": "Círculo de la tierra",
+      "attribute": "empatia",
+      "description": "Durante una pausa en un entorno natural descubre un refugio o recurso cercano, si lo hay.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 52,
+        "name": "Círculo de la tierra"
+      }
+    },
+    {
+      "id": "druida-srd-agrandar-reducir",
+      "classId": "druida",
+      "name": "Agrandar/reducir",
+      "level": 3,
+      "attribute": "empatia",
+      "description": "Inspiración: Hasta que el conjuro termine, aumenta o reduce el tamaño de una criatura u objeto que puedas ver dentro del alcance (consulta el efecto elegido a continuación). Adaptación: una acción, un objetivo, daño 1d6. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "damage": "1d6",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 118,
+        "name": "Agrandar/reducir",
+        "text": "Transmutación de nivel 2 (bardo, druida, hechicero, mago) Tiempo de lanzamiento: Acción Alcance: 9 m Componentes: V, S, M (una pizca hierro en polvo) Duración: Concentración, hasta 1 minuto Hasta que el conjuro termine, aumenta o reduce el tamaño de una criatura u objeto que puedas ver dentro del alcance (consulta el efecto elegido a continuación). Si el objetivo es un objeto, no puede estar llevándolo ni vistiéndolo nadie. Si es una criatura no voluntaria, puede hacer una tirada de salvación de Constitución y, si la supera, el conjuro no tiene efecto. Todo lo que vista y lleve una criatura objetivo cambiará de tamaño con ella y cualquier objeto que suelte volverá a su tamaño normal de inmediato. Un arma arrojadiza o un proyectil recuperará su tamaño normal justo después de acertar a un objetivo o fallar. Agrandar. El tamaño del objetivo aumenta en una categoría; por ejemplo, de Mediano a Grande. El objetivo también tendrá ventaja en las pruebas de Fuerza y en las tiradas de salvación de Fuerza. Además, sus ataques con armas agrandadas o sin armas causan 1d4 de daño adicional al acertar. Reducir. El tamaño del objetivo se reduce en una categoría; por ejemplo, de Mediano a Pequeño. El objetivo también tendrá desventaja en las pruebas de Fuerza y en las tiradas de salvación de Fuerza. Los ataques que haga con armas reducidas o sin armas causan 1d4 menos de daño al acertar (esto no puede reducir el daño a menos de 1)."
+      }
+    },
+    {
+      "id": "druida-srd-augurio",
+      "classId": "druida",
+      "name": "Augurio",
+      "level": 3,
+      "attribute": "empatia",
+      "description": "Inspiración: Obtienes un presagio de una entidad de otro mundo sobre los resultados de un curso de acción que planees llevar a cabo en los próximos una cantidad acordada minutos. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 123,
+        "name": "Augurio",
+        "text": "Adivinación de nivel 2 (clérigo, druida, mago) Tiempo de lanzamiento: 1 minuto o un ritual Alcance: Lanzador Componentes: V, S, M (palitos, huesos, cartas u otros abalorios marcados de forma especial que valgan al menos 25 po) Duración: Instantáneo Obtienes un presagio de una entidad de otro mundo sobre los resultados de un curso de acción que planees llevar a cabo en los próximos 30 minutos. Tu GM elige el presagio de la siguiente tabla. Presagios Presagio Para los resultados que sean... Fortuna Buenos Desdicha Malos Fortuna y Buenos y malos desdicha Indiferencia Ni buenos ni malos El conjuro no tiene en cuenta las circunstancias que puedan alterar los resultados, como lanzar otros conjuros. Si lanzas el conjuro más de una vez antes de finalizar un descanso largo, hay una posibilidad acumulativa del 25 % por cada lanzamiento después del primero de que no recibas ninguna respuesta."
+      }
+    },
+    {
+      "id": "druida-srd-auxilio",
+      "classId": "druida",
+      "name": "Auxilio",
+      "level": 3,
+      "attribute": "empatia",
+      "description": "Inspiración: Elige hasta tres criaturas dentro del alcance. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 124,
+        "name": "Auxilio",
+        "text": "Abjuración de nivel 2 (bardo, clérigo, druida, explorador, paladín) Tiempo de lanzamiento: Acción Alcance: 9 m Componentes: V, S, M (una tira de tela blanca) Duración: 8 horas Elige hasta tres criaturas dentro del alcance. Los puntos de golpe máximos y actuales de cada objetivo aumentan en 5 hasta que termine el conjuro. Con un espacio de conjuro de nivel superior. Los puntos de golpe de cada objetivo aumentan en 5 adicionales por cada nivel por encima de 2 que tenga el espacio."
+      }
+    },
+    {
+      "id": "druida-srd-buenas-bayas",
+      "classId": "druida",
+      "name": "Buenas bayas",
+      "level": 2,
+      "attribute": "empatia",
+      "description": "Inspiración: En tu mano aparecen diez bayas, que estarán impregnadas de magia hasta que termine el conjuro. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 126,
+        "name": "Buenas bayas",
+        "text": "Conjuración de nivel 1 (druida, explorador) Tiempo de lanzamiento: Acción Alcance: Lanzador Componentes: V, S, M (una rama de muérdago) Duración: 24 horas En tu mano aparecen diez bayas, que estarán impregnadas de magia hasta que termine el conjuro. Una criatura puede usar una acción adicional para comerse una, lo que le permite recuperar 1 punto de golpe. Además, la baya proporciona alimento suficiente como para mantener a una criatura durante 1 día. Las bayas que no se consuman desaparecerán cuando el conjuro termine."
+      }
+    },
+    {
+      "id": "druida-srd-calentar-metal",
+      "classId": "druida",
+      "name": "Calentar metal",
+      "level": 3,
+      "attribute": "empatia",
+      "description": "Inspiración: Elige un objeto metálico fabricado que puedas ver dentro del alcance, como un arma de metal o una armadura metálica media o pesada. Adaptación: una acción, un objetivo, daño 1d6. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "damage": "1d6",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 126,
+        "name": "Calentar metal",
+        "text": "Transmutación de nivel 2 (bardo, druida) Tiempo de lanzamiento: Acción Alcance: 18 m Componentes: V, S, M (un trozo de hierro y una llama) Duración: Concentración, hasta 1 minuto Elige un objeto metálico fabricado que puedas ver dentro del alcance, como un arma de metal o una armadura metálica media o pesada. Haces que el objeto se ponga al rojo vivo. Cualquier criatura que esté en contacto físico con el objeto recibirá 2d8 de daño de fuego cuando lances el conjuro. Hasta que el conjuro termine, puedes usar una acción adicional en cada uno de tus turnos posteriores para volver a causar este daño si el objeto está dentro del alcance. Si una criatura sostiene o lleva puesto el objeto y recibe el daño de este, deberá superar una tirada de salvación de Constitución o dejará caer el objeto si puede. Si no lo deja caer, tendrá desventaja en las tiradas de ataque y las pruebas de característica hasta el principio de tu siguiente turno. Con un espacio de conjuro de nivel superior. El daño aumenta en 1d8 por cada nivel por encima de 2 que tenga el espacio."
+      }
+    },
+    {
+      "id": "druida-srd-crear-llama",
+      "classId": "druida",
+      "name": "Crear llama",
+      "level": 1,
+      "attribute": "empatia",
+      "description": "Inspiración: En tu mano aparece una llama titilante, que permanece hasta que termine el conjuro. Adaptación: una acción, un objetivo, daño 1d4. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "damage": "1d4",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 136,
+        "name": "Crear llama",
+        "text": "Truco de conjuración (druida) Tiempo de lanzamiento: Acción adicional Alcance: Lanzador Componentes: V, S Duración: 10 minutos En tu mano aparece una llama titilante, que permanece hasta que termine el conjuro. En tu mano, la llama no genera calor, no puede quemar nada y emite una luz brillante en un radio de 6 m y luz tenue 6 m más allá. El conjuro termina si lo vuelves a lanzar. Hasta que el conjuro termine, puedes usar una acción de magia para arrojar la llama a una criatura u objeto a 18 m o menos de ti. Haz un ataque de conjuro a distancia. Si acierta, el objetivo recibe 1d8 de daño de fuego. Mejora de truco. El daño aumenta en 1d8 cuando alcanzas los niveles 5 (2d8), 11 (3d8) y 17 (4d8)."
+      }
+    },
+    {
+      "id": "druida-srd-crear-o-destruir-agua",
+      "classId": "druida",
+      "name": "Crear o destruir agua",
+      "level": 2,
+      "attribute": "empatia",
+      "description": "Inspiración: Produces uno de estos efectos: Crear agua. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 137,
+        "name": "Crear o destruir agua",
+        "text": "Transmutación de nivel 1 (clérigo, druida) Tiempo de lanzamiento: Acción Alcance: 9 m Componentes: V, S, M (una mezcla de agua y arena) Duración: Instantáneo Produces uno de estos efectos: Crear agua. Creas hasta 40 l de agua limpia dentro del alcance en un recipiente abierto. Como alternativa, el agua cae en forma de lluvia en un cubo de 9 m de lado dentro del alcance y apaga las llamas desprotegidas de la zona. Destruir agua. Destruyes hasta 40 l de agua dentro del alcance en un recipiente abierto. Como alternativa, puedes destruir niebla en un cubo de 9 m de lado dentro del alcance. Con un espacio de conjuro de nivel superior. Creas o destruyes 40 l más de agua o el tamaño del cubo aumenta en 1,5 m por cada nivel por encima de 1 que tenga el espacio."
+      }
+    },
+    {
+      "id": "druida-srd-crecimiento-espinoso",
+      "classId": "druida",
+      "name": "Crecimiento espinoso",
+      "level": 3,
+      "attribute": "empatia",
+      "description": "Inspiración: Del suelo en una esfera de una cantidad acordada m de radio centrada en un punto dentro del alcance brotan espinas y pinchos. Adaptación: una acción, un objetivo, daño 1d6. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "damage": "1d6",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 137,
+        "name": "Crecimiento espinoso",
+        "text": "Transmutación de nivel 2 (druida, explorador) Tiempo de lanzamiento: Acción Alcance: 45 m Componentes: V, S, M (siete espinas) Duración: Concentración, hasta 10 minutos Del suelo en una esfera de 6 m de radio centrada en un punto dentro del alcance brotan espinas y pinchos. La zona se vuelve terreno difícil hasta que termine el conjuro. Cuando una criatura entra en la zona o se desplaza por ella, recibe 2d4 de daño perforante por cada 1,5 m que avanza. La transformación del suelo se camufla, de forma que parece natural. Cualquier criatura que no pueda ver la zona cuando se lanza el conjuro deberá emplear una acción de buscar y superar una prueba de Sabiduría (Percepción o Supervivencia) contra tu CD de salvación de conjuros para reconocer que el terreno es peligroso antes de adentrarse en él."
+      }
+    },
+    {
+      "id": "druida-srd-cuchillo-de-hielo",
+      "classId": "druida",
+      "name": "Cuchillo de hielo",
+      "level": 2,
+      "attribute": "empatia",
+      "description": "Inspiración: Creas una esquirla de hielo y se la lanzas a una criatura dentro del alcance. Adaptación: una acción, un objetivo, daño 1d4. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "damage": "1d4",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 137,
+        "name": "Cuchillo de hielo",
+        "text": "Conjuración de nivel 1 (druida, hechicero, mago) Tiempo de lanzamiento: Acción Alcance: 18 m Componentes: S, M (una gota de agua o un trozo de hielo) Duración: Instantáneo Creas una esquirla de hielo y se la lanzas a una criatura dentro del alcance. Haz un ataque de conjuro a distancia contra el objetivo. Si acierta, el objetivo recibe 1d10 de daño perforante. Acierte o falle, el fragmento explotará. El objetivo y todas las criaturas a 1,5 m menos de él deberán superar una tirada de salvación de Destreza o recibirán 2d6 de daño de frío. Con un espacio de conjuro de nivel superior. El daño de frío aumenta en 1d6 por cada nivel por encima de 1 que tenga el espacio."
+      }
+    },
+    {
+      "id": "druida-srd-curar-heridas",
+      "classId": "druida",
+      "name": "Curar heridas",
+      "level": 2,
+      "attribute": "empatia",
+      "description": "Inspiración: Una criatura a la que toques recupera una cantidad de puntos de golpe igual a el daño adaptado más tu modificador por aptitud mágica. Adaptación: una acción, un objetivo, cura 2 puntos de vida manualmente sin superar el máximo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 138,
+        "name": "Curar heridas",
+        "text": "Abjuración de nivel 1 (bardo, clérigo, druida, explorador, paladín) Tiempo de lanzamiento: Acción Alcance: Toque Componentes: V, S Duración: Instantáneo Una criatura a la que toques recupera una cantidad de puntos de golpe igual a 2d8 más tu modificador por aptitud mágica. Con un espacio de conjuro de nivel superior. La curación aumenta en 2d8 por cada nivel por encima de 1 que tenga el espacio."
+      }
+    },
+    {
+      "id": "druida-srd-detectar-magia",
+      "classId": "druida",
+      "name": "Detectar magia",
+      "level": 2,
+      "attribute": "empatia",
+      "description": "Inspiración: Hasta que el conjuro termine, podrás percibir la presencia de efectos mágicos a una cantidad acordada m o menos de ti. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 141,
+        "name": "Detectar magia",
+        "text": "Adivinación de nivel 1 (bardo, brujo, clérigo, druida, explorador, hechicero, mago, paladín) Tiempo de lanzamiento: Acción o ritual Alcance: Lanzador Componentes: V, S Duración: Concentración, hasta 10 minutos Hasta que el conjuro termine, podrás percibir la presencia de efectos mágicos a 9 m o menos de ti. Si percibes alguno, puedes usar una acción de magia para ver una débil aura alrededor de cualquier objeto o criatura visible dentro de la zona que esté afectada por la magia y, si el efecto lo creó un conjuro, distingues a qué escuela mágica pertenece. El conjuro no puede atravesar 30 cm de piedra, tierra o madera, 2,5 cm de metal o una lámina fina de plomo."
+      }
+    },
+    {
+      "id": "druida-srd-detectar-trampas",
+      "classId": "druida",
+      "name": "Detectar trampas",
+      "level": 3,
+      "attribute": "empatia",
+      "description": "Inspiración: Detectas cualquier trampa dentro del alcance que esté en tu línea de visión. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 141,
+        "name": "Detectar trampas",
+        "text": "Adivinación de nivel 2 (clérigo, druida, explorador) Tiempo de lanzamiento: Acción Alcance: 36 m Componentes: V, S Duración: Instantáneo Detectas cualquier trampa dentro del alcance que esté en tu línea de visión. En lo que a este conjuro respecta, una trampa incluye cualquier objeto o mecanismo que fuese creado para causar un daño u otro peligro. Por tanto, el conjuro detectaría los conjuros alarma y glifo custodio o una trampa de pozo mecánica, pero no revelaría una debilidad natural del suelo, un techo inestable o un socavón oculto. Este conjuro alerta de la existencia de una trampa, pero no te indica su ubicación. Aun así, descubres la naturaleza general del peligro que supone una trampa que detectas."
+      }
+    },
+    {
+      "id": "druida-srd-detectar-venenos-y-enfermedades",
+      "classId": "druida",
+      "name": "Detectar venenos y enfermedades",
+      "level": 2,
+      "attribute": "empatia",
+      "description": "Inspiración: Hasta que el conjuro termine, percibes la ubicación de venenos, criaturas venenosas y enfermedades mágicas a una cantidad acordada m o menos de ti, e identificas el tipo de veneno, criatura o enfermedad en cada caso. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 142,
+        "name": "Detectar venenos y enfermedades",
+        "text": "Adivinación de nivel 1 (clérigo, druida, explorador, paladín) Tiempo de lanzamiento: Acción o ritual Alcance: Lanzador Componentes: V, S, M (una hoja de tejo) Duración: Concentración, hasta 10 minutos Hasta que el conjuro termine, percibes la ubicación de venenos, criaturas venenosas y enfermedades mágicas a 9 m o menos de ti, e identificas el tipo de veneno, criatura o enfermedad en cada caso. El conjuro no puede atravesar 30 cm de piedra, tierra o madera, 2,5 cm de metal o una lámina fina de plomo."
+      }
+    },
+    {
+      "id": "druida-srd-elementalismo",
+      "classId": "druida",
+      "name": "Elementalismo",
+      "level": 1,
+      "attribute": "empatia",
+      "description": "Inspiración: Controlas los elementos y creas uno de los siguientes efectos dentro del alcance: Esculpir los elementos. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 144,
+        "name": "Elementalismo",
+        "text": "Truco de transmutación (druida, hechicero, mago) Tiempo de lanzamiento: Acción Alcance: 9 m Componentes: V, S Duración: Instantáneo Controlas los elementos y creas uno de los siguientes efectos dentro del alcance: Esculpir los elementos. Haces que la tierra, arena, fuego, humo, niebla o agua que quepan en un cubo de 30 cm de lado adopten una forma tosca (como la de una criatura) durante 1 hora. Invocar el agua. Creas un rocío de fría niebla que humedece ligeramente a las criaturas y objetos en un cubo de 1,5 m de lado. Como alternativa, creas una taza de agua limpia, ya sea en un recipiente abierto o sobre una superficie, y el agua se evapora al cabo de 1 minuto. Invocar el aire. Creas una brisa lo bastante fuerte como para ondear telas, remover polvo, agitar hojas y cerrar puertas y contraventanas abiertas en un cubo de 1,5 m de lado. Las puertas y contraventanas que algo o alguien mantenga abiertas no se ven afectadas. Invocar el fuego. Creas una fina nube de ascuas inofensivas y un humo de color perfumado en un cubo de 1,5 m de lado. Tú eliges el color y el olor, y las ascuas pueden encender velas, antorchas o lámparas dentro de la zona. El aroma del humo permanece durante 1 minuto. Invocar la tierra. Creas una fina capa de polvo o arena que cubre superficies en una zona de 1,5 m de lado o haces que aparezca una sola palabra escrita con tu letra en una superficie de tierra o arena."
+      }
+    },
+    {
+      "id": "druida-srd-encantar-animal",
+      "classId": "druida",
+      "name": "Encantar animal",
+      "level": 2,
+      "attribute": "empatia",
+      "description": "Inspiración: Haces objetivo a una bestia que puedas ver dentro del alcance. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 144,
+        "name": "Encantar animal",
+        "text": "Encantamiento de nivel 1 (bardo, druida, explorador) Tiempo de lanzamiento: Acción Alcance: 9 m Componentes: V, S, M (unas migajas de comida) Duración: 24 horas Haces objetivo a una bestia que puedas ver dentro del alcance. El objetivo deberá superar una tirada de salvación de Sabiduría o tendrá el estado de hechizado hasta que termine el conjuro. Si alguno de tus aliados o tú dañáis al objetivo, el conjuro termina. Con un espacio de conjuro de nivel superior. Puedes hacer objetivo a una bestia adicional por cada nivel por encima de 1 que tenga el espacio."
+      }
+    },
+    {
+      "id": "druida-srd-enmaranar",
+      "classId": "druida",
+      "name": "Enmarañar",
+      "level": 2,
+      "attribute": "empatia",
+      "description": "Inspiración: Unas plantas apresadoras surgen del suelo en un cuadrado de una cantidad acordada m de lado dentro del alcance. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 146,
+        "name": "Enmarañar",
+        "text": "Conjuración de nivel 1 (druida, explorador) Tiempo de lanzamiento: Acción Alcance: 27 m Componentes: V, S Duración: Concentración, hasta 1 minuto Unas plantas apresadoras surgen del suelo en un cuadrado de 6 m de lado dentro del alcance. Hasta que termine el conjuro, estas plantas convertirán la zona en terreno difícil y desaparecerán cuando el conjuro termine. Cada criatura (excepto tú) que esté en la zona cuando lances el conjuro deberá superar una tirada de salvación de Fuerza o tendrá el estado de apresada hasta que el conjuro termine. Una criatura apresada puede emplear una acción para hacer una prueba de Fuerza (Atletismo) contra tu CD de salvación de conjuros. Si la supera, se liberará de las plantas y dejará de estar apresada por ellas."
+      }
+    },
+    {
+      "id": "druida-srd-esfera-de-llamas",
+      "classId": "druida",
+      "name": "Esfera de llamas",
+      "level": 3,
+      "attribute": "empatia",
+      "description": "Inspiración: Creas una esfera de fuego de una cantidad acordada m de diámetro en un espacio sin ocupar del suelo dentro del alcance, y durará hasta que termine el conjuro. Adaptación: una acción, un objetivo, daño 1d6. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "damage": "1d6",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 147,
+        "name": "Esfera de llamas",
+        "text": "Conjuración de nivel 2 (druida, hechicero, mago) Tiempo de lanzamiento: Acción Alcance: 18 m Componentes: V, S, M (una bola de cera) Duración: Concentración, hasta 1 minuto Creas una esfera de fuego de 1,5 m de diámetro en un espacio sin ocupar del suelo dentro del alcance, y durará hasta que termine el conjuro. Cualquier criatura que termine su turno a 1,5 m o menos de ella hará una tirada de salvación de Destreza; sufrirá 2d6 de daño de fuego si la falla o la mitad de daño si la supera. Como acción adicional, puedes mover la esfera hasta 9 m haciéndola rodar. Si mueves la esfera al espacio de una criatura, esta hará la tirada de salvación contra la esfera, que ya no podrá moverse más durante el turno. Cuando mueves la esfera, puedes llevarla por encima de barreras de hasta 1,5 m de alto y hacer que salte huecos de hasta 3 m de ancho. La esfera prende los objetos inflamables que toque y no lleve o vista nadie y emite luz brillante en un radio de 6 m y luz tenue otros 6 m más allá. Con un espacio de conjuro de nivel superior. El daño aumenta en 1d6 por cada nivel por encima de 2 que tenga el espacio."
+      }
+    },
+    {
+      "id": "druida-srd-fuego-feerico",
+      "classId": "druida",
+      "name": "Fuego feérico",
+      "level": 2,
+      "attribute": "empatia",
+      "description": "Inspiración: El conjuro ilumina con luz azul, verde o violeta, a tu elección, el contorno de los objetos en un cubo de una cantidad acordada m de lado dentro del alcance. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 151,
+        "name": "Fuego feérico",
+        "text": "Evocación de nivel 1 (bardo, druida) Tiempo de lanzamiento: Acción Alcance: 18 m Componentes: V Duración: Concentración, hasta 1 minuto El conjuro ilumina con luz azul, verde o violeta, a tu elección, el contorno de los objetos en un cubo de 6 m de lado dentro del alcance. También se ilumina el contorno de cualquier criatura dentro del cubo que falle una tirada de salvación de Destreza. Hasta que termine el conjuro, los objetos y criaturas afectados emitirán luz tenue en un radio de 3 m y no podrán beneficiarse del estado de invisibles. Las tiradas de ataque contra las criaturas u objetos afectados tendrán ventaja si el atacante puede verlos."
+      }
+    },
+    {
+      "id": "druida-srd-guia",
+      "classId": "druida",
+      "name": "Guía",
+      "level": 1,
+      "attribute": "empatia",
+      "description": "Inspiración: Tocas a una criatura voluntaria y eliges una habilidad. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 154,
+        "name": "Guía",
+        "text": "Truco de adivinación (clérigo, druida) Tiempo de lanzamiento: Acción Alcance: Toque Componentes: V, S Duración: Concentración, hasta 1 minuto Tocas a una criatura voluntaria y eliges una habilidad. Hasta que el conjuro termine, la criatura añade 1d4 a una prueba de característica con la habilidad elegida."
+      }
+    },
+    {
+      "id": "druida-srd-hablar-con-los-animales",
+      "classId": "druida",
+      "name": "Hablar con los animales",
+      "level": 2,
+      "attribute": "empatia",
+      "description": "Inspiración: Hasta que termine el conjuro, puedes comprender y comunicarte verbalmente con bestias y usar con ellas cualquiera de las opciones de la acción de influir. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 154,
+        "name": "Hablar con los animales",
+        "text": "Adivinación de nivel 1 (bardo, brujo, druida, explorador) Tiempo de lanzamiento: Acción o ritual Alcance: Lanzador Componentes: V, S Duración: 10 minutos Hasta que termine el conjuro, puedes comprender y comunicarte verbalmente con bestias y usar con ellas cualquiera de las opciones de la acción de influir. La mayoría de bestias tienen poco que decir en cuestiones que no tengan que ver con la supervivencia o la compañía, pero como mínimo podrán proporcionarte información sobre los lugares y monstruos cercanos, incluyendo lo que hayan percibido en el último día."
+      }
+    },
+    {
+      "id": "druida-srd-hechizar-persona",
+      "classId": "druida",
+      "name": "Hechizar persona",
+      "level": 2,
+      "attribute": "empatia",
+      "description": "Inspiración: Un humanoide que puedas ver dentro del alcance realiza una tirada de salvación de Sabiduría. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 156,
+        "name": "Hechizar persona",
+        "text": "Encantamiento de nivel 1 (bardo, brujo, druida, hechicero, mago) Tiempo de lanzamiento: Acción Alcance: 9 m Componentes: V, S Duración: 1 hora Un humanoide que puedas ver dentro del alcance realiza una tirada de salvación de Sabiduría. La hace con ventaja si está luchando contra ti o tus aliados. Si la falla, tendrá el estado de hechizado hasta que el conjuro termine o hasta que tus aliados o tú le hagáis daño. La criatura hechizada es amistosa contigo, pero cuando el conjuro termine, sabrá que la hechizaste. Con un espacio de conjuro de nivel superior. Puedes hacer objetivo a una criatura adicional por cada nivel por encima de 1 que tenga el espacio."
+      }
+    },
+    {
+      "id": "druida-srd-hoja-de-fuego",
+      "classId": "druida",
+      "name": "Hoja de fuego",
+      "level": 3,
+      "attribute": "empatia",
+      "description": "Inspiración: Haces aparecer una hoja ardiente en tu mano libre que es similar en tamaño y forma a una cimitarra y que durará hasta que termine el conjuro. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 156,
+        "name": "Hoja de fuego",
+        "text": "Evocación de nivel 2 (druida, hechicero) Tiempo de lanzamiento: Acción adicional Alcance: Lanzador Componentes: V, S, M (una hoja de zumaque) Duración: Concentración, hasta 10 minutos Haces aparecer una hoja ardiente en tu mano libre que es similar en tamaño y forma a una cimitarra y que durará hasta que termine el conjuro. Si sueltas la hoja, desaparece, pero puedes volver a invocarla como acción adicional. Como acción de magia, puedes hacer un ataque de conjuro cuerpo a cuerpo con la hoja ardiente. Si acierta, el objetivo sufrirá una cantidad de daño de fuego igual a 3d6 más tu modificador por aptitud mágica. La hoja llameante emite luz brillante en un radio de 3 m y luz tenue 3 m más allá. Con un espacio de conjuro de nivel superior. El daño aumenta en 1d6 por cada nivel por encima de 2 que tenga el espacio."
+      }
+    },
+    {
+      "id": "druida-srd-inmovilizar-persona",
+      "classId": "druida",
+      "name": "Inmovilizar persona",
+      "level": 3,
+      "attribute": "empatia",
+      "description": "Inspiración: Elige a un humanoide que puedas ver dentro del alcance. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 159,
+        "name": "Inmovilizar persona",
+        "text": "Encantamiento de nivel 2 (bardo, brujo, clérigo, druida, hechicero, mago) Tiempo de lanzamiento: Acción Alcance: 18 m Componentes: V, S, M (un trozo de hierro recto) Duración: Concentración, hasta 1 minuto Elige a un humanoide que puedas ver dentro del alcance. El objetivo deberá superar una tirada de salvación de Sabiduría o tendrá el estado de paralizado hasta que termine el conjuro. Al final de cada uno de sus turnos, el objetivo repite la tirada de salvación y, si tiene éxito, se librará del conjuro. Con un espacio de conjuro de nivel superior. Puedes hacer objetivo a un humanoide adicional por cada nivel por encima de 2 que tenga el espacio."
+      }
+    },
+    {
+      "id": "druida-srd-llama-permanente",
+      "classId": "druida",
+      "name": "Llama permanente",
+      "level": 3,
+      "attribute": "empatia",
+      "description": "Inspiración: Hasta que sea disipado Una llama surge de un objeto que toques. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 162,
+        "name": "Llama permanente",
+        "text": "Evocación de nivel 2 (clérigo, druida, mago) Tiempo de lanzamiento: Acción Alcance: Toque Componentes: V, S, M (polvo de rubí que valga al menos 50 po, que se consume como parte del conjuro) Duración: Hasta que sea disipado Una llama surge de un objeto que toques. El efecto emite una luz brillante en un radio de 6 m y una luz tenue 6 m más allá. Parece una llama normal, pero no genera calor ni consume combustible. La llama se puede tapar u ocultar, pero no se puede apagar ni extinguir."
+      }
+    },
+    {
+      "id": "druida-srd-localizar-animales-o-plantas",
+      "classId": "druida",
+      "name": "Localizar animales o plantas",
+      "level": 3,
+      "attribute": "empatia",
+      "description": "Inspiración: Describe o nombra un tipo concreto de bestia, criatura de tipo “planta” o planta no mágica. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 162,
+        "name": "Localizar animales o plantas",
+        "text": "Adivinación de nivel 2 (bardo, druida, explorador) Tiempo de lanzamiento: Acción o ritual Alcance: Lanzador Componentes: V, S, M (pelaje de un sabueso) Duración: Instantáneo Describe o nombra un tipo concreto de bestia, criatura de tipo “planta” o planta no mágica. Descubres la dirección y la distancia hasta la criatura o la planta de ese tipo más cercana que esté a 7,5 km o menos, siempre y cuando haya alguna."
+      }
+    },
+    {
+      "id": "druida-srd-localizar-objeto",
+      "classId": "druida",
+      "name": "Localizar objeto",
+      "level": 3,
+      "attribute": "empatia",
+      "description": "Inspiración: Describe o nombra un objeto que conozcas. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 162,
+        "name": "Localizar objeto",
+        "text": "Adivinación de nivel 2 (bardo, clérigo, druida, explorador, mago, paladín) Tiempo de lanzamiento: Acción Alcance: Lanzador Componentes: V, S, M (una ramita con forma de horquilla) Duración: Concentración, hasta 10 minutos Describe o nombra un objeto que conozcas. Presientes la dirección en la que se encuentra dicho objeto si está a 300 m o menos de ti. Si el objeto se está moviendo, conoces la dirección de su movimiento. El conjuro puede localizar un objeto específico que conozcas si lo has visto de cerca (a 9 m o menos) al menos una vez. Como alternativa, el conjuro puede localizar el objeto más cercano de un tipo particular, como un cierto tipo de ropa, joyas, muebles, herramientas o armas. El conjuro no puede localizar un objeto si hay cualquier grosor de plomo que bloquee una ruta directa entre dicho objeto y tú."
+      }
+    },
+    {
+      "id": "druida-srd-mensaje",
+      "classId": "druida",
+      "name": "Mensaje",
+      "level": 1,
+      "attribute": "empatia",
+      "description": "Inspiración: Señalas a una criatura dentro del alcance y susurras un mensaje. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 165,
+        "name": "Mensaje",
+        "text": "Truco de transmutación (bardo, druida, hechicero, mago) Tiempo de lanzamiento: Acción Alcance: 36 m Componentes: S, M (un alambre de cobre) Duración: 1 asalto Señalas a una criatura dentro del alcance y susurras un mensaje. El objetivo (y únicamente el objetivo) escucha el mensaje y puede responder con un susurro que solamente tú puedes oír. Puedes lanzar este conjuro a través de objetos físicos si conoces al objetivo y sabes que está detrás de la barrera. El silencio mágico, 30 cm de piedra, metal o madera o una lámina fina de plomo bloquean el conjuro."
+      }
+    },
+    {
+      "id": "druida-srd-mensajero-animal",
+      "classId": "druida",
+      "name": "Mensajero animal",
+      "level": 3,
+      "attribute": "empatia",
+      "description": "Inspiración: Una bestia Diminuta de tu elección que puedas ver dentro del alcance deberá superar una tirada de salvación de Carisma o intentará enviar un mensaje por ti (si el valor de desafío del objetivo no es una cantidad acordada, la supera automáticamente). Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 166,
+        "name": "Mensajero animal",
+        "text": "Encantamiento de nivel 2 (bardo, druida, explorador) Tiempo de lanzamiento: Acción o ritual Alcance: 9 m Componentes: V, S, M (unas migajas de comida) Duración: 24 horas Una bestia Diminuta de tu elección que puedas ver dentro del alcance deberá superar una tirada de salvación de Carisma o intentará enviar un mensaje por ti (si el valor de desafío del objetivo no es 0, la supera automáticamente). Indica un lugar que hayas visitado y da una descripción general del destinatario, como “una persona que lleva un uniforme de guardia de la ciudad” o “una enana pelirroja con un gorro puntiagudo”. Además, le transmites al animal un mensaje de hasta 25 palabras. Hasta que termine el conjuro, la bestia viajará hacia el lugar elegido y recorrerá aproximadamente 37,5 km cada 24 horas o 75 km si puede volar. Cuando llegue, la bestia entregará tu mensaje a la criatura que le hayas descrito e imitará tu forma de comunicarte. Si la bestia no llega a su destino antes de que el conjuro termine, el mensaje se pierde y la bestia regresa al lugar donde lanzaste el conjuro. Con un espacio de conjuro de nivel superior. La duración del conjuro aumenta en 48 horas por cada nivel por encima de 2 que tenga el espacio."
+      }
+    },
+    {
+      "id": "druida-srd-nube-de-oscurecimiento",
+      "classId": "druida",
+      "name": "Nube de oscurecimiento",
+      "level": 2,
+      "attribute": "empatia",
+      "description": "Inspiración: Creas una esfera de niebla de una cantidad acordada m de radio centrada en un punto dentro del alcance. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 170,
+        "name": "Nube de oscurecimiento",
+        "text": "Conjuración de nivel 1 (druida, explorador, hechicero, mago) Tiempo de lanzamiento: Acción Alcance: 36 m Componentes: V, S Duración: Concentración, hasta 1 hora Creas una esfera de niebla de 6 m de radio centrada en un punto dentro del alcance. La esfera está muy oscura y dura hasta que el conjuro termine o hasta que la disperse un viento fuerte (por ejemplo, el que crea ráfaga de viento). Con un espacio de conjuro de nivel superior. El radio de la niebla aumenta en 6 m por cada nivel por encima de 1 que tenga el espacio."
+      }
+    },
+    {
+      "id": "druida-srd-ola-atronadora",
+      "classId": "druida",
+      "name": "Ola atronadora",
+      "level": 2,
+      "attribute": "empatia",
+      "description": "Inspiración: Desatas una ola de energía atronadora. Adaptación: una acción, un objetivo, daño 1d4. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "damage": "1d4",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 170,
+        "name": "Ola atronadora",
+        "text": "Evocación de nivel 1 (bardo, druida, hechicero, mago) Tiempo de lanzamiento: Acción Alcance: Lanzador Componentes: V, S Duración: Instantáneo Desatas una ola de energía atronadora. Todas las criaturas situadas en un cubo de 4,5 m de lado adyacente a ti harán una tirada de salvación de Constitución. Si la fallan, recibirán 2d8 de daño de trueno y serán empujadas 3 m respecto a ti. Si la superan, solo sufrirán la mitad de ese daño. Además, a los objetos sueltos que estén completamente dentro del cubo se les empujará 3 m respecto a ti y la explosión atronadora podrá oírse a 90 m de distancia. Con un espacio de conjuro de nivel superior. El daño aumenta en 1d8 por cada nivel por encima de 1 que tenga el espacio."
+      }
+    },
+    {
+      "id": "druida-srd-palabra-de-curacion",
+      "classId": "druida",
+      "name": "Palabra de curación",
+      "level": 2,
+      "attribute": "empatia",
+      "description": "Inspiración: Una criatura de tu elección que puedas ver dentro del alcance recupera una cantidad de puntos de golpe igual a el daño adaptado más tu modificador por aptitud mágica. Adaptación: una acción, un objetivo, cura 2 puntos de vida manualmente sin superar el máximo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 171,
+        "name": "Palabra de curación",
+        "text": "Abjuración de nivel 1 (bardo, clérigo, druida) Tiempo de lanzamiento: Acción adicional Alcance: 18 m Componentes: V Duración: Instantáneo Una criatura de tu elección que puedas ver dentro del alcance recupera una cantidad de puntos de golpe igual a 2d4 más tu modificador por aptitud mágica. Con un espacio de conjuro de nivel superior. La curación aumenta en 2d4 por cada nivel por encima de 1 que tenga el espacio."
+      }
+    },
+    {
+      "id": "druida-srd-pasar-sin-rastro",
+      "classId": "druida",
+      "name": "Pasar sin rastro",
+      "level": 3,
+      "attribute": "empatia",
+      "description": "Inspiración: Hasta que el conjuro termine, irradias un aura de ocultación en una emanación de una cantidad acordada m. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 172,
+        "name": "Pasar sin rastro",
+        "text": "Abjuración de nivel 2 (druida, explorador) Tiempo de lanzamiento: Acción Alcance: Lanzador Componentes: V, S, M (cenizas de muérdago quemado) Duración: Concentración, hasta 1 hora Hasta que el conjuro termine, irradias un aura de ocultación en una emanación de 9 m. Mientras permanezcáis dentro, las criaturas que elijas y tú tendréis un bonificador de +10 a las pruebas de Destreza (Sigilo) y no dejaréis huellas."
+      }
+    },
+    {
+      "id": "druida-srd-piedad-con-los-moribundos",
+      "classId": "druida",
+      "name": "Piedad con los moribundos",
+      "level": 1,
+      "attribute": "empatia",
+      "description": "Inspiración: Elige a una criatura dentro del alcance que tenga una cantidad acordada puntos de golpe y no esté muerta. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 173,
+        "name": "Piedad con los moribundos",
+        "text": "Truco de nigromancia (clérigo, druida) Tiempo de lanzamiento: Acción Alcance: 4,5 m Componentes: V, S Duración: Instantáneo Elige a una criatura dentro del alcance que tenga 0 puntos de golpe y no esté muerta. La criatura pasa a estar estable. Mejora de truco. El alcance se duplica cuando alcanzas los niveles 5 (9 m), 11 (18 m) y 17 (36 m)."
+      }
+    },
+    {
+      "id": "druida-srd-piel-robliza",
+      "classId": "druida",
+      "name": "Piel robliza",
+      "level": 3,
+      "attribute": "empatia",
+      "description": "Inspiración: Tocas a una criatura voluntaria. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 174,
+        "name": "Piel robliza",
+        "text": "Transmutación de nivel 2 (druida, explorador) Tiempo de lanzamiento: Acción adicional Alcance: Toque Componentes: V, S, M (un puñado de corteza) Duración: 1 hora Tocas a una criatura voluntaria. Hasta que el conjuro termine, la piel del objetivo adopta una apariencia de corteza y su clase de armadura no podrá ser inferior a 17."
+      }
+    },
+    {
+      "id": "druida-srd-potenciar-caracteristica",
+      "classId": "druida",
+      "name": "Potenciar característica",
+      "level": 3,
+      "attribute": "empatia",
+      "description": "Inspiración: Tocas a una criatura y eliges Fuerza, Destreza, Inteligencia, Sabiduría o Carisma. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 175,
+        "name": "Potenciar característica",
+        "text": "Transmutación de nivel 2 (bardo, clérigo, druida, explorador, hechicero, mago) Tiempo de lanzamiento: Acción Alcance: Toque Componentes: V, S, M (pelo de animal o una pluma) Duración: Concentración, hasta 1 hora Tocas a una criatura y eliges Fuerza, Destreza, Inteligencia, Sabiduría o Carisma. Hasta que termine el conjuro, el objetivo tiene ventaja en las pruebas con la característica elegida. Con un espacio de conjuro de nivel superior. Puedes hacer objetivo a una criatura adicional por cada nivel por encima de 2 que tenga el espacio. Puedes elegir una característica distinta para cada objetivo."
+      }
+    },
+    {
+      "id": "druida-srd-proteccion-contra-el-bien-y-el-mal",
+      "classId": "druida",
+      "name": "Protección contra el bien y el mal",
+      "level": 2,
+      "attribute": "empatia",
+      "description": "Inspiración: Hasta que el conjuro termine, una criatura voluntaria a la que toques estará protegida contra aberraciones, celestiales, elementales, feéricos, infernales o muertos vivientes. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 176,
+        "name": "Protección contra el bien y el mal",
+        "text": "Abjuración de nivel 1 (brujo, clérigo, druida, mago, paladín) Tiempo de lanzamiento: Acción Alcance: Toque Componentes: V, S, M (un frasco de agua bendita que valga al menos 25 po, que se consume como parte del conjuro) Duración: Concentración, hasta 10 minutos Hasta que el conjuro termine, una criatura voluntaria a la que toques estará protegida contra aberraciones, celestiales, elementales, feéricos, infernales o muertos vivientes. La protección concede varios beneficios. Las criaturas de esos tipos tendrán desventaja en las tiradas de ataque contra el objetivo. El objetivo tampoco puede ser poseído por las criaturas ni obtener los estados de asustado o hechizado a causa de ellas. Si el objetivo ya está asustado, hechizado o poseído por una criatura de estos tipos, dicho objetivo tendrá ventaja en cualquier nueva tirada de salvación contra el efecto correspondiente."
+      }
+    },
+    {
+      "id": "druida-srd-proteccion-contra-veneno",
+      "classId": "druida",
+      "name": "Protección contra veneno",
+      "level": 3,
+      "attribute": "empatia",
+      "description": "Inspiración: Tocas a una criatura y pones fin al estado de envenenada si lo sufre. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 176,
+        "name": "Protección contra veneno",
+        "text": "Abjuración de nivel 2 (clérigo, druida, explorador, paladín) Tiempo de lanzamiento: Acción Alcance: Toque Componentes: V, S Duración: 1 hora Tocas a una criatura y pones fin al estado de envenenada si lo sufre. Hasta que termine el conjuro, el objetivo tiene ventaja en las tiradas de salvación para evitar o poner fin al estado de envenenado y resistencia al daño de veneno."
+      }
+    },
+    {
+      "id": "druida-srd-purificar-comida-y-bebida",
+      "classId": "druida",
+      "name": "Purificar comida y bebida",
+      "level": 2,
+      "attribute": "empatia",
+      "description": "Inspiración: Eliminas el veneno y la podredumbre de la comida y bebida no mágicas en una esfera de una cantidad acordada m de radio centrada en un punto dentro del alcance. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 178,
+        "name": "Purificar comida y bebida",
+        "text": "Transmutación de nivel 1 (clérigo, druida, paladín) Tiempo de lanzamiento: Acción o ritual Alcance: 3 m Componentes: V, S Duración: Instantáneo Eliminas el veneno y la podredumbre de la comida y bebida no mágicas en una esfera de 1,5 m de radio centrada en un punto dentro del alcance."
+      }
+    },
+    {
+      "id": "druida-srd-rafaga-de-viento",
+      "classId": "druida",
+      "name": "Ráfaga de viento",
+      "level": 3,
+      "attribute": "empatia",
+      "description": "Inspiración: De ti surge una ráfaga de viento fuerte en una línea recta de una cantidad acordada m de largo y una cantidad acordada m de ancho en la dirección que elijas hasta que termine el conjuro. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 178,
+        "name": "Ráfaga de viento",
+        "text": "Evocación de nivel 2 (druida, explorador, hechicero, mago) Tiempo de lanzamiento: Acción Alcance: Lanzador Componentes: V, S, M (la semilla de una legumbre) Duración: Concentración, hasta 1 minuto De ti surge una ráfaga de viento fuerte en una línea recta de 18 m de largo y 3 m de ancho en la dirección que elijas hasta que termine el conjuro. Todas las criaturas en esa línea deberán superar una tirada de salvación de Fuerza o serán empujadas 4,5 m en la dirección de la línea. Las criaturas que terminen su turno en ella también deberán hacer la tirada de salvación. Cualquier criatura que esté en la línea deberá gastar 2 m de movimiento por cada metro que se mueva para acercarse a ti. La ráfaga dispersa el gas o el vapor y apaga velas y otras llamas desprotegidas de la zona. Hace que las llamas protegidas, como las de los faroles, se agiten salvajemente y tienen un 50 % de probabilidad de apagarse. Como acción adicional en tus siguientes turnos, puedes cambiar la dirección en la que la línea surge de ti."
+      }
+    },
+    {
+      "id": "druida-srd-rayo-de-luna",
+      "classId": "druida",
+      "name": "Rayo de luna",
+      "level": 3,
+      "attribute": "empatia",
+      "description": "Inspiración: Un rayo de luz pálida y plateada brilla en un cilindro de una cantidad acordada m de radio y una cantidad acordada m de alto centrado en un punto dentro del alcance. Adaptación: una acción, un objetivo, daño 1d6. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "damage": "1d6",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 178,
+        "name": "Rayo de luna",
+        "text": "Evocación de nivel 2 (druida) Tiempo de lanzamiento: Acción Alcance: 36 m Componentes: V, S, M (una hoja con forma de media luna) Duración: Concentración, hasta 1 minuto Un rayo de luz pálida y plateada brilla en un cilindro de 1,5 m de radio y 12 m de alto centrado en un punto dentro del alcance. Hasta que el conjuro termine, una luz tenue llena el cilindro y puedes emplear una acción de magia en turnos posteriores para mover el cilindro hasta 18 m. Cuando el cilindro aparezca, todas las criaturas que haya en él realizan una tirada de salvación de Constitución. Si la fallan, recibirán 2d10 de daño radiante, y si una criatura ha cambiado de forma (por ejemplo, como resultado del conjuro polimorfar), volverá a su forma real y no podrá cambiarla hasta que salga del cilindro. Si la superan, solo sufrirán la mitad de ese daño. Una criatura también deberá hacer esta tirada cuando el área del conjuro entre en su espacio o cuando la criatura entre en el área o acabe su turno en ella. Una criatura solo hace esta tirada una vez por turno. Con un espacio de conjuro de nivel superior. El daño aumenta en 1d10 por cada nivel por encima de 2 que tenga el espacio."
+      }
+    },
+    {
+      "id": "druida-srd-reparar",
+      "classId": "druida",
+      "name": "Reparar",
+      "level": 1,
+      "attribute": "empatia",
+      "description": "Inspiración: Este conjuro repara una sola grieta o desgarrón en un objeto que toques, como un eslabón roto en una cadena, las dos mitades de una llave partida, una capa rasgada o una fuga en una bota de vino. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 180,
+        "name": "Reparar",
+        "text": "Truco de transmutación (bardo, clérigo, druida, hechicero, mago) Tiempo de lanzamiento: 1 minuto Alcance: Toque Componentes: V, S, M (dos imanes naturales) Duración: Instantáneo Este conjuro repara una sola grieta o desgarrón en un objeto que toques, como un eslabón roto en una cadena, las dos mitades de una llave partida, una capa rasgada o una fuga en una bota de vino. Mientras la grieta o el desgarrón no tenga más de 30 cm de tamaño en ninguna de sus dimensiones, lo arreglarás sin dejar rastro del daño. Este conjuro puede reparar el componente físico de un objeto mágico, pero no puede restaurar su magia."
+      }
+    },
+    {
+      "id": "druida-srd-resistencia",
+      "classId": "druida",
+      "name": "Resistencia",
+      "level": 1,
+      "attribute": "empatia",
+      "description": "Inspiración: Tocas a una criatura voluntaria y eliges un tipo de daño: ácido, contundente, cortante, frío, fuego, necrótico, perforante, radiante, relámpago, trueno o veneno. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 181,
+        "name": "Resistencia",
+        "text": "Truco de abjuración (clérigo, druida) Tiempo de lanzamiento: Acción Alcance: Toque Componentes: V, S Duración: Concentración, hasta 1 minuto Tocas a una criatura voluntaria y eliges un tipo de daño: ácido, contundente, cortante, frío, fuego, necrótico, perforante, radiante, relámpago, trueno o veneno. Cuando la criatura sufra daño del tipo elegido antes de que termine el conjuro, reduce el daño total recibido en 1d4. Una criatura solo puede beneficiarse de este conjuro una vez por turno."
+      }
+    },
+    {
+      "id": "druida-srd-restablecimiento-menor",
+      "classId": "druida",
+      "name": "Restablecimiento menor",
+      "level": 3,
+      "attribute": "empatia",
+      "description": "Inspiración: Tocas a una criatura y le pones fin a un estado que tenga: cegada, ensordecida, envenenada o paralizada. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 181,
+        "name": "Restablecimiento menor",
+        "text": "Abjuración de nivel 2 (bardo, clérigo, druida, explorador, paladín) Tiempo de lanzamiento: Acción adicional Alcance: Toque Componentes: V, S Duración: Instantáneo Tocas a una criatura y le pones fin a un estado que tenga: cegada, ensordecida, envenenada o paralizada."
+      }
+    },
+    {
+      "id": "druida-srd-rociada-venenosa",
+      "classId": "druida",
+      "name": "Rociada venenosa",
+      "level": 1,
+      "attribute": "empatia",
+      "description": "Inspiración: Rocías a una criatura dentro del alcance con una niebla tóxica. Adaptación: una acción, un objetivo, daño 1d4. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "damage": "1d4",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 182,
+        "name": "Rociada venenosa",
+        "text": "Truco de nigromancia (brujo, druida, hechicero, mago) Tiempo de lanzamiento: Acción Alcance: 9 m Componentes: V, S Duración: Instantáneo Rocías a una criatura dentro del alcance con una niebla tóxica. Haz un ataque de conjuro a distancia contra el objetivo. Si acierta, el objetivo recibe 1d12 de daño de veneno. Mejora de truco. El daño aumenta en 1d12 cuando alcanzas los niveles 5 (2d12), 11 (3d12) y 17 (4d12)."
+      }
+    },
+    {
+      "id": "druida-srd-saber-druidico",
+      "classId": "druida",
+      "name": "Saber druídico",
+      "level": 1,
+      "attribute": "empatia",
+      "description": "Inspiración: Susurras a los espíritus de la naturaleza y produces uno de los siguientes efectos dentro del alcance. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 183,
+        "name": "Saber druídico",
+        "text": "Truco de transmutación (druida) Tiempo de lanzamiento: Acción Alcance: 9 m Componentes: V, S Duración: Instantáneo Susurras a los espíritus de la naturaleza y produces uno de los siguientes efectos dentro del alcance. Efecto sensorial. Creas un efecto sensorial inofensivo, como hojas cayendo, hadas espectrales bailando, una suave brisa, el sonido de un animal o un leve olor a mofeta. El efecto debe caber en un cubo de 1,5 m de lado. Florecer. Haces que, al instante, una flor florezca, una vaina de semillas se abra o el brote de una hoja germine. Jugar con fuego. Enciendes o apagas una vela, una antorcha o una hoguera. Sensor climático. Creas un efecto sensorial Diminuto e inofensivo que predice el clima que habrá en tu ubicación durante las siguientes 24 horas. El efecto se manifiesta como un orbe dorado para los cielos despejados, una nube para la lluvia, copos de nieve para la nieve, etc. Este efecto persiste durante 1 asalto."
+      }
+    },
+    {
+      "id": "druida-srd-salto",
+      "classId": "druida",
+      "name": "Salto",
+      "level": 2,
+      "attribute": "empatia",
+      "description": "Inspiración: Tocas a una criatura voluntaria. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 183,
+        "name": "Salto",
+        "text": "Transmutación de nivel 1 (druida, explorador, hechicero, mago) Tiempo de lanzamiento: Acción adicional Alcance: Toque Componentes: V, S, M (la pata trasera de un saltamontes) Duración: 1 minuto Tocas a una criatura voluntaria. Una vez en cada uno de sus turnos hasta que el conjuro termine, la criatura puede saltar hasta 9 m usando 3 m de movimiento. Con un espacio de conjuro de nivel superior. Puedes hacer objetivo a una criatura adicional por cada nivel por encima de 1 que tenga el espacio."
+      }
+    },
+    {
+      "id": "druida-srd-shillelagh",
+      "classId": "druida",
+      "name": "Shillelagh",
+      "level": 1,
+      "attribute": "empatia",
+      "description": "Inspiración: Un bastón o un garrote que sostengas se ve impregnado del poder de la naturaleza. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 184,
+        "name": "Shillelagh",
+        "text": "Truco de transmutación (druida) Tiempo de lanzamiento: Acción adicional Alcance: Lanzador Componentes: V, S, M (muérdago) Duración: 1 minuto Un bastón o un garrote que sostengas se ve impregnado del poder de la naturaleza. Hasta que termine el conjuro, puedes usar tu aptitud mágica en lugar de tu Fuerza para las tiradas de ataque y de daño de tus ataques cuerpo a cuerpo usando esa arma y el dado de daño pasa a ser un d8. Si el ataque inflige daño, puede ser de fuerza o del tipo de daño normal del arma (a tu elección). El conjuro termina antes de tiempo si lo vuelves a lanzar o si sueltas el arma. Mejora de truco. El dado de daño cambia cuando alcanzas los niveles 5 (d10), 11 (d12) y 17 (2d6)."
+      }
+    },
+    {
+      "id": "druida-srd-vision-en-la-oscuridad",
+      "classId": "druida",
+      "name": "Visión en la oscuridad",
+      "level": 3,
+      "attribute": "empatia",
+      "description": "Inspiración: Hasta que el conjuro termine, una criatura voluntaria a la que toques tendrá visión en la oscuridad hasta una cantidad acordada m. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 193,
+        "name": "Visión en la oscuridad",
+        "text": "Transmutación de nivel 2 (druida, explorador, hechicero, mago) Tiempo de lanzamiento: Acción Alcance: Toque Componentes: V, S, M (una zanahoria seca) Duración: 8 horas Hasta que el conjuro termine, una criatura voluntaria a la que toques tendrá visión en la oscuridad hasta 45 m."
+      }
+    },
+    {
+      "id": "druida-srd-voluta-estelar",
+      "classId": "druida",
+      "name": "Voluta estelar",
+      "level": 1,
+      "attribute": "empatia",
+      "description": "Inspiración: Lanzas una mota de luz contra una criatura u objeto dentro del alcance. Adaptación: una acción, un objetivo, daño 1d4. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "damage": "1d4",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 193,
+        "name": "Voluta estelar",
+        "text": "Truco de evocación (bardo, druida) Tiempo de lanzamiento: Acción Alcance: 18 m Componentes: V, S Duración: Instantáneo Lanzas una mota de luz contra una criatura u objeto dentro del alcance. Haz un ataque de conjuro a distancia contra el objetivo. Si acierta, el objetivo recibirá 1d8 de daño radiante y, hasta el final de tu siguiente turno, emitirá luz tenue en un radio de 3 m y no podrá beneficiarse del estado de invisible. Mejora de truco. El daño aumenta en 1d8 cuando alcanzas los niveles 5 (2d8), 11 (3d8) y 17 (4d8)."
+      }
+    },
+    {
+      "id": "druida-srd-zancada-prodigiosa",
+      "classId": "druida",
+      "name": "Zancada prodigiosa",
+      "level": 2,
+      "attribute": "empatia",
+      "description": "Inspiración: Tocas a una criatura y su velocidad aumenta en una cantidad acordada m hasta que el conjuro termine. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 193,
+        "name": "Zancada prodigiosa",
+        "text": "Transmutación de nivel 1 (bardo, druida, explorador, mago) Tiempo de lanzamiento: Acción Alcance: Toque Componentes: V, S, M (una pizca de tierra) Duración: 1 hora Tocas a una criatura y su velocidad aumenta en 3 m hasta que el conjuro termine. Con un espacio de conjuro de nivel superior. Puedes hacer objetivo a una criatura adicional por cada nivel por encima de 1 que tenga el espacio."
+      }
+    }
+  ]
+}

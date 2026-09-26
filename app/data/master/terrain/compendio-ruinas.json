@@ -1,0 +1,705 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "terrain-compendio-ruinas-01",
+      "kind": "terrain",
+      "name": "Teatro de las Máscaras Caídas",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Adriaen_van_de_Velde_-_Pastoral_Landscape_with_Ruins_-_1894.1024_-_Art_Institute_of_Chicago.jpg/960px-Adriaen_van_de_Velde_-_Pastoral_Landscape_with_Ruins_-_1894.1024_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "Pastoral Landscape with Ruins · Adriaen van de Velde · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Adriaen_van_de_Velde_-_Pastoral_Landscape_with_Ruins_-_1894.1024_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Máscaras de piedra yacen entre gradas invadidas por plantas bajas. Los restos del lugar dejan ver partes de una organización anterior. Lo que ahora parece un paso pudo ser una pared, y lo que permanece cerrado quizá fue una entrada importante antes del deterioro.\n\nPolvo, plantas y materiales caídos ocupan los espacios que han perdido protección. Las zonas todavía cubiertas conservan colores y marcas más definidos. Entre los fragmentos se reconocen trabajos de épocas distintas, algunos añadidos para mantener en uso una parte del conjunto cuando las demás ya estaban abandonadas. Los caminos recientes aprovechan esas diferencias sin seguir necesariamente el trazado original.\n\nUn espacio pequeño ha quedado deliberadamente vacío. A su alrededor se reconocen señales de actividad, pero ninguna lo atraviesa. La ausencia no demuestra peligro: también podría tratarse de una reserva, una costumbre o una simple espera. Más allá del punto de entrada queda una perspectiva por descubrir. Desde aquí solo se percibe una parte del lugar; para conocer el resto habría que acercarse y cambiar el ángulo de observación.",
+      "musicUrl": "https://www.youtube.com/results?search_query=ancient%20ruins%20mysterious%20ambient",
+      "abilities": [
+        "Entorno: Ruinas y lugares olvidados. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Máscaras de piedra yacen entre gradas invadidas por plantas bajas. Dos grupos atribuyen significados distintos a este detalle. El master puede permitir una solución que respete ambos usos, o presentar las consecuencias de favorecer a uno de ellos.",
+        "Rumbo opcional: Un grupo reclama un objeto del lugar como parte de su historia. El master puede plantear una búsqueda y una decisión sobre su destino, evitando asumir que todo hallazgo carece de dueño.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Mapa. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Esqueleto. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Iria, la cartógrafa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-cartografa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-ruinas-02",
+      "kind": "terrain",
+      "name": "Palacio de los Patios Abiertos",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Jan_Wijnants_-_A_Landscape_with_a_Woman_driving_Sheep_through_a_Ruined_Archway_NG_NG_NG2532.jpg",
+      "imageCredit": {
+        "text": "A Landscape with a Ruined Archway · Jan Wijnants · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Jan_Wijnants_-_A_Landscape_with_a_Woman_driving_Sheep_through_a_Ruined_Archway_NG_NG_NG2532.jpg"
+      },
+      "description": "Patios sin techos conservan fuentes secas conectadas por canales tallados. Los restos del lugar dejan ver partes de una organización anterior. Lo que ahora parece un paso pudo ser una pared, y lo que permanece cerrado quizá fue una entrada importante antes del deterioro.\n\nPolvo, plantas y materiales caídos ocupan los espacios que han perdido protección. Las zonas todavía cubiertas conservan colores y marcas más definidos. Entre los fragmentos se reconocen trabajos de épocas distintas, algunos añadidos para mantener en uso una parte del conjunto cuando las demás ya estaban abandonadas. Los caminos recientes aprovechan esas diferencias sin seguir necesariamente el trazado original.\n\nDesde un extremo se distingue un segundo acceso, estrecho y parcialmente oculto. La ruta principal invita a continuar, pero el desvío conserva señales de uso que no encajan con su aspecto abandonado. El lugar no revela de inmediato si espera visitantes o si intenta mantenerlos a distancia. Sus señales admiten ambas lecturas, y el siguiente paso puede aclarar cuál resulta más convincente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=ancient%20ruins%20mysterious%20ambient",
+      "abilities": [
+        "Entorno: Ruinas y lugares olvidados. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Patios sin techos conservan fuentes secas conectadas por canales tallados. Las señales de uso reciente pertenecen a alguien que evita ser encontrado. Puede necesitar ayuda, intimidad o protección; investigar no demuestra por sí solo culpabilidad ni hostilidad.",
+        "Rumbo opcional: Un grupo reclama un objeto del lugar como parte de su historia. El master puede plantear una búsqueda y una decisión sobre su destino, evitando asumir que todo hallazgo carece de dueño.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Mapa. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Esqueleto. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Mapa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-mapa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-ruinas-03",
+      "kind": "terrain",
+      "name": "Acueducto de los Arcos Rotos",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Adriaen_van_de_Velde_-_Pastoral_Landscape_with_Ruins_-_1894.1024_-_Art_Institute_of_Chicago.jpg/960px-Adriaen_van_de_Velde_-_Pastoral_Landscape_with_Ruins_-_1894.1024_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "Pastoral Landscape with Ruins · Adriaen van de Velde · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Adriaen_van_de_Velde_-_Pastoral_Landscape_with_Ruins_-_1894.1024_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Arcos fragmentados proyectan sombras sobre depósitos de agua improvisados. Los restos del lugar dejan ver partes de una organización anterior. Lo que ahora parece un paso pudo ser una pared, y lo que permanece cerrado quizá fue una entrada importante antes del deterioro.\n\nPolvo, plantas y materiales caídos ocupan los espacios que han perdido protección. Las zonas todavía cubiertas conservan colores y marcas más definidos. Entre los fragmentos se reconocen trabajos de épocas distintas, algunos añadidos para mantener en uso una parte del conjunto cuando las demás ya estaban abandonadas. Los caminos recientes aprovechan esas diferencias sin seguir necesariamente el trazado original.\n\nExiste un pequeño espacio de tránsito entre el exterior y la parte más protegida. Allí se acumulan señales de espera, como si quienes llegaron antes hubieran tenido que detenerse antes de recibir permiso para continuar. La primera impresión invita a seguir, pero un examen pausado ofrece otra posibilidad: detenerse, comparar los rastros y decidir qué detalle merece atención antes de abandonar el sitio.",
+      "musicUrl": "https://www.youtube.com/results?search_query=ancient%20ruins%20mysterious%20ambient",
+      "abilities": [
+        "Entorno: Ruinas y lugares olvidados. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Arcos fragmentados proyectan sombras sobre depósitos de agua improvisados. Un cambio de tiempo amenaza con borrar o dañar este detalle. Documentarlo o protegerlo ofrece una tarea breve cuya urgencia puede ajustarse al ritmo de la sesión.",
+        "Rumbo opcional: Un grupo reclama un objeto del lugar como parte de su historia. El master puede plantear una búsqueda y una decisión sobre su destino, evitando asumir que todo hallazgo carece de dueño.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Mapa. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Esqueleto. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Esqueleto. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-esqueleto"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-ruinas-04",
+      "kind": "terrain",
+      "name": "Ciudad de las Puertas Sin Muros",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Jan_Wijnants_-_A_Landscape_with_a_Woman_driving_Sheep_through_a_Ruined_Archway_NG_NG_NG2532.jpg",
+      "imageCredit": {
+        "text": "A Landscape with a Ruined Archway · Jan Wijnants · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Jan_Wijnants_-_A_Landscape_with_a_Woman_driving_Sheep_through_a_Ruined_Archway_NG_NG_NG2532.jpg"
+      },
+      "description": "Marcos de puertas permanecen de pie entre cimientos apenas visibles. Los restos del lugar dejan ver partes de una organización anterior. Lo que ahora parece un paso pudo ser una pared, y lo que permanece cerrado quizá fue una entrada importante antes del deterioro.\n\nPolvo, plantas y materiales caídos ocupan los espacios que han perdido protección. Las zonas todavía cubiertas conservan colores y marcas más definidos. Entre los fragmentos se reconocen trabajos de épocas distintas, algunos añadidos para mantener en uso una parte del conjunto cuando las demás ya estaban abandonadas. Los caminos recientes aprovechan esas diferencias sin seguir necesariamente el trazado original.\n\nAlgo ha dejado una sombra o una huella sin permanecer en su sitio. El contorno resulta más claro que el resto de las señales cercanas. Alrededor, nada indica si fue retirado con cuidado o llevado apresuradamente. Desde esta posición se puede distinguir por dónde llegó la última presencia conocida. Su destino, en cambio, permanece fuera de la vista y no coincide necesariamente con la salida más evidente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=ancient%20ruins%20mysterious%20ambient",
+      "abilities": [
+        "Entorno: Ruinas y lugares olvidados. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Marcos de puertas permanecen de pie entre cimientos apenas visibles. Una persona ofrece un objeto útil si el grupo comprueba qué ha cambiado aquí. La información obtenida puede interesar a otra persona y conectar este lugar con una visita anterior.",
+        "Rumbo opcional: Un grupo reclama un objeto del lugar como parte de su historia. El master puede plantear una búsqueda y una decisión sobre su destino, evitando asumir que todo hallazgo carece de dueño.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Mapa. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Esqueleto. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Iria, la cartógrafa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-cartografa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-ruinas-05",
+      "kind": "terrain",
+      "name": "Biblioteca de los Nichos Vacíos",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Adriaen_van_de_Velde_-_Pastoral_Landscape_with_Ruins_-_1894.1024_-_Art_Institute_of_Chicago.jpg/960px-Adriaen_van_de_Velde_-_Pastoral_Landscape_with_Ruins_-_1894.1024_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "Pastoral Landscape with Ruins · Adriaen van de Velde · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Adriaen_van_de_Velde_-_Pastoral_Landscape_with_Ruins_-_1894.1024_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Nichos vacíos rodean mesas derrumbadas cubiertas de fragmentos de cerámica. Los restos del lugar dejan ver partes de una organización anterior. Lo que ahora parece un paso pudo ser una pared, y lo que permanece cerrado quizá fue una entrada importante antes del deterioro.\n\nPolvo, plantas y materiales caídos ocupan los espacios que han perdido protección. Las zonas todavía cubiertas conservan colores y marcas más definidos. Entre los fragmentos se reconocen trabajos de épocas distintas, algunos añadidos para mantener en uso una parte del conjunto cuando las demás ya estaban abandonadas. Los caminos recientes aprovechan esas diferencias sin seguir necesariamente el trazado original.\n\nLas huellas de desgaste dibujan un recorrido más estrecho que el espacio disponible. Durante mucho tiempo, quienes pasaron eligieron el mismo trayecto. Fuera de él quedan detalles intactos que apenas han recibido atención. El entorno guarda suficiente silencio entre sus sonidos para escuchar lo que ocurra después. Ninguna señal obliga a intervenir; aun así, cuesta ignorar el detalle que se aparta de todos los demás.",
+      "musicUrl": "https://www.youtube.com/results?search_query=ancient%20ruins%20mysterious%20ambient",
+      "abilities": [
+        "Entorno: Ruinas y lugares olvidados. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Nichos vacíos rodean mesas derrumbadas cubiertas de fragmentos de cerámica. Este lugar admite una escena tranquila de observación o conversación. El master puede usar el detalle visible para recordar un vínculo del personaje sin introducir un nuevo conflicto.",
+        "Rumbo opcional: Un grupo reclama un objeto del lugar como parte de su historia. El master puede plantear una búsqueda y una decisión sobre su destino, evitando asumir que todo hallazgo carece de dueño.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Mapa. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Esqueleto. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Mapa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-mapa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-ruinas-06",
+      "kind": "terrain",
+      "name": "Torre del Escudo Desprendido",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Jan_Wijnants_-_A_Landscape_with_a_Woman_driving_Sheep_through_a_Ruined_Archway_NG_NG_NG2532.jpg",
+      "imageCredit": {
+        "text": "A Landscape with a Ruined Archway · Jan Wijnants · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Jan_Wijnants_-_A_Landscape_with_a_Woman_driving_Sheep_through_a_Ruined_Archway_NG_NG_NG2532.jpg"
+      },
+      "description": "Un escudo de piedra caído bloquea la base de una torre hueca. Los restos del lugar dejan ver partes de una organización anterior. Lo que ahora parece un paso pudo ser una pared, y lo que permanece cerrado quizá fue una entrada importante antes del deterioro.\n\nPolvo, plantas y materiales caídos ocupan los espacios que han perdido protección. Las zonas todavía cubiertas conservan colores y marcas más definidos. Entre los fragmentos se reconocen trabajos de épocas distintas, algunos añadidos para mantener en uso una parte del conjunto cuando las demás ya estaban abandonadas. Los caminos recientes aprovechan esas diferencias sin seguir necesariamente el trazado original.\n\nAlgo aquí ha sido reparado con materiales distintos de los originales. El arreglo resulta modesto y cuidadoso. Junto a él permanece la pieza rota, guardada como si todavía pudiera servir para otra cosa. Más allá del punto de entrada queda una perspectiva por descubrir. Desde aquí solo se percibe una parte del lugar; para conocer el resto habría que acercarse y cambiar el ángulo de observación.",
+      "musicUrl": "https://www.youtube.com/results?search_query=ancient%20ruins%20mysterious%20ambient",
+      "abilities": [
+        "Entorno: Ruinas y lugares olvidados. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Un escudo de piedra caído bloquea la base de una torre hueca. Una persona conoce el origen de este detalle, pero su versión contradice la de quien lo cuida. Contrastar ambas historias puede revelar una necesidad que ninguna admite en público.",
+        "Rumbo opcional: Un grupo reclama un objeto del lugar como parte de su historia. El master puede plantear una búsqueda y una decisión sobre su destino, evitando asumir que todo hallazgo carece de dueño.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Mapa. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Esqueleto. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Esqueleto. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-esqueleto"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-ruinas-07",
+      "kind": "terrain",
+      "name": "Jardín de las Fuentes Dormidas",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Adriaen_van_de_Velde_-_Pastoral_Landscape_with_Ruins_-_1894.1024_-_Art_Institute_of_Chicago.jpg/960px-Adriaen_van_de_Velde_-_Pastoral_Landscape_with_Ruins_-_1894.1024_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "Pastoral Landscape with Ruins · Adriaen van de Velde · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Adriaen_van_de_Velde_-_Pastoral_Landscape_with_Ruins_-_1894.1024_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Fuentes cubiertas de raíces conservan figuras con manos extendidas. Los restos del lugar dejan ver partes de una organización anterior. Lo que ahora parece un paso pudo ser una pared, y lo que permanece cerrado quizá fue una entrada importante antes del deterioro.\n\nPolvo, plantas y materiales caídos ocupan los espacios que han perdido protección. Las zonas todavía cubiertas conservan colores y marcas más definidos. Entre los fragmentos se reconocen trabajos de épocas distintas, algunos añadidos para mantener en uso una parte del conjunto cuando las demás ya estaban abandonadas. Los caminos recientes aprovechan esas diferencias sin seguir necesariamente el trazado original.\n\nVarias señales apuntan a una ocupación reciente, pero ninguna permite saber cuántas personas estuvieron aquí. Los rastros más pequeños se cruzan con los mayores y luego se separan, siguiendo direcciones diferentes. El lugar no revela de inmediato si espera visitantes o si intenta mantenerlos a distancia. Sus señales admiten ambas lecturas, y el siguiente paso puede aclarar cuál resulta más convincente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=ancient%20ruins%20mysterious%20ambient",
+      "abilities": [
+        "Entorno: Ruinas y lugares olvidados. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Fuentes cubiertas de raíces conservan figuras con manos extendidas. Este detalle sirve como señal para una cita. El grupo puede encontrar a quien espera, descubrir por qué nadie acudió o dejar un mensaje para continuar la historia más adelante.",
+        "Rumbo opcional: Un grupo reclama un objeto del lugar como parte de su historia. El master puede plantear una búsqueda y una decisión sobre su destino, evitando asumir que todo hallazgo carece de dueño.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Mapa. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Esqueleto. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Iria, la cartógrafa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-cartografa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-ruinas-08",
+      "kind": "terrain",
+      "name": "Mercado de los Mostradores Pétreos",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Jan_Wijnants_-_A_Landscape_with_a_Woman_driving_Sheep_through_a_Ruined_Archway_NG_NG_NG2532.jpg",
+      "imageCredit": {
+        "text": "A Landscape with a Ruined Archway · Jan Wijnants · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Jan_Wijnants_-_A_Landscape_with_a_Woman_driving_Sheep_through_a_Ruined_Archway_NG_NG_NG2532.jpg"
+      },
+      "description": "Mostradores de piedra forman calles entre columnas de alturas desiguales. Los restos del lugar dejan ver partes de una organización anterior. Lo que ahora parece un paso pudo ser una pared, y lo que permanece cerrado quizá fue una entrada importante antes del deterioro.\n\nPolvo, plantas y materiales caídos ocupan los espacios que han perdido protección. Las zonas todavía cubiertas conservan colores y marcas más definidos. Entre los fragmentos se reconocen trabajos de épocas distintas, algunos añadidos para mantener en uso una parte del conjunto cuando las demás ya estaban abandonadas. Los caminos recientes aprovechan esas diferencias sin seguir necesariamente el trazado original.\n\nEn el límite entre dos superficies queda una acumulación fina de materiales. Las capas más antiguas son oscuras y compactas; por encima descansa una franja clara, todavía suelta, que deja ver el cambio reciente. La primera impresión invita a seguir, pero un examen pausado ofrece otra posibilidad: detenerse, comparar los rastros y decidir qué detalle merece atención antes de abandonar el sitio.",
+      "musicUrl": "https://www.youtube.com/results?search_query=ancient%20ruins%20mysterious%20ambient",
+      "abilities": [
+        "Entorno: Ruinas y lugares olvidados. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Mostradores de piedra forman calles entre columnas de alturas desiguales. Una reparación sencilla permitiría volver a utilizar este lugar. Sus responsables ofrecen información o alojamiento a cambio; decidir quién se beneficiará importa más que obtener una recompensa material.",
+        "Rumbo opcional: Un grupo reclama un objeto del lugar como parte de su historia. El master puede plantear una búsqueda y una decisión sobre su destino, evitando asumir que todo hallazgo carece de dueño.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Mapa. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Esqueleto. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Mapa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-mapa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-ruinas-09",
+      "kind": "terrain",
+      "name": "Baños de los Mosaicos Azules",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Adriaen_van_de_Velde_-_Pastoral_Landscape_with_Ruins_-_1894.1024_-_Art_Institute_of_Chicago.jpg/960px-Adriaen_van_de_Velde_-_Pastoral_Landscape_with_Ruins_-_1894.1024_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "Pastoral Landscape with Ruins · Adriaen van de Velde · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Adriaen_van_de_Velde_-_Pastoral_Landscape_with_Ruins_-_1894.1024_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Mosaicos azules aparecen bajo sedimentos en piscinas sin agua. Los restos del lugar dejan ver partes de una organización anterior. Lo que ahora parece un paso pudo ser una pared, y lo que permanece cerrado quizá fue una entrada importante antes del deterioro.\n\nPolvo, plantas y materiales caídos ocupan los espacios que han perdido protección. Las zonas todavía cubiertas conservan colores y marcas más definidos. Entre los fragmentos se reconocen trabajos de épocas distintas, algunos añadidos para mantener en uso una parte del conjunto cuando las demás ya estaban abandonadas. Los caminos recientes aprovechan esas diferencias sin seguir necesariamente el trazado original.\n\nUn objeto cotidiano descansa donde nadie esperaría encontrarlo. Está limpio por un lado y gastado por el otro, como si hubiera pasado mucho tiempo protegido antes de quedar expuesto de nuevo. Desde esta posición se puede distinguir por dónde llegó la última presencia conocida. Su destino, en cambio, permanece fuera de la vista y no coincide necesariamente con la salida más evidente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=ancient%20ruins%20mysterious%20ambient",
+      "abilities": [
+        "Entorno: Ruinas y lugares olvidados. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Mosaicos azules aparecen bajo sedimentos en piscinas sin agua. Alguien ha reproducido este detalle en un mapa incompleto. Seguir la siguiente marca puede llevar a otro terreno del mismo entorno, sin exigir que la ruta sea peligrosa.",
+        "Rumbo opcional: Un grupo reclama un objeto del lugar como parte de su historia. El master puede plantear una búsqueda y una decisión sobre su destino, evitando asumir que todo hallazgo carece de dueño.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Mapa. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Esqueleto. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Esqueleto. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-esqueleto"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-ruinas-10",
+      "kind": "terrain",
+      "name": "Palacio del Balcón Suspendido",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Jan_Wijnants_-_A_Landscape_with_a_Woman_driving_Sheep_through_a_Ruined_Archway_NG_NG_NG2532.jpg",
+      "imageCredit": {
+        "text": "A Landscape with a Ruined Archway · Jan Wijnants · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Jan_Wijnants_-_A_Landscape_with_a_Woman_driving_Sheep_through_a_Ruined_Archway_NG_NG_NG2532.jpg"
+      },
+      "description": "Un balcón sin escalera domina un salón cuyo techo ha desaparecido. Los restos del lugar dejan ver partes de una organización anterior. Lo que ahora parece un paso pudo ser una pared, y lo que permanece cerrado quizá fue una entrada importante antes del deterioro.\n\nPolvo, plantas y materiales caídos ocupan los espacios que han perdido protección. Las zonas todavía cubiertas conservan colores y marcas más definidos. Entre los fragmentos se reconocen trabajos de épocas distintas, algunos añadidos para mantener en uso una parte del conjunto cuando las demás ya estaban abandonadas. Los caminos recientes aprovechan esas diferencias sin seguir necesariamente el trazado original.\n\nUn rastro del mismo color se repite sobre superficies diferentes. No parece una decoración, porque cada marca queda a una altura distinta. La última está junto a algo que nadie ha movido recientemente. El entorno guarda suficiente silencio entre sus sonidos para escuchar lo que ocurra después. Ninguna señal obliga a intervenir; aun así, cuesta ignorar el detalle que se aparta de todos los demás.",
+      "musicUrl": "https://www.youtube.com/results?search_query=ancient%20ruins%20mysterious%20ambient",
+      "abilities": [
+        "Entorno: Ruinas y lugares olvidados. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Un balcón sin escalera domina un salón cuyo techo ha desaparecido. Una pertenencia perdida cerca de este detalle identifica a un viajero. Devolverla puede abrir una conversación; conservarla puede provocar una reclamación posterior, sin presumir que sea un tesoro abandonado.",
+        "Rumbo opcional: Un grupo reclama un objeto del lugar como parte de su historia. El master puede plantear una búsqueda y una decisión sobre su destino, evitando asumir que todo hallazgo carece de dueño.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Mapa. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Esqueleto. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Iria, la cartógrafa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-cartografa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-ruinas-11",
+      "kind": "terrain",
+      "name": "Templo del Techo de Árboles",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Adriaen_van_de_Velde_-_Pastoral_Landscape_with_Ruins_-_1894.1024_-_Art_Institute_of_Chicago.jpg/960px-Adriaen_van_de_Velde_-_Pastoral_Landscape_with_Ruins_-_1894.1024_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "Pastoral Landscape with Ruins · Adriaen van de Velde · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Adriaen_van_de_Velde_-_Pastoral_Landscape_with_Ruins_-_1894.1024_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Árboles crecidos entre columnas sustituyen el antiguo techo del recinto. Los restos del lugar dejan ver partes de una organización anterior. Lo que ahora parece un paso pudo ser una pared, y lo que permanece cerrado quizá fue una entrada importante antes del deterioro.\n\nPolvo, plantas y materiales caídos ocupan los espacios que han perdido protección. Las zonas todavía cubiertas conservan colores y marcas más definidos. Entre los fragmentos se reconocen trabajos de épocas distintas, algunos añadidos para mantener en uso una parte del conjunto cuando las demás ya estaban abandonadas. Los caminos recientes aprovechan esas diferencias sin seguir necesariamente el trazado original.\n\nUn detalle aparece repetido tres veces, con ligeras diferencias. La primera versión está gastada, la segunda incompleta y la tercera apenas alterada. Entre ellas queda espacio suficiente para imaginar una secuencia que todavía no termina. Más allá del punto de entrada queda una perspectiva por descubrir. Desde aquí solo se percibe una parte del lugar; para conocer el resto habría que acercarse y cambiar el ángulo de observación.",
+      "musicUrl": "https://www.youtube.com/results?search_query=ancient%20ruins%20mysterious%20ambient",
+      "abilities": [
+        "Entorno: Ruinas y lugares olvidados. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Árboles crecidos entre columnas sustituyen el antiguo techo del recinto. Dos grupos atribuyen significados distintos a este detalle. El master puede permitir una solución que respete ambos usos, o presentar las consecuencias de favorecer a uno de ellos.",
+        "Rumbo opcional: Un grupo reclama un objeto del lugar como parte de su historia. El master puede plantear una búsqueda y una decisión sobre su destino, evitando asumir que todo hallazgo carece de dueño.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Mapa. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Esqueleto. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Mapa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-mapa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-ruinas-12",
+      "kind": "terrain",
+      "name": "Ciudad de las Calles Hundidas",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Jan_Wijnants_-_A_Landscape_with_a_Woman_driving_Sheep_through_a_Ruined_Archway_NG_NG_NG2532.jpg",
+      "imageCredit": {
+        "text": "A Landscape with a Ruined Archway · Jan Wijnants · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Jan_Wijnants_-_A_Landscape_with_a_Woman_driving_Sheep_through_a_Ruined_Archway_NG_NG_NG2532.jpg"
+      },
+      "description": "Calles hundidas conectan edificios conservados por encima del nivel del suelo. Los restos del lugar dejan ver partes de una organización anterior. Lo que ahora parece un paso pudo ser una pared, y lo que permanece cerrado quizá fue una entrada importante antes del deterioro.\n\nPolvo, plantas y materiales caídos ocupan los espacios que han perdido protección. Las zonas todavía cubiertas conservan colores y marcas más definidos. Entre los fragmentos se reconocen trabajos de épocas distintas, algunos añadidos para mantener en uso una parte del conjunto cuando las demás ya estaban abandonadas. Los caminos recientes aprovechan esas diferencias sin seguir necesariamente el trazado original.\n\nUna señal visible desde lejos tiene otra cara que solo se descubre al acercarse. Ambas están trabajadas de manera distinta. La parte oculta conserva un detalle que parece haber sido añadido después de terminar la primera. El lugar no revela de inmediato si espera visitantes o si intenta mantenerlos a distancia. Sus señales admiten ambas lecturas, y el siguiente paso puede aclarar cuál resulta más convincente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=ancient%20ruins%20mysterious%20ambient",
+      "abilities": [
+        "Entorno: Ruinas y lugares olvidados. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Calles hundidas conectan edificios conservados por encima del nivel del suelo. Las señales de uso reciente pertenecen a alguien que evita ser encontrado. Puede necesitar ayuda, intimidad o protección; investigar no demuestra por sí solo culpabilidad ni hostilidad.",
+        "Rumbo opcional: Un grupo reclama un objeto del lugar como parte de su historia. El master puede plantear una búsqueda y una decisión sobre su destino, evitando asumir que todo hallazgo carece de dueño.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Mapa. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Esqueleto. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Esqueleto. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-esqueleto"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-ruinas-13",
+      "kind": "terrain",
+      "name": "Observatorio del Aro Caído",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Adriaen_van_de_Velde_-_Pastoral_Landscape_with_Ruins_-_1894.1024_-_Art_Institute_of_Chicago.jpg/960px-Adriaen_van_de_Velde_-_Pastoral_Landscape_with_Ruins_-_1894.1024_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "Pastoral Landscape with Ruins · Adriaen van de Velde · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Adriaen_van_de_Velde_-_Pastoral_Landscape_with_Ruins_-_1894.1024_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Un aro metálico enorme descansa sobre escalones orientados al cielo. Los restos del lugar dejan ver partes de una organización anterior. Lo que ahora parece un paso pudo ser una pared, y lo que permanece cerrado quizá fue una entrada importante antes del deterioro.\n\nPolvo, plantas y materiales caídos ocupan los espacios que han perdido protección. Las zonas todavía cubiertas conservan colores y marcas más definidos. Entre los fragmentos se reconocen trabajos de épocas distintas, algunos añadidos para mantener en uso una parte del conjunto cuando las demás ya estaban abandonadas. Los caminos recientes aprovechan esas diferencias sin seguir necesariamente el trazado original.\n\nLa distribución del lugar parece responder a una costumbre olvidada. Quien lo preparó dejó espacio alrededor de un punto central; nadie ha ocupado ese hueco, aunque todo lo demás muestra rastros de uso. La primera impresión invita a seguir, pero un examen pausado ofrece otra posibilidad: detenerse, comparar los rastros y decidir qué detalle merece atención antes de abandonar el sitio.",
+      "musicUrl": "https://www.youtube.com/results?search_query=ancient%20ruins%20mysterious%20ambient",
+      "abilities": [
+        "Entorno: Ruinas y lugares olvidados. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Un aro metálico enorme descansa sobre escalones orientados al cielo. Un cambio de tiempo amenaza con borrar o dañar este detalle. Documentarlo o protegerlo ofrece una tarea breve cuya urgencia puede ajustarse al ritmo de la sesión.",
+        "Rumbo opcional: Un grupo reclama un objeto del lugar como parte de su historia. El master puede plantear una búsqueda y una decisión sobre su destino, evitando asumir que todo hallazgo carece de dueño.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Mapa. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Esqueleto. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Iria, la cartógrafa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-cartografa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-ruinas-14",
+      "kind": "terrain",
+      "name": "Archivo de las Placas de Arcilla",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Jan_Wijnants_-_A_Landscape_with_a_Woman_driving_Sheep_through_a_Ruined_Archway_NG_NG_NG2532.jpg",
+      "imageCredit": {
+        "text": "A Landscape with a Ruined Archway · Jan Wijnants · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Jan_Wijnants_-_A_Landscape_with_a_Woman_driving_Sheep_through_a_Ruined_Archway_NG_NG_NG2532.jpg"
+      },
+      "description": "Placas rotas se apilan bajo estanterías de piedra todavía enteras. Los restos del lugar dejan ver partes de una organización anterior. Lo que ahora parece un paso pudo ser una pared, y lo que permanece cerrado quizá fue una entrada importante antes del deterioro.\n\nPolvo, plantas y materiales caídos ocupan los espacios que han perdido protección. Las zonas todavía cubiertas conservan colores y marcas más definidos. Entre los fragmentos se reconocen trabajos de épocas distintas, algunos añadidos para mantener en uso una parte del conjunto cuando las demás ya estaban abandonadas. Los caminos recientes aprovechan esas diferencias sin seguir necesariamente el trazado original.\n\nLa vista cambia al dar unos pasos hacia un lateral. Lo que desde la entrada parecía un obstáculo se convierte en una referencia útil, y detrás aparece una continuidad que no resultaba evidente a primera vista. Desde esta posición se puede distinguir por dónde llegó la última presencia conocida. Su destino, en cambio, permanece fuera de la vista y no coincide necesariamente con la salida más evidente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=ancient%20ruins%20mysterious%20ambient",
+      "abilities": [
+        "Entorno: Ruinas y lugares olvidados. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Placas rotas se apilan bajo estanterías de piedra todavía enteras. Una persona ofrece un objeto útil si el grupo comprueba qué ha cambiado aquí. La información obtenida puede interesar a otra persona y conectar este lugar con una visita anterior.",
+        "Rumbo opcional: Un grupo reclama un objeto del lugar como parte de su historia. El master puede plantear una búsqueda y una decisión sobre su destino, evitando asumir que todo hallazgo carece de dueño.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Mapa. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Esqueleto. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Mapa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-mapa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-ruinas-15",
+      "kind": "terrain",
+      "name": "Fortín de las Banderas Petrificadas",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Adriaen_van_de_Velde_-_Pastoral_Landscape_with_Ruins_-_1894.1024_-_Art_Institute_of_Chicago.jpg/960px-Adriaen_van_de_Velde_-_Pastoral_Landscape_with_Ruins_-_1894.1024_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "Pastoral Landscape with Ruins · Adriaen van de Velde · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Adriaen_van_de_Velde_-_Pastoral_Landscape_with_Ruins_-_1894.1024_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Relieves de banderas cubren muros abiertos por derrumbes antiguos. Los restos del lugar dejan ver partes de una organización anterior. Lo que ahora parece un paso pudo ser una pared, y lo que permanece cerrado quizá fue una entrada importante antes del deterioro.\n\nPolvo, plantas y materiales caídos ocupan los espacios que han perdido protección. Las zonas todavía cubiertas conservan colores y marcas más definidos. Entre los fragmentos se reconocen trabajos de épocas distintas, algunos añadidos para mantener en uso una parte del conjunto cuando las demás ya estaban abandonadas. Los caminos recientes aprovechan esas diferencias sin seguir necesariamente el trazado original.\n\nHay un elemento desplazado respecto a todos los demás. No está roto ni parece a punto de caer; sencillamente apunta hacia otro lado. Su posición permite ver un tramo del lugar que las otras referencias ocultan. El entorno guarda suficiente silencio entre sus sonidos para escuchar lo que ocurra después. Ninguna señal obliga a intervenir; aun así, cuesta ignorar el detalle que se aparta de todos los demás.",
+      "musicUrl": "https://www.youtube.com/results?search_query=ancient%20ruins%20mysterious%20ambient",
+      "abilities": [
+        "Entorno: Ruinas y lugares olvidados. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Relieves de banderas cubren muros abiertos por derrumbes antiguos. Este lugar admite una escena tranquila de observación o conversación. El master puede usar el detalle visible para recordar un vínculo del personaje sin introducir un nuevo conflicto.",
+        "Rumbo opcional: Un grupo reclama un objeto del lugar como parte de su historia. El master puede plantear una búsqueda y una decisión sobre su destino, evitando asumir que todo hallazgo carece de dueño.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Mapa. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Esqueleto. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Esqueleto. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-esqueleto"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-ruinas-16",
+      "kind": "terrain",
+      "name": "Necrópolis de las Escaleras Cortas",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Jan_Wijnants_-_A_Landscape_with_a_Woman_driving_Sheep_through_a_Ruined_Archway_NG_NG_NG2532.jpg",
+      "imageCredit": {
+        "text": "A Landscape with a Ruined Archway · Jan Wijnants · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Jan_Wijnants_-_A_Landscape_with_a_Woman_driving_Sheep_through_a_Ruined_Archway_NG_NG_NG2532.jpg"
+      },
+      "description": "Escaleras cortas conducen a tumbas con puertas de diferentes tamaños. Los restos del lugar dejan ver partes de una organización anterior. Lo que ahora parece un paso pudo ser una pared, y lo que permanece cerrado quizá fue una entrada importante antes del deterioro.\n\nPolvo, plantas y materiales caídos ocupan los espacios que han perdido protección. Las zonas todavía cubiertas conservan colores y marcas más definidos. Entre los fragmentos se reconocen trabajos de épocas distintas, algunos añadidos para mantener en uso una parte del conjunto cuando las demás ya estaban abandonadas. Los caminos recientes aprovechan esas diferencias sin seguir necesariamente el trazado original.\n\nLas marcas del paso de otros viajeros se interrumpen en un punto concreto. Una señal reciente se superpone a otra mucho más antigua; las dos parecen señalar destinos distintos, aunque ninguna ofrece una explicación. Más allá del punto de entrada queda una perspectiva por descubrir. Desde aquí solo se percibe una parte del lugar; para conocer el resto habría que acercarse y cambiar el ángulo de observación.",
+      "musicUrl": "https://www.youtube.com/results?search_query=ancient%20ruins%20mysterious%20ambient",
+      "abilities": [
+        "Entorno: Ruinas y lugares olvidados. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Escaleras cortas conducen a tumbas con puertas de diferentes tamaños. Una persona conoce el origen de este detalle, pero su versión contradice la de quien lo cuida. Contrastar ambas historias puede revelar una necesidad que ninguna admite en público.",
+        "Rumbo opcional: Un grupo reclama un objeto del lugar como parte de su historia. El master puede plantear una búsqueda y una decisión sobre su destino, evitando asumir que todo hallazgo carece de dueño.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Mapa. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Esqueleto. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Iria, la cartógrafa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-cartografa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-ruinas-17",
+      "kind": "terrain",
+      "name": "Molino de las Ruedas de Piedra",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Adriaen_van_de_Velde_-_Pastoral_Landscape_with_Ruins_-_1894.1024_-_Art_Institute_of_Chicago.jpg/960px-Adriaen_van_de_Velde_-_Pastoral_Landscape_with_Ruins_-_1894.1024_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "Pastoral Landscape with Ruins · Adriaen van de Velde · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Adriaen_van_de_Velde_-_Pastoral_Landscape_with_Ruins_-_1894.1024_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Ruedas de piedra permanecen en un canal desviado por plantas. Los restos del lugar dejan ver partes de una organización anterior. Lo que ahora parece un paso pudo ser una pared, y lo que permanece cerrado quizá fue una entrada importante antes del deterioro.\n\nPolvo, plantas y materiales caídos ocupan los espacios que han perdido protección. Las zonas todavía cubiertas conservan colores y marcas más definidos. Entre los fragmentos se reconocen trabajos de épocas distintas, algunos añadidos para mantener en uso una parte del conjunto cuando las demás ya estaban abandonadas. Los caminos recientes aprovechan esas diferencias sin seguir necesariamente el trazado original.\n\nAl prestar atención se descubren dos sonidos que no siguen el mismo ritmo. Uno pertenece claramente al entorno; el otro aparece y desaparece sin que sea posible localizar su origen desde la entrada. El lugar no revela de inmediato si espera visitantes o si intenta mantenerlos a distancia. Sus señales admiten ambas lecturas, y el siguiente paso puede aclarar cuál resulta más convincente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=ancient%20ruins%20mysterious%20ambient",
+      "abilities": [
+        "Entorno: Ruinas y lugares olvidados. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Ruedas de piedra permanecen en un canal desviado por plantas. Este detalle sirve como señal para una cita. El grupo puede encontrar a quien espera, descubrir por qué nadie acudió o dejar un mensaje para continuar la historia más adelante.",
+        "Rumbo opcional: Un grupo reclama un objeto del lugar como parte de su historia. El master puede plantear una búsqueda y una decisión sobre su destino, evitando asumir que todo hallazgo carece de dueño.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Mapa. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Esqueleto. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Mapa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-mapa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-ruinas-18",
+      "kind": "terrain",
+      "name": "Palacio de los Retratos Lavados",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Jan_Wijnants_-_A_Landscape_with_a_Woman_driving_Sheep_through_a_Ruined_Archway_NG_NG_NG2532.jpg",
+      "imageCredit": {
+        "text": "A Landscape with a Ruined Archway · Jan Wijnants · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Jan_Wijnants_-_A_Landscape_with_a_Woman_driving_Sheep_through_a_Ruined_Archway_NG_NG_NG2532.jpg"
+      },
+      "description": "Retratos casi borrados ocupan paredes protegidas por aleros rotos. Los restos del lugar dejan ver partes de una organización anterior. Lo que ahora parece un paso pudo ser una pared, y lo que permanece cerrado quizá fue una entrada importante antes del deterioro.\n\nPolvo, plantas y materiales caídos ocupan los espacios que han perdido protección. Las zonas todavía cubiertas conservan colores y marcas más definidos. Entre los fragmentos se reconocen trabajos de épocas distintas, algunos añadidos para mantener en uso una parte del conjunto cuando las demás ya estaban abandonadas. Los caminos recientes aprovechan esas diferencias sin seguir necesariamente el trazado original.\n\nUna marca antigua se ha respetado a pesar de los cambios del entorno. Las reparaciones y el tránsito la rodean en lugar de cubrirla. Parece importar a alguien, aunque su significado no se reconoce de inmediato. La primera impresión invita a seguir, pero un examen pausado ofrece otra posibilidad: detenerse, comparar los rastros y decidir qué detalle merece atención antes de abandonar el sitio.",
+      "musicUrl": "https://www.youtube.com/results?search_query=ancient%20ruins%20mysterious%20ambient",
+      "abilities": [
+        "Entorno: Ruinas y lugares olvidados. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Retratos casi borrados ocupan paredes protegidas por aleros rotos. Una reparación sencilla permitiría volver a utilizar este lugar. Sus responsables ofrecen información o alojamiento a cambio; decidir quién se beneficiará importa más que obtener una recompensa material.",
+        "Rumbo opcional: Un grupo reclama un objeto del lugar como parte de su historia. El master puede plantear una búsqueda y una decisión sobre su destino, evitando asumir que todo hallazgo carece de dueño.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Mapa. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Esqueleto. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Esqueleto. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-esqueleto"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-ruinas-19",
+      "kind": "terrain",
+      "name": "Ciudad del Puente Sepultado",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Adriaen_van_de_Velde_-_Pastoral_Landscape_with_Ruins_-_1894.1024_-_Art_Institute_of_Chicago.jpg/960px-Adriaen_van_de_Velde_-_Pastoral_Landscape_with_Ruins_-_1894.1024_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "Pastoral Landscape with Ruins · Adriaen van de Velde · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Adriaen_van_de_Velde_-_Pastoral_Landscape_with_Ruins_-_1894.1024_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Un puente sobresale de tierra acumulada entre antiguas fachadas. Los restos del lugar dejan ver partes de una organización anterior. Lo que ahora parece un paso pudo ser una pared, y lo que permanece cerrado quizá fue una entrada importante antes del deterioro.\n\nPolvo, plantas y materiales caídos ocupan los espacios que han perdido protección. Las zonas todavía cubiertas conservan colores y marcas más definidos. Entre los fragmentos se reconocen trabajos de épocas distintas, algunos añadidos para mantener en uso una parte del conjunto cuando las demás ya estaban abandonadas. Los caminos recientes aprovechan esas diferencias sin seguir necesariamente el trazado original.\n\nAl detenerse, el entorno revela movimientos discretos que pasan inadvertidos al caminar. Ninguno parece acercarse directamente. Sin embargo, todos evitan el mismo punto, situado un poco más allá del acceso principal. Desde esta posición se puede distinguir por dónde llegó la última presencia conocida. Su destino, en cambio, permanece fuera de la vista y no coincide necesariamente con la salida más evidente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=ancient%20ruins%20mysterious%20ambient",
+      "abilities": [
+        "Entorno: Ruinas y lugares olvidados. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Un puente sobresale de tierra acumulada entre antiguas fachadas. Alguien ha reproducido este detalle en un mapa incompleto. Seguir la siguiente marca puede llevar a otro terreno del mismo entorno, sin exigir que la ruta sea peligrosa.",
+        "Rumbo opcional: Un grupo reclama un objeto del lugar como parte de su historia. El master puede plantear una búsqueda y una decisión sobre su destino, evitando asumir que todo hallazgo carece de dueño.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Mapa. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Esqueleto. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Iria, la cartógrafa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-cartografa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-ruinas-20",
+      "kind": "terrain",
+      "name": "Astillero de los Cascos Verdes",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Jan_Wijnants_-_A_Landscape_with_a_Woman_driving_Sheep_through_a_Ruined_Archway_NG_NG_NG2532.jpg",
+      "imageCredit": {
+        "text": "A Landscape with a Ruined Archway · Jan Wijnants · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Jan_Wijnants_-_A_Landscape_with_a_Woman_driving_Sheep_through_a_Ruined_Archway_NG_NG_NG2532.jpg"
+      },
+      "description": "Musgo cubre soportes donde permanecen costillas de barcos incompletos. Los restos del lugar dejan ver partes de una organización anterior. Lo que ahora parece un paso pudo ser una pared, y lo que permanece cerrado quizá fue una entrada importante antes del deterioro.\n\nPolvo, plantas y materiales caídos ocupan los espacios que han perdido protección. Las zonas todavía cubiertas conservan colores y marcas más definidos. Entre los fragmentos se reconocen trabajos de épocas distintas, algunos añadidos para mantener en uso una parte del conjunto cuando las demás ya estaban abandonadas. Los caminos recientes aprovechan esas diferencias sin seguir necesariamente el trazado original.\n\nHay una pequeña zona resguardada del entorno, suficiente para detenerse y observar sin estorbar el paso. Desde allí se aprecia un detalle que, visto de frente, quedaba escondido detrás de los demás. El entorno guarda suficiente silencio entre sus sonidos para escuchar lo que ocurra después. Ninguna señal obliga a intervenir; aun así, cuesta ignorar el detalle que se aparta de todos los demás.",
+      "musicUrl": "https://www.youtube.com/results?search_query=ancient%20ruins%20mysterious%20ambient",
+      "abilities": [
+        "Entorno: Ruinas y lugares olvidados. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Musgo cubre soportes donde permanecen costillas de barcos incompletos. Una pertenencia perdida cerca de este detalle identifica a un viajero. Devolverla puede abrir una conversación; conservarla puede provocar una reclamación posterior, sin presumir que sea un tesoro abandonado.",
+        "Rumbo opcional: Un grupo reclama un objeto del lugar como parte de su historia. El master puede plantear una búsqueda y una decisión sobre su destino, evitando asumir que todo hallazgo carece de dueño.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Mapa. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Esqueleto. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Mapa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-mapa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-ruinas-21",
+      "kind": "terrain",
+      "name": "Arena de las Columnas Negras",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Adriaen_van_de_Velde_-_Pastoral_Landscape_with_Ruins_-_1894.1024_-_Art_Institute_of_Chicago.jpg/960px-Adriaen_van_de_Velde_-_Pastoral_Landscape_with_Ruins_-_1894.1024_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "Pastoral Landscape with Ruins · Adriaen van de Velde · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Adriaen_van_de_Velde_-_Pastoral_Landscape_with_Ruins_-_1894.1024_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Columnas ennegrecidas rodean un espacio circular con varias entradas. Los restos del lugar dejan ver partes de una organización anterior. Lo que ahora parece un paso pudo ser una pared, y lo que permanece cerrado quizá fue una entrada importante antes del deterioro.\n\nPolvo, plantas y materiales caídos ocupan los espacios que han perdido protección. Las zonas todavía cubiertas conservan colores y marcas más definidos. Entre los fragmentos se reconocen trabajos de épocas distintas, algunos añadidos para mantener en uso una parte del conjunto cuando las demás ya estaban abandonadas. Los caminos recientes aprovechan esas diferencias sin seguir necesariamente el trazado original.\n\nEn un rincón se conserva algo que el resto del lugar ha perdido: una forma intacta, una superficie limpia o un color más vivo. La diferencia llama la atención precisamente porque no se repite en ninguna otra parte. Más allá del punto de entrada queda una perspectiva por descubrir. Desde aquí solo se percibe una parte del lugar; para conocer el resto habría que acercarse y cambiar el ángulo de observación.",
+      "musicUrl": "https://www.youtube.com/results?search_query=ancient%20ruins%20mysterious%20ambient",
+      "abilities": [
+        "Entorno: Ruinas y lugares olvidados. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Columnas ennegrecidas rodean un espacio circular con varias entradas. Dos grupos atribuyen significados distintos a este detalle. El master puede permitir una solución que respete ambos usos, o presentar las consecuencias de favorecer a uno de ellos.",
+        "Rumbo opcional: Un grupo reclama un objeto del lugar como parte de su historia. El master puede plantear una búsqueda y una decisión sobre su destino, evitando asumir que todo hallazgo carece de dueño.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Mapa. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Esqueleto. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Esqueleto. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-esqueleto"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-ruinas-22",
+      "kind": "terrain",
+      "name": "Santuario de las Manos Rotas",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Jan_Wijnants_-_A_Landscape_with_a_Woman_driving_Sheep_through_a_Ruined_Archway_NG_NG_NG2532.jpg",
+      "imageCredit": {
+        "text": "A Landscape with a Ruined Archway · Jan Wijnants · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Jan_Wijnants_-_A_Landscape_with_a_Woman_driving_Sheep_through_a_Ruined_Archway_NG_NG_NG2532.jpg"
+      },
+      "description": "Manos de estatuas desprendidas descansan juntas sobre una mesa intacta. Los restos del lugar dejan ver partes de una organización anterior. Lo que ahora parece un paso pudo ser una pared, y lo que permanece cerrado quizá fue una entrada importante antes del deterioro.\n\nPolvo, plantas y materiales caídos ocupan los espacios que han perdido protección. Las zonas todavía cubiertas conservan colores y marcas más definidos. Entre los fragmentos se reconocen trabajos de épocas distintas, algunos añadidos para mantener en uso una parte del conjunto cuando las demás ya estaban abandonadas. Los caminos recientes aprovechan esas diferencias sin seguir necesariamente el trazado original.\n\nEl camino de entrada no ofrece la mejor vista del lugar. Un giro descubre un espacio menor, protegido por las formas del entorno. Allí los rastros se ordenan de manera diferente y parecen corresponder a otra actividad. El lugar no revela de inmediato si espera visitantes o si intenta mantenerlos a distancia. Sus señales admiten ambas lecturas, y el siguiente paso puede aclarar cuál resulta más convincente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=ancient%20ruins%20mysterious%20ambient",
+      "abilities": [
+        "Entorno: Ruinas y lugares olvidados. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Manos de estatuas desprendidas descansan juntas sobre una mesa intacta. Las señales de uso reciente pertenecen a alguien que evita ser encontrado. Puede necesitar ayuda, intimidad o protección; investigar no demuestra por sí solo culpabilidad ni hostilidad.",
+        "Rumbo opcional: Un grupo reclama un objeto del lugar como parte de su historia. El master puede plantear una búsqueda y una decisión sobre su destino, evitando asumir que todo hallazgo carece de dueño.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Mapa. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Esqueleto. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Iria, la cartógrafa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-cartografa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-ruinas-23",
+      "kind": "terrain",
+      "name": "Ruinas del Taller de Gigantes",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Adriaen_van_de_Velde_-_Pastoral_Landscape_with_Ruins_-_1894.1024_-_Art_Institute_of_Chicago.jpg/960px-Adriaen_van_de_Velde_-_Pastoral_Landscape_with_Ruins_-_1894.1024_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "Pastoral Landscape with Ruins · Adriaen van de Velde · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Adriaen_van_de_Velde_-_Pastoral_Landscape_with_Ruins_-_1894.1024_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Herramientas de gran tamaño permanecen junto a bancos de altura inusual. Los restos del lugar dejan ver partes de una organización anterior. Lo que ahora parece un paso pudo ser una pared, y lo que permanece cerrado quizá fue una entrada importante antes del deterioro.\n\nPolvo, plantas y materiales caídos ocupan los espacios que han perdido protección. Las zonas todavía cubiertas conservan colores y marcas más definidos. Entre los fragmentos se reconocen trabajos de épocas distintas, algunos añadidos para mantener en uso una parte del conjunto cuando las demás ya estaban abandonadas. Los caminos recientes aprovechan esas diferencias sin seguir necesariamente el trazado original.\n\nEntre los restos del uso cotidiano hay una interrupción clara. Algo ocurrió aquí antes de que la actividad se reanudara. Las señales posteriores atraviesan las anteriores, pero no llegan a borrarlas por completo. La primera impresión invita a seguir, pero un examen pausado ofrece otra posibilidad: detenerse, comparar los rastros y decidir qué detalle merece atención antes de abandonar el sitio.",
+      "musicUrl": "https://www.youtube.com/results?search_query=ancient%20ruins%20mysterious%20ambient",
+      "abilities": [
+        "Entorno: Ruinas y lugares olvidados. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Herramientas de gran tamaño permanecen junto a bancos de altura inusual. Un cambio de tiempo amenaza con borrar o dañar este detalle. Documentarlo o protegerlo ofrece una tarea breve cuya urgencia puede ajustarse al ritmo de la sesión.",
+        "Rumbo opcional: Un grupo reclama un objeto del lugar como parte de su historia. El master puede plantear una búsqueda y una decisión sobre su destino, evitando asumir que todo hallazgo carece de dueño.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Mapa. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Esqueleto. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Mapa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-mapa"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-ruinas-24",
+      "kind": "terrain",
+      "name": "Palacio de las Escaleras al Cielo",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Jan_Wijnants_-_A_Landscape_with_a_Woman_driving_Sheep_through_a_Ruined_Archway_NG_NG_NG2532.jpg",
+      "imageCredit": {
+        "text": "A Landscape with a Ruined Archway · Jan Wijnants · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Jan_Wijnants_-_A_Landscape_with_a_Woman_driving_Sheep_through_a_Ruined_Archway_NG_NG_NG2532.jpg"
+      },
+      "description": "Escaleras terminan en descansillos abiertos donde antes hubo habitaciones. Los restos del lugar dejan ver partes de una organización anterior. Lo que ahora parece un paso pudo ser una pared, y lo que permanece cerrado quizá fue una entrada importante antes del deterioro.\n\nPolvo, plantas y materiales caídos ocupan los espacios que han perdido protección. Las zonas todavía cubiertas conservan colores y marcas más definidos. Entre los fragmentos se reconocen trabajos de épocas distintas, algunos añadidos para mantener en uso una parte del conjunto cuando las demás ya estaban abandonadas. Los caminos recientes aprovechan esas diferencias sin seguir necesariamente el trazado original.\n\nUna línea de pequeñas señales recorre el límite del lugar. Algunas están casi borradas y otras parecen recientes. Su separación es regular hasta el último tramo, donde falta una y las restantes se acumulan. Desde esta posición se puede distinguir por dónde llegó la última presencia conocida. Su destino, en cambio, permanece fuera de la vista y no coincide necesariamente con la salida más evidente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=ancient%20ruins%20mysterious%20ambient",
+      "abilities": [
+        "Entorno: Ruinas y lugares olvidados. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Escaleras terminan en descansillos abiertos donde antes hubo habitaciones. Una persona ofrece un objeto útil si el grupo comprueba qué ha cambiado aquí. La información obtenida puede interesar a otra persona y conectar este lugar con una visita anterior.",
+        "Rumbo opcional: Un grupo reclama un objeto del lugar como parte de su historia. El master puede plantear una búsqueda y una decisión sobre su destino, evitando asumir que todo hallazgo carece de dueño.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Mapa. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Esqueleto. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Esqueleto. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-esqueleto"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-ruinas-25",
+      "kind": "terrain",
+      "name": "Ciudad de los Jardines Invertidos",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Adriaen_van_de_Velde_-_Pastoral_Landscape_with_Ruins_-_1894.1024_-_Art_Institute_of_Chicago.jpg/960px-Adriaen_van_de_Velde_-_Pastoral_Landscape_with_Ruins_-_1894.1024_-_Art_Institute_of_Chicago.jpg",
+      "imageCredit": {
+        "text": "Pastoral Landscape with Ruins · Adriaen van de Velde · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Adriaen_van_de_Velde_-_Pastoral_Landscape_with_Ruins_-_1894.1024_-_Art_Institute_of_Chicago.jpg"
+      },
+      "description": "Raíces y flores cuelgan de balcones sobre calles cubiertas de escombros. Los restos del lugar dejan ver partes de una organización anterior. Lo que ahora parece un paso pudo ser una pared, y lo que permanece cerrado quizá fue una entrada importante antes del deterioro.\n\nPolvo, plantas y materiales caídos ocupan los espacios que han perdido protección. Las zonas todavía cubiertas conservan colores y marcas más definidos. Entre los fragmentos se reconocen trabajos de épocas distintas, algunos añadidos para mantener en uso una parte del conjunto cuando las demás ya estaban abandonadas. Los caminos recientes aprovechan esas diferencias sin seguir necesariamente el trazado original.\n\nSe advierte una elección deliberada entre dos recorridos. Uno es sencillo y muy visible; el otro exige acercarse para reconocerlo. Ambos desembocan fuera de la vista, sin revelar todavía qué los distingue al final. El entorno guarda suficiente silencio entre sus sonidos para escuchar lo que ocurra después. Ninguna señal obliga a intervenir; aun así, cuesta ignorar el detalle que se aparta de todos los demás.",
+      "musicUrl": "https://www.youtube.com/results?search_query=ancient%20ruins%20mysterious%20ambient",
+      "abilities": [
+        "Entorno: Ruinas y lugares olvidados. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Raíces y flores cuelgan de balcones sobre calles cubiertas de escombros. Este lugar admite una escena tranquila de observación o conversación. El master puede usar el detalle visible para recordar un vínculo del personaje sin introducir un nuevo conflicto.",
+        "Rumbo opcional: Un grupo reclama un objeto del lugar como parte de su historia. El master puede plantear una búsqueda y una decisión sobre su destino, evitando asumir que todo hallazgo carece de dueño.",
+        "Personaje sugerido: Iria, la cartógrafa. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Mapa. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Esqueleto. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Iria, la cartógrafa. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-cartografa"
+        }
+      ]
+    }
+  ]
+}

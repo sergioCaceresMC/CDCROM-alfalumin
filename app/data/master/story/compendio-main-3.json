@@ -1,0 +1,705 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "story-compendio-main-11-01",
+      "kind": "story",
+      "mission": "main",
+      "name": "El huésped esperado — la petición",
+      "description": "Varias posadas preparan la misma habitación para un huésped que nadie ha visto. Las instrucciones incluyen comida, ropa y un nombre distinto en cada pueblo, pero describen idénticas necesidades.\n\nUna persona afectada pide ayuda en privado porque teme que una denuncia pública cierre la única vía de investigación. Ofrece acceso a un lugar o documento, no una recompensa que pueda garantizar.\n\nPrimer indicio: Un pago anticipado contiene monedas recién acuñadas con una fecha futura. El grupo puede empezar por lo siguiente: Comparar encargos y buscar quién transportó el dinero sin convertir a los posaderos en sospechosos automáticos.",
+      "abilities": [
+        "Para el DM: Dar prioridad a esa persona puede abrir una entrada discreta, pero exige acordar qué información puede compartirse.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-11-02",
+      "kind": "story",
+      "mission": "main",
+      "name": "El huésped esperado — el testigo",
+      "description": "Varias posadas preparan la misma habitación para un huésped que nadie ha visto. Las instrucciones incluyen comida, ropa y un nombre distinto en cada pueblo, pero describen idénticas necesidades.\n\nUn testigo llega con un relato incompleto y reconoce haber ocultado un detalle para proteger a otra persona. No conoce el origen del acontecimiento y necesita una razón para confiar de nuevo.\n\nPrimer indicio: Un pago anticipado contiene monedas recién acuñadas con una fecha futura. El grupo puede empezar por lo siguiente: Comparar encargos y buscar quién transportó el dinero sin convertir a los posaderos en sospechosos automáticos.",
+      "abilities": [
+        "Para el DM: Su silencio puede superarse con protección o un acuerdo; una amenaza también podría hacer que se marche.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-11-03",
+      "kind": "story",
+      "mission": "main",
+      "name": "El huésped esperado — el encargo",
+      "description": "Varias posadas preparan la misma habitación para un huésped que nadie ha visto. Las instrucciones incluyen comida, ropa y un nombre distinto en cada pueblo, pero describen idénticas necesidades.\n\nDos responsables ofrecen el mismo encargo con condiciones incompatibles. Ambos poseen una parte verificable de la información y ninguno puede resolver por sí solo el problema.\n\nPrimer indicio: Un pago anticipado contiene monedas recién acuñadas con una fecha futura. El grupo puede empezar por lo siguiente: Comparar encargos y buscar quién transportó el dinero sin convertir a los posaderos en sospechosos automáticos.",
+      "abilities": [
+        "Para el DM: Aceptar un encargo no obliga a obedecer todas sus condiciones; negociar límites permite conservar otra vía de ayuda.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-11-04",
+      "kind": "story",
+      "mission": "main",
+      "name": "El huésped esperado — la pista heredada",
+      "description": "Varias posadas preparan la misma habitación para un huésped que nadie ha visto. Las instrucciones incluyen comida, ropa y un nombre distinto en cada pueblo, pero describen idénticas necesidades.\n\nUna pertenencia de alguien ausente relaciona a un personaje o aliado con lo ocurrido. Su procedencia puede confirmarse sin decidir de antemano qué sabía su antiguo dueño.\n\nPrimer indicio: Un pago anticipado contiene monedas recién acuñadas con una fecha futura. El grupo puede empezar por lo siguiente: Comparar encargos y buscar quién transportó el dinero sin convertir a los posaderos en sospechosos automáticos.",
+      "abilities": [
+        "Para el DM: El vínculo sirve para personalizar la investigación, sin imponer recuerdos ni culpas al personaje.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-11-05",
+      "kind": "story",
+      "mission": "main",
+      "name": "El huésped esperado — el plazo",
+      "description": "Varias posadas preparan la misma habitación para un huésped que nadie ha visto. Las instrucciones incluyen comida, ropa y un nombre distinto en cada pueblo, pero describen idénticas necesidades.\n\nUna decisión pública está prevista para el día siguiente y puede destruir una pista o cerrar un acceso. Los personajes saben qué cambiará, aunque todavía no conocen quién se beneficiará.\n\nPrimer indicio: Un pago anticipado contiene monedas recién acuñadas con una fecha futura. El grupo puede empezar por lo siguiente: Comparar encargos y buscar quién transportó el dinero sin convertir a los posaderos en sospechosos automáticos.",
+      "abilities": [
+        "Para el DM: El plazo debe avanzar de forma visible; si termina, traslada la información a otro testigo en lugar de cerrar la aventura.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-11-06",
+      "kind": "story",
+      "mission": "main",
+      "name": "El huésped esperado — la ayuda rival",
+      "description": "Varias posadas preparan la misma habitación para un huésped que nadie ha visto. Las instrucciones incluyen comida, ropa y un nombre distinto en cada pueblo, pero describen idénticas necesidades.\n\nOtro grupo intenta intervenir y ya ha obtenido una pista diferente. Sus integrantes prefieren una solución rápida, pero pueden cooperar si se reconoce su trabajo y se acuerdan responsabilidades.\n\nPrimer indicio: Un pago anticipado contiene monedas recién acuñadas con una fecha futura. El grupo puede empezar por lo siguiente: Comparar encargos y buscar quién transportó el dinero sin convertir a los posaderos en sospechosos automáticos.",
+      "abilities": [
+        "Para el DM: La rivalidad puede ser profesional o personal; no hace falta convertirla en violencia para que tenga consecuencias.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-11-07",
+      "kind": "story",
+      "mission": "main",
+      "name": "El huésped esperado — la falsa explicación",
+      "description": "Varias posadas preparan la misma habitación para un huésped que nadie ha visto. Las instrucciones incluyen comida, ropa y un nombre distinto en cada pueblo, pero describen idénticas necesidades.\n\nCircula una explicación sencilla que culpa a alguien vulnerable. Un detalle comprobable no encaja con ella, aunque las autoridades consideran más cómodo dar el asunto por resuelto.\n\nPrimer indicio: Un pago anticipado contiene monedas recién acuñadas con una fecha futura. El grupo puede empezar por lo siguiente: Comparar encargos y buscar quién transportó el dinero sin convertir a los posaderos en sospechosos automáticos.",
+      "abilities": [
+        "Para el DM: Refutar el rumor protege a un inocente y puede revelar por qué alguien necesita una respuesta inmediata.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-11-08",
+      "kind": "story",
+      "mission": "main",
+      "name": "El huésped esperado — la repetición",
+      "description": "Varias posadas preparan la misma habitación para un huésped que nadie ha visto. Las instrucciones incluyen comida, ropa y un nombre distinto en cada pueblo, pero describen idénticas necesidades.\n\nUna persona mayor recuerda un episodio parecido y conserva un detalle que no figura en la versión popular. El pasado ofrece una comparación útil, pero no demuestra que el responsable sea el mismo.\n\nPrimer indicio: Un pago anticipado contiene monedas recién acuñadas con una fecha futura. El grupo puede empezar por lo siguiente: Comparar encargos y buscar quién transportó el dinero sin convertir a los posaderos en sospechosos automáticos.",
+      "abilities": [
+        "Para el DM: Relaciona ambos episodios mediante una práctica o un recurso; permite que una diferencia descarte la explicación anterior.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-11-09",
+      "kind": "story",
+      "mission": "main",
+      "name": "El huésped esperado — el coste",
+      "description": "Varias posadas preparan la misma habitación para un huésped que nadie ha visto. Las instrucciones incluyen comida, ropa y un nombre distinto en cada pueblo, pero describen idénticas necesidades.\n\nLa comunidad puede contener temporalmente el problema si sacrifica un recurso compartido. Quienes dependen de ese recurso piden que se investigue antes de aceptar una pérdida permanente.\n\nPrimer indicio: Un pago anticipado contiene monedas recién acuñadas con una fecha futura. El grupo puede empezar por lo siguiente: Comparar encargos y buscar quién transportó el dinero sin convertir a los posaderos en sospechosos automáticos.",
+      "abilities": [
+        "Para el DM: Explica el coste antes de decidir y permite medidas parciales, reparto de cargas o una ruta alternativa.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-11-10",
+      "kind": "story",
+      "mission": "main",
+      "name": "El huésped esperado — la visita",
+      "description": "Varias posadas preparan la misma habitación para un huésped que nadie ha visto. Las instrucciones incluyen comida, ropa y un nombre distinto en cada pueblo, pero describen idénticas necesidades.\n\nLos personajes presencian una nueva manifestación al llegar. Pueden atender a una persona afectada o seguir un rastro que se debilita; ninguna de las dos elecciones elimina toda posibilidad de continuar.\n\nPrimer indicio: Un pago anticipado contiene monedas recién acuñadas con una fecha futura. El grupo puede empezar por lo siguiente: Comparar encargos y buscar quién transportó el dinero sin convertir a los posaderos en sospechosos automáticos.",
+      "abilities": [
+        "Para el DM: La ayuda inmediata gana un aliado; seguir el rastro obtiene otra perspectiva. Conserva una pista accesible en la opción restante.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-12-01",
+      "kind": "story",
+      "mission": "main",
+      "name": "Las puertas de la mina — la petición",
+      "description": "Una mina cerrada vuelve a enviar mineral hasta la superficie. Los ascensores trabajan sin señales acordadas y las familias de antiguos trabajadores reciben invitaciones para bajar a una celebración.\n\nUna persona afectada pide ayuda en privado porque teme que una denuncia pública cierre la única vía de investigación. Ofrece acceso a un lugar o documento, no una recompensa que pueda garantizar.\n\nPrimer indicio: Las invitaciones mencionan un turno que nunca figura en la contabilidad oficial. El grupo puede empezar por lo siguiente: Consultar registros laborales, asegurar una salida y escuchar a quienes conocen los niveles cerrados.",
+      "abilities": [
+        "Para el DM: Dar prioridad a esa persona puede abrir una entrada discreta, pero exige acordar qué información puede compartirse.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-12-02",
+      "kind": "story",
+      "mission": "main",
+      "name": "Las puertas de la mina — el testigo",
+      "description": "Una mina cerrada vuelve a enviar mineral hasta la superficie. Los ascensores trabajan sin señales acordadas y las familias de antiguos trabajadores reciben invitaciones para bajar a una celebración.\n\nUn testigo llega con un relato incompleto y reconoce haber ocultado un detalle para proteger a otra persona. No conoce el origen del acontecimiento y necesita una razón para confiar de nuevo.\n\nPrimer indicio: Las invitaciones mencionan un turno que nunca figura en la contabilidad oficial. El grupo puede empezar por lo siguiente: Consultar registros laborales, asegurar una salida y escuchar a quienes conocen los niveles cerrados.",
+      "abilities": [
+        "Para el DM: Su silencio puede superarse con protección o un acuerdo; una amenaza también podría hacer que se marche.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-12-03",
+      "kind": "story",
+      "mission": "main",
+      "name": "Las puertas de la mina — el encargo",
+      "description": "Una mina cerrada vuelve a enviar mineral hasta la superficie. Los ascensores trabajan sin señales acordadas y las familias de antiguos trabajadores reciben invitaciones para bajar a una celebración.\n\nDos responsables ofrecen el mismo encargo con condiciones incompatibles. Ambos poseen una parte verificable de la información y ninguno puede resolver por sí solo el problema.\n\nPrimer indicio: Las invitaciones mencionan un turno que nunca figura en la contabilidad oficial. El grupo puede empezar por lo siguiente: Consultar registros laborales, asegurar una salida y escuchar a quienes conocen los niveles cerrados.",
+      "abilities": [
+        "Para el DM: Aceptar un encargo no obliga a obedecer todas sus condiciones; negociar límites permite conservar otra vía de ayuda.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-12-04",
+      "kind": "story",
+      "mission": "main",
+      "name": "Las puertas de la mina — la pista heredada",
+      "description": "Una mina cerrada vuelve a enviar mineral hasta la superficie. Los ascensores trabajan sin señales acordadas y las familias de antiguos trabajadores reciben invitaciones para bajar a una celebración.\n\nUna pertenencia de alguien ausente relaciona a un personaje o aliado con lo ocurrido. Su procedencia puede confirmarse sin decidir de antemano qué sabía su antiguo dueño.\n\nPrimer indicio: Las invitaciones mencionan un turno que nunca figura en la contabilidad oficial. El grupo puede empezar por lo siguiente: Consultar registros laborales, asegurar una salida y escuchar a quienes conocen los niveles cerrados.",
+      "abilities": [
+        "Para el DM: El vínculo sirve para personalizar la investigación, sin imponer recuerdos ni culpas al personaje.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-12-05",
+      "kind": "story",
+      "mission": "main",
+      "name": "Las puertas de la mina — el plazo",
+      "description": "Una mina cerrada vuelve a enviar mineral hasta la superficie. Los ascensores trabajan sin señales acordadas y las familias de antiguos trabajadores reciben invitaciones para bajar a una celebración.\n\nUna decisión pública está prevista para el día siguiente y puede destruir una pista o cerrar un acceso. Los personajes saben qué cambiará, aunque todavía no conocen quién se beneficiará.\n\nPrimer indicio: Las invitaciones mencionan un turno que nunca figura en la contabilidad oficial. El grupo puede empezar por lo siguiente: Consultar registros laborales, asegurar una salida y escuchar a quienes conocen los niveles cerrados.",
+      "abilities": [
+        "Para el DM: El plazo debe avanzar de forma visible; si termina, traslada la información a otro testigo en lugar de cerrar la aventura.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-12-06",
+      "kind": "story",
+      "mission": "main",
+      "name": "Las puertas de la mina — la ayuda rival",
+      "description": "Una mina cerrada vuelve a enviar mineral hasta la superficie. Los ascensores trabajan sin señales acordadas y las familias de antiguos trabajadores reciben invitaciones para bajar a una celebración.\n\nOtro grupo intenta intervenir y ya ha obtenido una pista diferente. Sus integrantes prefieren una solución rápida, pero pueden cooperar si se reconoce su trabajo y se acuerdan responsabilidades.\n\nPrimer indicio: Las invitaciones mencionan un turno que nunca figura en la contabilidad oficial. El grupo puede empezar por lo siguiente: Consultar registros laborales, asegurar una salida y escuchar a quienes conocen los niveles cerrados.",
+      "abilities": [
+        "Para el DM: La rivalidad puede ser profesional o personal; no hace falta convertirla en violencia para que tenga consecuencias.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-12-07",
+      "kind": "story",
+      "mission": "main",
+      "name": "Las puertas de la mina — la falsa explicación",
+      "description": "Una mina cerrada vuelve a enviar mineral hasta la superficie. Los ascensores trabajan sin señales acordadas y las familias de antiguos trabajadores reciben invitaciones para bajar a una celebración.\n\nCircula una explicación sencilla que culpa a alguien vulnerable. Un detalle comprobable no encaja con ella, aunque las autoridades consideran más cómodo dar el asunto por resuelto.\n\nPrimer indicio: Las invitaciones mencionan un turno que nunca figura en la contabilidad oficial. El grupo puede empezar por lo siguiente: Consultar registros laborales, asegurar una salida y escuchar a quienes conocen los niveles cerrados.",
+      "abilities": [
+        "Para el DM: Refutar el rumor protege a un inocente y puede revelar por qué alguien necesita una respuesta inmediata.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-12-08",
+      "kind": "story",
+      "mission": "main",
+      "name": "Las puertas de la mina — la repetición",
+      "description": "Una mina cerrada vuelve a enviar mineral hasta la superficie. Los ascensores trabajan sin señales acordadas y las familias de antiguos trabajadores reciben invitaciones para bajar a una celebración.\n\nUna persona mayor recuerda un episodio parecido y conserva un detalle que no figura en la versión popular. El pasado ofrece una comparación útil, pero no demuestra que el responsable sea el mismo.\n\nPrimer indicio: Las invitaciones mencionan un turno que nunca figura en la contabilidad oficial. El grupo puede empezar por lo siguiente: Consultar registros laborales, asegurar una salida y escuchar a quienes conocen los niveles cerrados.",
+      "abilities": [
+        "Para el DM: Relaciona ambos episodios mediante una práctica o un recurso; permite que una diferencia descarte la explicación anterior.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-12-09",
+      "kind": "story",
+      "mission": "main",
+      "name": "Las puertas de la mina — el coste",
+      "description": "Una mina cerrada vuelve a enviar mineral hasta la superficie. Los ascensores trabajan sin señales acordadas y las familias de antiguos trabajadores reciben invitaciones para bajar a una celebración.\n\nLa comunidad puede contener temporalmente el problema si sacrifica un recurso compartido. Quienes dependen de ese recurso piden que se investigue antes de aceptar una pérdida permanente.\n\nPrimer indicio: Las invitaciones mencionan un turno que nunca figura en la contabilidad oficial. El grupo puede empezar por lo siguiente: Consultar registros laborales, asegurar una salida y escuchar a quienes conocen los niveles cerrados.",
+      "abilities": [
+        "Para el DM: Explica el coste antes de decidir y permite medidas parciales, reparto de cargas o una ruta alternativa.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-12-10",
+      "kind": "story",
+      "mission": "main",
+      "name": "Las puertas de la mina — la visita",
+      "description": "Una mina cerrada vuelve a enviar mineral hasta la superficie. Los ascensores trabajan sin señales acordadas y las familias de antiguos trabajadores reciben invitaciones para bajar a una celebración.\n\nLos personajes presencian una nueva manifestación al llegar. Pueden atender a una persona afectada o seguir un rastro que se debilita; ninguna de las dos elecciones elimina toda posibilidad de continuar.\n\nPrimer indicio: Las invitaciones mencionan un turno que nunca figura en la contabilidad oficial. El grupo puede empezar por lo siguiente: Consultar registros laborales, asegurar una salida y escuchar a quienes conocen los niveles cerrados.",
+      "abilities": [
+        "Para el DM: La ayuda inmediata gana un aliado; seguir el rastro obtiene otra perspectiva. Conserva una pista accesible en la opción restante.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-13-01",
+      "kind": "story",
+      "mission": "main",
+      "name": "La ciudad sin sueño — la petición",
+      "description": "Una ciudad pasa varias noches sin poder dormir. Nadie parece enfermo al principio, pero los acuerdos se rompen, las patrullas confunden señales y un edificio continúa tranquilo en medio del desorden.\n\nUna persona afectada pide ayuda en privado porque teme que una denuncia pública cierre la única vía de investigación. Ofrece acceso a un lugar o documento, no una recompensa que pueda garantizar.\n\nPrimer indicio: Los habitantes de ese edificio siguen una costumbre que el resto abandonó recientemente. El grupo puede empezar por lo siguiente: Relacionar los primeros casos y ofrecer descanso a los afectados mientras se averigua la excepción.",
+      "abilities": [
+        "Para el DM: Dar prioridad a esa persona puede abrir una entrada discreta, pero exige acordar qué información puede compartirse.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-13-02",
+      "kind": "story",
+      "mission": "main",
+      "name": "La ciudad sin sueño — el testigo",
+      "description": "Una ciudad pasa varias noches sin poder dormir. Nadie parece enfermo al principio, pero los acuerdos se rompen, las patrullas confunden señales y un edificio continúa tranquilo en medio del desorden.\n\nUn testigo llega con un relato incompleto y reconoce haber ocultado un detalle para proteger a otra persona. No conoce el origen del acontecimiento y necesita una razón para confiar de nuevo.\n\nPrimer indicio: Los habitantes de ese edificio siguen una costumbre que el resto abandonó recientemente. El grupo puede empezar por lo siguiente: Relacionar los primeros casos y ofrecer descanso a los afectados mientras se averigua la excepción.",
+      "abilities": [
+        "Para el DM: Su silencio puede superarse con protección o un acuerdo; una amenaza también podría hacer que se marche.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-13-03",
+      "kind": "story",
+      "mission": "main",
+      "name": "La ciudad sin sueño — el encargo",
+      "description": "Una ciudad pasa varias noches sin poder dormir. Nadie parece enfermo al principio, pero los acuerdos se rompen, las patrullas confunden señales y un edificio continúa tranquilo en medio del desorden.\n\nDos responsables ofrecen el mismo encargo con condiciones incompatibles. Ambos poseen una parte verificable de la información y ninguno puede resolver por sí solo el problema.\n\nPrimer indicio: Los habitantes de ese edificio siguen una costumbre que el resto abandonó recientemente. El grupo puede empezar por lo siguiente: Relacionar los primeros casos y ofrecer descanso a los afectados mientras se averigua la excepción.",
+      "abilities": [
+        "Para el DM: Aceptar un encargo no obliga a obedecer todas sus condiciones; negociar límites permite conservar otra vía de ayuda.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-13-04",
+      "kind": "story",
+      "mission": "main",
+      "name": "La ciudad sin sueño — la pista heredada",
+      "description": "Una ciudad pasa varias noches sin poder dormir. Nadie parece enfermo al principio, pero los acuerdos se rompen, las patrullas confunden señales y un edificio continúa tranquilo en medio del desorden.\n\nUna pertenencia de alguien ausente relaciona a un personaje o aliado con lo ocurrido. Su procedencia puede confirmarse sin decidir de antemano qué sabía su antiguo dueño.\n\nPrimer indicio: Los habitantes de ese edificio siguen una costumbre que el resto abandonó recientemente. El grupo puede empezar por lo siguiente: Relacionar los primeros casos y ofrecer descanso a los afectados mientras se averigua la excepción.",
+      "abilities": [
+        "Para el DM: El vínculo sirve para personalizar la investigación, sin imponer recuerdos ni culpas al personaje.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-13-05",
+      "kind": "story",
+      "mission": "main",
+      "name": "La ciudad sin sueño — el plazo",
+      "description": "Una ciudad pasa varias noches sin poder dormir. Nadie parece enfermo al principio, pero los acuerdos se rompen, las patrullas confunden señales y un edificio continúa tranquilo en medio del desorden.\n\nUna decisión pública está prevista para el día siguiente y puede destruir una pista o cerrar un acceso. Los personajes saben qué cambiará, aunque todavía no conocen quién se beneficiará.\n\nPrimer indicio: Los habitantes de ese edificio siguen una costumbre que el resto abandonó recientemente. El grupo puede empezar por lo siguiente: Relacionar los primeros casos y ofrecer descanso a los afectados mientras se averigua la excepción.",
+      "abilities": [
+        "Para el DM: El plazo debe avanzar de forma visible; si termina, traslada la información a otro testigo en lugar de cerrar la aventura.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-13-06",
+      "kind": "story",
+      "mission": "main",
+      "name": "La ciudad sin sueño — la ayuda rival",
+      "description": "Una ciudad pasa varias noches sin poder dormir. Nadie parece enfermo al principio, pero los acuerdos se rompen, las patrullas confunden señales y un edificio continúa tranquilo en medio del desorden.\n\nOtro grupo intenta intervenir y ya ha obtenido una pista diferente. Sus integrantes prefieren una solución rápida, pero pueden cooperar si se reconoce su trabajo y se acuerdan responsabilidades.\n\nPrimer indicio: Los habitantes de ese edificio siguen una costumbre que el resto abandonó recientemente. El grupo puede empezar por lo siguiente: Relacionar los primeros casos y ofrecer descanso a los afectados mientras se averigua la excepción.",
+      "abilities": [
+        "Para el DM: La rivalidad puede ser profesional o personal; no hace falta convertirla en violencia para que tenga consecuencias.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-13-07",
+      "kind": "story",
+      "mission": "main",
+      "name": "La ciudad sin sueño — la falsa explicación",
+      "description": "Una ciudad pasa varias noches sin poder dormir. Nadie parece enfermo al principio, pero los acuerdos se rompen, las patrullas confunden señales y un edificio continúa tranquilo en medio del desorden.\n\nCircula una explicación sencilla que culpa a alguien vulnerable. Un detalle comprobable no encaja con ella, aunque las autoridades consideran más cómodo dar el asunto por resuelto.\n\nPrimer indicio: Los habitantes de ese edificio siguen una costumbre que el resto abandonó recientemente. El grupo puede empezar por lo siguiente: Relacionar los primeros casos y ofrecer descanso a los afectados mientras se averigua la excepción.",
+      "abilities": [
+        "Para el DM: Refutar el rumor protege a un inocente y puede revelar por qué alguien necesita una respuesta inmediata.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-13-08",
+      "kind": "story",
+      "mission": "main",
+      "name": "La ciudad sin sueño — la repetición",
+      "description": "Una ciudad pasa varias noches sin poder dormir. Nadie parece enfermo al principio, pero los acuerdos se rompen, las patrullas confunden señales y un edificio continúa tranquilo en medio del desorden.\n\nUna persona mayor recuerda un episodio parecido y conserva un detalle que no figura en la versión popular. El pasado ofrece una comparación útil, pero no demuestra que el responsable sea el mismo.\n\nPrimer indicio: Los habitantes de ese edificio siguen una costumbre que el resto abandonó recientemente. El grupo puede empezar por lo siguiente: Relacionar los primeros casos y ofrecer descanso a los afectados mientras se averigua la excepción.",
+      "abilities": [
+        "Para el DM: Relaciona ambos episodios mediante una práctica o un recurso; permite que una diferencia descarte la explicación anterior.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-13-09",
+      "kind": "story",
+      "mission": "main",
+      "name": "La ciudad sin sueño — el coste",
+      "description": "Una ciudad pasa varias noches sin poder dormir. Nadie parece enfermo al principio, pero los acuerdos se rompen, las patrullas confunden señales y un edificio continúa tranquilo en medio del desorden.\n\nLa comunidad puede contener temporalmente el problema si sacrifica un recurso compartido. Quienes dependen de ese recurso piden que se investigue antes de aceptar una pérdida permanente.\n\nPrimer indicio: Los habitantes de ese edificio siguen una costumbre que el resto abandonó recientemente. El grupo puede empezar por lo siguiente: Relacionar los primeros casos y ofrecer descanso a los afectados mientras se averigua la excepción.",
+      "abilities": [
+        "Para el DM: Explica el coste antes de decidir y permite medidas parciales, reparto de cargas o una ruta alternativa.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-13-10",
+      "kind": "story",
+      "mission": "main",
+      "name": "La ciudad sin sueño — la visita",
+      "description": "Una ciudad pasa varias noches sin poder dormir. Nadie parece enfermo al principio, pero los acuerdos se rompen, las patrullas confunden señales y un edificio continúa tranquilo en medio del desorden.\n\nLos personajes presencian una nueva manifestación al llegar. Pueden atender a una persona afectada o seguir un rastro que se debilita; ninguna de las dos elecciones elimina toda posibilidad de continuar.\n\nPrimer indicio: Los habitantes de ese edificio siguen una costumbre que el resto abandonó recientemente. El grupo puede empezar por lo siguiente: Relacionar los primeros casos y ofrecer descanso a los afectados mientras se averigua la excepción.",
+      "abilities": [
+        "Para el DM: La ayuda inmediata gana un aliado; seguir el rastro obtiene otra perspectiva. Conserva una pista accesible en la opción restante.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-14-01",
+      "kind": "story",
+      "mission": "main",
+      "name": "El puente condenado — la petición",
+      "description": "Un puente empieza a mostrar nombres grabados sobre sus piedras. Cada nombre pertenece a alguien que planea cruzarlo pronto, y los rumores provocan cierres y disputas que aíslan ambas orillas.\n\nUna persona afectada pide ayuda en privado porque teme que una denuncia pública cierre la única vía de investigación. Ofrece acceso a un lugar o documento, no una recompensa que pueda garantizar.\n\nPrimer indicio: Uno de los nombres está escrito con un apodo que solo conoce una persona de confianza. El grupo puede empezar por lo siguiente: Investigar quién sabía los viajes previstos y buscar alternativas antes de aceptar la amenaza como profecía.",
+      "abilities": [
+        "Para el DM: Dar prioridad a esa persona puede abrir una entrada discreta, pero exige acordar qué información puede compartirse.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-14-02",
+      "kind": "story",
+      "mission": "main",
+      "name": "El puente condenado — el testigo",
+      "description": "Un puente empieza a mostrar nombres grabados sobre sus piedras. Cada nombre pertenece a alguien que planea cruzarlo pronto, y los rumores provocan cierres y disputas que aíslan ambas orillas.\n\nUn testigo llega con un relato incompleto y reconoce haber ocultado un detalle para proteger a otra persona. No conoce el origen del acontecimiento y necesita una razón para confiar de nuevo.\n\nPrimer indicio: Uno de los nombres está escrito con un apodo que solo conoce una persona de confianza. El grupo puede empezar por lo siguiente: Investigar quién sabía los viajes previstos y buscar alternativas antes de aceptar la amenaza como profecía.",
+      "abilities": [
+        "Para el DM: Su silencio puede superarse con protección o un acuerdo; una amenaza también podría hacer que se marche.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-14-03",
+      "kind": "story",
+      "mission": "main",
+      "name": "El puente condenado — el encargo",
+      "description": "Un puente empieza a mostrar nombres grabados sobre sus piedras. Cada nombre pertenece a alguien que planea cruzarlo pronto, y los rumores provocan cierres y disputas que aíslan ambas orillas.\n\nDos responsables ofrecen el mismo encargo con condiciones incompatibles. Ambos poseen una parte verificable de la información y ninguno puede resolver por sí solo el problema.\n\nPrimer indicio: Uno de los nombres está escrito con un apodo que solo conoce una persona de confianza. El grupo puede empezar por lo siguiente: Investigar quién sabía los viajes previstos y buscar alternativas antes de aceptar la amenaza como profecía.",
+      "abilities": [
+        "Para el DM: Aceptar un encargo no obliga a obedecer todas sus condiciones; negociar límites permite conservar otra vía de ayuda.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-14-04",
+      "kind": "story",
+      "mission": "main",
+      "name": "El puente condenado — la pista heredada",
+      "description": "Un puente empieza a mostrar nombres grabados sobre sus piedras. Cada nombre pertenece a alguien que planea cruzarlo pronto, y los rumores provocan cierres y disputas que aíslan ambas orillas.\n\nUna pertenencia de alguien ausente relaciona a un personaje o aliado con lo ocurrido. Su procedencia puede confirmarse sin decidir de antemano qué sabía su antiguo dueño.\n\nPrimer indicio: Uno de los nombres está escrito con un apodo que solo conoce una persona de confianza. El grupo puede empezar por lo siguiente: Investigar quién sabía los viajes previstos y buscar alternativas antes de aceptar la amenaza como profecía.",
+      "abilities": [
+        "Para el DM: El vínculo sirve para personalizar la investigación, sin imponer recuerdos ni culpas al personaje.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-14-05",
+      "kind": "story",
+      "mission": "main",
+      "name": "El puente condenado — el plazo",
+      "description": "Un puente empieza a mostrar nombres grabados sobre sus piedras. Cada nombre pertenece a alguien que planea cruzarlo pronto, y los rumores provocan cierres y disputas que aíslan ambas orillas.\n\nUna decisión pública está prevista para el día siguiente y puede destruir una pista o cerrar un acceso. Los personajes saben qué cambiará, aunque todavía no conocen quién se beneficiará.\n\nPrimer indicio: Uno de los nombres está escrito con un apodo que solo conoce una persona de confianza. El grupo puede empezar por lo siguiente: Investigar quién sabía los viajes previstos y buscar alternativas antes de aceptar la amenaza como profecía.",
+      "abilities": [
+        "Para el DM: El plazo debe avanzar de forma visible; si termina, traslada la información a otro testigo en lugar de cerrar la aventura.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-14-06",
+      "kind": "story",
+      "mission": "main",
+      "name": "El puente condenado — la ayuda rival",
+      "description": "Un puente empieza a mostrar nombres grabados sobre sus piedras. Cada nombre pertenece a alguien que planea cruzarlo pronto, y los rumores provocan cierres y disputas que aíslan ambas orillas.\n\nOtro grupo intenta intervenir y ya ha obtenido una pista diferente. Sus integrantes prefieren una solución rápida, pero pueden cooperar si se reconoce su trabajo y se acuerdan responsabilidades.\n\nPrimer indicio: Uno de los nombres está escrito con un apodo que solo conoce una persona de confianza. El grupo puede empezar por lo siguiente: Investigar quién sabía los viajes previstos y buscar alternativas antes de aceptar la amenaza como profecía.",
+      "abilities": [
+        "Para el DM: La rivalidad puede ser profesional o personal; no hace falta convertirla en violencia para que tenga consecuencias.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-14-07",
+      "kind": "story",
+      "mission": "main",
+      "name": "El puente condenado — la falsa explicación",
+      "description": "Un puente empieza a mostrar nombres grabados sobre sus piedras. Cada nombre pertenece a alguien que planea cruzarlo pronto, y los rumores provocan cierres y disputas que aíslan ambas orillas.\n\nCircula una explicación sencilla que culpa a alguien vulnerable. Un detalle comprobable no encaja con ella, aunque las autoridades consideran más cómodo dar el asunto por resuelto.\n\nPrimer indicio: Uno de los nombres está escrito con un apodo que solo conoce una persona de confianza. El grupo puede empezar por lo siguiente: Investigar quién sabía los viajes previstos y buscar alternativas antes de aceptar la amenaza como profecía.",
+      "abilities": [
+        "Para el DM: Refutar el rumor protege a un inocente y puede revelar por qué alguien necesita una respuesta inmediata.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-14-08",
+      "kind": "story",
+      "mission": "main",
+      "name": "El puente condenado — la repetición",
+      "description": "Un puente empieza a mostrar nombres grabados sobre sus piedras. Cada nombre pertenece a alguien que planea cruzarlo pronto, y los rumores provocan cierres y disputas que aíslan ambas orillas.\n\nUna persona mayor recuerda un episodio parecido y conserva un detalle que no figura en la versión popular. El pasado ofrece una comparación útil, pero no demuestra que el responsable sea el mismo.\n\nPrimer indicio: Uno de los nombres está escrito con un apodo que solo conoce una persona de confianza. El grupo puede empezar por lo siguiente: Investigar quién sabía los viajes previstos y buscar alternativas antes de aceptar la amenaza como profecía.",
+      "abilities": [
+        "Para el DM: Relaciona ambos episodios mediante una práctica o un recurso; permite que una diferencia descarte la explicación anterior.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-14-09",
+      "kind": "story",
+      "mission": "main",
+      "name": "El puente condenado — el coste",
+      "description": "Un puente empieza a mostrar nombres grabados sobre sus piedras. Cada nombre pertenece a alguien que planea cruzarlo pronto, y los rumores provocan cierres y disputas que aíslan ambas orillas.\n\nLa comunidad puede contener temporalmente el problema si sacrifica un recurso compartido. Quienes dependen de ese recurso piden que se investigue antes de aceptar una pérdida permanente.\n\nPrimer indicio: Uno de los nombres está escrito con un apodo que solo conoce una persona de confianza. El grupo puede empezar por lo siguiente: Investigar quién sabía los viajes previstos y buscar alternativas antes de aceptar la amenaza como profecía.",
+      "abilities": [
+        "Para el DM: Explica el coste antes de decidir y permite medidas parciales, reparto de cargas o una ruta alternativa.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-14-10",
+      "kind": "story",
+      "mission": "main",
+      "name": "El puente condenado — la visita",
+      "description": "Un puente empieza a mostrar nombres grabados sobre sus piedras. Cada nombre pertenece a alguien que planea cruzarlo pronto, y los rumores provocan cierres y disputas que aíslan ambas orillas.\n\nLos personajes presencian una nueva manifestación al llegar. Pueden atender a una persona afectada o seguir un rastro que se debilita; ninguna de las dos elecciones elimina toda posibilidad de continuar.\n\nPrimer indicio: Uno de los nombres está escrito con un apodo que solo conoce una persona de confianza. El grupo puede empezar por lo siguiente: Investigar quién sabía los viajes previstos y buscar alternativas antes de aceptar la amenaza como profecía.",
+      "abilities": [
+        "Para el DM: La ayuda inmediata gana un aliado; seguir el rastro obtiene otra perspectiva. Conserva una pista accesible en la opción restante.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-15-01",
+      "kind": "story",
+      "mission": "main",
+      "name": "Los archivos cambiantes — la petición",
+      "description": "El archivo local cambia relatos oficiales durante la noche. Las nuevas versiones justifican propiedades y condenas distintas; algunas personas recuperan derechos, mientras otras pierden pruebas que guardaron durante años.\n\nUna persona afectada pide ayuda en privado porque teme que una denuncia pública cierre la única vía de investigación. Ofrece acceso a un lugar o documento, no una recompensa que pueda garantizar.\n\nPrimer indicio: Los testimonios copiados en materiales diferentes no cambian todos al mismo tiempo. El grupo puede empezar por lo siguiente: Preservar copias independientes y contrastar los hechos con quienes participaron en ellos.",
+      "abilities": [
+        "Para el DM: Dar prioridad a esa persona puede abrir una entrada discreta, pero exige acordar qué información puede compartirse.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-15-02",
+      "kind": "story",
+      "mission": "main",
+      "name": "Los archivos cambiantes — el testigo",
+      "description": "El archivo local cambia relatos oficiales durante la noche. Las nuevas versiones justifican propiedades y condenas distintas; algunas personas recuperan derechos, mientras otras pierden pruebas que guardaron durante años.\n\nUn testigo llega con un relato incompleto y reconoce haber ocultado un detalle para proteger a otra persona. No conoce el origen del acontecimiento y necesita una razón para confiar de nuevo.\n\nPrimer indicio: Los testimonios copiados en materiales diferentes no cambian todos al mismo tiempo. El grupo puede empezar por lo siguiente: Preservar copias independientes y contrastar los hechos con quienes participaron en ellos.",
+      "abilities": [
+        "Para el DM: Su silencio puede superarse con protección o un acuerdo; una amenaza también podría hacer que se marche.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-15-03",
+      "kind": "story",
+      "mission": "main",
+      "name": "Los archivos cambiantes — el encargo",
+      "description": "El archivo local cambia relatos oficiales durante la noche. Las nuevas versiones justifican propiedades y condenas distintas; algunas personas recuperan derechos, mientras otras pierden pruebas que guardaron durante años.\n\nDos responsables ofrecen el mismo encargo con condiciones incompatibles. Ambos poseen una parte verificable de la información y ninguno puede resolver por sí solo el problema.\n\nPrimer indicio: Los testimonios copiados en materiales diferentes no cambian todos al mismo tiempo. El grupo puede empezar por lo siguiente: Preservar copias independientes y contrastar los hechos con quienes participaron en ellos.",
+      "abilities": [
+        "Para el DM: Aceptar un encargo no obliga a obedecer todas sus condiciones; negociar límites permite conservar otra vía de ayuda.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-15-04",
+      "kind": "story",
+      "mission": "main",
+      "name": "Los archivos cambiantes — la pista heredada",
+      "description": "El archivo local cambia relatos oficiales durante la noche. Las nuevas versiones justifican propiedades y condenas distintas; algunas personas recuperan derechos, mientras otras pierden pruebas que guardaron durante años.\n\nUna pertenencia de alguien ausente relaciona a un personaje o aliado con lo ocurrido. Su procedencia puede confirmarse sin decidir de antemano qué sabía su antiguo dueño.\n\nPrimer indicio: Los testimonios copiados en materiales diferentes no cambian todos al mismo tiempo. El grupo puede empezar por lo siguiente: Preservar copias independientes y contrastar los hechos con quienes participaron en ellos.",
+      "abilities": [
+        "Para el DM: El vínculo sirve para personalizar la investigación, sin imponer recuerdos ni culpas al personaje.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-15-05",
+      "kind": "story",
+      "mission": "main",
+      "name": "Los archivos cambiantes — el plazo",
+      "description": "El archivo local cambia relatos oficiales durante la noche. Las nuevas versiones justifican propiedades y condenas distintas; algunas personas recuperan derechos, mientras otras pierden pruebas que guardaron durante años.\n\nUna decisión pública está prevista para el día siguiente y puede destruir una pista o cerrar un acceso. Los personajes saben qué cambiará, aunque todavía no conocen quién se beneficiará.\n\nPrimer indicio: Los testimonios copiados en materiales diferentes no cambian todos al mismo tiempo. El grupo puede empezar por lo siguiente: Preservar copias independientes y contrastar los hechos con quienes participaron en ellos.",
+      "abilities": [
+        "Para el DM: El plazo debe avanzar de forma visible; si termina, traslada la información a otro testigo en lugar de cerrar la aventura.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-15-06",
+      "kind": "story",
+      "mission": "main",
+      "name": "Los archivos cambiantes — la ayuda rival",
+      "description": "El archivo local cambia relatos oficiales durante la noche. Las nuevas versiones justifican propiedades y condenas distintas; algunas personas recuperan derechos, mientras otras pierden pruebas que guardaron durante años.\n\nOtro grupo intenta intervenir y ya ha obtenido una pista diferente. Sus integrantes prefieren una solución rápida, pero pueden cooperar si se reconoce su trabajo y se acuerdan responsabilidades.\n\nPrimer indicio: Los testimonios copiados en materiales diferentes no cambian todos al mismo tiempo. El grupo puede empezar por lo siguiente: Preservar copias independientes y contrastar los hechos con quienes participaron en ellos.",
+      "abilities": [
+        "Para el DM: La rivalidad puede ser profesional o personal; no hace falta convertirla en violencia para que tenga consecuencias.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-15-07",
+      "kind": "story",
+      "mission": "main",
+      "name": "Los archivos cambiantes — la falsa explicación",
+      "description": "El archivo local cambia relatos oficiales durante la noche. Las nuevas versiones justifican propiedades y condenas distintas; algunas personas recuperan derechos, mientras otras pierden pruebas que guardaron durante años.\n\nCircula una explicación sencilla que culpa a alguien vulnerable. Un detalle comprobable no encaja con ella, aunque las autoridades consideran más cómodo dar el asunto por resuelto.\n\nPrimer indicio: Los testimonios copiados en materiales diferentes no cambian todos al mismo tiempo. El grupo puede empezar por lo siguiente: Preservar copias independientes y contrastar los hechos con quienes participaron en ellos.",
+      "abilities": [
+        "Para el DM: Refutar el rumor protege a un inocente y puede revelar por qué alguien necesita una respuesta inmediata.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-15-08",
+      "kind": "story",
+      "mission": "main",
+      "name": "Los archivos cambiantes — la repetición",
+      "description": "El archivo local cambia relatos oficiales durante la noche. Las nuevas versiones justifican propiedades y condenas distintas; algunas personas recuperan derechos, mientras otras pierden pruebas que guardaron durante años.\n\nUna persona mayor recuerda un episodio parecido y conserva un detalle que no figura en la versión popular. El pasado ofrece una comparación útil, pero no demuestra que el responsable sea el mismo.\n\nPrimer indicio: Los testimonios copiados en materiales diferentes no cambian todos al mismo tiempo. El grupo puede empezar por lo siguiente: Preservar copias independientes y contrastar los hechos con quienes participaron en ellos.",
+      "abilities": [
+        "Para el DM: Relaciona ambos episodios mediante una práctica o un recurso; permite que una diferencia descarte la explicación anterior.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-15-09",
+      "kind": "story",
+      "mission": "main",
+      "name": "Los archivos cambiantes — el coste",
+      "description": "El archivo local cambia relatos oficiales durante la noche. Las nuevas versiones justifican propiedades y condenas distintas; algunas personas recuperan derechos, mientras otras pierden pruebas que guardaron durante años.\n\nLa comunidad puede contener temporalmente el problema si sacrifica un recurso compartido. Quienes dependen de ese recurso piden que se investigue antes de aceptar una pérdida permanente.\n\nPrimer indicio: Los testimonios copiados en materiales diferentes no cambian todos al mismo tiempo. El grupo puede empezar por lo siguiente: Preservar copias independientes y contrastar los hechos con quienes participaron en ellos.",
+      "abilities": [
+        "Para el DM: Explica el coste antes de decidir y permite medidas parciales, reparto de cargas o una ruta alternativa.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    },
+    {
+      "id": "story-compendio-main-15-10",
+      "kind": "story",
+      "mission": "main",
+      "name": "Los archivos cambiantes — la visita",
+      "description": "El archivo local cambia relatos oficiales durante la noche. Las nuevas versiones justifican propiedades y condenas distintas; algunas personas recuperan derechos, mientras otras pierden pruebas que guardaron durante años.\n\nLos personajes presencian una nueva manifestación al llegar. Pueden atender a una persona afectada o seguir un rastro que se debilita; ninguna de las dos elecciones elimina toda posibilidad de continuar.\n\nPrimer indicio: Los testimonios copiados en materiales diferentes no cambian todos al mismo tiempo. El grupo puede empezar por lo siguiente: Preservar copias independientes y contrastar los hechos con quienes participaron en ellos.",
+      "abilities": [
+        "Para el DM: La ayuda inmediata gana un aliado; seguir el rastro obtiene otra perspectiva. Conserva una pista accesible en la opción restante.",
+        "Desarrollo: ofrece una escena de llegada, un contacto y una pista verificable. Relaciona las siguientes cartas con una causa, intermediario o consecuencia; no conviertas cada carta en una aventura inconexa.",
+        "Información esencial: no la encierres tras una única tirada. Un fallo puede requerir tiempo, ayuda o un favor y aun permitir que la historia avance.",
+        "Continuar un arco: si el problema ya se resolvió, usa este acontecimiento como una consecuencia nueva o como la perspectiva de otro lugar. El desenlace determinará qué conexiones son reales."
+      ],
+      "instructions": []
+    }
+  ]
+}

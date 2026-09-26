@@ -7,6 +7,7 @@ import { ItemPicker } from "./item-picker";
 import { ItemDisclosure } from "./item-disclosure";
 import { GameIcon } from "./game-icon";
 import { ClassDecoration, classTheme } from "./class-decoration";
+import { SourceReference } from "./source-reference";
 
 export function Sheet({ character: c, section, update }: {
   character: Character; section: string; update: (change: (c: Character) => Character) => void;
@@ -21,7 +22,7 @@ export function Sheet({ character: c, section, update }: {
   const nextThreshold = c.rules.xpThresholds[c.level];
   return <div className="stack">
     <div className="panel hero class-card" data-class-theme={classTheme(c.classId)}><ClassDecoration classId={c.classId} /><Portrait image={cls.image} name={cls.name} classId={c.classId} gender={c.gender} /><div>
-      <p className="eyebrow">{cls.name} · Nivel {c.level}</p><h1>{c.name}</h1><p className="muted">{cls.description}</p>
+      <p className="eyebrow">{cls.name} · Nivel {c.level}</p><h1>{c.name}</h1><p className="muted">{cls.description}</p><SourceReference source={cls.source} />
       <div className="tags"><span>Semilla {c.seed}</span><span>{c.xp} XP</span></div>
     </div></div>
     {error && <p role="alert" className="notice error">{error}</p>}

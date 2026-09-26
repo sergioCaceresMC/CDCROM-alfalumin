@@ -1,0 +1,705 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "terrain-compendio-costas-01",
+      "kind": "terrain",
+      "name": "Playa de las Botellas Negras",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Thomas_Fearnley_-_Coast_scene%2C_possibly_Capri.jpg/960px-Thomas_Fearnley_-_Coast_scene%2C_possibly_Capri.jpg",
+      "imageCredit": {
+        "text": "Coast scene, possibly Capri · Thomas Fearnley · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Thomas_Fearnley_-_Coast_scene,_possibly_Capri.jpg"
+      },
+      "description": "Botellas negras se acumulan en una línea que la espuma no alcanza. El terreno termina junto a una extensión de agua en movimiento. Las líneas de espuma dibujan y borran fronteras sobre la orilla, mientras los puntos elevados permiten ver rutas que desde abajo quedan ocultas.\n\nLa sal se acumula sobre piedras, cuerdas y superficies expuestas. El viento trae olor a algas y cambia la claridad de los sonidos que llegan desde el agua. Restos de amarre, escalones y marcas de nivel indican cómo se utiliza este borde entre tierra y mar. Algunos pasos solo parecen disponibles cuando las aguas se retiran.\n\nAlgo aquí ha sido reparado con materiales distintos de los originales. El arreglo resulta modesto y cuidadoso. Junto a él permanece la pieza rota, guardada como si todavía pudiera servir para otra cosa. Más allá del punto de entrada queda una perspectiva por descubrir. Desde aquí solo se percibe una parte del lugar; para conocer el resto habría que acercarse y cambiar el ángulo de observación.",
+      "musicUrl": "https://www.youtube.com/results?search_query=ocean%20coast%20harbor%20ambient",
+      "abilities": [
+        "Entorno: Costas y acantilados. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Botellas negras se acumulan en una línea que la espuma no alcanza. Una persona conoce el origen de este detalle, pero su versión contradice la de quien lo cuida. Contrastar ambas historias puede revelar una necesidad que ninguna admite en público.",
+        "Rumbo opcional: Algo útil ha quedado atrapado por la marea. Una persona local puede explicar cuándo recuperarlo y pedir ayuda; el peligro puede ser ambiental antes que un combate.",
+        "Personaje sugerido: Plebeyo. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Red. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Cangrejo gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Plebeyo. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "srd-npc-plebeyo"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-costas-02",
+      "kind": "terrain",
+      "name": "Acantilado de las Escaleras Blancas",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Ioannis_Poulakas_Rocky_coast.jpg/960px-Ioannis_Poulakas_Rocky_coast.jpg",
+      "imageCredit": {
+        "text": "Ioannis Poulakas Rocky coast · Ioannis (Yiannis) Poulakas (1863-1942) // Ιωάννης (Γιάννης) Πούλακας (1863-1942) · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Ioannis_Poulakas_Rocky_coast.jpg"
+      },
+      "description": "Escalones blanqueados por la sal bajan hasta una cornisa cubierta de algas. El terreno termina junto a una extensión de agua en movimiento. Las líneas de espuma dibujan y borran fronteras sobre la orilla, mientras los puntos elevados permiten ver rutas que desde abajo quedan ocultas.\n\nLa sal se acumula sobre piedras, cuerdas y superficies expuestas. El viento trae olor a algas y cambia la claridad de los sonidos que llegan desde el agua. Restos de amarre, escalones y marcas de nivel indican cómo se utiliza este borde entre tierra y mar. Algunos pasos solo parecen disponibles cuando las aguas se retiran.\n\nVarias señales apuntan a una ocupación reciente, pero ninguna permite saber cuántas personas estuvieron aquí. Los rastros más pequeños se cruzan con los mayores y luego se separan, siguiendo direcciones diferentes. El lugar no revela de inmediato si espera visitantes o si intenta mantenerlos a distancia. Sus señales admiten ambas lecturas, y el siguiente paso puede aclarar cuál resulta más convincente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=ocean%20coast%20harbor%20ambient",
+      "abilities": [
+        "Entorno: Costas y acantilados. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Escalones blanqueados por la sal bajan hasta una cornisa cubierta de algas. Este detalle sirve como señal para una cita. El grupo puede encontrar a quien espera, descubrir por qué nadie acudió o dejar un mensaje para continuar la historia más adelante.",
+        "Rumbo opcional: Algo útil ha quedado atrapado por la marea. Una persona local puede explicar cuándo recuperarlo y pedir ayuda; el peligro puede ser ambiental antes que un combate.",
+        "Personaje sugerido: Plebeyo. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Red. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Cangrejo gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Red. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-red"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-costas-03",
+      "kind": "terrain",
+      "name": "Cala de los Remiendos",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Thomas_Fearnley_-_Coast_scene%2C_possibly_Capri.jpg/960px-Thomas_Fearnley_-_Coast_scene%2C_possibly_Capri.jpg",
+      "imageCredit": {
+        "text": "Coast scene, possibly Capri · Thomas Fearnley · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Thomas_Fearnley_-_Coast_scene,_possibly_Capri.jpg"
+      },
+      "description": "Velas remendadas cubren pequeñas barcas varadas entre piedras. El terreno termina junto a una extensión de agua en movimiento. Las líneas de espuma dibujan y borran fronteras sobre la orilla, mientras los puntos elevados permiten ver rutas que desde abajo quedan ocultas.\n\nLa sal se acumula sobre piedras, cuerdas y superficies expuestas. El viento trae olor a algas y cambia la claridad de los sonidos que llegan desde el agua. Restos de amarre, escalones y marcas de nivel indican cómo se utiliza este borde entre tierra y mar. Algunos pasos solo parecen disponibles cuando las aguas se retiran.\n\nEn el límite entre dos superficies queda una acumulación fina de materiales. Las capas más antiguas son oscuras y compactas; por encima descansa una franja clara, todavía suelta, que deja ver el cambio reciente. La primera impresión invita a seguir, pero un examen pausado ofrece otra posibilidad: detenerse, comparar los rastros y decidir qué detalle merece atención antes de abandonar el sitio.",
+      "musicUrl": "https://www.youtube.com/results?search_query=ocean%20coast%20harbor%20ambient",
+      "abilities": [
+        "Entorno: Costas y acantilados. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Velas remendadas cubren pequeñas barcas varadas entre piedras. Una reparación sencilla permitiría volver a utilizar este lugar. Sus responsables ofrecen información o alojamiento a cambio; decidir quién se beneficiará importa más que obtener una recompensa material.",
+        "Rumbo opcional: Algo útil ha quedado atrapado por la marea. Una persona local puede explicar cuándo recuperarlo y pedir ayuda; el peligro puede ser ambiental antes que un combate.",
+        "Personaje sugerido: Plebeyo. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Red. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Cangrejo gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Cangrejo gigante. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-cangrejo-gigante"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-costas-04",
+      "kind": "terrain",
+      "name": "Faro de la Ventana Oscura",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Ioannis_Poulakas_Rocky_coast.jpg/960px-Ioannis_Poulakas_Rocky_coast.jpg",
+      "imageCredit": {
+        "text": "Ioannis Poulakas Rocky coast · Ioannis (Yiannis) Poulakas (1863-1942) // Ιωάννης (Γιάννης) Πούλακας (1863-1942) · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Ioannis_Poulakas_Rocky_coast.jpg"
+      },
+      "description": "La linterna del faro permanece apagada y una ventana inferior está abierta. El terreno termina junto a una extensión de agua en movimiento. Las líneas de espuma dibujan y borran fronteras sobre la orilla, mientras los puntos elevados permiten ver rutas que desde abajo quedan ocultas.\n\nLa sal se acumula sobre piedras, cuerdas y superficies expuestas. El viento trae olor a algas y cambia la claridad de los sonidos que llegan desde el agua. Restos de amarre, escalones y marcas de nivel indican cómo se utiliza este borde entre tierra y mar. Algunos pasos solo parecen disponibles cuando las aguas se retiran.\n\nUn objeto cotidiano descansa donde nadie esperaría encontrarlo. Está limpio por un lado y gastado por el otro, como si hubiera pasado mucho tiempo protegido antes de quedar expuesto de nuevo. Desde esta posición se puede distinguir por dónde llegó la última presencia conocida. Su destino, en cambio, permanece fuera de la vista y no coincide necesariamente con la salida más evidente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=ocean%20coast%20harbor%20ambient",
+      "abilities": [
+        "Entorno: Costas y acantilados. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: La linterna del faro permanece apagada y una ventana inferior está abierta. Alguien ha reproducido este detalle en un mapa incompleto. Seguir la siguiente marca puede llevar a otro terreno del mismo entorno, sin exigir que la ruta sea peligrosa.",
+        "Rumbo opcional: Algo útil ha quedado atrapado por la marea. Una persona local puede explicar cuándo recuperarlo y pedir ayuda; el peligro puede ser ambiental antes que un combate.",
+        "Personaje sugerido: Plebeyo. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Red. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Cangrejo gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Plebeyo. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "srd-npc-plebeyo"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-costas-05",
+      "kind": "terrain",
+      "name": "Costa de las Anclas Viejas",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Thomas_Fearnley_-_Coast_scene%2C_possibly_Capri.jpg/960px-Thomas_Fearnley_-_Coast_scene%2C_possibly_Capri.jpg",
+      "imageCredit": {
+        "text": "Coast scene, possibly Capri · Thomas Fearnley · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Thomas_Fearnley_-_Coast_scene,_possibly_Capri.jpg"
+      },
+      "description": "Anclas oxidadas emergen de la arena junto a marcas de arrastre recientes. El terreno termina junto a una extensión de agua en movimiento. Las líneas de espuma dibujan y borran fronteras sobre la orilla, mientras los puntos elevados permiten ver rutas que desde abajo quedan ocultas.\n\nLa sal se acumula sobre piedras, cuerdas y superficies expuestas. El viento trae olor a algas y cambia la claridad de los sonidos que llegan desde el agua. Restos de amarre, escalones y marcas de nivel indican cómo se utiliza este borde entre tierra y mar. Algunos pasos solo parecen disponibles cuando las aguas se retiran.\n\nUn rastro del mismo color se repite sobre superficies diferentes. No parece una decoración, porque cada marca queda a una altura distinta. La última está junto a algo que nadie ha movido recientemente. El entorno guarda suficiente silencio entre sus sonidos para escuchar lo que ocurra después. Ninguna señal obliga a intervenir; aun así, cuesta ignorar el detalle que se aparta de todos los demás.",
+      "musicUrl": "https://www.youtube.com/results?search_query=ocean%20coast%20harbor%20ambient",
+      "abilities": [
+        "Entorno: Costas y acantilados. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Anclas oxidadas emergen de la arena junto a marcas de arrastre recientes. Una pertenencia perdida cerca de este detalle identifica a un viajero. Devolverla puede abrir una conversación; conservarla puede provocar una reclamación posterior, sin presumir que sea un tesoro abandonado.",
+        "Rumbo opcional: Algo útil ha quedado atrapado por la marea. Una persona local puede explicar cuándo recuperarlo y pedir ayuda; el peligro puede ser ambiental antes que un combate.",
+        "Personaje sugerido: Plebeyo. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Red. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Cangrejo gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Red. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-red"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-costas-06",
+      "kind": "terrain",
+      "name": "Playa del Barco Partido",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Ioannis_Poulakas_Rocky_coast.jpg/960px-Ioannis_Poulakas_Rocky_coast.jpg",
+      "imageCredit": {
+        "text": "Ioannis Poulakas Rocky coast · Ioannis (Yiannis) Poulakas (1863-1942) // Ιωάννης (Γιάννης) Πούλακας (1863-1942) · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Ioannis_Poulakas_Rocky_coast.jpg"
+      },
+      "description": "Las dos mitades de un casco descansan separadas por un arroyo. El terreno termina junto a una extensión de agua en movimiento. Las líneas de espuma dibujan y borran fronteras sobre la orilla, mientras los puntos elevados permiten ver rutas que desde abajo quedan ocultas.\n\nLa sal se acumula sobre piedras, cuerdas y superficies expuestas. El viento trae olor a algas y cambia la claridad de los sonidos que llegan desde el agua. Restos de amarre, escalones y marcas de nivel indican cómo se utiliza este borde entre tierra y mar. Algunos pasos solo parecen disponibles cuando las aguas se retiran.\n\nUn detalle aparece repetido tres veces, con ligeras diferencias. La primera versión está gastada, la segunda incompleta y la tercera apenas alterada. Entre ellas queda espacio suficiente para imaginar una secuencia que todavía no termina. Más allá del punto de entrada queda una perspectiva por descubrir. Desde aquí solo se percibe una parte del lugar; para conocer el resto habría que acercarse y cambiar el ángulo de observación.",
+      "musicUrl": "https://www.youtube.com/results?search_query=ocean%20coast%20harbor%20ambient",
+      "abilities": [
+        "Entorno: Costas y acantilados. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Las dos mitades de un casco descansan separadas por un arroyo. Dos grupos atribuyen significados distintos a este detalle. El master puede permitir una solución que respete ambos usos, o presentar las consecuencias de favorecer a uno de ellos.",
+        "Rumbo opcional: Algo útil ha quedado atrapado por la marea. Una persona local puede explicar cuándo recuperarlo y pedir ayuda; el peligro puede ser ambiental antes que un combate.",
+        "Personaje sugerido: Plebeyo. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Red. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Cangrejo gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Cangrejo gigante. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-cangrejo-gigante"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-costas-07",
+      "kind": "terrain",
+      "name": "Acantilado de los Nidos Salinos",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Thomas_Fearnley_-_Coast_scene%2C_possibly_Capri.jpg/960px-Thomas_Fearnley_-_Coast_scene%2C_possibly_Capri.jpg",
+      "imageCredit": {
+        "text": "Coast scene, possibly Capri · Thomas Fearnley · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Thomas_Fearnley_-_Coast_scene,_possibly_Capri.jpg"
+      },
+      "description": "Nidos de aves llenan cavidades alrededor de una puerta tallada. El terreno termina junto a una extensión de agua en movimiento. Las líneas de espuma dibujan y borran fronteras sobre la orilla, mientras los puntos elevados permiten ver rutas que desde abajo quedan ocultas.\n\nLa sal se acumula sobre piedras, cuerdas y superficies expuestas. El viento trae olor a algas y cambia la claridad de los sonidos que llegan desde el agua. Restos de amarre, escalones y marcas de nivel indican cómo se utiliza este borde entre tierra y mar. Algunos pasos solo parecen disponibles cuando las aguas se retiran.\n\nUna señal visible desde lejos tiene otra cara que solo se descubre al acercarse. Ambas están trabajadas de manera distinta. La parte oculta conserva un detalle que parece haber sido añadido después de terminar la primera. El lugar no revela de inmediato si espera visitantes o si intenta mantenerlos a distancia. Sus señales admiten ambas lecturas, y el siguiente paso puede aclarar cuál resulta más convincente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=ocean%20coast%20harbor%20ambient",
+      "abilities": [
+        "Entorno: Costas y acantilados. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Nidos de aves llenan cavidades alrededor de una puerta tallada. Las señales de uso reciente pertenecen a alguien que evita ser encontrado. Puede necesitar ayuda, intimidad o protección; investigar no demuestra por sí solo culpabilidad ni hostilidad.",
+        "Rumbo opcional: Algo útil ha quedado atrapado por la marea. Una persona local puede explicar cuándo recuperarlo y pedir ayuda; el peligro puede ser ambiental antes que un combate.",
+        "Personaje sugerido: Plebeyo. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Red. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Cangrejo gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Plebeyo. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "srd-npc-plebeyo"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-costas-08",
+      "kind": "terrain",
+      "name": "Puerto de la Campana Sumergida",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Ioannis_Poulakas_Rocky_coast.jpg/960px-Ioannis_Poulakas_Rocky_coast.jpg",
+      "imageCredit": {
+        "text": "Ioannis Poulakas Rocky coast · Ioannis (Yiannis) Poulakas (1863-1942) // Ιωάννης (Γιάννης) Πούλακας (1863-1942) · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Ioannis_Poulakas_Rocky_coast.jpg"
+      },
+      "description": "Una campana se distingue bajo el agua clara junto al muelle. El terreno termina junto a una extensión de agua en movimiento. Las líneas de espuma dibujan y borran fronteras sobre la orilla, mientras los puntos elevados permiten ver rutas que desde abajo quedan ocultas.\n\nLa sal se acumula sobre piedras, cuerdas y superficies expuestas. El viento trae olor a algas y cambia la claridad de los sonidos que llegan desde el agua. Restos de amarre, escalones y marcas de nivel indican cómo se utiliza este borde entre tierra y mar. Algunos pasos solo parecen disponibles cuando las aguas se retiran.\n\nLa distribución del lugar parece responder a una costumbre olvidada. Quien lo preparó dejó espacio alrededor de un punto central; nadie ha ocupado ese hueco, aunque todo lo demás muestra rastros de uso. La primera impresión invita a seguir, pero un examen pausado ofrece otra posibilidad: detenerse, comparar los rastros y decidir qué detalle merece atención antes de abandonar el sitio.",
+      "musicUrl": "https://www.youtube.com/results?search_query=ocean%20coast%20harbor%20ambient",
+      "abilities": [
+        "Entorno: Costas y acantilados. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Una campana se distingue bajo el agua clara junto al muelle. Un cambio de tiempo amenaza con borrar o dañar este detalle. Documentarlo o protegerlo ofrece una tarea breve cuya urgencia puede ajustarse al ritmo de la sesión.",
+        "Rumbo opcional: Algo útil ha quedado atrapado por la marea. Una persona local puede explicar cuándo recuperarlo y pedir ayuda; el peligro puede ser ambiental antes que un combate.",
+        "Personaje sugerido: Plebeyo. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Red. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Cangrejo gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Red. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-red"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-costas-09",
+      "kind": "terrain",
+      "name": "Cala de las Conchas Rojas",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Thomas_Fearnley_-_Coast_scene%2C_possibly_Capri.jpg/960px-Thomas_Fearnley_-_Coast_scene%2C_possibly_Capri.jpg",
+      "imageCredit": {
+        "text": "Coast scene, possibly Capri · Thomas Fearnley · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Thomas_Fearnley_-_Coast_scene,_possibly_Capri.jpg"
+      },
+      "description": "Conchas rojizas forman montones ordenados sobre una terraza natural. El terreno termina junto a una extensión de agua en movimiento. Las líneas de espuma dibujan y borran fronteras sobre la orilla, mientras los puntos elevados permiten ver rutas que desde abajo quedan ocultas.\n\nLa sal se acumula sobre piedras, cuerdas y superficies expuestas. El viento trae olor a algas y cambia la claridad de los sonidos que llegan desde el agua. Restos de amarre, escalones y marcas de nivel indican cómo se utiliza este borde entre tierra y mar. Algunos pasos solo parecen disponibles cuando las aguas se retiran.\n\nLa vista cambia al dar unos pasos hacia un lateral. Lo que desde la entrada parecía un obstáculo se convierte en una referencia útil, y detrás aparece una continuidad que no resultaba evidente a primera vista. Desde esta posición se puede distinguir por dónde llegó la última presencia conocida. Su destino, en cambio, permanece fuera de la vista y no coincide necesariamente con la salida más evidente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=ocean%20coast%20harbor%20ambient",
+      "abilities": [
+        "Entorno: Costas y acantilados. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Conchas rojizas forman montones ordenados sobre una terraza natural. Una persona ofrece un objeto útil si el grupo comprueba qué ha cambiado aquí. La información obtenida puede interesar a otra persona y conectar este lugar con una visita anterior.",
+        "Rumbo opcional: Algo útil ha quedado atrapado por la marea. Una persona local puede explicar cuándo recuperarlo y pedir ayuda; el peligro puede ser ambiental antes que un combate.",
+        "Personaje sugerido: Plebeyo. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Red. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Cangrejo gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Cangrejo gigante. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-cangrejo-gigante"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-costas-10",
+      "kind": "terrain",
+      "name": "Costa de los Arcos Marinos",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Ioannis_Poulakas_Rocky_coast.jpg/960px-Ioannis_Poulakas_Rocky_coast.jpg",
+      "imageCredit": {
+        "text": "Ioannis Poulakas Rocky coast · Ioannis (Yiannis) Poulakas (1863-1942) // Ιωάννης (Γιάννης) Πούλακας (1863-1942) · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Ioannis_Poulakas_Rocky_coast.jpg"
+      },
+      "description": "Arcos de roca enlazan pequeñas playas visibles durante la bajamar. El terreno termina junto a una extensión de agua en movimiento. Las líneas de espuma dibujan y borran fronteras sobre la orilla, mientras los puntos elevados permiten ver rutas que desde abajo quedan ocultas.\n\nLa sal se acumula sobre piedras, cuerdas y superficies expuestas. El viento trae olor a algas y cambia la claridad de los sonidos que llegan desde el agua. Restos de amarre, escalones y marcas de nivel indican cómo se utiliza este borde entre tierra y mar. Algunos pasos solo parecen disponibles cuando las aguas se retiran.\n\nHay un elemento desplazado respecto a todos los demás. No está roto ni parece a punto de caer; sencillamente apunta hacia otro lado. Su posición permite ver un tramo del lugar que las otras referencias ocultan. El entorno guarda suficiente silencio entre sus sonidos para escuchar lo que ocurra después. Ninguna señal obliga a intervenir; aun así, cuesta ignorar el detalle que se aparta de todos los demás.",
+      "musicUrl": "https://www.youtube.com/results?search_query=ocean%20coast%20harbor%20ambient",
+      "abilities": [
+        "Entorno: Costas y acantilados. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Arcos de roca enlazan pequeñas playas visibles durante la bajamar. Este lugar admite una escena tranquila de observación o conversación. El master puede usar el detalle visible para recordar un vínculo del personaje sin introducir un nuevo conflicto.",
+        "Rumbo opcional: Algo útil ha quedado atrapado por la marea. Una persona local puede explicar cuándo recuperarlo y pedir ayuda; el peligro puede ser ambiental antes que un combate.",
+        "Personaje sugerido: Plebeyo. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Red. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Cangrejo gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Plebeyo. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "srd-npc-plebeyo"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-costas-11",
+      "kind": "terrain",
+      "name": "Playa de la Estatua Volcada",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Thomas_Fearnley_-_Coast_scene%2C_possibly_Capri.jpg/960px-Thomas_Fearnley_-_Coast_scene%2C_possibly_Capri.jpg",
+      "imageCredit": {
+        "text": "Coast scene, possibly Capri · Thomas Fearnley · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Thomas_Fearnley_-_Coast_scene,_possibly_Capri.jpg"
+      },
+      "description": "Una estatua yace de lado con su rostro orientado hacia el mar. El terreno termina junto a una extensión de agua en movimiento. Las líneas de espuma dibujan y borran fronteras sobre la orilla, mientras los puntos elevados permiten ver rutas que desde abajo quedan ocultas.\n\nLa sal se acumula sobre piedras, cuerdas y superficies expuestas. El viento trae olor a algas y cambia la claridad de los sonidos que llegan desde el agua. Restos de amarre, escalones y marcas de nivel indican cómo se utiliza este borde entre tierra y mar. Algunos pasos solo parecen disponibles cuando las aguas se retiran.\n\nLas marcas del paso de otros viajeros se interrumpen en un punto concreto. Una señal reciente se superpone a otra mucho más antigua; las dos parecen señalar destinos distintos, aunque ninguna ofrece una explicación. Más allá del punto de entrada queda una perspectiva por descubrir. Desde aquí solo se percibe una parte del lugar; para conocer el resto habría que acercarse y cambiar el ángulo de observación.",
+      "musicUrl": "https://www.youtube.com/results?search_query=ocean%20coast%20harbor%20ambient",
+      "abilities": [
+        "Entorno: Costas y acantilados. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Una estatua yace de lado con su rostro orientado hacia el mar. Una persona conoce el origen de este detalle, pero su versión contradice la de quien lo cuida. Contrastar ambas historias puede revelar una necesidad que ninguna admite en público.",
+        "Rumbo opcional: Algo útil ha quedado atrapado por la marea. Una persona local puede explicar cuándo recuperarlo y pedir ayuda; el peligro puede ser ambiental antes que un combate.",
+        "Personaje sugerido: Plebeyo. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Red. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Cangrejo gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Red. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-red"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-costas-12",
+      "kind": "terrain",
+      "name": "Faro de los Cristales Coloreados",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Ioannis_Poulakas_Rocky_coast.jpg/960px-Ioannis_Poulakas_Rocky_coast.jpg",
+      "imageCredit": {
+        "text": "Ioannis Poulakas Rocky coast · Ioannis (Yiannis) Poulakas (1863-1942) // Ιωάννης (Γιάννης) Πούλακας (1863-1942) · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Ioannis_Poulakas_Rocky_coast.jpg"
+      },
+      "description": "Cristales de colores rodean una linterna protegida por paneles reparados. El terreno termina junto a una extensión de agua en movimiento. Las líneas de espuma dibujan y borran fronteras sobre la orilla, mientras los puntos elevados permiten ver rutas que desde abajo quedan ocultas.\n\nLa sal se acumula sobre piedras, cuerdas y superficies expuestas. El viento trae olor a algas y cambia la claridad de los sonidos que llegan desde el agua. Restos de amarre, escalones y marcas de nivel indican cómo se utiliza este borde entre tierra y mar. Algunos pasos solo parecen disponibles cuando las aguas se retiran.\n\nAl prestar atención se descubren dos sonidos que no siguen el mismo ritmo. Uno pertenece claramente al entorno; el otro aparece y desaparece sin que sea posible localizar su origen desde la entrada. El lugar no revela de inmediato si espera visitantes o si intenta mantenerlos a distancia. Sus señales admiten ambas lecturas, y el siguiente paso puede aclarar cuál resulta más convincente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=ocean%20coast%20harbor%20ambient",
+      "abilities": [
+        "Entorno: Costas y acantilados. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Cristales de colores rodean una linterna protegida por paneles reparados. Este detalle sirve como señal para una cita. El grupo puede encontrar a quien espera, descubrir por qué nadie acudió o dejar un mensaje para continuar la historia más adelante.",
+        "Rumbo opcional: Algo útil ha quedado atrapado por la marea. Una persona local puede explicar cuándo recuperarlo y pedir ayuda; el peligro puede ser ambiental antes que un combate.",
+        "Personaje sugerido: Plebeyo. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Red. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Cangrejo gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Cangrejo gigante. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-cangrejo-gigante"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-costas-13",
+      "kind": "terrain",
+      "name": "Acantilado del Sendero de Cabras",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Thomas_Fearnley_-_Coast_scene%2C_possibly_Capri.jpg/960px-Thomas_Fearnley_-_Coast_scene%2C_possibly_Capri.jpg",
+      "imageCredit": {
+        "text": "Coast scene, possibly Capri · Thomas Fearnley · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Thomas_Fearnley_-_Coast_scene,_possibly_Capri.jpg"
+      },
+      "description": "Un sendero estrecho cruza sobre una grieta que comunica con el agua. El terreno termina junto a una extensión de agua en movimiento. Las líneas de espuma dibujan y borran fronteras sobre la orilla, mientras los puntos elevados permiten ver rutas que desde abajo quedan ocultas.\n\nLa sal se acumula sobre piedras, cuerdas y superficies expuestas. El viento trae olor a algas y cambia la claridad de los sonidos que llegan desde el agua. Restos de amarre, escalones y marcas de nivel indican cómo se utiliza este borde entre tierra y mar. Algunos pasos solo parecen disponibles cuando las aguas se retiran.\n\nUna marca antigua se ha respetado a pesar de los cambios del entorno. Las reparaciones y el tránsito la rodean en lugar de cubrirla. Parece importar a alguien, aunque su significado no se reconoce de inmediato. La primera impresión invita a seguir, pero un examen pausado ofrece otra posibilidad: detenerse, comparar los rastros y decidir qué detalle merece atención antes de abandonar el sitio.",
+      "musicUrl": "https://www.youtube.com/results?search_query=ocean%20coast%20harbor%20ambient",
+      "abilities": [
+        "Entorno: Costas y acantilados. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Un sendero estrecho cruza sobre una grieta que comunica con el agua. Una reparación sencilla permitiría volver a utilizar este lugar. Sus responsables ofrecen información o alojamiento a cambio; decidir quién se beneficiará importa más que obtener una recompensa material.",
+        "Rumbo opcional: Algo útil ha quedado atrapado por la marea. Una persona local puede explicar cuándo recuperarlo y pedir ayuda; el peligro puede ser ambiental antes que un combate.",
+        "Personaje sugerido: Plebeyo. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Red. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Cangrejo gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Plebeyo. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "srd-npc-plebeyo"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-costas-14",
+      "kind": "terrain",
+      "name": "Cala del Muelle de Cuerda",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Ioannis_Poulakas_Rocky_coast.jpg/960px-Ioannis_Poulakas_Rocky_coast.jpg",
+      "imageCredit": {
+        "text": "Ioannis Poulakas Rocky coast · Ioannis (Yiannis) Poulakas (1863-1942) // Ιωάννης (Γιάννης) Πούλακας (1863-1942) · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Ioannis_Poulakas_Rocky_coast.jpg"
+      },
+      "description": "Tablas unidas por cuerdas forman un muelle recogido sobre la arena. El terreno termina junto a una extensión de agua en movimiento. Las líneas de espuma dibujan y borran fronteras sobre la orilla, mientras los puntos elevados permiten ver rutas que desde abajo quedan ocultas.\n\nLa sal se acumula sobre piedras, cuerdas y superficies expuestas. El viento trae olor a algas y cambia la claridad de los sonidos que llegan desde el agua. Restos de amarre, escalones y marcas de nivel indican cómo se utiliza este borde entre tierra y mar. Algunos pasos solo parecen disponibles cuando las aguas se retiran.\n\nAl detenerse, el entorno revela movimientos discretos que pasan inadvertidos al caminar. Ninguno parece acercarse directamente. Sin embargo, todos evitan el mismo punto, situado un poco más allá del acceso principal. Desde esta posición se puede distinguir por dónde llegó la última presencia conocida. Su destino, en cambio, permanece fuera de la vista y no coincide necesariamente con la salida más evidente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=ocean%20coast%20harbor%20ambient",
+      "abilities": [
+        "Entorno: Costas y acantilados. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Tablas unidas por cuerdas forman un muelle recogido sobre la arena. Alguien ha reproducido este detalle en un mapa incompleto. Seguir la siguiente marca puede llevar a otro terreno del mismo entorno, sin exigir que la ruta sea peligrosa.",
+        "Rumbo opcional: Algo útil ha quedado atrapado por la marea. Una persona local puede explicar cuándo recuperarlo y pedir ayuda; el peligro puede ser ambiental antes que un combate.",
+        "Personaje sugerido: Plebeyo. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Red. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Cangrejo gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Red. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-red"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-costas-15",
+      "kind": "terrain",
+      "name": "Costa de las Salinas Abandonadas",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Thomas_Fearnley_-_Coast_scene%2C_possibly_Capri.jpg/960px-Thomas_Fearnley_-_Coast_scene%2C_possibly_Capri.jpg",
+      "imageCredit": {
+        "text": "Coast scene, possibly Capri · Thomas Fearnley · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Thomas_Fearnley_-_Coast_scene,_possibly_Capri.jpg"
+      },
+      "description": "Pequeñas piscinas de sal conservan compuertas de madera recién movidas. El terreno termina junto a una extensión de agua en movimiento. Las líneas de espuma dibujan y borran fronteras sobre la orilla, mientras los puntos elevados permiten ver rutas que desde abajo quedan ocultas.\n\nLa sal se acumula sobre piedras, cuerdas y superficies expuestas. El viento trae olor a algas y cambia la claridad de los sonidos que llegan desde el agua. Restos de amarre, escalones y marcas de nivel indican cómo se utiliza este borde entre tierra y mar. Algunos pasos solo parecen disponibles cuando las aguas se retiran.\n\nHay una pequeña zona resguardada del entorno, suficiente para detenerse y observar sin estorbar el paso. Desde allí se aprecia un detalle que, visto de frente, quedaba escondido detrás de los demás. El entorno guarda suficiente silencio entre sus sonidos para escuchar lo que ocurra después. Ninguna señal obliga a intervenir; aun así, cuesta ignorar el detalle que se aparta de todos los demás.",
+      "musicUrl": "https://www.youtube.com/results?search_query=ocean%20coast%20harbor%20ambient",
+      "abilities": [
+        "Entorno: Costas y acantilados. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Pequeñas piscinas de sal conservan compuertas de madera recién movidas. Una pertenencia perdida cerca de este detalle identifica a un viajero. Devolverla puede abrir una conversación; conservarla puede provocar una reclamación posterior, sin presumir que sea un tesoro abandonado.",
+        "Rumbo opcional: Algo útil ha quedado atrapado por la marea. Una persona local puede explicar cuándo recuperarlo y pedir ayuda; el peligro puede ser ambiental antes que un combate.",
+        "Personaje sugerido: Plebeyo. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Red. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Cangrejo gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Cangrejo gigante. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-cangrejo-gigante"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-costas-16",
+      "kind": "terrain",
+      "name": "Playa de los Escudos Lavados",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Ioannis_Poulakas_Rocky_coast.jpg/960px-Ioannis_Poulakas_Rocky_coast.jpg",
+      "imageCredit": {
+        "text": "Ioannis Poulakas Rocky coast · Ioannis (Yiannis) Poulakas (1863-1942) // Ιωάννης (Γιάννης) Πούλακας (1863-1942) · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Ioannis_Poulakas_Rocky_coast.jpg"
+      },
+      "description": "Escudos sin emblemas descansan entre algas depositadas por la marea. El terreno termina junto a una extensión de agua en movimiento. Las líneas de espuma dibujan y borran fronteras sobre la orilla, mientras los puntos elevados permiten ver rutas que desde abajo quedan ocultas.\n\nLa sal se acumula sobre piedras, cuerdas y superficies expuestas. El viento trae olor a algas y cambia la claridad de los sonidos que llegan desde el agua. Restos de amarre, escalones y marcas de nivel indican cómo se utiliza este borde entre tierra y mar. Algunos pasos solo parecen disponibles cuando las aguas se retiran.\n\nEn un rincón se conserva algo que el resto del lugar ha perdido: una forma intacta, una superficie limpia o un color más vivo. La diferencia llama la atención precisamente porque no se repite en ninguna otra parte. Más allá del punto de entrada queda una perspectiva por descubrir. Desde aquí solo se percibe una parte del lugar; para conocer el resto habría que acercarse y cambiar el ángulo de observación.",
+      "musicUrl": "https://www.youtube.com/results?search_query=ocean%20coast%20harbor%20ambient",
+      "abilities": [
+        "Entorno: Costas y acantilados. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Escudos sin emblemas descansan entre algas depositadas por la marea. Dos grupos atribuyen significados distintos a este detalle. El master puede permitir una solución que respete ambos usos, o presentar las consecuencias de favorecer a uno de ellos.",
+        "Rumbo opcional: Algo útil ha quedado atrapado por la marea. Una persona local puede explicar cuándo recuperarlo y pedir ayuda; el peligro puede ser ambiental antes que un combate.",
+        "Personaje sugerido: Plebeyo. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Red. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Cangrejo gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Plebeyo. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "srd-npc-plebeyo"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-costas-17",
+      "kind": "terrain",
+      "name": "Puerto de las Redes Doradas",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Thomas_Fearnley_-_Coast_scene%2C_possibly_Capri.jpg/960px-Thomas_Fearnley_-_Coast_scene%2C_possibly_Capri.jpg",
+      "imageCredit": {
+        "text": "Coast scene, possibly Capri · Thomas Fearnley · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Thomas_Fearnley_-_Coast_scene,_possibly_Capri.jpg"
+      },
+      "description": "Redes teñidas de amarillo cuelgan entre cobertizos con puertas bajas. El terreno termina junto a una extensión de agua en movimiento. Las líneas de espuma dibujan y borran fronteras sobre la orilla, mientras los puntos elevados permiten ver rutas que desde abajo quedan ocultas.\n\nLa sal se acumula sobre piedras, cuerdas y superficies expuestas. El viento trae olor a algas y cambia la claridad de los sonidos que llegan desde el agua. Restos de amarre, escalones y marcas de nivel indican cómo se utiliza este borde entre tierra y mar. Algunos pasos solo parecen disponibles cuando las aguas se retiran.\n\nEl camino de entrada no ofrece la mejor vista del lugar. Un giro descubre un espacio menor, protegido por las formas del entorno. Allí los rastros se ordenan de manera diferente y parecen corresponder a otra actividad. El lugar no revela de inmediato si espera visitantes o si intenta mantenerlos a distancia. Sus señales admiten ambas lecturas, y el siguiente paso puede aclarar cuál resulta más convincente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=ocean%20coast%20harbor%20ambient",
+      "abilities": [
+        "Entorno: Costas y acantilados. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Redes teñidas de amarillo cuelgan entre cobertizos con puertas bajas. Las señales de uso reciente pertenecen a alguien que evita ser encontrado. Puede necesitar ayuda, intimidad o protección; investigar no demuestra por sí solo culpabilidad ni hostilidad.",
+        "Rumbo opcional: Algo útil ha quedado atrapado por la marea. Una persona local puede explicar cuándo recuperarlo y pedir ayuda; el peligro puede ser ambiental antes que un combate.",
+        "Personaje sugerido: Plebeyo. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Red. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Cangrejo gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Red. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-red"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-costas-18",
+      "kind": "terrain",
+      "name": "Acantilado del Órgano de Roca",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Ioannis_Poulakas_Rocky_coast.jpg/960px-Ioannis_Poulakas_Rocky_coast.jpg",
+      "imageCredit": {
+        "text": "Ioannis Poulakas Rocky coast · Ioannis (Yiannis) Poulakas (1863-1942) // Ιωάννης (Γιάννης) Πούλακας (1863-1942) · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Ioannis_Poulakas_Rocky_coast.jpg"
+      },
+      "description": "Aberturas en la roca devuelven tonos graves con cada oleaje. El terreno termina junto a una extensión de agua en movimiento. Las líneas de espuma dibujan y borran fronteras sobre la orilla, mientras los puntos elevados permiten ver rutas que desde abajo quedan ocultas.\n\nLa sal se acumula sobre piedras, cuerdas y superficies expuestas. El viento trae olor a algas y cambia la claridad de los sonidos que llegan desde el agua. Restos de amarre, escalones y marcas de nivel indican cómo se utiliza este borde entre tierra y mar. Algunos pasos solo parecen disponibles cuando las aguas se retiran.\n\nEntre los restos del uso cotidiano hay una interrupción clara. Algo ocurrió aquí antes de que la actividad se reanudara. Las señales posteriores atraviesan las anteriores, pero no llegan a borrarlas por completo. La primera impresión invita a seguir, pero un examen pausado ofrece otra posibilidad: detenerse, comparar los rastros y decidir qué detalle merece atención antes de abandonar el sitio.",
+      "musicUrl": "https://www.youtube.com/results?search_query=ocean%20coast%20harbor%20ambient",
+      "abilities": [
+        "Entorno: Costas y acantilados. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Aberturas en la roca devuelven tonos graves con cada oleaje. Un cambio de tiempo amenaza con borrar o dañar este detalle. Documentarlo o protegerlo ofrece una tarea breve cuya urgencia puede ajustarse al ritmo de la sesión.",
+        "Rumbo opcional: Algo útil ha quedado atrapado por la marea. Una persona local puede explicar cuándo recuperarlo y pedir ayuda; el peligro puede ser ambiental antes que un combate.",
+        "Personaje sugerido: Plebeyo. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Red. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Cangrejo gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Cangrejo gigante. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-cangrejo-gigante"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-costas-19",
+      "kind": "terrain",
+      "name": "Cala de las Huellas Descalzas",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Thomas_Fearnley_-_Coast_scene%2C_possibly_Capri.jpg/960px-Thomas_Fearnley_-_Coast_scene%2C_possibly_Capri.jpg",
+      "imageCredit": {
+        "text": "Coast scene, possibly Capri · Thomas Fearnley · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Thomas_Fearnley_-_Coast_scene,_possibly_Capri.jpg"
+      },
+      "description": "Huellas descalzas suben desde el agua hasta una roca seca. El terreno termina junto a una extensión de agua en movimiento. Las líneas de espuma dibujan y borran fronteras sobre la orilla, mientras los puntos elevados permiten ver rutas que desde abajo quedan ocultas.\n\nLa sal se acumula sobre piedras, cuerdas y superficies expuestas. El viento trae olor a algas y cambia la claridad de los sonidos que llegan desde el agua. Restos de amarre, escalones y marcas de nivel indican cómo se utiliza este borde entre tierra y mar. Algunos pasos solo parecen disponibles cuando las aguas se retiran.\n\nUna línea de pequeñas señales recorre el límite del lugar. Algunas están casi borradas y otras parecen recientes. Su separación es regular hasta el último tramo, donde falta una y las restantes se acumulan. Desde esta posición se puede distinguir por dónde llegó la última presencia conocida. Su destino, en cambio, permanece fuera de la vista y no coincide necesariamente con la salida más evidente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=ocean%20coast%20harbor%20ambient",
+      "abilities": [
+        "Entorno: Costas y acantilados. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Huellas descalzas suben desde el agua hasta una roca seca. Una persona ofrece un objeto útil si el grupo comprueba qué ha cambiado aquí. La información obtenida puede interesar a otra persona y conectar este lugar con una visita anterior.",
+        "Rumbo opcional: Algo útil ha quedado atrapado por la marea. Una persona local puede explicar cuándo recuperarlo y pedir ayuda; el peligro puede ser ambiental antes que un combate.",
+        "Personaje sugerido: Plebeyo. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Red. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Cangrejo gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Plebeyo. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "srd-npc-plebeyo"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-costas-20",
+      "kind": "terrain",
+      "name": "Costa del Cementerio de Timones",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Ioannis_Poulakas_Rocky_coast.jpg/960px-Ioannis_Poulakas_Rocky_coast.jpg",
+      "imageCredit": {
+        "text": "Ioannis Poulakas Rocky coast · Ioannis (Yiannis) Poulakas (1863-1942) // Ιωάννης (Γιάννης) Πούλακας (1863-1942) · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Ioannis_Poulakas_Rocky_coast.jpg"
+      },
+      "description": "Timones rotos se apoyan en pequeñas lápidas frente al mar. El terreno termina junto a una extensión de agua en movimiento. Las líneas de espuma dibujan y borran fronteras sobre la orilla, mientras los puntos elevados permiten ver rutas que desde abajo quedan ocultas.\n\nLa sal se acumula sobre piedras, cuerdas y superficies expuestas. El viento trae olor a algas y cambia la claridad de los sonidos que llegan desde el agua. Restos de amarre, escalones y marcas de nivel indican cómo se utiliza este borde entre tierra y mar. Algunos pasos solo parecen disponibles cuando las aguas se retiran.\n\nSe advierte una elección deliberada entre dos recorridos. Uno es sencillo y muy visible; el otro exige acercarse para reconocerlo. Ambos desembocan fuera de la vista, sin revelar todavía qué los distingue al final. El entorno guarda suficiente silencio entre sus sonidos para escuchar lo que ocurra después. Ninguna señal obliga a intervenir; aun así, cuesta ignorar el detalle que se aparta de todos los demás.",
+      "musicUrl": "https://www.youtube.com/results?search_query=ocean%20coast%20harbor%20ambient",
+      "abilities": [
+        "Entorno: Costas y acantilados. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Timones rotos se apoyan en pequeñas lápidas frente al mar. Este lugar admite una escena tranquila de observación o conversación. El master puede usar el detalle visible para recordar un vínculo del personaje sin introducir un nuevo conflicto.",
+        "Rumbo opcional: Algo útil ha quedado atrapado por la marea. Una persona local puede explicar cuándo recuperarlo y pedir ayuda; el peligro puede ser ambiental antes que un combate.",
+        "Personaje sugerido: Plebeyo. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Red. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Cangrejo gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Red. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-red"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-costas-21",
+      "kind": "terrain",
+      "name": "Playa del Círculo de Medusas",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Thomas_Fearnley_-_Coast_scene%2C_possibly_Capri.jpg/960px-Thomas_Fearnley_-_Coast_scene%2C_possibly_Capri.jpg",
+      "imageCredit": {
+        "text": "Coast scene, possibly Capri · Thomas Fearnley · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Thomas_Fearnley_-_Coast_scene,_possibly_Capri.jpg"
+      },
+      "description": "Medusas transparentes rodean un espacio de arena sorprendentemente limpio. El terreno termina junto a una extensión de agua en movimiento. Las líneas de espuma dibujan y borran fronteras sobre la orilla, mientras los puntos elevados permiten ver rutas que desde abajo quedan ocultas.\n\nLa sal se acumula sobre piedras, cuerdas y superficies expuestas. El viento trae olor a algas y cambia la claridad de los sonidos que llegan desde el agua. Restos de amarre, escalones y marcas de nivel indican cómo se utiliza este borde entre tierra y mar. Algunos pasos solo parecen disponibles cuando las aguas se retiran.\n\nUn espacio pequeño ha quedado deliberadamente vacío. A su alrededor se reconocen señales de actividad, pero ninguna lo atraviesa. La ausencia no demuestra peligro: también podría tratarse de una reserva, una costumbre o una simple espera. Más allá del punto de entrada queda una perspectiva por descubrir. Desde aquí solo se percibe una parte del lugar; para conocer el resto habría que acercarse y cambiar el ángulo de observación.",
+      "musicUrl": "https://www.youtube.com/results?search_query=ocean%20coast%20harbor%20ambient",
+      "abilities": [
+        "Entorno: Costas y acantilados. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Medusas transparentes rodean un espacio de arena sorprendentemente limpio. Una persona conoce el origen de este detalle, pero su versión contradice la de quien lo cuida. Contrastar ambas historias puede revelar una necesidad que ninguna admite en público.",
+        "Rumbo opcional: Algo útil ha quedado atrapado por la marea. Una persona local puede explicar cuándo recuperarlo y pedir ayuda; el peligro puede ser ambiental antes que un combate.",
+        "Personaje sugerido: Plebeyo. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Red. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Cangrejo gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Cangrejo gigante. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-cangrejo-gigante"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-costas-22",
+      "kind": "terrain",
+      "name": "Faro de la Escalera Exterior",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Ioannis_Poulakas_Rocky_coast.jpg/960px-Ioannis_Poulakas_Rocky_coast.jpg",
+      "imageCredit": {
+        "text": "Ioannis Poulakas Rocky coast · Ioannis (Yiannis) Poulakas (1863-1942) // Ιωάννης (Γιάννης) Πούλακας (1863-1942) · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Ioannis_Poulakas_Rocky_coast.jpg"
+      },
+      "description": "Una escalera de hierro rodea la torre por fuera y termina antes del techo. El terreno termina junto a una extensión de agua en movimiento. Las líneas de espuma dibujan y borran fronteras sobre la orilla, mientras los puntos elevados permiten ver rutas que desde abajo quedan ocultas.\n\nLa sal se acumula sobre piedras, cuerdas y superficies expuestas. El viento trae olor a algas y cambia la claridad de los sonidos que llegan desde el agua. Restos de amarre, escalones y marcas de nivel indican cómo se utiliza este borde entre tierra y mar. Algunos pasos solo parecen disponibles cuando las aguas se retiran.\n\nDesde un extremo se distingue un segundo acceso, estrecho y parcialmente oculto. La ruta principal invita a continuar, pero el desvío conserva señales de uso que no encajan con su aspecto abandonado. El lugar no revela de inmediato si espera visitantes o si intenta mantenerlos a distancia. Sus señales admiten ambas lecturas, y el siguiente paso puede aclarar cuál resulta más convincente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=ocean%20coast%20harbor%20ambient",
+      "abilities": [
+        "Entorno: Costas y acantilados. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Una escalera de hierro rodea la torre por fuera y termina antes del techo. Este detalle sirve como señal para una cita. El grupo puede encontrar a quien espera, descubrir por qué nadie acudió o dejar un mensaje para continuar la historia más adelante.",
+        "Rumbo opcional: Algo útil ha quedado atrapado por la marea. Una persona local puede explicar cuándo recuperarlo y pedir ayuda; el peligro puede ser ambiental antes que un combate.",
+        "Personaje sugerido: Plebeyo. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Red. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Cangrejo gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Plebeyo. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "srd-npc-plebeyo"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-costas-23",
+      "kind": "terrain",
+      "name": "Puerto del Embarcadero Cerrado",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Thomas_Fearnley_-_Coast_scene%2C_possibly_Capri.jpg/960px-Thomas_Fearnley_-_Coast_scene%2C_possibly_Capri.jpg",
+      "imageCredit": {
+        "text": "Coast scene, possibly Capri · Thomas Fearnley · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Thomas_Fearnley_-_Coast_scene,_possibly_Capri.jpg"
+      },
+      "description": "Una cadena cruza el embarcadero junto a permisos sujetos en tablillas. El terreno termina junto a una extensión de agua en movimiento. Las líneas de espuma dibujan y borran fronteras sobre la orilla, mientras los puntos elevados permiten ver rutas que desde abajo quedan ocultas.\n\nLa sal se acumula sobre piedras, cuerdas y superficies expuestas. El viento trae olor a algas y cambia la claridad de los sonidos que llegan desde el agua. Restos de amarre, escalones y marcas de nivel indican cómo se utiliza este borde entre tierra y mar. Algunos pasos solo parecen disponibles cuando las aguas se retiran.\n\nExiste un pequeño espacio de tránsito entre el exterior y la parte más protegida. Allí se acumulan señales de espera, como si quienes llegaron antes hubieran tenido que detenerse antes de recibir permiso para continuar. La primera impresión invita a seguir, pero un examen pausado ofrece otra posibilidad: detenerse, comparar los rastros y decidir qué detalle merece atención antes de abandonar el sitio.",
+      "musicUrl": "https://www.youtube.com/results?search_query=ocean%20coast%20harbor%20ambient",
+      "abilities": [
+        "Entorno: Costas y acantilados. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Una cadena cruza el embarcadero junto a permisos sujetos en tablillas. Una reparación sencilla permitiría volver a utilizar este lugar. Sus responsables ofrecen información o alojamiento a cambio; decidir quién se beneficiará importa más que obtener una recompensa material.",
+        "Rumbo opcional: Algo útil ha quedado atrapado por la marea. Una persona local puede explicar cuándo recuperarlo y pedir ayuda; el peligro puede ser ambiental antes que un combate.",
+        "Personaje sugerido: Plebeyo. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Red. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Cangrejo gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Red. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-red"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-costas-24",
+      "kind": "terrain",
+      "name": "Acantilado de las Velas Prendidas",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Ioannis_Poulakas_Rocky_coast.jpg/960px-Ioannis_Poulakas_Rocky_coast.jpg",
+      "imageCredit": {
+        "text": "Ioannis Poulakas Rocky coast · Ioannis (Yiannis) Poulakas (1863-1942) // Ιωάννης (Γιάννης) Πούλακας (1863-1942) · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Ioannis_Poulakas_Rocky_coast.jpg"
+      },
+      "description": "Velas de cera protegidas por vasos iluminan huecos cercanos al borde. El terreno termina junto a una extensión de agua en movimiento. Las líneas de espuma dibujan y borran fronteras sobre la orilla, mientras los puntos elevados permiten ver rutas que desde abajo quedan ocultas.\n\nLa sal se acumula sobre piedras, cuerdas y superficies expuestas. El viento trae olor a algas y cambia la claridad de los sonidos que llegan desde el agua. Restos de amarre, escalones y marcas de nivel indican cómo se utiliza este borde entre tierra y mar. Algunos pasos solo parecen disponibles cuando las aguas se retiran.\n\nAlgo ha dejado una sombra o una huella sin permanecer en su sitio. El contorno resulta más claro que el resto de las señales cercanas. Alrededor, nada indica si fue retirado con cuidado o llevado apresuradamente. Desde esta posición se puede distinguir por dónde llegó la última presencia conocida. Su destino, en cambio, permanece fuera de la vista y no coincide necesariamente con la salida más evidente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=ocean%20coast%20harbor%20ambient",
+      "abilities": [
+        "Entorno: Costas y acantilados. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Velas de cera protegidas por vasos iluminan huecos cercanos al borde. Alguien ha reproducido este detalle en un mapa incompleto. Seguir la siguiente marca puede llevar a otro terreno del mismo entorno, sin exigir que la ruta sea peligrosa.",
+        "Rumbo opcional: Algo útil ha quedado atrapado por la marea. Una persona local puede explicar cuándo recuperarlo y pedir ayuda; el peligro puede ser ambiental antes que un combate.",
+        "Personaje sugerido: Plebeyo. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Red. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Cangrejo gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Cangrejo gigante. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-cangrejo-gigante"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-costas-25",
+      "kind": "terrain",
+      "name": "Cala del Refugio de Naufragios",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Thomas_Fearnley_-_Coast_scene%2C_possibly_Capri.jpg/960px-Thomas_Fearnley_-_Coast_scene%2C_possibly_Capri.jpg",
+      "imageCredit": {
+        "text": "Coast scene, possibly Capri · Thomas Fearnley · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Thomas_Fearnley_-_Coast_scene,_possibly_Capri.jpg"
+      },
+      "description": "Tablas de varios barcos forman un refugio con nombres grabados. El terreno termina junto a una extensión de agua en movimiento. Las líneas de espuma dibujan y borran fronteras sobre la orilla, mientras los puntos elevados permiten ver rutas que desde abajo quedan ocultas.\n\nLa sal se acumula sobre piedras, cuerdas y superficies expuestas. El viento trae olor a algas y cambia la claridad de los sonidos que llegan desde el agua. Restos de amarre, escalones y marcas de nivel indican cómo se utiliza este borde entre tierra y mar. Algunos pasos solo parecen disponibles cuando las aguas se retiran.\n\nLas huellas de desgaste dibujan un recorrido más estrecho que el espacio disponible. Durante mucho tiempo, quienes pasaron eligieron el mismo trayecto. Fuera de él quedan detalles intactos que apenas han recibido atención. El entorno guarda suficiente silencio entre sus sonidos para escuchar lo que ocurra después. Ninguna señal obliga a intervenir; aun así, cuesta ignorar el detalle que se aparta de todos los demás.",
+      "musicUrl": "https://www.youtube.com/results?search_query=ocean%20coast%20harbor%20ambient",
+      "abilities": [
+        "Entorno: Costas y acantilados. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Tablas de varios barcos forman un refugio con nombres grabados. Una pertenencia perdida cerca de este detalle identifica a un viajero. Devolverla puede abrir una conversación; conservarla puede provocar una reclamación posterior, sin presumir que sea un tesoro abandonado.",
+        "Rumbo opcional: Algo útil ha quedado atrapado por la marea. Una persona local puede explicar cuándo recuperarlo y pedir ayuda; el peligro puede ser ambiental antes que un combate.",
+        "Personaje sugerido: Plebeyo. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Red. Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Cangrejo gigante. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Plebeyo. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "srd-npc-plebeyo"
+        }
+      ]
+    }
+  ]
+}

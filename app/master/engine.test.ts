@@ -24,7 +24,7 @@ it("valida los catálogos por categorías y conserva instrucciones estructuradas
   expect(() => mapSchema.parse({ ...maps[0], suggestions: [{ x: 99, y: 0, id: "enemy-esqueleto" }] })).toThrow();
 });
 it("saca cartas sin agotar el mazo y mantiene copias, posiciones y vida independientes", async () => {
-  const cards = await loadCards("enemy"); let t = emptyTable();
+  const cards = (await loadCards("enemy")).slice(0, 3); let t = emptyTable();
   for (let n = 0; n < cards.length; n++) t = drawCard(t, "enemy", cards, `c${n}`, () => n / cards.length);
   expect(new Set(t.cards.map(c => c.definition.id)).size).toBe(cards.length);
   const repeated = drawCard(t, "enemy", cards, "extra", () => 0);

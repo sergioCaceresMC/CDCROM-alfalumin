@@ -1,0 +1,125 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "guerrero-srd-segundo-aliento",
+      "classId": "guerrero",
+      "level": 1,
+      "name": "Segundo aliento",
+      "attribute": "constitucion",
+      "description": "Una vez por escena, usa tu acción para recuperar 2 puntos de vida. Ajusta la vida manualmente.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 62,
+        "name": "Segundo aliento"
+      }
+    },
+    {
+      "id": "guerrero-srd-defensa",
+      "classId": "guerrero",
+      "level": 1,
+      "name": "Defensa",
+      "attribute": "valor",
+      "description": "Adopta una guardia defensiva: renuncia a atacar para protegerte de un adversario durante un turno. El master resuelve la protección.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 62,
+        "name": "Defensa"
+      }
+    },
+    {
+      "id": "guerrero-srd-tiro-con-arco",
+      "classId": "guerrero",
+      "level": 1,
+      "name": "Tiro con arco",
+      "attribute": "tiros",
+      "description": "Apunta antes de disparar; usa Tiros para el chequeo. No suma daño adicional automático.",
+      "damage": "1d6",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 62,
+        "name": "Tiro con arco"
+      }
+    },
+    {
+      "id": "guerrero-srd-combate-con-dos-armas",
+      "classId": "guerrero",
+      "level": 1,
+      "name": "Combate con dos armas",
+      "attribute": "golpes",
+      "description": "Ataca con dos armas ligeras como una sola acción y una sola tirada de daño.",
+      "damage": "1d4",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 62,
+        "name": "Combate con dos armas"
+      }
+    },
+    {
+      "id": "guerrero-srd-derribar",
+      "classId": "guerrero",
+      "level": 1,
+      "name": "Derribar",
+      "attribute": "golpes",
+      "description": "Si aciertas con un arma adecuada, puedes intentar derribar a un enemigo de tamaño similar en vez de causar daño.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 62,
+        "name": "Derribar"
+      }
+    },
+    {
+      "id": "guerrero-srd-empujar",
+      "classId": "guerrero",
+      "level": 1,
+      "name": "Empujar",
+      "attribute": "golpes",
+      "description": "Una acción permite intentar desplazar un adversario una celda; el master decide el chequeo opuesto.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 62,
+        "name": "Empujar"
+      }
+    },
+    {
+      "id": "guerrero-srd-accion-subita",
+      "classId": "guerrero",
+      "level": 2,
+      "name": "Acción súbita",
+      "attribute": "valor",
+      "description": "Una vez por escena realiza una acción adicional que no sea un segundo ataque.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 62,
+        "name": "Acción súbita"
+      }
+    },
+    {
+      "id": "guerrero-srd-mente-tactica",
+      "classId": "guerrero",
+      "level": 2,
+      "name": "Mente táctica",
+      "attribute": "inteligencia",
+      "description": "Una vez por escena analiza la defensa o el terreno y pide al master una pista táctica.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 62,
+        "name": "Mente táctica"
+      }
+    },
+    {
+      "id": "guerrero-srd-campeon",
+      "classId": "guerrero",
+      "level": 3,
+      "name": "Campeón",
+      "attribute": "golpes",
+      "description": "Si el master declara un golpe crítico, repite el dado de daño y conserva el mejor resultado.",
+      "damage": "1d6",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 62,
+        "name": "Campeón"
+      }
+    }
+  ]
+}

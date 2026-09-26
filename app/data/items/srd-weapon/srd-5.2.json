@@ -1,0 +1,575 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "srd-baston",
+      "name": "Bastón (SRD)",
+      "kind": "weapon",
+      "usable": true,
+      "consumable": false,
+      "damage": "1d6",
+      "description": "Arma adaptada: 1d6. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 99,
+        "name": "Bastón",
+        "text": "Bastón 1d6 contundente Versátil (1d8) Derribar 2 kg 2 pp"
+      }
+    },
+    {
+      "id": "srd-daga",
+      "name": "Daga (SRD)",
+      "kind": "weapon",
+      "usable": true,
+      "consumable": false,
+      "damage": "1d4",
+      "description": "Arma adaptada: 1d4. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 99,
+        "name": "Daga",
+        "text": "Daga 1d4 perforante Arrojadiza (alcance 6/18), ligera, sutil Mellar 0,5 kg 2 po"
+      }
+    },
+    {
+      "id": "srd-garrote",
+      "name": "Garrote",
+      "kind": "weapon",
+      "usable": true,
+      "consumable": false,
+      "damage": "1d4",
+      "description": "Arma adaptada: 1d4. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 99,
+        "name": "Garrote",
+        "text": "Garrote 1d4 contundente Ligero Ralentizar 1 kg 1 pp"
+      }
+    },
+    {
+      "id": "srd-garrote-grande",
+      "name": "Garrote grande",
+      "kind": "weapon",
+      "usable": true,
+      "consumable": false,
+      "damage": "1d6",
+      "description": "Arma adaptada: 1d6. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 99,
+        "name": "Garrote grande",
+        "text": "Garrote grande 1d8 contundente A dos manos Empujar 5 kg 2 pp"
+      }
+    },
+    {
+      "id": "srd-hacha-de-mano",
+      "name": "Hacha de mano",
+      "kind": "weapon",
+      "usable": true,
+      "consumable": false,
+      "damage": "1d6",
+      "description": "Arma adaptada: 1d6. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 99,
+        "name": "Hacha de mano",
+        "text": "Hacha de mano 1d6 cortante Arrojadiza (alcance 6/18), ligera Molestar 1 kg 5 po"
+      }
+    },
+    {
+      "id": "srd-hoz",
+      "name": "Hoz",
+      "kind": "weapon",
+      "usable": true,
+      "consumable": false,
+      "damage": "1d4",
+      "description": "Arma adaptada: 1d4. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 99,
+        "name": "Hoz",
+        "text": "Hoz 1d4 cortante Ligera Mellar 1 kg 1 po"
+      }
+    },
+    {
+      "id": "srd-jabalina",
+      "name": "Jabalina",
+      "kind": "weapon",
+      "usable": true,
+      "consumable": false,
+      "damage": "1d6",
+      "description": "Arma adaptada: 1d6. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 99,
+        "name": "Jabalina",
+        "text": "Jabalina 1d6 perforante Arrojadiza (alcance 9/36) Ralentizar 1 kg 5 pp"
+      }
+    },
+    {
+      "id": "srd-lanza",
+      "name": "Lanza",
+      "kind": "weapon",
+      "usable": true,
+      "consumable": false,
+      "damage": "1d6",
+      "description": "Arma adaptada: 1d6. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 99,
+        "name": "Lanza",
+        "text": "Lanza 1d6 perforante Arrojadiza (alcance 6/18), versátil (1d8) Debilitar 1,5 kg 1 po"
+      }
+    },
+    {
+      "id": "srd-martillo-ligero",
+      "name": "Martillo ligero",
+      "kind": "weapon",
+      "usable": true,
+      "consumable": false,
+      "damage": "1d4",
+      "description": "Arma adaptada: 1d4. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 99,
+        "name": "Martillo ligero",
+        "text": "Martillo ligero 1d4 contundente Arrojadizo (alcance 6/18), ligero Mellar 1 kg 2 po"
+      }
+    },
+    {
+      "id": "srd-maza",
+      "name": "Maza",
+      "kind": "weapon",
+      "usable": true,
+      "consumable": false,
+      "damage": "1d6",
+      "description": "Arma adaptada: 1d6. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 99,
+        "name": "Maza",
+        "text": "Maza 1d6 contundente — Debilitar 2 kg 5 po"
+      }
+    },
+    {
+      "id": "srd-arco-corto",
+      "name": "Arco corto",
+      "kind": "weapon",
+      "usable": true,
+      "consumable": false,
+      "damage": "1d6",
+      "description": "Arma adaptada: 1d6. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 99,
+        "name": "Arco corto",
+        "text": "Arco corto 1d6 perforante A dos manos, munición (alcance 24/96; flecha) Molestar 1 kg 25 po"
+      }
+    },
+    {
+      "id": "srd-ballesta-ligera",
+      "name": "Ballesta ligera",
+      "kind": "weapon",
+      "usable": true,
+      "consumable": false,
+      "damage": "1d6",
+      "description": "Arma adaptada: 1d6. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 99,
+        "name": "Ballesta ligera",
+        "text": "Ballesta ligera 1d8 perforante A dos manos, munición (alcance 24/96; virote), Ralentizar 2,5 kg 25 po recarga"
+      }
+    },
+    {
+      "id": "srd-dardo",
+      "name": "Dardo",
+      "kind": "weapon",
+      "usable": true,
+      "consumable": false,
+      "damage": "1d4",
+      "description": "Arma adaptada: 1d4. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 99,
+        "name": "Dardo",
+        "text": "Dardo 1d4 perforante Arrojadizo (alcance 6/18), sutil Molestar 125 g 5 pc"
+      }
+    },
+    {
+      "id": "srd-honda",
+      "name": "Honda",
+      "kind": "weapon",
+      "usable": true,
+      "consumable": false,
+      "damage": "1d4",
+      "description": "Arma adaptada: 1d4. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 99,
+        "name": "Honda",
+        "text": "Honda 1d4 contundente Munición (alcance 9/36; proyectil) Ralentizar — 1 pp"
+      }
+    },
+    {
+      "id": "srd-alabarda",
+      "name": "Alabarda",
+      "kind": "weapon",
+      "usable": true,
+      "consumable": false,
+      "damage": "1d6",
+      "description": "Arma adaptada: 1d6. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 99,
+        "name": "Alabarda",
+        "text": "Alabarda 1d10 cortante A dos manos, gran alcance, pesada Hender 3 kg 20 po"
+      }
+    },
+    {
+      "id": "srd-cimitarra",
+      "name": "Cimitarra",
+      "kind": "weapon",
+      "usable": true,
+      "consumable": false,
+      "damage": "1d6",
+      "description": "Arma adaptada: 1d6. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 99,
+        "name": "Cimitarra",
+        "text": "Cimitarra 1d6 cortante Ligera, sutil Mellar 1,5 kg 25 po"
+      }
+    },
+    {
+      "id": "srd-espada-corta",
+      "name": "Espada corta",
+      "kind": "weapon",
+      "usable": true,
+      "consumable": false,
+      "damage": "1d6",
+      "description": "Arma adaptada: 1d6. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 99,
+        "name": "Espada corta",
+        "text": "Espada corta 1d6 perforante Ligera, sutil Molestar 1 kg 10 po"
+      }
+    },
+    {
+      "id": "srd-espada-larga",
+      "name": "Espada larga",
+      "kind": "weapon",
+      "usable": true,
+      "consumable": false,
+      "damage": "1d6",
+      "description": "Arma adaptada: 1d6. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 99,
+        "name": "Espada larga",
+        "text": "Espada larga 1d8 cortante Versátil (1d10) Debilitar 1,5 kg 15 po"
+      }
+    },
+    {
+      "id": "srd-espadon",
+      "name": "Espadón",
+      "kind": "weapon",
+      "usable": true,
+      "consumable": false,
+      "damage": "1d6",
+      "description": "Arma adaptada: 1d6. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 99,
+        "name": "Espadón",
+        "text": "Espadón 2d6 cortante A dos manos, pesado Rozar 3 kg 50 po"
+      }
+    },
+    {
+      "id": "srd-estoque",
+      "name": "Estoque",
+      "kind": "weapon",
+      "usable": true,
+      "consumable": false,
+      "damage": "1d6",
+      "description": "Arma adaptada: 1d6. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 99,
+        "name": "Estoque",
+        "text": "Estoque 1d8 perforante Sutil Molestar 1 kg 25 po"
+      }
+    },
+    {
+      "id": "srd-guja",
+      "name": "Guja",
+      "kind": "weapon",
+      "usable": true,
+      "consumable": false,
+      "damage": "1d6",
+      "description": "Arma adaptada: 1d6. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 99,
+        "name": "Guja",
+        "text": "Guja 1d10 cortante A dos manos, gran alcance, pesada Rozar 3 kg 20 po"
+      }
+    },
+    {
+      "id": "srd-hacha-a-dos-manos",
+      "name": "Hacha a dos manos",
+      "kind": "weapon",
+      "usable": true,
+      "consumable": false,
+      "damage": "1d6",
+      "description": "Arma adaptada: 1d6. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 99,
+        "name": "Hacha a dos manos",
+        "text": "Hacha a dos manos 1d12 cortante A dos manos, pesada Hender 3,5 kg 30 po"
+      }
+    },
+    {
+      "id": "srd-hacha-de-guerra",
+      "name": "Hacha de guerra",
+      "kind": "weapon",
+      "usable": true,
+      "consumable": false,
+      "damage": "1d6",
+      "description": "Arma adaptada: 1d6. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 99,
+        "name": "Hacha de guerra",
+        "text": "Hacha de guerra 1d8 cortante Versátil (1d10) Derribar 2 kg 10 po"
+      }
+    },
+    {
+      "id": "srd-lanza-de-caballeria",
+      "name": "Lanza de caballería",
+      "kind": "weapon",
+      "usable": true,
+      "consumable": false,
+      "damage": "1d6",
+      "description": "Arma adaptada: 1d6. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 99,
+        "name": "Lanza de caballería",
+        "text": "Lanza de caballería 1d10 perforante A dos manos (salvo montado), gran alcance, pesada Derribar 3 kg 10 po"
+      }
+    },
+    {
+      "id": "srd-latigo",
+      "name": "Látigo",
+      "kind": "weapon",
+      "usable": true,
+      "consumable": false,
+      "damage": "1d4",
+      "description": "Arma adaptada: 1d4. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 99,
+        "name": "Látigo",
+        "text": "Látigo 1d4 cortante Gran alcance, sutil Ralentizar 1,5 kg 2 po"
+      }
+    },
+    {
+      "id": "srd-lucero-del-alba",
+      "name": "Lucero del alba",
+      "kind": "weapon",
+      "usable": true,
+      "consumable": false,
+      "damage": "1d6",
+      "description": "Arma adaptada: 1d6. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 99,
+        "name": "Lucero del alba",
+        "text": "Lucero del alba 1d8 perforante — Debilitar 2 kg 15 po"
+      }
+    },
+    {
+      "id": "srd-mangual",
+      "name": "Mangual",
+      "kind": "weapon",
+      "usable": true,
+      "consumable": false,
+      "damage": "1d6",
+      "description": "Arma adaptada: 1d6. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 99,
+        "name": "Mangual",
+        "text": "Mangual 1d8 contundente — Debilitar 1 kg 10 po"
+      }
+    },
+    {
+      "id": "srd-martillo-de-guerra",
+      "name": "Martillo de guerra",
+      "kind": "weapon",
+      "usable": true,
+      "consumable": false,
+      "damage": "1d6",
+      "description": "Arma adaptada: 1d6. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 99,
+        "name": "Martillo de guerra",
+        "text": "Martillo de guerra 1d8 contundente Versátil (1d10) Empujar 2,5 kg 15 po"
+      }
+    },
+    {
+      "id": "srd-maza-a-dos-manos",
+      "name": "Maza a dos manos",
+      "kind": "weapon",
+      "usable": true,
+      "consumable": false,
+      "damage": "1d6",
+      "description": "Arma adaptada: 1d6. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 99,
+        "name": "Maza a dos manos",
+        "text": "Maza a dos manos 2d6 contundente A dos manos, pesada Derribar 5 kg 10 po"
+      }
+    },
+    {
+      "id": "srd-pica",
+      "name": "Pica",
+      "kind": "weapon",
+      "usable": true,
+      "consumable": false,
+      "damage": "1d6",
+      "description": "Arma adaptada: 1d6. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 99,
+        "name": "Pica",
+        "text": "Pica 1d10 perforante A dos manos, gran alcance, pesada Empujar 9 kg 5 po"
+      }
+    },
+    {
+      "id": "srd-pico-de-guerra",
+      "name": "Pico de guerra",
+      "kind": "weapon",
+      "usable": true,
+      "consumable": false,
+      "damage": "1d6",
+      "description": "Arma adaptada: 1d6. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 99,
+        "name": "Pico de guerra",
+        "text": "Pico de guerra 1d8 perforante Versátil (1d10) Debilitar 1 kg 5 po"
+      }
+    },
+    {
+      "id": "srd-tridente",
+      "name": "Tridente",
+      "kind": "weapon",
+      "usable": true,
+      "consumable": false,
+      "damage": "1d6",
+      "description": "Arma adaptada: 1d6. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 99,
+        "name": "Tridente",
+        "text": "Tridente 1d8 perforante Arrojadizo (alcance 6/18), versátil (1d10) Derribar 2 kg 5 po"
+      }
+    },
+    {
+      "id": "srd-arco-largo",
+      "name": "Arco largo",
+      "kind": "weapon",
+      "usable": true,
+      "consumable": false,
+      "damage": "1d6",
+      "description": "Arma adaptada: 1d6. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 99,
+        "name": "Arco largo",
+        "text": "Arco largo 1d8 perforante A dos manos, munición (alcance 45/180; flecha), Ralentizar 1 kg 50 po pesado"
+      }
+    },
+    {
+      "id": "srd-ballesta-de-mano",
+      "name": "Ballesta de mano",
+      "kind": "weapon",
+      "usable": true,
+      "consumable": false,
+      "damage": "1d6",
+      "description": "Arma adaptada: 1d6. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 99,
+        "name": "Ballesta de mano",
+        "text": "Ballesta de mano 1d6 perforante Ligera, munición (alcance 9/36; virote), recarga Molestar 1,5 kg 75 po"
+      }
+    },
+    {
+      "id": "srd-ballesta-pesada",
+      "name": "Ballesta pesada",
+      "kind": "weapon",
+      "usable": true,
+      "consumable": false,
+      "damage": "1d6",
+      "description": "Arma adaptada: 1d6. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 99,
+        "name": "Ballesta pesada",
+        "text": "Ballesta pesada 1d10 perforante A dos manos, munición (alcance 30/120; virote), pe - Empujar 9 kg 50 po sada, recarga"
+      }
+    },
+    {
+      "id": "srd-cerbatana",
+      "name": "Cerbatana",
+      "kind": "weapon",
+      "usable": true,
+      "consumable": false,
+      "damage": "1d4",
+      "description": "Arma adaptada: 1d4. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 99,
+        "name": "Cerbatana",
+        "text": "Cerbatana 1 perforante Munición (alcance 7,5/30; dardo), recarga Molestar 0,5 kg 10 po"
+      }
+    },
+    {
+      "id": "srd-mosquete",
+      "name": "Mosquete",
+      "kind": "weapon",
+      "usable": true,
+      "consumable": false,
+      "damage": "1d6",
+      "description": "Arma adaptada: 1d6. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 99,
+        "name": "Mosquete",
+        "text": "Mosquete 1d12 perforante A dos manos, munición (alcance 12/36; bala), recarga Ralentizar 5 kg 500 po"
+      }
+    },
+    {
+      "id": "srd-pistola",
+      "name": "Pistola",
+      "kind": "weapon",
+      "usable": true,
+      "consumable": false,
+      "damage": "1d6",
+      "description": "Arma adaptada: 1d6. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 99,
+        "name": "Pistola",
+        "text": "Pistola 1d10 perforante Munición (alcance 9/27; bala), recarga Molestar 1,5 kg 250 po"
+      }
+    }
+  ]
+}

@@ -1,0 +1,705 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "terrain-compendio-bosques-01",
+      "kind": "terrain",
+      "name": "Claro de los Ciervos Blancos",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Narcisse_Virgile_Diaz_de_la_Pe%C3%B1a_%281807-1876%29_-_A_Clearing_in_the_Forest_-_NG_1042_-_National_Galleries_of_Scotland.jpg",
+      "imageCredit": {
+        "text": "A Clearing in the Forest · Narcisse Virgilio Díaz · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Narcisse_Virgile_Diaz_de_la_Pe%C3%B1a_(1807-1876)_-_A_Clearing_in_the_Forest_-_NG_1042_-_National_Galleries_of_Scotland.jpg"
+      },
+      "description": "Huellas de pezuñas rodean un tocón blanco que permanece libre de musgo. El follaje cierra la vista del horizonte. Entre los troncos se abren corredores de luz y sombra, y la distancia resulta difícil de medir porque cada perspectiva termina en otra capa de ramas.\n\nEl suelo conserva hojas de distintas estaciones, raíces descubiertas y claros de tierra oscura. El aire huele a corteza húmeda; un rumor de copas acompaña los sonidos más próximos. Algunos senderos pasan bajo las ramas sin dañarlas, mientras otros cortan directamente entre los árboles. La diferencia permite reconocer usos distintos del mismo bosque.\n\nVarias señales apuntan a una ocupación reciente, pero ninguna permite saber cuántas personas estuvieron aquí. Los rastros más pequeños se cruzan con los mayores y luego se separan, siguiendo direcciones diferentes. El entorno guarda suficiente silencio entre sus sonidos para escuchar lo que ocurra después. Ninguna señal obliga a intervenir; aun así, cuesta ignorar el detalle que se aparta de todos los demás.",
+      "musicUrl": "https://www.youtube.com/results?search_query=enchanted%20woodland%20ambient",
+      "abilities": [
+        "Entorno: Bosques y arboledas. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Huellas de pezuñas rodean un tocón blanco que permanece libre de musgo. Una reparación sencilla permitiría volver a utilizar este lugar. Sus responsables ofrecen información o alojamiento a cambio; decidir quién se beneficiará importa más que obtener una recompensa material.",
+        "Rumbo opcional: Alguien altera los límites de una arboleda protegida. El master puede ofrecer una investigación, una negociación con sus cuidadores o la búsqueda de un paso alternativo.",
+        "Personaje sugerido: El guardián de la vigilia. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Lobo. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de El guardián de la vigilia. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-vigilia"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-bosques-02",
+      "kind": "terrain",
+      "name": "Robledal de las Campanas",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Jan_van_Goyen_Teich_im_Walde.jpg",
+      "imageCredit": {
+        "text": "Pond in the Woods . · Jan van Goyen · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Jan_van_Goyen_Teich_im_Walde.jpg"
+      },
+      "description": "Campanas de barro cuelgan de las ramas bajas sin llegar a tocarse. El follaje cierra la vista del horizonte. Entre los troncos se abren corredores de luz y sombra, y la distancia resulta difícil de medir porque cada perspectiva termina en otra capa de ramas.\n\nEl suelo conserva hojas de distintas estaciones, raíces descubiertas y claros de tierra oscura. El aire huele a corteza húmeda; un rumor de copas acompaña los sonidos más próximos. Algunos senderos pasan bajo las ramas sin dañarlas, mientras otros cortan directamente entre los árboles. La diferencia permite reconocer usos distintos del mismo bosque.\n\nEn el límite entre dos superficies queda una acumulación fina de materiales. Las capas más antiguas son oscuras y compactas; por encima descansa una franja clara, todavía suelta, que deja ver el cambio reciente. Más allá del punto de entrada queda una perspectiva por descubrir. Desde aquí solo se percibe una parte del lugar; para conocer el resto habría que acercarse y cambiar el ángulo de observación.",
+      "musicUrl": "https://www.youtube.com/results?search_query=enchanted%20woodland%20ambient",
+      "abilities": [
+        "Entorno: Bosques y arboledas. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Campanas de barro cuelgan de las ramas bajas sin llegar a tocarse. Alguien ha reproducido este detalle en un mapa incompleto. Seguir la siguiente marca puede llevar a otro terreno del mismo entorno, sin exigir que la ruta sea peligrosa.",
+        "Rumbo opcional: Alguien altera los límites de una arboleda protegida. El master puede ofrecer una investigación, una negociación con sus cuidadores o la búsqueda de un paso alternativo.",
+        "Personaje sugerido: El guardián de la vigilia. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Lobo. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Cuerda (SRD). Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-cuerda"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-bosques-03",
+      "kind": "terrain",
+      "name": "Bosque de los Troncos Huecos",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Narcisse_Virgile_Diaz_de_la_Pe%C3%B1a_%281807-1876%29_-_A_Clearing_in_the_Forest_-_NG_1042_-_National_Galleries_of_Scotland.jpg",
+      "imageCredit": {
+        "text": "A Clearing in the Forest · Narcisse Virgilio Díaz · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Narcisse_Virgile_Diaz_de_la_Pe%C3%B1a_(1807-1876)_-_A_Clearing_in_the_Forest_-_NG_1042_-_National_Galleries_of_Scotland.jpg"
+      },
+      "description": "Los troncos más gruesos tienen aberturas que miran todas hacia el mismo claro. El follaje cierra la vista del horizonte. Entre los troncos se abren corredores de luz y sombra, y la distancia resulta difícil de medir porque cada perspectiva termina en otra capa de ramas.\n\nEl suelo conserva hojas de distintas estaciones, raíces descubiertas y claros de tierra oscura. El aire huele a corteza húmeda; un rumor de copas acompaña los sonidos más próximos. Algunos senderos pasan bajo las ramas sin dañarlas, mientras otros cortan directamente entre los árboles. La diferencia permite reconocer usos distintos del mismo bosque.\n\nUn objeto cotidiano descansa donde nadie esperaría encontrarlo. Está limpio por un lado y gastado por el otro, como si hubiera pasado mucho tiempo protegido antes de quedar expuesto de nuevo. El lugar no revela de inmediato si espera visitantes o si intenta mantenerlos a distancia. Sus señales admiten ambas lecturas, y el siguiente paso puede aclarar cuál resulta más convincente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=enchanted%20woodland%20ambient",
+      "abilities": [
+        "Entorno: Bosques y arboledas. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Los troncos más gruesos tienen aberturas que miran todas hacia el mismo claro. Una pertenencia perdida cerca de este detalle identifica a un viajero. Devolverla puede abrir una conversación; conservarla puede provocar una reclamación posterior, sin presumir que sea un tesoro abandonado.",
+        "Rumbo opcional: Alguien altera los límites de una arboleda protegida. El master puede ofrecer una investigación, una negociación con sus cuidadores o la búsqueda de un paso alternativo.",
+        "Personaje sugerido: El guardián de la vigilia. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Lobo. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Lobo. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-lobo"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-bosques-04",
+      "kind": "terrain",
+      "name": "Arboleda de las Cintas Azules",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Jan_van_Goyen_Teich_im_Walde.jpg",
+      "imageCredit": {
+        "text": "Pond in the Woods . · Jan van Goyen · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Jan_van_Goyen_Teich_im_Walde.jpg"
+      },
+      "description": "Cintas desteñidas unen árboles jóvenes y delimitan un corredor sinuoso. El follaje cierra la vista del horizonte. Entre los troncos se abren corredores de luz y sombra, y la distancia resulta difícil de medir porque cada perspectiva termina en otra capa de ramas.\n\nEl suelo conserva hojas de distintas estaciones, raíces descubiertas y claros de tierra oscura. El aire huele a corteza húmeda; un rumor de copas acompaña los sonidos más próximos. Algunos senderos pasan bajo las ramas sin dañarlas, mientras otros cortan directamente entre los árboles. La diferencia permite reconocer usos distintos del mismo bosque.\n\nUn rastro del mismo color se repite sobre superficies diferentes. No parece una decoración, porque cada marca queda a una altura distinta. La última está junto a algo que nadie ha movido recientemente. La primera impresión invita a seguir, pero un examen pausado ofrece otra posibilidad: detenerse, comparar los rastros y decidir qué detalle merece atención antes de abandonar el sitio.",
+      "musicUrl": "https://www.youtube.com/results?search_query=enchanted%20woodland%20ambient",
+      "abilities": [
+        "Entorno: Bosques y arboledas. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Cintas desteñidas unen árboles jóvenes y delimitan un corredor sinuoso. Dos grupos atribuyen significados distintos a este detalle. El master puede permitir una solución que respete ambos usos, o presentar las consecuencias de favorecer a uno de ellos.",
+        "Rumbo opcional: Alguien altera los límites de una arboleda protegida. El master puede ofrecer una investigación, una negociación con sus cuidadores o la búsqueda de un paso alternativo.",
+        "Personaje sugerido: El guardián de la vigilia. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Lobo. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de El guardián de la vigilia. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-vigilia"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-bosques-05",
+      "kind": "terrain",
+      "name": "Hayedo del Arroyo Oculto",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Narcisse_Virgile_Diaz_de_la_Pe%C3%B1a_%281807-1876%29_-_A_Clearing_in_the_Forest_-_NG_1042_-_National_Galleries_of_Scotland.jpg",
+      "imageCredit": {
+        "text": "A Clearing in the Forest · Narcisse Virgilio Díaz · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Narcisse_Virgile_Diaz_de_la_Pe%C3%B1a_(1807-1876)_-_A_Clearing_in_the_Forest_-_NG_1042_-_National_Galleries_of_Scotland.jpg"
+      },
+      "description": "El agua se oye bajo las raíces, pero no aparece en la superficie. El follaje cierra la vista del horizonte. Entre los troncos se abren corredores de luz y sombra, y la distancia resulta difícil de medir porque cada perspectiva termina en otra capa de ramas.\n\nEl suelo conserva hojas de distintas estaciones, raíces descubiertas y claros de tierra oscura. El aire huele a corteza húmeda; un rumor de copas acompaña los sonidos más próximos. Algunos senderos pasan bajo las ramas sin dañarlas, mientras otros cortan directamente entre los árboles. La diferencia permite reconocer usos distintos del mismo bosque.\n\nUn detalle aparece repetido tres veces, con ligeras diferencias. La primera versión está gastada, la segunda incompleta y la tercera apenas alterada. Entre ellas queda espacio suficiente para imaginar una secuencia que todavía no termina. Desde esta posición se puede distinguir por dónde llegó la última presencia conocida. Su destino, en cambio, permanece fuera de la vista y no coincide necesariamente con la salida más evidente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=enchanted%20woodland%20ambient",
+      "abilities": [
+        "Entorno: Bosques y arboledas. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: El agua se oye bajo las raíces, pero no aparece en la superficie. Las señales de uso reciente pertenecen a alguien que evita ser encontrado. Puede necesitar ayuda, intimidad o protección; investigar no demuestra por sí solo culpabilidad ni hostilidad.",
+        "Rumbo opcional: Alguien altera los límites de una arboleda protegida. El master puede ofrecer una investigación, una negociación con sus cuidadores o la búsqueda de un paso alternativo.",
+        "Personaje sugerido: El guardián de la vigilia. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Lobo. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Cuerda (SRD). Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-cuerda"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-bosques-06",
+      "kind": "terrain",
+      "name": "Pinar de las Agujas Rojas",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Jan_van_Goyen_Teich_im_Walde.jpg",
+      "imageCredit": {
+        "text": "Pond in the Woods . · Jan van Goyen · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Jan_van_Goyen_Teich_im_Walde.jpg"
+      },
+      "description": "Una franja de agujas rojizas cruza el suelo entre pinos todavía verdes. El follaje cierra la vista del horizonte. Entre los troncos se abren corredores de luz y sombra, y la distancia resulta difícil de medir porque cada perspectiva termina en otra capa de ramas.\n\nEl suelo conserva hojas de distintas estaciones, raíces descubiertas y claros de tierra oscura. El aire huele a corteza húmeda; un rumor de copas acompaña los sonidos más próximos. Algunos senderos pasan bajo las ramas sin dañarlas, mientras otros cortan directamente entre los árboles. La diferencia permite reconocer usos distintos del mismo bosque.\n\nUna señal visible desde lejos tiene otra cara que solo se descubre al acercarse. Ambas están trabajadas de manera distinta. La parte oculta conserva un detalle que parece haber sido añadido después de terminar la primera. El entorno guarda suficiente silencio entre sus sonidos para escuchar lo que ocurra después. Ninguna señal obliga a intervenir; aun así, cuesta ignorar el detalle que se aparta de todos los demás.",
+      "musicUrl": "https://www.youtube.com/results?search_query=enchanted%20woodland%20ambient",
+      "abilities": [
+        "Entorno: Bosques y arboledas. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Una franja de agujas rojizas cruza el suelo entre pinos todavía verdes. Un cambio de tiempo amenaza con borrar o dañar este detalle. Documentarlo o protegerlo ofrece una tarea breve cuya urgencia puede ajustarse al ritmo de la sesión.",
+        "Rumbo opcional: Alguien altera los límites de una arboleda protegida. El master puede ofrecer una investigación, una negociación con sus cuidadores o la búsqueda de un paso alternativo.",
+        "Personaje sugerido: El guardián de la vigilia. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Lobo. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Lobo. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-lobo"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-bosques-07",
+      "kind": "terrain",
+      "name": "Sendero del Zorro Tallado",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Narcisse_Virgile_Diaz_de_la_Pe%C3%B1a_%281807-1876%29_-_A_Clearing_in_the_Forest_-_NG_1042_-_National_Galleries_of_Scotland.jpg",
+      "imageCredit": {
+        "text": "A Clearing in the Forest · Narcisse Virgilio Díaz · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Narcisse_Virgile_Diaz_de_la_Pe%C3%B1a_(1807-1876)_-_A_Clearing_in_the_Forest_-_NG_1042_-_National_Galleries_of_Scotland.jpg"
+      },
+      "description": "Pequeños zorros tallados en cortezas antiguas señalan desvíos casi cerrados. El follaje cierra la vista del horizonte. Entre los troncos se abren corredores de luz y sombra, y la distancia resulta difícil de medir porque cada perspectiva termina en otra capa de ramas.\n\nEl suelo conserva hojas de distintas estaciones, raíces descubiertas y claros de tierra oscura. El aire huele a corteza húmeda; un rumor de copas acompaña los sonidos más próximos. Algunos senderos pasan bajo las ramas sin dañarlas, mientras otros cortan directamente entre los árboles. La diferencia permite reconocer usos distintos del mismo bosque.\n\nLa distribución del lugar parece responder a una costumbre olvidada. Quien lo preparó dejó espacio alrededor de un punto central; nadie ha ocupado ese hueco, aunque todo lo demás muestra rastros de uso. Más allá del punto de entrada queda una perspectiva por descubrir. Desde aquí solo se percibe una parte del lugar; para conocer el resto habría que acercarse y cambiar el ángulo de observación.",
+      "musicUrl": "https://www.youtube.com/results?search_query=enchanted%20woodland%20ambient",
+      "abilities": [
+        "Entorno: Bosques y arboledas. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Pequeños zorros tallados en cortezas antiguas señalan desvíos casi cerrados. Una persona ofrece un objeto útil si el grupo comprueba qué ha cambiado aquí. La información obtenida puede interesar a otra persona y conectar este lugar con una visita anterior.",
+        "Rumbo opcional: Alguien altera los límites de una arboleda protegida. El master puede ofrecer una investigación, una negociación con sus cuidadores o la búsqueda de un paso alternativo.",
+        "Personaje sugerido: El guardián de la vigilia. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Lobo. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de El guardián de la vigilia. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-vigilia"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-bosques-08",
+      "kind": "terrain",
+      "name": "Claro de la Mesa de Piedra",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Jan_van_Goyen_Teich_im_Walde.jpg",
+      "imageCredit": {
+        "text": "Pond in the Woods . · Jan van Goyen · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Jan_van_Goyen_Teich_im_Walde.jpg"
+      },
+      "description": "Una losa horizontal conserva marcas de platos y un hueco sin ocupar. El follaje cierra la vista del horizonte. Entre los troncos se abren corredores de luz y sombra, y la distancia resulta difícil de medir porque cada perspectiva termina en otra capa de ramas.\n\nEl suelo conserva hojas de distintas estaciones, raíces descubiertas y claros de tierra oscura. El aire huele a corteza húmeda; un rumor de copas acompaña los sonidos más próximos. Algunos senderos pasan bajo las ramas sin dañarlas, mientras otros cortan directamente entre los árboles. La diferencia permite reconocer usos distintos del mismo bosque.\n\nLa vista cambia al dar unos pasos hacia un lateral. Lo que desde la entrada parecía un obstáculo se convierte en una referencia útil, y detrás aparece una continuidad que no resultaba evidente a primera vista. El lugar no revela de inmediato si espera visitantes o si intenta mantenerlos a distancia. Sus señales admiten ambas lecturas, y el siguiente paso puede aclarar cuál resulta más convincente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=enchanted%20woodland%20ambient",
+      "abilities": [
+        "Entorno: Bosques y arboledas. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Una losa horizontal conserva marcas de platos y un hueco sin ocupar. Este lugar admite una escena tranquila de observación o conversación. El master puede usar el detalle visible para recordar un vínculo del personaje sin introducir un nuevo conflicto.",
+        "Rumbo opcional: Alguien altera los límites de una arboleda protegida. El master puede ofrecer una investigación, una negociación con sus cuidadores o la búsqueda de un paso alternativo.",
+        "Personaje sugerido: El guardián de la vigilia. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Lobo. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Cuerda (SRD). Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-cuerda"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-bosques-09",
+      "kind": "terrain",
+      "name": "Bosque de los Nidos Bajos",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Narcisse_Virgile_Diaz_de_la_Pe%C3%B1a_%281807-1876%29_-_A_Clearing_in_the_Forest_-_NG_1042_-_National_Galleries_of_Scotland.jpg",
+      "imageCredit": {
+        "text": "A Clearing in the Forest · Narcisse Virgilio Díaz · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Narcisse_Virgile_Diaz_de_la_Pe%C3%B1a_(1807-1876)_-_A_Clearing_in_the_Forest_-_NG_1042_-_National_Galleries_of_Scotland.jpg"
+      },
+      "description": "Nidos vacíos descansan a la altura de la cintura sobre ramas entrelazadas. El follaje cierra la vista del horizonte. Entre los troncos se abren corredores de luz y sombra, y la distancia resulta difícil de medir porque cada perspectiva termina en otra capa de ramas.\n\nEl suelo conserva hojas de distintas estaciones, raíces descubiertas y claros de tierra oscura. El aire huele a corteza húmeda; un rumor de copas acompaña los sonidos más próximos. Algunos senderos pasan bajo las ramas sin dañarlas, mientras otros cortan directamente entre los árboles. La diferencia permite reconocer usos distintos del mismo bosque.\n\nHay un elemento desplazado respecto a todos los demás. No está roto ni parece a punto de caer; sencillamente apunta hacia otro lado. Su posición permite ver un tramo del lugar que las otras referencias ocultan. La primera impresión invita a seguir, pero un examen pausado ofrece otra posibilidad: detenerse, comparar los rastros y decidir qué detalle merece atención antes de abandonar el sitio.",
+      "musicUrl": "https://www.youtube.com/results?search_query=enchanted%20woodland%20ambient",
+      "abilities": [
+        "Entorno: Bosques y arboledas. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Nidos vacíos descansan a la altura de la cintura sobre ramas entrelazadas. Una persona conoce el origen de este detalle, pero su versión contradice la de quien lo cuida. Contrastar ambas historias puede revelar una necesidad que ninguna admite en público.",
+        "Rumbo opcional: Alguien altera los límites de una arboleda protegida. El master puede ofrecer una investigación, una negociación con sus cuidadores o la búsqueda de un paso alternativo.",
+        "Personaje sugerido: El guardián de la vigilia. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Lobo. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Lobo. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-lobo"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-bosques-10",
+      "kind": "terrain",
+      "name": "Alameda de las Sombras Dobles",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Jan_van_Goyen_Teich_im_Walde.jpg",
+      "imageCredit": {
+        "text": "Pond in the Woods . · Jan van Goyen · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Jan_van_Goyen_Teich_im_Walde.jpg"
+      },
+      "description": "Un canal refleja la luz sobre los troncos y duplica sus sombras. El follaje cierra la vista del horizonte. Entre los troncos se abren corredores de luz y sombra, y la distancia resulta difícil de medir porque cada perspectiva termina en otra capa de ramas.\n\nEl suelo conserva hojas de distintas estaciones, raíces descubiertas y claros de tierra oscura. El aire huele a corteza húmeda; un rumor de copas acompaña los sonidos más próximos. Algunos senderos pasan bajo las ramas sin dañarlas, mientras otros cortan directamente entre los árboles. La diferencia permite reconocer usos distintos del mismo bosque.\n\nLas marcas del paso de otros viajeros se interrumpen en un punto concreto. Una señal reciente se superpone a otra mucho más antigua; las dos parecen señalar destinos distintos, aunque ninguna ofrece una explicación. Desde esta posición se puede distinguir por dónde llegó la última presencia conocida. Su destino, en cambio, permanece fuera de la vista y no coincide necesariamente con la salida más evidente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=enchanted%20woodland%20ambient",
+      "abilities": [
+        "Entorno: Bosques y arboledas. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Un canal refleja la luz sobre los troncos y duplica sus sombras. Este detalle sirve como señal para una cita. El grupo puede encontrar a quien espera, descubrir por qué nadie acudió o dejar un mensaje para continuar la historia más adelante.",
+        "Rumbo opcional: Alguien altera los límites de una arboleda protegida. El master puede ofrecer una investigación, una negociación con sus cuidadores o la búsqueda de un paso alternativo.",
+        "Personaje sugerido: El guardián de la vigilia. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Lobo. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de El guardián de la vigilia. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-vigilia"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-bosques-11",
+      "kind": "terrain",
+      "name": "Arboleda del Pozo de Hojas",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Narcisse_Virgile_Diaz_de_la_Pe%C3%B1a_%281807-1876%29_-_A_Clearing_in_the_Forest_-_NG_1042_-_National_Galleries_of_Scotland.jpg",
+      "imageCredit": {
+        "text": "A Clearing in the Forest · Narcisse Virgilio Díaz · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Narcisse_Virgile_Diaz_de_la_Pe%C3%B1a_(1807-1876)_-_A_Clearing_in_the_Forest_-_NG_1042_-_National_Galleries_of_Scotland.jpg"
+      },
+      "description": "Las hojas caídas forman un embudo alrededor de un brocal apenas visible. El follaje cierra la vista del horizonte. Entre los troncos se abren corredores de luz y sombra, y la distancia resulta difícil de medir porque cada perspectiva termina en otra capa de ramas.\n\nEl suelo conserva hojas de distintas estaciones, raíces descubiertas y claros de tierra oscura. El aire huele a corteza húmeda; un rumor de copas acompaña los sonidos más próximos. Algunos senderos pasan bajo las ramas sin dañarlas, mientras otros cortan directamente entre los árboles. La diferencia permite reconocer usos distintos del mismo bosque.\n\nAl prestar atención se descubren dos sonidos que no siguen el mismo ritmo. Uno pertenece claramente al entorno; el otro aparece y desaparece sin que sea posible localizar su origen desde la entrada. El entorno guarda suficiente silencio entre sus sonidos para escuchar lo que ocurra después. Ninguna señal obliga a intervenir; aun así, cuesta ignorar el detalle que se aparta de todos los demás.",
+      "musicUrl": "https://www.youtube.com/results?search_query=enchanted%20woodland%20ambient",
+      "abilities": [
+        "Entorno: Bosques y arboledas. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Las hojas caídas forman un embudo alrededor de un brocal apenas visible. Una reparación sencilla permitiría volver a utilizar este lugar. Sus responsables ofrecen información o alojamiento a cambio; decidir quién se beneficiará importa más que obtener una recompensa material.",
+        "Rumbo opcional: Alguien altera los límites de una arboleda protegida. El master puede ofrecer una investigación, una negociación con sus cuidadores o la búsqueda de un paso alternativo.",
+        "Personaje sugerido: El guardián de la vigilia. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Lobo. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Cuerda (SRD). Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-cuerda"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-bosques-12",
+      "kind": "terrain",
+      "name": "Bosque del Puente Vivo",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Jan_van_Goyen_Teich_im_Walde.jpg",
+      "imageCredit": {
+        "text": "Pond in the Woods . · Jan van Goyen · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Jan_van_Goyen_Teich_im_Walde.jpg"
+      },
+      "description": "Dos árboles inclinados enlazan sus raíces sobre una zanja profunda. El follaje cierra la vista del horizonte. Entre los troncos se abren corredores de luz y sombra, y la distancia resulta difícil de medir porque cada perspectiva termina en otra capa de ramas.\n\nEl suelo conserva hojas de distintas estaciones, raíces descubiertas y claros de tierra oscura. El aire huele a corteza húmeda; un rumor de copas acompaña los sonidos más próximos. Algunos senderos pasan bajo las ramas sin dañarlas, mientras otros cortan directamente entre los árboles. La diferencia permite reconocer usos distintos del mismo bosque.\n\nUna marca antigua se ha respetado a pesar de los cambios del entorno. Las reparaciones y el tránsito la rodean en lugar de cubrirla. Parece importar a alguien, aunque su significado no se reconoce de inmediato. Más allá del punto de entrada queda una perspectiva por descubrir. Desde aquí solo se percibe una parte del lugar; para conocer el resto habría que acercarse y cambiar el ángulo de observación.",
+      "musicUrl": "https://www.youtube.com/results?search_query=enchanted%20woodland%20ambient",
+      "abilities": [
+        "Entorno: Bosques y arboledas. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Dos árboles inclinados enlazan sus raíces sobre una zanja profunda. Alguien ha reproducido este detalle en un mapa incompleto. Seguir la siguiente marca puede llevar a otro terreno del mismo entorno, sin exigir que la ruta sea peligrosa.",
+        "Rumbo opcional: Alguien altera los límites de una arboleda protegida. El master puede ofrecer una investigación, una negociación con sus cuidadores o la búsqueda de un paso alternativo.",
+        "Personaje sugerido: El guardián de la vigilia. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Lobo. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Lobo. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-lobo"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-bosques-13",
+      "kind": "terrain",
+      "name": "Claro de las Setas Doradas",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Narcisse_Virgile_Diaz_de_la_Pe%C3%B1a_%281807-1876%29_-_A_Clearing_in_the_Forest_-_NG_1042_-_National_Galleries_of_Scotland.jpg",
+      "imageCredit": {
+        "text": "A Clearing in the Forest · Narcisse Virgilio Díaz · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Narcisse_Virgile_Diaz_de_la_Pe%C3%B1a_(1807-1876)_-_A_Clearing_in_the_Forest_-_NG_1042_-_National_Galleries_of_Scotland.jpg"
+      },
+      "description": "Setas amarillas crecen en círculo alrededor de una tierra recién removida. El follaje cierra la vista del horizonte. Entre los troncos se abren corredores de luz y sombra, y la distancia resulta difícil de medir porque cada perspectiva termina en otra capa de ramas.\n\nEl suelo conserva hojas de distintas estaciones, raíces descubiertas y claros de tierra oscura. El aire huele a corteza húmeda; un rumor de copas acompaña los sonidos más próximos. Algunos senderos pasan bajo las ramas sin dañarlas, mientras otros cortan directamente entre los árboles. La diferencia permite reconocer usos distintos del mismo bosque.\n\nAl detenerse, el entorno revela movimientos discretos que pasan inadvertidos al caminar. Ninguno parece acercarse directamente. Sin embargo, todos evitan el mismo punto, situado un poco más allá del acceso principal. El lugar no revela de inmediato si espera visitantes o si intenta mantenerlos a distancia. Sus señales admiten ambas lecturas, y el siguiente paso puede aclarar cuál resulta más convincente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=enchanted%20woodland%20ambient",
+      "abilities": [
+        "Entorno: Bosques y arboledas. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Setas amarillas crecen en círculo alrededor de una tierra recién removida. Una pertenencia perdida cerca de este detalle identifica a un viajero. Devolverla puede abrir una conversación; conservarla puede provocar una reclamación posterior, sin presumir que sea un tesoro abandonado.",
+        "Rumbo opcional: Alguien altera los límites de una arboleda protegida. El master puede ofrecer una investigación, una negociación con sus cuidadores o la búsqueda de un paso alternativo.",
+        "Personaje sugerido: El guardián de la vigilia. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Lobo. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de El guardián de la vigilia. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-vigilia"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-bosques-14",
+      "kind": "terrain",
+      "name": "Saucedal de las Redes Rotas",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Jan_van_Goyen_Teich_im_Walde.jpg",
+      "imageCredit": {
+        "text": "Pond in the Woods . · Jan van Goyen · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Jan_van_Goyen_Teich_im_Walde.jpg"
+      },
+      "description": "Retazos de redes se enredan en ramas que rozan un estanque inmóvil. El follaje cierra la vista del horizonte. Entre los troncos se abren corredores de luz y sombra, y la distancia resulta difícil de medir porque cada perspectiva termina en otra capa de ramas.\n\nEl suelo conserva hojas de distintas estaciones, raíces descubiertas y claros de tierra oscura. El aire huele a corteza húmeda; un rumor de copas acompaña los sonidos más próximos. Algunos senderos pasan bajo las ramas sin dañarlas, mientras otros cortan directamente entre los árboles. La diferencia permite reconocer usos distintos del mismo bosque.\n\nHay una pequeña zona resguardada del entorno, suficiente para detenerse y observar sin estorbar el paso. Desde allí se aprecia un detalle que, visto de frente, quedaba escondido detrás de los demás. La primera impresión invita a seguir, pero un examen pausado ofrece otra posibilidad: detenerse, comparar los rastros y decidir qué detalle merece atención antes de abandonar el sitio.",
+      "musicUrl": "https://www.youtube.com/results?search_query=enchanted%20woodland%20ambient",
+      "abilities": [
+        "Entorno: Bosques y arboledas. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Retazos de redes se enredan en ramas que rozan un estanque inmóvil. Dos grupos atribuyen significados distintos a este detalle. El master puede permitir una solución que respete ambos usos, o presentar las consecuencias de favorecer a uno de ellos.",
+        "Rumbo opcional: Alguien altera los límites de una arboleda protegida. El master puede ofrecer una investigación, una negociación con sus cuidadores o la búsqueda de un paso alternativo.",
+        "Personaje sugerido: El guardián de la vigilia. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Lobo. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Cuerda (SRD). Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-cuerda"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-bosques-15",
+      "kind": "terrain",
+      "name": "Bosque del Carbonero Ausente",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Narcisse_Virgile_Diaz_de_la_Pe%C3%B1a_%281807-1876%29_-_A_Clearing_in_the_Forest_-_NG_1042_-_National_Galleries_of_Scotland.jpg",
+      "imageCredit": {
+        "text": "A Clearing in the Forest · Narcisse Virgilio Díaz · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Narcisse_Virgile_Diaz_de_la_Pe%C3%B1a_(1807-1876)_-_A_Clearing_in_the_Forest_-_NG_1042_-_National_Galleries_of_Scotland.jpg"
+      },
+      "description": "Una carbonera apagada conserva herramientas ordenadas y un saco abierto. El follaje cierra la vista del horizonte. Entre los troncos se abren corredores de luz y sombra, y la distancia resulta difícil de medir porque cada perspectiva termina en otra capa de ramas.\n\nEl suelo conserva hojas de distintas estaciones, raíces descubiertas y claros de tierra oscura. El aire huele a corteza húmeda; un rumor de copas acompaña los sonidos más próximos. Algunos senderos pasan bajo las ramas sin dañarlas, mientras otros cortan directamente entre los árboles. La diferencia permite reconocer usos distintos del mismo bosque.\n\nEn un rincón se conserva algo que el resto del lugar ha perdido: una forma intacta, una superficie limpia o un color más vivo. La diferencia llama la atención precisamente porque no se repite en ninguna otra parte. Desde esta posición se puede distinguir por dónde llegó la última presencia conocida. Su destino, en cambio, permanece fuera de la vista y no coincide necesariamente con la salida más evidente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=enchanted%20woodland%20ambient",
+      "abilities": [
+        "Entorno: Bosques y arboledas. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Una carbonera apagada conserva herramientas ordenadas y un saco abierto. Las señales de uso reciente pertenecen a alguien que evita ser encontrado. Puede necesitar ayuda, intimidad o protección; investigar no demuestra por sí solo culpabilidad ni hostilidad.",
+        "Rumbo opcional: Alguien altera los límites de una arboleda protegida. El master puede ofrecer una investigación, una negociación con sus cuidadores o la búsqueda de un paso alternativo.",
+        "Personaje sugerido: El guardián de la vigilia. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Lobo. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Lobo. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-lobo"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-bosques-16",
+      "kind": "terrain",
+      "name": "Roble de los Juramentos",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Jan_van_Goyen_Teich_im_Walde.jpg",
+      "imageCredit": {
+        "text": "Pond in the Woods . · Jan van Goyen · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Jan_van_Goyen_Teich_im_Walde.jpg"
+      },
+      "description": "Cientos de pequeños clavos sujetan tablillas sin firma a la corteza. El follaje cierra la vista del horizonte. Entre los troncos se abren corredores de luz y sombra, y la distancia resulta difícil de medir porque cada perspectiva termina en otra capa de ramas.\n\nEl suelo conserva hojas de distintas estaciones, raíces descubiertas y claros de tierra oscura. El aire huele a corteza húmeda; un rumor de copas acompaña los sonidos más próximos. Algunos senderos pasan bajo las ramas sin dañarlas, mientras otros cortan directamente entre los árboles. La diferencia permite reconocer usos distintos del mismo bosque.\n\nEl camino de entrada no ofrece la mejor vista del lugar. Un giro descubre un espacio menor, protegido por las formas del entorno. Allí los rastros se ordenan de manera diferente y parecen corresponder a otra actividad. El entorno guarda suficiente silencio entre sus sonidos para escuchar lo que ocurra después. Ninguna señal obliga a intervenir; aun así, cuesta ignorar el detalle que se aparta de todos los demás.",
+      "musicUrl": "https://www.youtube.com/results?search_query=enchanted%20woodland%20ambient",
+      "abilities": [
+        "Entorno: Bosques y arboledas. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Cientos de pequeños clavos sujetan tablillas sin firma a la corteza. Un cambio de tiempo amenaza con borrar o dañar este detalle. Documentarlo o protegerlo ofrece una tarea breve cuya urgencia puede ajustarse al ritmo de la sesión.",
+        "Rumbo opcional: Alguien altera los límites de una arboleda protegida. El master puede ofrecer una investigación, una negociación con sus cuidadores o la búsqueda de un paso alternativo.",
+        "Personaje sugerido: El guardián de la vigilia. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Lobo. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de El guardián de la vigilia. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-vigilia"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-bosques-17",
+      "kind": "terrain",
+      "name": "Bosque de las Sendas Gemelas",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Narcisse_Virgile_Diaz_de_la_Pe%C3%B1a_%281807-1876%29_-_A_Clearing_in_the_Forest_-_NG_1042_-_National_Galleries_of_Scotland.jpg",
+      "imageCredit": {
+        "text": "A Clearing in the Forest · Narcisse Virgilio Díaz · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Narcisse_Virgile_Diaz_de_la_Pe%C3%B1a_(1807-1876)_-_A_Clearing_in_the_Forest_-_NG_1042_-_National_Galleries_of_Scotland.jpg"
+      },
+      "description": "Dos sendas paralelas quedan separadas por árboles unidos mediante raíces gruesas. El follaje cierra la vista del horizonte. Entre los troncos se abren corredores de luz y sombra, y la distancia resulta difícil de medir porque cada perspectiva termina en otra capa de ramas.\n\nEl suelo conserva hojas de distintas estaciones, raíces descubiertas y claros de tierra oscura. El aire huele a corteza húmeda; un rumor de copas acompaña los sonidos más próximos. Algunos senderos pasan bajo las ramas sin dañarlas, mientras otros cortan directamente entre los árboles. La diferencia permite reconocer usos distintos del mismo bosque.\n\nEntre los restos del uso cotidiano hay una interrupción clara. Algo ocurrió aquí antes de que la actividad se reanudara. Las señales posteriores atraviesan las anteriores, pero no llegan a borrarlas por completo. Más allá del punto de entrada queda una perspectiva por descubrir. Desde aquí solo se percibe una parte del lugar; para conocer el resto habría que acercarse y cambiar el ángulo de observación.",
+      "musicUrl": "https://www.youtube.com/results?search_query=enchanted%20woodland%20ambient",
+      "abilities": [
+        "Entorno: Bosques y arboledas. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Dos sendas paralelas quedan separadas por árboles unidos mediante raíces gruesas. Una persona ofrece un objeto útil si el grupo comprueba qué ha cambiado aquí. La información obtenida puede interesar a otra persona y conectar este lugar con una visita anterior.",
+        "Rumbo opcional: Alguien altera los límites de una arboleda protegida. El master puede ofrecer una investigación, una negociación con sus cuidadores o la búsqueda de un paso alternativo.",
+        "Personaje sugerido: El guardián de la vigilia. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Lobo. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Cuerda (SRD). Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-cuerda"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-bosques-18",
+      "kind": "terrain",
+      "name": "Claro del Último Rayo",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Jan_van_Goyen_Teich_im_Walde.jpg",
+      "imageCredit": {
+        "text": "Pond in the Woods . · Jan van Goyen · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Jan_van_Goyen_Teich_im_Walde.jpg"
+      },
+      "description": "Una abertura estrecha entre las copas ilumina una piedra al fondo. El follaje cierra la vista del horizonte. Entre los troncos se abren corredores de luz y sombra, y la distancia resulta difícil de medir porque cada perspectiva termina en otra capa de ramas.\n\nEl suelo conserva hojas de distintas estaciones, raíces descubiertas y claros de tierra oscura. El aire huele a corteza húmeda; un rumor de copas acompaña los sonidos más próximos. Algunos senderos pasan bajo las ramas sin dañarlas, mientras otros cortan directamente entre los árboles. La diferencia permite reconocer usos distintos del mismo bosque.\n\nUna línea de pequeñas señales recorre el límite del lugar. Algunas están casi borradas y otras parecen recientes. Su separación es regular hasta el último tramo, donde falta una y las restantes se acumulan. El lugar no revela de inmediato si espera visitantes o si intenta mantenerlos a distancia. Sus señales admiten ambas lecturas, y el siguiente paso puede aclarar cuál resulta más convincente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=enchanted%20woodland%20ambient",
+      "abilities": [
+        "Entorno: Bosques y arboledas. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Una abertura estrecha entre las copas ilumina una piedra al fondo. Este lugar admite una escena tranquila de observación o conversación. El master puede usar el detalle visible para recordar un vínculo del personaje sin introducir un nuevo conflicto.",
+        "Rumbo opcional: Alguien altera los límites de una arboleda protegida. El master puede ofrecer una investigación, una negociación con sus cuidadores o la búsqueda de un paso alternativo.",
+        "Personaje sugerido: El guardián de la vigilia. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Lobo. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Lobo. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-lobo"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-bosques-19",
+      "kind": "terrain",
+      "name": "Castañar de las Cestas Vacías",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Narcisse_Virgile_Diaz_de_la_Pe%C3%B1a_%281807-1876%29_-_A_Clearing_in_the_Forest_-_NG_1042_-_National_Galleries_of_Scotland.jpg",
+      "imageCredit": {
+        "text": "A Clearing in the Forest · Narcisse Virgilio Díaz · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Narcisse_Virgile_Diaz_de_la_Pe%C3%B1a_(1807-1876)_-_A_Clearing_in_the_Forest_-_NG_1042_-_National_Galleries_of_Scotland.jpg"
+      },
+      "description": "Cestas de mimbre cuelgan de postes bajos junto a los árboles. El follaje cierra la vista del horizonte. Entre los troncos se abren corredores de luz y sombra, y la distancia resulta difícil de medir porque cada perspectiva termina en otra capa de ramas.\n\nEl suelo conserva hojas de distintas estaciones, raíces descubiertas y claros de tierra oscura. El aire huele a corteza húmeda; un rumor de copas acompaña los sonidos más próximos. Algunos senderos pasan bajo las ramas sin dañarlas, mientras otros cortan directamente entre los árboles. La diferencia permite reconocer usos distintos del mismo bosque.\n\nSe advierte una elección deliberada entre dos recorridos. Uno es sencillo y muy visible; el otro exige acercarse para reconocerlo. Ambos desembocan fuera de la vista, sin revelar todavía qué los distingue al final. La primera impresión invita a seguir, pero un examen pausado ofrece otra posibilidad: detenerse, comparar los rastros y decidir qué detalle merece atención antes de abandonar el sitio.",
+      "musicUrl": "https://www.youtube.com/results?search_query=enchanted%20woodland%20ambient",
+      "abilities": [
+        "Entorno: Bosques y arboledas. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Cestas de mimbre cuelgan de postes bajos junto a los árboles. Una persona conoce el origen de este detalle, pero su versión contradice la de quien lo cuida. Contrastar ambas historias puede revelar una necesidad que ninguna admite en público.",
+        "Rumbo opcional: Alguien altera los límites de una arboleda protegida. El master puede ofrecer una investigación, una negociación con sus cuidadores o la búsqueda de un paso alternativo.",
+        "Personaje sugerido: El guardián de la vigilia. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Lobo. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de El guardián de la vigilia. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-vigilia"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-bosques-20",
+      "kind": "terrain",
+      "name": "Bosque del Tocón Quemado",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Jan_van_Goyen_Teich_im_Walde.jpg",
+      "imageCredit": {
+        "text": "Pond in the Woods . · Jan van Goyen · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Jan_van_Goyen_Teich_im_Walde.jpg"
+      },
+      "description": "Un único tocón está carbonizado dentro de una extensión sin señales de incendio. El follaje cierra la vista del horizonte. Entre los troncos se abren corredores de luz y sombra, y la distancia resulta difícil de medir porque cada perspectiva termina en otra capa de ramas.\n\nEl suelo conserva hojas de distintas estaciones, raíces descubiertas y claros de tierra oscura. El aire huele a corteza húmeda; un rumor de copas acompaña los sonidos más próximos. Algunos senderos pasan bajo las ramas sin dañarlas, mientras otros cortan directamente entre los árboles. La diferencia permite reconocer usos distintos del mismo bosque.\n\nUn espacio pequeño ha quedado deliberadamente vacío. A su alrededor se reconocen señales de actividad, pero ninguna lo atraviesa. La ausencia no demuestra peligro: también podría tratarse de una reserva, una costumbre o una simple espera. Desde esta posición se puede distinguir por dónde llegó la última presencia conocida. Su destino, en cambio, permanece fuera de la vista y no coincide necesariamente con la salida más evidente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=enchanted%20woodland%20ambient",
+      "abilities": [
+        "Entorno: Bosques y arboledas. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Un único tocón está carbonizado dentro de una extensión sin señales de incendio. Este detalle sirve como señal para una cita. El grupo puede encontrar a quien espera, descubrir por qué nadie acudió o dejar un mensaje para continuar la historia más adelante.",
+        "Rumbo opcional: Alguien altera los límites de una arboleda protegida. El master puede ofrecer una investigación, una negociación con sus cuidadores o la búsqueda de un paso alternativo.",
+        "Personaje sugerido: El guardián de la vigilia. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Lobo. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Cuerda (SRD). Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-cuerda"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-bosques-21",
+      "kind": "terrain",
+      "name": "Arboleda de los Susurros Secos",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Narcisse_Virgile_Diaz_de_la_Pe%C3%B1a_%281807-1876%29_-_A_Clearing_in_the_Forest_-_NG_1042_-_National_Galleries_of_Scotland.jpg",
+      "imageCredit": {
+        "text": "A Clearing in the Forest · Narcisse Virgilio Díaz · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Narcisse_Virgile_Diaz_de_la_Pe%C3%B1a_(1807-1876)_-_A_Clearing_in_the_Forest_-_NG_1042_-_National_Galleries_of_Scotland.jpg"
+      },
+      "description": "Hojas secas permanecen prendidas a ramas verdes y rozan unas con otras. El follaje cierra la vista del horizonte. Entre los troncos se abren corredores de luz y sombra, y la distancia resulta difícil de medir porque cada perspectiva termina en otra capa de ramas.\n\nEl suelo conserva hojas de distintas estaciones, raíces descubiertas y claros de tierra oscura. El aire huele a corteza húmeda; un rumor de copas acompaña los sonidos más próximos. Algunos senderos pasan bajo las ramas sin dañarlas, mientras otros cortan directamente entre los árboles. La diferencia permite reconocer usos distintos del mismo bosque.\n\nDesde un extremo se distingue un segundo acceso, estrecho y parcialmente oculto. La ruta principal invita a continuar, pero el desvío conserva señales de uso que no encajan con su aspecto abandonado. El entorno guarda suficiente silencio entre sus sonidos para escuchar lo que ocurra después. Ninguna señal obliga a intervenir; aun así, cuesta ignorar el detalle que se aparta de todos los demás.",
+      "musicUrl": "https://www.youtube.com/results?search_query=enchanted%20woodland%20ambient",
+      "abilities": [
+        "Entorno: Bosques y arboledas. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Hojas secas permanecen prendidas a ramas verdes y rozan unas con otras. Una reparación sencilla permitiría volver a utilizar este lugar. Sus responsables ofrecen información o alojamiento a cambio; decidir quién se beneficiará importa más que obtener una recompensa material.",
+        "Rumbo opcional: Alguien altera los límites de una arboleda protegida. El master puede ofrecer una investigación, una negociación con sus cuidadores o la búsqueda de un paso alternativo.",
+        "Personaje sugerido: El guardián de la vigilia. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Lobo. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Lobo. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-lobo"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-bosques-22",
+      "kind": "terrain",
+      "name": "Bosque de las Escaleras de Raíz",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Jan_van_Goyen_Teich_im_Walde.jpg",
+      "imageCredit": {
+        "text": "Pond in the Woods . · Jan van Goyen · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Jan_van_Goyen_Teich_im_Walde.jpg"
+      },
+      "description": "Raíces expuestas forman escalones hasta una plataforma natural entre troncos. El follaje cierra la vista del horizonte. Entre los troncos se abren corredores de luz y sombra, y la distancia resulta difícil de medir porque cada perspectiva termina en otra capa de ramas.\n\nEl suelo conserva hojas de distintas estaciones, raíces descubiertas y claros de tierra oscura. El aire huele a corteza húmeda; un rumor de copas acompaña los sonidos más próximos. Algunos senderos pasan bajo las ramas sin dañarlas, mientras otros cortan directamente entre los árboles. La diferencia permite reconocer usos distintos del mismo bosque.\n\nExiste un pequeño espacio de tránsito entre el exterior y la parte más protegida. Allí se acumulan señales de espera, como si quienes llegaron antes hubieran tenido que detenerse antes de recibir permiso para continuar. Más allá del punto de entrada queda una perspectiva por descubrir. Desde aquí solo se percibe una parte del lugar; para conocer el resto habría que acercarse y cambiar el ángulo de observación.",
+      "musicUrl": "https://www.youtube.com/results?search_query=enchanted%20woodland%20ambient",
+      "abilities": [
+        "Entorno: Bosques y arboledas. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Raíces expuestas forman escalones hasta una plataforma natural entre troncos. Alguien ha reproducido este detalle en un mapa incompleto. Seguir la siguiente marca puede llevar a otro terreno del mismo entorno, sin exigir que la ruta sea peligrosa.",
+        "Rumbo opcional: Alguien altera los límites de una arboleda protegida. El master puede ofrecer una investigación, una negociación con sus cuidadores o la búsqueda de un paso alternativo.",
+        "Personaje sugerido: El guardián de la vigilia. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Lobo. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de El guardián de la vigilia. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-vigilia"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-bosques-23",
+      "kind": "terrain",
+      "name": "Claro del Espantapájaros Verde",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Narcisse_Virgile_Diaz_de_la_Pe%C3%B1a_%281807-1876%29_-_A_Clearing_in_the_Forest_-_NG_1042_-_National_Galleries_of_Scotland.jpg",
+      "imageCredit": {
+        "text": "A Clearing in the Forest · Narcisse Virgilio Díaz · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Narcisse_Virgile_Diaz_de_la_Pe%C3%B1a_(1807-1876)_-_A_Clearing_in_the_Forest_-_NG_1042_-_National_Galleries_of_Scotland.jpg"
+      },
+      "description": "Un espantapájaros cubierto de enredaderas sostiene un cuenco lleno de lluvia. El follaje cierra la vista del horizonte. Entre los troncos se abren corredores de luz y sombra, y la distancia resulta difícil de medir porque cada perspectiva termina en otra capa de ramas.\n\nEl suelo conserva hojas de distintas estaciones, raíces descubiertas y claros de tierra oscura. El aire huele a corteza húmeda; un rumor de copas acompaña los sonidos más próximos. Algunos senderos pasan bajo las ramas sin dañarlas, mientras otros cortan directamente entre los árboles. La diferencia permite reconocer usos distintos del mismo bosque.\n\nAlgo ha dejado una sombra o una huella sin permanecer en su sitio. El contorno resulta más claro que el resto de las señales cercanas. Alrededor, nada indica si fue retirado con cuidado o llevado apresuradamente. El lugar no revela de inmediato si espera visitantes o si intenta mantenerlos a distancia. Sus señales admiten ambas lecturas, y el siguiente paso puede aclarar cuál resulta más convincente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=enchanted%20woodland%20ambient",
+      "abilities": [
+        "Entorno: Bosques y arboledas. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Un espantapájaros cubierto de enredaderas sostiene un cuenco lleno de lluvia. Una pertenencia perdida cerca de este detalle identifica a un viajero. Devolverla puede abrir una conversación; conservarla puede provocar una reclamación posterior, sin presumir que sea un tesoro abandonado.",
+        "Rumbo opcional: Alguien altera los límites de una arboleda protegida. El master puede ofrecer una investigación, una negociación con sus cuidadores o la búsqueda de un paso alternativo.",
+        "Personaje sugerido: El guardián de la vigilia. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Lobo. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Cuerda (SRD). Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1,
+          "cardId": "srd-cuerda"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-bosques-24",
+      "kind": "terrain",
+      "name": "Bosque de la Cerca Hundida",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Jan_van_Goyen_Teich_im_Walde.jpg",
+      "imageCredit": {
+        "text": "Pond in the Woods . · Jan van Goyen · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Jan_van_Goyen_Teich_im_Walde.jpg"
+      },
+      "description": "Una cerca antigua desaparece bajo árboles crecidos en ambos lados. El follaje cierra la vista del horizonte. Entre los troncos se abren corredores de luz y sombra, y la distancia resulta difícil de medir porque cada perspectiva termina en otra capa de ramas.\n\nEl suelo conserva hojas de distintas estaciones, raíces descubiertas y claros de tierra oscura. El aire huele a corteza húmeda; un rumor de copas acompaña los sonidos más próximos. Algunos senderos pasan bajo las ramas sin dañarlas, mientras otros cortan directamente entre los árboles. La diferencia permite reconocer usos distintos del mismo bosque.\n\nLas huellas de desgaste dibujan un recorrido más estrecho que el espacio disponible. Durante mucho tiempo, quienes pasaron eligieron el mismo trayecto. Fuera de él quedan detalles intactos que apenas han recibido atención. La primera impresión invita a seguir, pero un examen pausado ofrece otra posibilidad: detenerse, comparar los rastros y decidir qué detalle merece atención antes de abandonar el sitio.",
+      "musicUrl": "https://www.youtube.com/results?search_query=enchanted%20woodland%20ambient",
+      "abilities": [
+        "Entorno: Bosques y arboledas. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Una cerca antigua desaparece bajo árboles crecidos en ambos lados. Dos grupos atribuyen significados distintos a este detalle. El master puede permitir una solución que respete ambos usos, o presentar las consecuencias de favorecer a uno de ellos.",
+        "Rumbo opcional: Alguien altera los límites de una arboleda protegida. El master puede ofrecer una investigación, una negociación con sus cuidadores o la búsqueda de un paso alternativo.",
+        "Personaje sugerido: El guardián de la vigilia. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Lobo. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de Lobo. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "enemy",
+          "count": 1,
+          "cardId": "srd-enemy-lobo"
+        }
+      ]
+    },
+    {
+      "id": "terrain-compendio-bosques-25",
+      "kind": "terrain",
+      "name": "Arboleda de las Piedras Sembradas",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Narcisse_Virgile_Diaz_de_la_Pe%C3%B1a_%281807-1876%29_-_A_Clearing_in_the_Forest_-_NG_1042_-_National_Galleries_of_Scotland.jpg",
+      "imageCredit": {
+        "text": "A Clearing in the Forest · Narcisse Virgilio Díaz · Public domain · Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Narcisse_Virgile_Diaz_de_la_Pe%C3%B1a_(1807-1876)_-_A_Clearing_in_the_Forest_-_NG_1042_-_National_Galleries_of_Scotland.jpg"
+      },
+      "description": "Piedras planas surgen entre las raíces siguiendo filas demasiado regulares. El follaje cierra la vista del horizonte. Entre los troncos se abren corredores de luz y sombra, y la distancia resulta difícil de medir porque cada perspectiva termina en otra capa de ramas.\n\nEl suelo conserva hojas de distintas estaciones, raíces descubiertas y claros de tierra oscura. El aire huele a corteza húmeda; un rumor de copas acompaña los sonidos más próximos. Algunos senderos pasan bajo las ramas sin dañarlas, mientras otros cortan directamente entre los árboles. La diferencia permite reconocer usos distintos del mismo bosque.\n\nAlgo aquí ha sido reparado con materiales distintos de los originales. El arreglo resulta modesto y cuidadoso. Junto a él permanece la pieza rota, guardada como si todavía pudiera servir para otra cosa. Desde esta posición se puede distinguir por dónde llegó la última presencia conocida. Su destino, en cambio, permanece fuera de la vista y no coincide necesariamente con la salida más evidente.",
+      "musicUrl": "https://www.youtube.com/results?search_query=enchanted%20woodland%20ambient",
+      "abilities": [
+        "Entorno: Bosques y arboledas. Texto de ambientación original para leer a los jugadores; las siguientes notas son solo para el master.",
+        "Detalle para desarrollar: Piedras planas surgen entre las raíces siguiendo filas demasiado regulares. Las señales de uso reciente pertenecen a alguien que evita ser encontrado. Puede necesitar ayuda, intimidad o protección; investigar no demuestra por sí solo culpabilidad ni hostilidad.",
+        "Rumbo opcional: Alguien altera los límites de una arboleda protegida. El master puede ofrecer una investigación, una negociación con sus cuidadores o la búsqueda de un paso alternativo.",
+        "Personaje sugerido: El guardián de la vigilia. Usa su perfil como una persona local, viajera o cuidadora del lugar; decide su identidad y motivación antes de presentarla.",
+        "Objeto opcional: Cuerda (SRD). Puede ser una herramienta prestada, una provisión o una pertenencia con dueño. No se entrega ni consume automáticamente.",
+        "Presencia opcional: Lobo. Puede dejar rastros, observar o bloquear un paso; ajusta el peligro al grupo y permite evitar el enfrentamiento.",
+        "Preparación opcional: «Sacar cartas indicadas» coloca una copia de El guardián de la vigilia. Puedes ignorarla o retirarla; no inicia combate, no aplica efectos ni modifica el mapa."
+      ],
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1,
+          "cardId": "npc-vigilia"
+        }
+      ]
+    }
+  ]
+}

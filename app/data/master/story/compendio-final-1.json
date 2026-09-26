@@ -1,0 +1,1005 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "story-compendio-final-01-01",
+      "kind": "story",
+      "mission": "final",
+      "name": "El cultista paciente — confesión negociada",
+      "description": "Revelación para el DM: Una persona vinculada a un culto menor coordinó los acontecimientos mediante intermediarios que desconocían el conjunto. No busca necesariamente invocar una criatura: utiliza la autoridad del culto para reunir recursos y voluntades. Su objetivo es «liberar a una persona cautiva», desarrollado en la carta secundaria «Liberar a una persona cautiva — el favor».\n\nPrueba del vínculo: Marcas coincidentes en encargos distintos llevan a un registro donde se anotan pagos y reuniones. Relaciona al menos dos acontecimientos del arco con esta prueba mediante una persona, un recurso o una decisión compartida; no invalida lo que los jugadores ya comprobaron.\n\nDesenlace posible: El responsable acepta explicar su intervención si se garantiza que se escuchará también su necesidad. Una confesión no sustituye la reparación: pide al grupo que decida qué puede acordar y qué corresponde a los afectados. Una reunión protegida permite cerrar la amenaza y deja un acuerdo cuyo cumplimiento puede comprobarse en otra sesión.",
+      "abilities": [
+        "Límite de la revelación: El culto puede estar dividido; distinguir seguidores, cómplices y afectados evita atribuir la misma culpa a todos.",
+        "Insertar narración secundaria: «Liberar a una persona cautiva — el favor». El botón de cartas indicadas coloca ese objetivo como referencia, sin aumentar el progreso del arco. Si su premisa contradice la campaña, adapta los participantes y conserva su objetivo esencial.",
+        "Preparación: asigna al responsable una identidad de la campaña y un medio que ya haya aparecido. Revela las conexiones mediante pruebas o diálogo, no mediante información que los personajes no pueden obtener.",
+        "Epílogo: pregunta quién recibe ayuda, qué cambia en el lugar y qué vínculo permanece. Puedes iniciar después un nuevo arco con otro d4; este final es una propuesta y no impone el resultado a los jugadores."
+      ],
+      "instructions": [
+        {
+          "kind": "story",
+          "count": 1,
+          "cardId": "story-compendio-side-01-01"
+        }
+      ]
+    },
+    {
+      "id": "story-compendio-final-01-02",
+      "kind": "story",
+      "mission": "final",
+      "name": "El cultista paciente — prueba pública",
+      "description": "Revelación para el DM: Una persona vinculada a un culto menor coordinó los acontecimientos mediante intermediarios que desconocían el conjunto. No busca necesariamente invocar una criatura: utiliza la autoridad del culto para reunir recursos y voluntades. Su objetivo es «recuperar una herencia disputada», desarrollado en la carta secundaria «Recuperar una herencia disputada — el regreso».\n\nPrueba del vínculo: Marcas coincidentes en encargos distintos llevan a un registro donde se anotan pagos y reuniones. Relaciona al menos dos acontecimientos del arco con esta prueba mediante una persona, un recurso o una decisión compartida; no invalida lo que los jugadores ya comprobaron.\n\nDesenlace posible: Los personajes pueden reunir una prueba verificable y presentarla ante quienes sufrieron las consecuencias. El responsable intenta desacreditar su procedencia en lugar de negar cada hecho; prepara una comprobación independiente. La revelación modifica una relación de poder y abre la cuestión de quién administrará los recursos recuperados.",
+      "abilities": [
+        "Límite de la revelación: El culto puede estar dividido; distinguir seguidores, cómplices y afectados evita atribuir la misma culpa a todos.",
+        "Insertar narración secundaria: «Recuperar una herencia disputada — el regreso». El botón de cartas indicadas coloca ese objetivo como referencia, sin aumentar el progreso del arco. Si su premisa contradice la campaña, adapta los participantes y conserva su objetivo esencial.",
+        "Preparación: asigna al responsable una identidad de la campaña y un medio que ya haya aparecido. Revela las conexiones mediante pruebas o diálogo, no mediante información que los personajes no pueden obtener.",
+        "Epílogo: pregunta quién recibe ayuda, qué cambia en el lugar y qué vínculo permanece. Puedes iniciar después un nuevo arco con otro d4; este final es una propuesta y no impone el resultado a los jugadores."
+      ],
+      "instructions": [
+        {
+          "kind": "story",
+          "count": 1,
+          "cardId": "story-compendio-side-02-10"
+        }
+      ]
+    },
+    {
+      "id": "story-compendio-final-01-03",
+      "kind": "story",
+      "mission": "final",
+      "name": "El cultista paciente — intervención discreta",
+      "description": "Revelación para el DM: Una persona vinculada a un culto menor coordinó los acontecimientos mediante intermediarios que desconocían el conjunto. No busca necesariamente invocar una criatura: utiliza la autoridad del culto para reunir recursos y voluntades. Su objetivo es «pagar una deuda antigua», desarrollado en la carta secundaria «Pagar una deuda antigua — la condición».\n\nPrueba del vínculo: Marcas coincidentes en encargos distintos llevan a un registro donde se anotan pagos y reuniones. Relaciona al menos dos acontecimientos del arco con esta prueba mediante una persona, un recurso o una decisión compartida; no invalida lo que los jugadores ya comprobaron.\n\nDesenlace posible: Es posible detener el medio que utiliza el responsable sin revelar de inmediato toda la historia. Los personajes deben decidir quién necesita saberlo para no repetir el daño y qué secreto protege realmente a un inocente. La crisis termina con discreción, pero una persona conserva información que puede impulsar una aventura futura.",
+      "abilities": [
+        "Límite de la revelación: El culto puede estar dividido; distinguir seguidores, cómplices y afectados evita atribuir la misma culpa a todos.",
+        "Insertar narración secundaria: «Pagar una deuda antigua — la condición». El botón de cartas indicadas coloca ese objetivo como referencia, sin aumentar el progreso del arco. Si su premisa contradice la campaña, adapta los participantes y conserva su objetivo esencial.",
+        "Preparación: asigna al responsable una identidad de la campaña y un medio que ya haya aparecido. Revela las conexiones mediante pruebas o diálogo, no mediante información que los personajes no pueden obtener.",
+        "Epílogo: pregunta quién recibe ayuda, qué cambia en el lugar y qué vínculo permanece. Puedes iniciar después un nuevo arco con otro d4; este final es una propuesta y no impone el resultado a los jugadores."
+      ],
+      "instructions": [
+        {
+          "kind": "story",
+          "count": 1,
+          "cardId": "story-compendio-side-04-09"
+        }
+      ]
+    },
+    {
+      "id": "story-compendio-final-01-04",
+      "kind": "story",
+      "mission": "final",
+      "name": "El cultista paciente — restitución",
+      "description": "Revelación para el DM: Una persona vinculada a un culto menor coordinó los acontecimientos mediante intermediarios que desconocían el conjunto. No busca necesariamente invocar una criatura: utiliza la autoridad del culto para reunir recursos y voluntades. Su objetivo es «encontrar a una criatura perdida», desarrollado en la carta secundaria «Encontrar a una criatura perdida — el vínculo».\n\nPrueba del vínculo: Marcas coincidentes en encargos distintos llevan a un registro donde se anotan pagos y reuniones. Relaciona al menos dos acontecimientos del arco con esta prueba mediante una persona, un recurso o una decisión compartida; no invalida lo que los jugadores ya comprobaron.\n\nDesenlace posible: El desenlace requiere devolver un recurso, una función o una pertenencia a quienes pueden mantenerla. El responsable ofrece facilitarlo si conserva una parte de lo obtenido; aceptar o rechazar su propuesta tiene costes distintos. La restitución permite mostrar una mejora concreta y dar voz a quienes asumirán el cuidado posterior.",
+      "abilities": [
+        "Límite de la revelación: El culto puede estar dividido; distinguir seguidores, cómplices y afectados evita atribuir la misma culpa a todos.",
+        "Insertar narración secundaria: «Encontrar a una criatura perdida — el vínculo». El botón de cartas indicadas coloca ese objetivo como referencia, sin aumentar el progreso del arco. Si su premisa contradice la campaña, adapta los participantes y conserva su objetivo esencial.",
+        "Preparación: asigna al responsable una identidad de la campaña y un medio que ya haya aparecido. Revela las conexiones mediante pruebas o diálogo, no mediante información que los personajes no pueden obtener.",
+        "Epílogo: pregunta quién recibe ayuda, qué cambia en el lugar y qué vínculo permanece. Puedes iniciar después un nuevo arco con otro d4; este final es una propuesta y no impone el resultado a los jugadores."
+      ],
+      "instructions": [
+        {
+          "kind": "story",
+          "count": 1,
+          "cardId": "story-compendio-side-06-08"
+        }
+      ]
+    },
+    {
+      "id": "story-compendio-final-01-05",
+      "kind": "story",
+      "mission": "final",
+      "name": "El cultista paciente — ruptura del acuerdo",
+      "description": "Revelación para el DM: Una persona vinculada a un culto menor coordinó los acontecimientos mediante intermediarios que desconocían el conjunto. No busca necesariamente invocar una criatura: utiliza la autoridad del culto para reunir recursos y voluntades. Su objetivo es «devolver un recuerdo robado», desarrollado en la carta secundaria «Devolver un recuerdo robado — el intercambio».\n\nPrueba del vínculo: Marcas coincidentes en encargos distintos llevan a un registro donde se anotan pagos y reuniones. Relaciona al menos dos acontecimientos del arco con esta prueba mediante una persona, un recurso o una decisión compartida; no invalida lo que los jugadores ya comprobaron.\n\nDesenlace posible: Una alianza o condición sostiene la intervención. Los personajes pueden separar a sus participantes demostrando que sus intereses no coinciden, en vez de tratar a todos como un único adversario. La ruptura reduce la amenaza, aunque obliga a negociar compromisos nuevos entre quienes antes colaboraban.",
+      "abilities": [
+        "Límite de la revelación: El culto puede estar dividido; distinguir seguidores, cómplices y afectados evita atribuir la misma culpa a todos.",
+        "Insertar narración secundaria: «Devolver un recuerdo robado — el intercambio». El botón de cartas indicadas coloca ese objetivo como referencia, sin aumentar el progreso del arco. Si su premisa contradice la campaña, adapta los participantes y conserva su objetivo esencial.",
+        "Preparación: asigna al responsable una identidad de la campaña y un medio que ya haya aparecido. Revela las conexiones mediante pruebas o diálogo, no mediante información que los personajes no pueden obtener.",
+        "Epílogo: pregunta quién recibe ayuda, qué cambia en el lugar y qué vínculo permanece. Puedes iniciar después un nuevo arco con otro d4; este final es una propuesta y no impone el resultado a los jugadores."
+      ],
+      "instructions": [
+        {
+          "kind": "story",
+          "count": 1,
+          "cardId": "story-compendio-side-08-07"
+        }
+      ]
+    },
+    {
+      "id": "story-compendio-final-01-06",
+      "kind": "story",
+      "mission": "final",
+      "name": "El cultista paciente — salida protegida",
+      "description": "Revelación para el DM: Una persona vinculada a un culto menor coordinó los acontecimientos mediante intermediarios que desconocían el conjunto. No busca necesariamente invocar una criatura: utiliza la autoridad del culto para reunir recursos y voluntades. Su objetivo es «revelar una corrupción local», desarrollado en la carta secundaria «Revelar una corrupción local — la discreción».\n\nPrueba del vínculo: Marcas coincidentes en encargos distintos llevan a un registro donde se anotan pagos y reuniones. Relaciona al menos dos acontecimientos del arco con esta prueba mediante una persona, un recurso o una decisión compartida; no invalida lo que los jugadores ya comprobaron.\n\nDesenlace posible: Algunas personas dependen del sistema que ha causado el daño. Detenerlo exige preparar una salida para ellas; el responsable puede perder su ventaja si dejan de necesitar su protección. La solución libera a los afectados y deja pendiente establecer una ayuda que no reproduzca esa dependencia.",
+      "abilities": [
+        "Límite de la revelación: El culto puede estar dividido; distinguir seguidores, cómplices y afectados evita atribuir la misma culpa a todos.",
+        "Insertar narración secundaria: «Revelar una corrupción local — la discreción». El botón de cartas indicadas coloca ese objetivo como referencia, sin aumentar el progreso del arco. Si su premisa contradice la campaña, adapta los participantes y conserva su objetivo esencial.",
+        "Preparación: asigna al responsable una identidad de la campaña y un medio que ya haya aparecido. Revela las conexiones mediante pruebas o diálogo, no mediante información que los personajes no pueden obtener.",
+        "Epílogo: pregunta quién recibe ayuda, qué cambia en el lugar y qué vínculo permanece. Puedes iniciar después un nuevo arco con otro d4; este final es una propuesta y no impone el resultado a los jugadores."
+      ],
+      "instructions": [
+        {
+          "kind": "story",
+          "count": 1,
+          "cardId": "story-compendio-side-10-06"
+        }
+      ]
+    },
+    {
+      "id": "story-compendio-final-01-07",
+      "kind": "story",
+      "mission": "final",
+      "name": "El cultista paciente — última elección",
+      "description": "Revelación para el DM: Una persona vinculada a un culto menor coordinó los acontecimientos mediante intermediarios que desconocían el conjunto. No busca necesariamente invocar una criatura: utiliza la autoridad del culto para reunir recursos y voluntades. Su objetivo es «conseguir un tratamiento», desarrollado en la carta secundaria «Conseguir un tratamiento — la urgencia».\n\nPrueba del vínculo: Marcas coincidentes en encargos distintos llevan a un registro donde se anotan pagos y reuniones. Relaciona al menos dos acontecimientos del arco con esta prueba mediante una persona, un recurso o una decisión compartida; no invalida lo que los jugadores ya comprobaron.\n\nDesenlace posible: El responsable aún puede alcanzar su objetivo si acepta un coste que había intentado evitar. Ofrece al grupo una elección clara entre impedirlo por completo o permitir una versión limitada con garantías comprobables. El cierre nace de una decisión del grupo y permite que personas distintas valoren su resultado de forma diferente.",
+      "abilities": [
+        "Límite de la revelación: El culto puede estar dividido; distinguir seguidores, cómplices y afectados evita atribuir la misma culpa a todos.",
+        "Insertar narración secundaria: «Conseguir un tratamiento — la urgencia». El botón de cartas indicadas coloca ese objetivo como referencia, sin aumentar el progreso del arco. Si su premisa contradice la campaña, adapta los participantes y conserva su objetivo esencial.",
+        "Preparación: asigna al responsable una identidad de la campaña y un medio que ya haya aparecido. Revela las conexiones mediante pruebas o diálogo, no mediante información que los personajes no pueden obtener.",
+        "Epílogo: pregunta quién recibe ayuda, qué cambia en el lugar y qué vínculo permanece. Puedes iniciar después un nuevo arco con otro d4; este final es una propuesta y no impone el resultado a los jugadores."
+      ],
+      "instructions": [
+        {
+          "kind": "story",
+          "count": 1,
+          "cardId": "story-compendio-side-12-05"
+        }
+      ]
+    },
+    {
+      "id": "story-compendio-final-01-08",
+      "kind": "story",
+      "mission": "final",
+      "name": "El cultista paciente — confrontación preparada",
+      "description": "Revelación para el DM: Una persona vinculada a un culto menor coordinó los acontecimientos mediante intermediarios que desconocían el conjunto. No busca necesariamente invocar una criatura: utiliza la autoridad del culto para reunir recursos y voluntades. Su objetivo es «probar una inocencia», desarrollado en la carta secundaria «Probar una inocencia — la rivalidad».\n\nPrueba del vínculo: Marcas coincidentes en encargos distintos llevan a un registro donde se anotan pagos y reuniones. Relaciona al menos dos acontecimientos del arco con esta prueba mediante una persona, un recurso o una decisión compartida; no invalida lo que los jugadores ya comprobaron.\n\nDesenlace posible: El responsable se niega a detenerse y protege el recurso central. Los personajes pueden retirar apoyos, abrir una salida o confrontarlo; si se llega a combate, el master elige un perfil adecuado al grupo. La derrota no borra los efectos anteriores. Dedica una escena a reparar el daño y decidir el destino del recurso.",
+      "abilities": [
+        "Límite de la revelación: El culto puede estar dividido; distinguir seguidores, cómplices y afectados evita atribuir la misma culpa a todos.",
+        "Insertar narración secundaria: «Probar una inocencia — la rivalidad». El botón de cartas indicadas coloca ese objetivo como referencia, sin aumentar el progreso del arco. Si su premisa contradice la campaña, adapta los participantes y conserva su objetivo esencial.",
+        "Preparación: asigna al responsable una identidad de la campaña y un medio que ya haya aparecido. Revela las conexiones mediante pruebas o diálogo, no mediante información que los personajes no pueden obtener.",
+        "Epílogo: pregunta quién recibe ayuda, qué cambia en el lugar y qué vínculo permanece. Puedes iniciar después un nuevo arco con otro d4; este final es una propuesta y no impone el resultado a los jugadores."
+      ],
+      "instructions": [
+        {
+          "kind": "story",
+          "count": 1,
+          "cardId": "story-compendio-side-14-04"
+        }
+      ]
+    },
+    {
+      "id": "story-compendio-final-01-09",
+      "kind": "story",
+      "mission": "final",
+      "name": "El cultista paciente — reparación compartida",
+      "description": "Revelación para el DM: Una persona vinculada a un culto menor coordinó los acontecimientos mediante intermediarios que desconocían el conjunto. No busca necesariamente invocar una criatura: utiliza la autoridad del culto para reunir recursos y voluntades. Su objetivo es «reconciliar dos comunidades», desarrollado en la carta secundaria «Reconciliar dos comunidades — la prueba».\n\nPrueba del vínculo: Marcas coincidentes en encargos distintos llevan a un registro donde se anotan pagos y reuniones. Relaciona al menos dos acontecimientos del arco con esta prueba mediante una persona, un recurso o una decisión compartida; no invalida lo que los jugadores ya comprobaron.\n\nDesenlace posible: El daño supera lo que una sola persona puede corregir. El grupo puede reunir a quienes conocen partes del problema y acordar tareas concretas; el responsable debe aportar algo comprobable para participar. La colaboración ofrece un cierre gradual, con señales visibles de recuperación y obligaciones que pueden retomarse después.",
+      "abilities": [
+        "Límite de la revelación: El culto puede estar dividido; distinguir seguidores, cómplices y afectados evita atribuir la misma culpa a todos.",
+        "Insertar narración secundaria: «Reconciliar dos comunidades — la prueba». El botón de cartas indicadas coloca ese objetivo como referencia, sin aumentar el progreso del arco. Si su premisa contradice la campaña, adapta los participantes y conserva su objetivo esencial.",
+        "Preparación: asigna al responsable una identidad de la campaña y un medio que ya haya aparecido. Revela las conexiones mediante pruebas o diálogo, no mediante información que los personajes no pueden obtener.",
+        "Epílogo: pregunta quién recibe ayuda, qué cambia en el lugar y qué vínculo permanece. Puedes iniciar después un nuevo arco con otro d4; este final es una propuesta y no impone el resultado a los jugadores."
+      ],
+      "instructions": [
+        {
+          "kind": "story",
+          "count": 1,
+          "cardId": "story-compendio-side-16-03"
+        }
+      ]
+    },
+    {
+      "id": "story-compendio-final-01-10",
+      "kind": "story",
+      "mission": "final",
+      "name": "El cultista paciente — consecuencia abierta",
+      "description": "Revelación para el DM: Una persona vinculada a un culto menor coordinó los acontecimientos mediante intermediarios que desconocían el conjunto. No busca necesariamente invocar una criatura: utiliza la autoridad del culto para reunir recursos y voluntades. Su objetivo es «fundar un refugio», desarrollado en la carta secundaria «Fundar un refugio — el intermediario».\n\nPrueba del vínculo: Marcas coincidentes en encargos distintos llevan a un registro donde se anotan pagos y reuniones. Relaciona al menos dos acontecimientos del arco con esta prueba mediante una persona, un recurso o una decisión compartida; no invalida lo que los jugadores ya comprobaron.\n\nDesenlace posible: La intervención puede detenerse, pero una parte de sus efectos ya no puede revertirse del mismo modo. Explica qué mejora está al alcance y deja que los personajes elijan cómo cuidar lo que ha cambiado. Cierra la amenaza inmediata y muestra un nuevo equilibrio. Una consecuencia pendiente puede iniciar otro arco sin negar este desenlace.",
+      "abilities": [
+        "Límite de la revelación: El culto puede estar dividido; distinguir seguidores, cómplices y afectados evita atribuir la misma culpa a todos.",
+        "Insertar narración secundaria: «Fundar un refugio — el intermediario». El botón de cartas indicadas coloca ese objetivo como referencia, sin aumentar el progreso del arco. Si su premisa contradice la campaña, adapta los participantes y conserva su objetivo esencial.",
+        "Preparación: asigna al responsable una identidad de la campaña y un medio que ya haya aparecido. Revela las conexiones mediante pruebas o diálogo, no mediante información que los personajes no pueden obtener.",
+        "Epílogo: pregunta quién recibe ayuda, qué cambia en el lugar y qué vínculo permanece. Puedes iniciar después un nuevo arco con otro d4; este final es una propuesta y no impone el resultado a los jugadores."
+      ],
+      "instructions": [
+        {
+          "kind": "story",
+          "count": 1,
+          "cardId": "story-compendio-side-18-02"
+        }
+      ]
+    },
+    {
+      "id": "story-compendio-final-02-01",
+      "kind": "story",
+      "mission": "final",
+      "name": "La autoridad interesada — confesión negociada",
+      "description": "Revelación para el DM: Una autoridad local convirtió un problema limitado en una crisis para justificar nuevas atribuciones. Algunas órdenes protegieron realmente a la población, mientras otras aseguraron que nadie examinara su intervención. Su objetivo es «pagar una deuda antigua», desarrollado en la carta secundaria «Pagar una deuda antigua — el vínculo».\n\nPrueba del vínculo: Dos órdenes de fechas próximas asignan recursos a fines incompatibles y comparten una firma verificable. Relaciona al menos dos acontecimientos del arco con esta prueba mediante una persona, un recurso o una decisión compartida; no invalida lo que los jugadores ya comprobaron.\n\nDesenlace posible: El responsable acepta explicar su intervención si se garantiza que se escuchará también su necesidad. Una confesión no sustituye la reparación: pide al grupo que decida qué puede acordar y qué corresponde a los afectados. Una reunión protegida permite cerrar la amenaza y deja un acuerdo cuyo cumplimiento puede comprobarse en otra sesión.",
+      "abilities": [
+        "Límite de la revelación: Destituir a la autoridad no resuelve por sí solo la necesidad que aprovechó; decide quién mantiene los servicios.",
+        "Insertar narración secundaria: «Pagar una deuda antigua — el vínculo». El botón de cartas indicadas coloca ese objetivo como referencia, sin aumentar el progreso del arco. Si su premisa contradice la campaña, adapta los participantes y conserva su objetivo esencial.",
+        "Preparación: asigna al responsable una identidad de la campaña y un medio que ya haya aparecido. Revela las conexiones mediante pruebas o diálogo, no mediante información que los personajes no pueden obtener.",
+        "Epílogo: pregunta quién recibe ayuda, qué cambia en el lugar y qué vínculo permanece. Puedes iniciar después un nuevo arco con otro d4; este final es una propuesta y no impone el resultado a los jugadores."
+      ],
+      "instructions": [
+        {
+          "kind": "story",
+          "count": 1,
+          "cardId": "story-compendio-side-04-08"
+        }
+      ]
+    },
+    {
+      "id": "story-compendio-final-02-02",
+      "kind": "story",
+      "mission": "final",
+      "name": "La autoridad interesada — prueba pública",
+      "description": "Revelación para el DM: Una autoridad local convirtió un problema limitado en una crisis para justificar nuevas atribuciones. Algunas órdenes protegieron realmente a la población, mientras otras aseguraron que nadie examinara su intervención. Su objetivo es «encontrar a una criatura perdida», desarrollado en la carta secundaria «Encontrar a una criatura perdida — el intercambio».\n\nPrueba del vínculo: Dos órdenes de fechas próximas asignan recursos a fines incompatibles y comparten una firma verificable. Relaciona al menos dos acontecimientos del arco con esta prueba mediante una persona, un recurso o una decisión compartida; no invalida lo que los jugadores ya comprobaron.\n\nDesenlace posible: Los personajes pueden reunir una prueba verificable y presentarla ante quienes sufrieron las consecuencias. El responsable intenta desacreditar su procedencia en lugar de negar cada hecho; prepara una comprobación independiente. La revelación modifica una relación de poder y abre la cuestión de quién administrará los recursos recuperados.",
+      "abilities": [
+        "Límite de la revelación: Destituir a la autoridad no resuelve por sí solo la necesidad que aprovechó; decide quién mantiene los servicios.",
+        "Insertar narración secundaria: «Encontrar a una criatura perdida — el intercambio». El botón de cartas indicadas coloca ese objetivo como referencia, sin aumentar el progreso del arco. Si su premisa contradice la campaña, adapta los participantes y conserva su objetivo esencial.",
+        "Preparación: asigna al responsable una identidad de la campaña y un medio que ya haya aparecido. Revela las conexiones mediante pruebas o diálogo, no mediante información que los personajes no pueden obtener.",
+        "Epílogo: pregunta quién recibe ayuda, qué cambia en el lugar y qué vínculo permanece. Puedes iniciar después un nuevo arco con otro d4; este final es una propuesta y no impone el resultado a los jugadores."
+      ],
+      "instructions": [
+        {
+          "kind": "story",
+          "count": 1,
+          "cardId": "story-compendio-side-06-07"
+        }
+      ]
+    },
+    {
+      "id": "story-compendio-final-02-03",
+      "kind": "story",
+      "mission": "final",
+      "name": "La autoridad interesada — intervención discreta",
+      "description": "Revelación para el DM: Una autoridad local convirtió un problema limitado en una crisis para justificar nuevas atribuciones. Algunas órdenes protegieron realmente a la población, mientras otras aseguraron que nadie examinara su intervención. Su objetivo es «devolver un recuerdo robado», desarrollado en la carta secundaria «Devolver un recuerdo robado — la discreción».\n\nPrueba del vínculo: Dos órdenes de fechas próximas asignan recursos a fines incompatibles y comparten una firma verificable. Relaciona al menos dos acontecimientos del arco con esta prueba mediante una persona, un recurso o una decisión compartida; no invalida lo que los jugadores ya comprobaron.\n\nDesenlace posible: Es posible detener el medio que utiliza el responsable sin revelar de inmediato toda la historia. Los personajes deben decidir quién necesita saberlo para no repetir el daño y qué secreto protege realmente a un inocente. La crisis termina con discreción, pero una persona conserva información que puede impulsar una aventura futura.",
+      "abilities": [
+        "Límite de la revelación: Destituir a la autoridad no resuelve por sí solo la necesidad que aprovechó; decide quién mantiene los servicios.",
+        "Insertar narración secundaria: «Devolver un recuerdo robado — la discreción». El botón de cartas indicadas coloca ese objetivo como referencia, sin aumentar el progreso del arco. Si su premisa contradice la campaña, adapta los participantes y conserva su objetivo esencial.",
+        "Preparación: asigna al responsable una identidad de la campaña y un medio que ya haya aparecido. Revela las conexiones mediante pruebas o diálogo, no mediante información que los personajes no pueden obtener.",
+        "Epílogo: pregunta quién recibe ayuda, qué cambia en el lugar y qué vínculo permanece. Puedes iniciar después un nuevo arco con otro d4; este final es una propuesta y no impone el resultado a los jugadores."
+      ],
+      "instructions": [
+        {
+          "kind": "story",
+          "count": 1,
+          "cardId": "story-compendio-side-08-06"
+        }
+      ]
+    },
+    {
+      "id": "story-compendio-final-02-04",
+      "kind": "story",
+      "mission": "final",
+      "name": "La autoridad interesada — restitución",
+      "description": "Revelación para el DM: Una autoridad local convirtió un problema limitado en una crisis para justificar nuevas atribuciones. Algunas órdenes protegieron realmente a la población, mientras otras aseguraron que nadie examinara su intervención. Su objetivo es «revelar una corrupción local», desarrollado en la carta secundaria «Revelar una corrupción local — la urgencia».\n\nPrueba del vínculo: Dos órdenes de fechas próximas asignan recursos a fines incompatibles y comparten una firma verificable. Relaciona al menos dos acontecimientos del arco con esta prueba mediante una persona, un recurso o una decisión compartida; no invalida lo que los jugadores ya comprobaron.\n\nDesenlace posible: El desenlace requiere devolver un recurso, una función o una pertenencia a quienes pueden mantenerla. El responsable ofrece facilitarlo si conserva una parte de lo obtenido; aceptar o rechazar su propuesta tiene costes distintos. La restitución permite mostrar una mejora concreta y dar voz a quienes asumirán el cuidado posterior.",
+      "abilities": [
+        "Límite de la revelación: Destituir a la autoridad no resuelve por sí solo la necesidad que aprovechó; decide quién mantiene los servicios.",
+        "Insertar narración secundaria: «Revelar una corrupción local — la urgencia». El botón de cartas indicadas coloca ese objetivo como referencia, sin aumentar el progreso del arco. Si su premisa contradice la campaña, adapta los participantes y conserva su objetivo esencial.",
+        "Preparación: asigna al responsable una identidad de la campaña y un medio que ya haya aparecido. Revela las conexiones mediante pruebas o diálogo, no mediante información que los personajes no pueden obtener.",
+        "Epílogo: pregunta quién recibe ayuda, qué cambia en el lugar y qué vínculo permanece. Puedes iniciar después un nuevo arco con otro d4; este final es una propuesta y no impone el resultado a los jugadores."
+      ],
+      "instructions": [
+        {
+          "kind": "story",
+          "count": 1,
+          "cardId": "story-compendio-side-10-05"
+        }
+      ]
+    },
+    {
+      "id": "story-compendio-final-02-05",
+      "kind": "story",
+      "mission": "final",
+      "name": "La autoridad interesada — ruptura del acuerdo",
+      "description": "Revelación para el DM: Una autoridad local convirtió un problema limitado en una crisis para justificar nuevas atribuciones. Algunas órdenes protegieron realmente a la población, mientras otras aseguraron que nadie examinara su intervención. Su objetivo es «conseguir un tratamiento», desarrollado en la carta secundaria «Conseguir un tratamiento — la rivalidad».\n\nPrueba del vínculo: Dos órdenes de fechas próximas asignan recursos a fines incompatibles y comparten una firma verificable. Relaciona al menos dos acontecimientos del arco con esta prueba mediante una persona, un recurso o una decisión compartida; no invalida lo que los jugadores ya comprobaron.\n\nDesenlace posible: Una alianza o condición sostiene la intervención. Los personajes pueden separar a sus participantes demostrando que sus intereses no coinciden, en vez de tratar a todos como un único adversario. La ruptura reduce la amenaza, aunque obliga a negociar compromisos nuevos entre quienes antes colaboraban.",
+      "abilities": [
+        "Límite de la revelación: Destituir a la autoridad no resuelve por sí solo la necesidad que aprovechó; decide quién mantiene los servicios.",
+        "Insertar narración secundaria: «Conseguir un tratamiento — la rivalidad». El botón de cartas indicadas coloca ese objetivo como referencia, sin aumentar el progreso del arco. Si su premisa contradice la campaña, adapta los participantes y conserva su objetivo esencial.",
+        "Preparación: asigna al responsable una identidad de la campaña y un medio que ya haya aparecido. Revela las conexiones mediante pruebas o diálogo, no mediante información que los personajes no pueden obtener.",
+        "Epílogo: pregunta quién recibe ayuda, qué cambia en el lugar y qué vínculo permanece. Puedes iniciar después un nuevo arco con otro d4; este final es una propuesta y no impone el resultado a los jugadores."
+      ],
+      "instructions": [
+        {
+          "kind": "story",
+          "count": 1,
+          "cardId": "story-compendio-side-12-04"
+        }
+      ]
+    },
+    {
+      "id": "story-compendio-final-02-06",
+      "kind": "story",
+      "mission": "final",
+      "name": "La autoridad interesada — salida protegida",
+      "description": "Revelación para el DM: Una autoridad local convirtió un problema limitado en una crisis para justificar nuevas atribuciones. Algunas órdenes protegieron realmente a la población, mientras otras aseguraron que nadie examinara su intervención. Su objetivo es «probar una inocencia», desarrollado en la carta secundaria «Probar una inocencia — la prueba».\n\nPrueba del vínculo: Dos órdenes de fechas próximas asignan recursos a fines incompatibles y comparten una firma verificable. Relaciona al menos dos acontecimientos del arco con esta prueba mediante una persona, un recurso o una decisión compartida; no invalida lo que los jugadores ya comprobaron.\n\nDesenlace posible: Algunas personas dependen del sistema que ha causado el daño. Detenerlo exige preparar una salida para ellas; el responsable puede perder su ventaja si dejan de necesitar su protección. La solución libera a los afectados y deja pendiente establecer una ayuda que no reproduzca esa dependencia.",
+      "abilities": [
+        "Límite de la revelación: Destituir a la autoridad no resuelve por sí solo la necesidad que aprovechó; decide quién mantiene los servicios.",
+        "Insertar narración secundaria: «Probar una inocencia — la prueba». El botón de cartas indicadas coloca ese objetivo como referencia, sin aumentar el progreso del arco. Si su premisa contradice la campaña, adapta los participantes y conserva su objetivo esencial.",
+        "Preparación: asigna al responsable una identidad de la campaña y un medio que ya haya aparecido. Revela las conexiones mediante pruebas o diálogo, no mediante información que los personajes no pueden obtener.",
+        "Epílogo: pregunta quién recibe ayuda, qué cambia en el lugar y qué vínculo permanece. Puedes iniciar después un nuevo arco con otro d4; este final es una propuesta y no impone el resultado a los jugadores."
+      ],
+      "instructions": [
+        {
+          "kind": "story",
+          "count": 1,
+          "cardId": "story-compendio-side-14-03"
+        }
+      ]
+    },
+    {
+      "id": "story-compendio-final-02-07",
+      "kind": "story",
+      "mission": "final",
+      "name": "La autoridad interesada — última elección",
+      "description": "Revelación para el DM: Una autoridad local convirtió un problema limitado en una crisis para justificar nuevas atribuciones. Algunas órdenes protegieron realmente a la población, mientras otras aseguraron que nadie examinara su intervención. Su objetivo es «reconciliar dos comunidades», desarrollado en la carta secundaria «Reconciliar dos comunidades — el intermediario».\n\nPrueba del vínculo: Dos órdenes de fechas próximas asignan recursos a fines incompatibles y comparten una firma verificable. Relaciona al menos dos acontecimientos del arco con esta prueba mediante una persona, un recurso o una decisión compartida; no invalida lo que los jugadores ya comprobaron.\n\nDesenlace posible: El responsable aún puede alcanzar su objetivo si acepta un coste que había intentado evitar. Ofrece al grupo una elección clara entre impedirlo por completo o permitir una versión limitada con garantías comprobables. El cierre nace de una decisión del grupo y permite que personas distintas valoren su resultado de forma diferente.",
+      "abilities": [
+        "Límite de la revelación: Destituir a la autoridad no resuelve por sí solo la necesidad que aprovechó; decide quién mantiene los servicios.",
+        "Insertar narración secundaria: «Reconciliar dos comunidades — el intermediario». El botón de cartas indicadas coloca ese objetivo como referencia, sin aumentar el progreso del arco. Si su premisa contradice la campaña, adapta los participantes y conserva su objetivo esencial.",
+        "Preparación: asigna al responsable una identidad de la campaña y un medio que ya haya aparecido. Revela las conexiones mediante pruebas o diálogo, no mediante información que los personajes no pueden obtener.",
+        "Epílogo: pregunta quién recibe ayuda, qué cambia en el lugar y qué vínculo permanece. Puedes iniciar después un nuevo arco con otro d4; este final es una propuesta y no impone el resultado a los jugadores."
+      ],
+      "instructions": [
+        {
+          "kind": "story",
+          "count": 1,
+          "cardId": "story-compendio-side-16-02"
+        }
+      ]
+    },
+    {
+      "id": "story-compendio-final-02-08",
+      "kind": "story",
+      "mission": "final",
+      "name": "La autoridad interesada — confrontación preparada",
+      "description": "Revelación para el DM: Una autoridad local convirtió un problema limitado en una crisis para justificar nuevas atribuciones. Algunas órdenes protegieron realmente a la población, mientras otras aseguraron que nadie examinara su intervención. Su objetivo es «fundar un refugio», desarrollado en la carta secundaria «Fundar un refugio — el favor».\n\nPrueba del vínculo: Dos órdenes de fechas próximas asignan recursos a fines incompatibles y comparten una firma verificable. Relaciona al menos dos acontecimientos del arco con esta prueba mediante una persona, un recurso o una decisión compartida; no invalida lo que los jugadores ya comprobaron.\n\nDesenlace posible: El responsable se niega a detenerse y protege el recurso central. Los personajes pueden retirar apoyos, abrir una salida o confrontarlo; si se llega a combate, el master elige un perfil adecuado al grupo. La derrota no borra los efectos anteriores. Dedica una escena a reparar el daño y decidir el destino del recurso.",
+      "abilities": [
+        "Límite de la revelación: Destituir a la autoridad no resuelve por sí solo la necesidad que aprovechó; decide quién mantiene los servicios.",
+        "Insertar narración secundaria: «Fundar un refugio — el favor». El botón de cartas indicadas coloca ese objetivo como referencia, sin aumentar el progreso del arco. Si su premisa contradice la campaña, adapta los participantes y conserva su objetivo esencial.",
+        "Preparación: asigna al responsable una identidad de la campaña y un medio que ya haya aparecido. Revela las conexiones mediante pruebas o diálogo, no mediante información que los personajes no pueden obtener.",
+        "Epílogo: pregunta quién recibe ayuda, qué cambia en el lugar y qué vínculo permanece. Puedes iniciar después un nuevo arco con otro d4; este final es una propuesta y no impone el resultado a los jugadores."
+      ],
+      "instructions": [
+        {
+          "kind": "story",
+          "count": 1,
+          "cardId": "story-compendio-side-18-01"
+        }
+      ]
+    },
+    {
+      "id": "story-compendio-final-02-09",
+      "kind": "story",
+      "mission": "final",
+      "name": "La autoridad interesada — reparación compartida",
+      "description": "Revelación para el DM: Una autoridad local convirtió un problema limitado en una crisis para justificar nuevas atribuciones. Algunas órdenes protegieron realmente a la población, mientras otras aseguraron que nadie examinara su intervención. Su objetivo es «desactivar una reliquia», desarrollado en la carta secundaria «Desactivar una reliquia — el regreso».\n\nPrueba del vínculo: Dos órdenes de fechas próximas asignan recursos a fines incompatibles y comparten una firma verificable. Relaciona al menos dos acontecimientos del arco con esta prueba mediante una persona, un recurso o una decisión compartida; no invalida lo que los jugadores ya comprobaron.\n\nDesenlace posible: El daño supera lo que una sola persona puede corregir. El grupo puede reunir a quienes conocen partes del problema y acordar tareas concretas; el responsable debe aportar algo comprobable para participar. La colaboración ofrece un cierre gradual, con señales visibles de recuperación y obligaciones que pueden retomarse después.",
+      "abilities": [
+        "Límite de la revelación: Destituir a la autoridad no resuelve por sí solo la necesidad que aprovechó; decide quién mantiene los servicios.",
+        "Insertar narración secundaria: «Desactivar una reliquia — el regreso». El botón de cartas indicadas coloca ese objetivo como referencia, sin aumentar el progreso del arco. Si su premisa contradice la campaña, adapta los participantes y conserva su objetivo esencial.",
+        "Preparación: asigna al responsable una identidad de la campaña y un medio que ya haya aparecido. Revela las conexiones mediante pruebas o diálogo, no mediante información que los personajes no pueden obtener.",
+        "Epílogo: pregunta quién recibe ayuda, qué cambia en el lugar y qué vínculo permanece. Puedes iniciar después un nuevo arco con otro d4; este final es una propuesta y no impone el resultado a los jugadores."
+      ],
+      "instructions": [
+        {
+          "kind": "story",
+          "count": 1,
+          "cardId": "story-compendio-side-19-10"
+        }
+      ]
+    },
+    {
+      "id": "story-compendio-final-02-10",
+      "kind": "story",
+      "mission": "final",
+      "name": "La autoridad interesada — consecuencia abierta",
+      "description": "Revelación para el DM: Una autoridad local convirtió un problema limitado en una crisis para justificar nuevas atribuciones. Algunas órdenes protegieron realmente a la población, mientras otras aseguraron que nadie examinara su intervención. Su objetivo es «liberar a una persona cautiva», desarrollado en la carta secundaria «Liberar a una persona cautiva — la condición».\n\nPrueba del vínculo: Dos órdenes de fechas próximas asignan recursos a fines incompatibles y comparten una firma verificable. Relaciona al menos dos acontecimientos del arco con esta prueba mediante una persona, un recurso o una decisión compartida; no invalida lo que los jugadores ya comprobaron.\n\nDesenlace posible: La intervención puede detenerse, pero una parte de sus efectos ya no puede revertirse del mismo modo. Explica qué mejora está al alcance y deja que los personajes elijan cómo cuidar lo que ha cambiado. Cierra la amenaza inmediata y muestra un nuevo equilibrio. Una consecuencia pendiente puede iniciar otro arco sin negar este desenlace.",
+      "abilities": [
+        "Límite de la revelación: Destituir a la autoridad no resuelve por sí solo la necesidad que aprovechó; decide quién mantiene los servicios.",
+        "Insertar narración secundaria: «Liberar a una persona cautiva — la condición». El botón de cartas indicadas coloca ese objetivo como referencia, sin aumentar el progreso del arco. Si su premisa contradice la campaña, adapta los participantes y conserva su objetivo esencial.",
+        "Preparación: asigna al responsable una identidad de la campaña y un medio que ya haya aparecido. Revela las conexiones mediante pruebas o diálogo, no mediante información que los personajes no pueden obtener.",
+        "Epílogo: pregunta quién recibe ayuda, qué cambia en el lugar y qué vínculo permanece. Puedes iniciar después un nuevo arco con otro d4; este final es una propuesta y no impone el resultado a los jugadores."
+      ],
+      "instructions": [
+        {
+          "kind": "story",
+          "count": 1,
+          "cardId": "story-compendio-side-01-09"
+        }
+      ]
+    },
+    {
+      "id": "story-compendio-final-03-01",
+      "kind": "story",
+      "mission": "final",
+      "name": "El pacto mal interpretado — confesión negociada",
+      "description": "Revelación para el DM: Una persona cumplió un pacto conforme a una interpretación incompleta. La otra parte aprovechó la ambigüedad y permitió que cada intento de corregirlo extendiera sus consecuencias. Su objetivo es «devolver un recuerdo robado», desarrollado en la carta secundaria «Devolver un recuerdo robado — la urgencia».\n\nPrueba del vínculo: La versión original conserva una condición que las copias posteriores omitieron. Relaciona al menos dos acontecimientos del arco con esta prueba mediante una persona, un recurso o una decisión compartida; no invalida lo que los jugadores ya comprobaron.\n\nDesenlace posible: El responsable acepta explicar su intervención si se garantiza que se escuchará también su necesidad. Una confesión no sustituye la reparación: pide al grupo que decida qué puede acordar y qué corresponde a los afectados. Una reunión protegida permite cerrar la amenaza y deja un acuerdo cuyo cumplimiento puede comprobarse en otra sesión.",
+      "abilities": [
+        "Límite de la revelación: Ambas partes pueden tener obligaciones pendientes; la negociación debe explicar qué cambia y quién asume el coste.",
+        "Insertar narración secundaria: «Devolver un recuerdo robado — la urgencia». El botón de cartas indicadas coloca ese objetivo como referencia, sin aumentar el progreso del arco. Si su premisa contradice la campaña, adapta los participantes y conserva su objetivo esencial.",
+        "Preparación: asigna al responsable una identidad de la campaña y un medio que ya haya aparecido. Revela las conexiones mediante pruebas o diálogo, no mediante información que los personajes no pueden obtener.",
+        "Epílogo: pregunta quién recibe ayuda, qué cambia en el lugar y qué vínculo permanece. Puedes iniciar después un nuevo arco con otro d4; este final es una propuesta y no impone el resultado a los jugadores."
+      ],
+      "instructions": [
+        {
+          "kind": "story",
+          "count": 1,
+          "cardId": "story-compendio-side-08-05"
+        }
+      ]
+    },
+    {
+      "id": "story-compendio-final-03-02",
+      "kind": "story",
+      "mission": "final",
+      "name": "El pacto mal interpretado — prueba pública",
+      "description": "Revelación para el DM: Una persona cumplió un pacto conforme a una interpretación incompleta. La otra parte aprovechó la ambigüedad y permitió que cada intento de corregirlo extendiera sus consecuencias. Su objetivo es «revelar una corrupción local», desarrollado en la carta secundaria «Revelar una corrupción local — la rivalidad».\n\nPrueba del vínculo: La versión original conserva una condición que las copias posteriores omitieron. Relaciona al menos dos acontecimientos del arco con esta prueba mediante una persona, un recurso o una decisión compartida; no invalida lo que los jugadores ya comprobaron.\n\nDesenlace posible: Los personajes pueden reunir una prueba verificable y presentarla ante quienes sufrieron las consecuencias. El responsable intenta desacreditar su procedencia en lugar de negar cada hecho; prepara una comprobación independiente. La revelación modifica una relación de poder y abre la cuestión de quién administrará los recursos recuperados.",
+      "abilities": [
+        "Límite de la revelación: Ambas partes pueden tener obligaciones pendientes; la negociación debe explicar qué cambia y quién asume el coste.",
+        "Insertar narración secundaria: «Revelar una corrupción local — la rivalidad». El botón de cartas indicadas coloca ese objetivo como referencia, sin aumentar el progreso del arco. Si su premisa contradice la campaña, adapta los participantes y conserva su objetivo esencial.",
+        "Preparación: asigna al responsable una identidad de la campaña y un medio que ya haya aparecido. Revela las conexiones mediante pruebas o diálogo, no mediante información que los personajes no pueden obtener.",
+        "Epílogo: pregunta quién recibe ayuda, qué cambia en el lugar y qué vínculo permanece. Puedes iniciar después un nuevo arco con otro d4; este final es una propuesta y no impone el resultado a los jugadores."
+      ],
+      "instructions": [
+        {
+          "kind": "story",
+          "count": 1,
+          "cardId": "story-compendio-side-10-04"
+        }
+      ]
+    },
+    {
+      "id": "story-compendio-final-03-03",
+      "kind": "story",
+      "mission": "final",
+      "name": "El pacto mal interpretado — intervención discreta",
+      "description": "Revelación para el DM: Una persona cumplió un pacto conforme a una interpretación incompleta. La otra parte aprovechó la ambigüedad y permitió que cada intento de corregirlo extendiera sus consecuencias. Su objetivo es «conseguir un tratamiento», desarrollado en la carta secundaria «Conseguir un tratamiento — la prueba».\n\nPrueba del vínculo: La versión original conserva una condición que las copias posteriores omitieron. Relaciona al menos dos acontecimientos del arco con esta prueba mediante una persona, un recurso o una decisión compartida; no invalida lo que los jugadores ya comprobaron.\n\nDesenlace posible: Es posible detener el medio que utiliza el responsable sin revelar de inmediato toda la historia. Los personajes deben decidir quién necesita saberlo para no repetir el daño y qué secreto protege realmente a un inocente. La crisis termina con discreción, pero una persona conserva información que puede impulsar una aventura futura.",
+      "abilities": [
+        "Límite de la revelación: Ambas partes pueden tener obligaciones pendientes; la negociación debe explicar qué cambia y quién asume el coste.",
+        "Insertar narración secundaria: «Conseguir un tratamiento — la prueba». El botón de cartas indicadas coloca ese objetivo como referencia, sin aumentar el progreso del arco. Si su premisa contradice la campaña, adapta los participantes y conserva su objetivo esencial.",
+        "Preparación: asigna al responsable una identidad de la campaña y un medio que ya haya aparecido. Revela las conexiones mediante pruebas o diálogo, no mediante información que los personajes no pueden obtener.",
+        "Epílogo: pregunta quién recibe ayuda, qué cambia en el lugar y qué vínculo permanece. Puedes iniciar después un nuevo arco con otro d4; este final es una propuesta y no impone el resultado a los jugadores."
+      ],
+      "instructions": [
+        {
+          "kind": "story",
+          "count": 1,
+          "cardId": "story-compendio-side-12-03"
+        }
+      ]
+    },
+    {
+      "id": "story-compendio-final-03-04",
+      "kind": "story",
+      "mission": "final",
+      "name": "El pacto mal interpretado — restitución",
+      "description": "Revelación para el DM: Una persona cumplió un pacto conforme a una interpretación incompleta. La otra parte aprovechó la ambigüedad y permitió que cada intento de corregirlo extendiera sus consecuencias. Su objetivo es «probar una inocencia», desarrollado en la carta secundaria «Probar una inocencia — el intermediario».\n\nPrueba del vínculo: La versión original conserva una condición que las copias posteriores omitieron. Relaciona al menos dos acontecimientos del arco con esta prueba mediante una persona, un recurso o una decisión compartida; no invalida lo que los jugadores ya comprobaron.\n\nDesenlace posible: El desenlace requiere devolver un recurso, una función o una pertenencia a quienes pueden mantenerla. El responsable ofrece facilitarlo si conserva una parte de lo obtenido; aceptar o rechazar su propuesta tiene costes distintos. La restitución permite mostrar una mejora concreta y dar voz a quienes asumirán el cuidado posterior.",
+      "abilities": [
+        "Límite de la revelación: Ambas partes pueden tener obligaciones pendientes; la negociación debe explicar qué cambia y quién asume el coste.",
+        "Insertar narración secundaria: «Probar una inocencia — el intermediario». El botón de cartas indicadas coloca ese objetivo como referencia, sin aumentar el progreso del arco. Si su premisa contradice la campaña, adapta los participantes y conserva su objetivo esencial.",
+        "Preparación: asigna al responsable una identidad de la campaña y un medio que ya haya aparecido. Revela las conexiones mediante pruebas o diálogo, no mediante información que los personajes no pueden obtener.",
+        "Epílogo: pregunta quién recibe ayuda, qué cambia en el lugar y qué vínculo permanece. Puedes iniciar después un nuevo arco con otro d4; este final es una propuesta y no impone el resultado a los jugadores."
+      ],
+      "instructions": [
+        {
+          "kind": "story",
+          "count": 1,
+          "cardId": "story-compendio-side-14-02"
+        }
+      ]
+    },
+    {
+      "id": "story-compendio-final-03-05",
+      "kind": "story",
+      "mission": "final",
+      "name": "El pacto mal interpretado — ruptura del acuerdo",
+      "description": "Revelación para el DM: Una persona cumplió un pacto conforme a una interpretación incompleta. La otra parte aprovechó la ambigüedad y permitió que cada intento de corregirlo extendiera sus consecuencias. Su objetivo es «reconciliar dos comunidades», desarrollado en la carta secundaria «Reconciliar dos comunidades — el favor».\n\nPrueba del vínculo: La versión original conserva una condición que las copias posteriores omitieron. Relaciona al menos dos acontecimientos del arco con esta prueba mediante una persona, un recurso o una decisión compartida; no invalida lo que los jugadores ya comprobaron.\n\nDesenlace posible: Una alianza o condición sostiene la intervención. Los personajes pueden separar a sus participantes demostrando que sus intereses no coinciden, en vez de tratar a todos como un único adversario. La ruptura reduce la amenaza, aunque obliga a negociar compromisos nuevos entre quienes antes colaboraban.",
+      "abilities": [
+        "Límite de la revelación: Ambas partes pueden tener obligaciones pendientes; la negociación debe explicar qué cambia y quién asume el coste.",
+        "Insertar narración secundaria: «Reconciliar dos comunidades — el favor». El botón de cartas indicadas coloca ese objetivo como referencia, sin aumentar el progreso del arco. Si su premisa contradice la campaña, adapta los participantes y conserva su objetivo esencial.",
+        "Preparación: asigna al responsable una identidad de la campaña y un medio que ya haya aparecido. Revela las conexiones mediante pruebas o diálogo, no mediante información que los personajes no pueden obtener.",
+        "Epílogo: pregunta quién recibe ayuda, qué cambia en el lugar y qué vínculo permanece. Puedes iniciar después un nuevo arco con otro d4; este final es una propuesta y no impone el resultado a los jugadores."
+      ],
+      "instructions": [
+        {
+          "kind": "story",
+          "count": 1,
+          "cardId": "story-compendio-side-16-01"
+        }
+      ]
+    },
+    {
+      "id": "story-compendio-final-03-06",
+      "kind": "story",
+      "mission": "final",
+      "name": "El pacto mal interpretado — salida protegida",
+      "description": "Revelación para el DM: Una persona cumplió un pacto conforme a una interpretación incompleta. La otra parte aprovechó la ambigüedad y permitió que cada intento de corregirlo extendiera sus consecuencias. Su objetivo es «mantener una promesa», desarrollado en la carta secundaria «Mantener una promesa — el regreso».\n\nPrueba del vínculo: La versión original conserva una condición que las copias posteriores omitieron. Relaciona al menos dos acontecimientos del arco con esta prueba mediante una persona, un recurso o una decisión compartida; no invalida lo que los jugadores ya comprobaron.\n\nDesenlace posible: Algunas personas dependen del sistema que ha causado el daño. Detenerlo exige preparar una salida para ellas; el responsable puede perder su ventaja si dejan de necesitar su protección. La solución libera a los afectados y deja pendiente establecer una ayuda que no reproduzca esa dependencia.",
+      "abilities": [
+        "Límite de la revelación: Ambas partes pueden tener obligaciones pendientes; la negociación debe explicar qué cambia y quién asume el coste.",
+        "Insertar narración secundaria: «Mantener una promesa — el regreso». El botón de cartas indicadas coloca ese objetivo como referencia, sin aumentar el progreso del arco. Si su premisa contradice la campaña, adapta los participantes y conserva su objetivo esencial.",
+        "Preparación: asigna al responsable una identidad de la campaña y un medio que ya haya aparecido. Revela las conexiones mediante pruebas o diálogo, no mediante información que los personajes no pueden obtener.",
+        "Epílogo: pregunta quién recibe ayuda, qué cambia en el lugar y qué vínculo permanece. Puedes iniciar después un nuevo arco con otro d4; este final es una propuesta y no impone el resultado a los jugadores."
+      ],
+      "instructions": [
+        {
+          "kind": "story",
+          "count": 1,
+          "cardId": "story-compendio-side-17-10"
+        }
+      ]
+    },
+    {
+      "id": "story-compendio-final-03-07",
+      "kind": "story",
+      "mission": "final",
+      "name": "El pacto mal interpretado — última elección",
+      "description": "Revelación para el DM: Una persona cumplió un pacto conforme a una interpretación incompleta. La otra parte aprovechó la ambigüedad y permitió que cada intento de corregirlo extendiera sus consecuencias. Su objetivo es «desactivar una reliquia», desarrollado en la carta secundaria «Desactivar una reliquia — la condición».\n\nPrueba del vínculo: La versión original conserva una condición que las copias posteriores omitieron. Relaciona al menos dos acontecimientos del arco con esta prueba mediante una persona, un recurso o una decisión compartida; no invalida lo que los jugadores ya comprobaron.\n\nDesenlace posible: El responsable aún puede alcanzar su objetivo si acepta un coste que había intentado evitar. Ofrece al grupo una elección clara entre impedirlo por completo o permitir una versión limitada con garantías comprobables. El cierre nace de una decisión del grupo y permite que personas distintas valoren su resultado de forma diferente.",
+      "abilities": [
+        "Límite de la revelación: Ambas partes pueden tener obligaciones pendientes; la negociación debe explicar qué cambia y quién asume el coste.",
+        "Insertar narración secundaria: «Desactivar una reliquia — la condición». El botón de cartas indicadas coloca ese objetivo como referencia, sin aumentar el progreso del arco. Si su premisa contradice la campaña, adapta los participantes y conserva su objetivo esencial.",
+        "Preparación: asigna al responsable una identidad de la campaña y un medio que ya haya aparecido. Revela las conexiones mediante pruebas o diálogo, no mediante información que los personajes no pueden obtener.",
+        "Epílogo: pregunta quién recibe ayuda, qué cambia en el lugar y qué vínculo permanece. Puedes iniciar después un nuevo arco con otro d4; este final es una propuesta y no impone el resultado a los jugadores."
+      ],
+      "instructions": [
+        {
+          "kind": "story",
+          "count": 1,
+          "cardId": "story-compendio-side-19-09"
+        }
+      ]
+    },
+    {
+      "id": "story-compendio-final-03-08",
+      "kind": "story",
+      "mission": "final",
+      "name": "El pacto mal interpretado — confrontación preparada",
+      "description": "Revelación para el DM: Una persona cumplió un pacto conforme a una interpretación incompleta. La otra parte aprovechó la ambigüedad y permitió que cada intento de corregirlo extendiera sus consecuencias. Su objetivo es «liberar a una persona cautiva», desarrollado en la carta secundaria «Liberar a una persona cautiva — el vínculo».\n\nPrueba del vínculo: La versión original conserva una condición que las copias posteriores omitieron. Relaciona al menos dos acontecimientos del arco con esta prueba mediante una persona, un recurso o una decisión compartida; no invalida lo que los jugadores ya comprobaron.\n\nDesenlace posible: El responsable se niega a detenerse y protege el recurso central. Los personajes pueden retirar apoyos, abrir una salida o confrontarlo; si se llega a combate, el master elige un perfil adecuado al grupo. La derrota no borra los efectos anteriores. Dedica una escena a reparar el daño y decidir el destino del recurso.",
+      "abilities": [
+        "Límite de la revelación: Ambas partes pueden tener obligaciones pendientes; la negociación debe explicar qué cambia y quién asume el coste.",
+        "Insertar narración secundaria: «Liberar a una persona cautiva — el vínculo». El botón de cartas indicadas coloca ese objetivo como referencia, sin aumentar el progreso del arco. Si su premisa contradice la campaña, adapta los participantes y conserva su objetivo esencial.",
+        "Preparación: asigna al responsable una identidad de la campaña y un medio que ya haya aparecido. Revela las conexiones mediante pruebas o diálogo, no mediante información que los personajes no pueden obtener.",
+        "Epílogo: pregunta quién recibe ayuda, qué cambia en el lugar y qué vínculo permanece. Puedes iniciar después un nuevo arco con otro d4; este final es una propuesta y no impone el resultado a los jugadores."
+      ],
+      "instructions": [
+        {
+          "kind": "story",
+          "count": 1,
+          "cardId": "story-compendio-side-01-08"
+        }
+      ]
+    },
+    {
+      "id": "story-compendio-final-03-09",
+      "kind": "story",
+      "mission": "final",
+      "name": "El pacto mal interpretado — reparación compartida",
+      "description": "Revelación para el DM: Una persona cumplió un pacto conforme a una interpretación incompleta. La otra parte aprovechó la ambigüedad y permitió que cada intento de corregirlo extendiera sus consecuencias. Su objetivo es «restaurar un santuario», desarrollado en la carta secundaria «Restaurar un santuario — el intercambio».\n\nPrueba del vínculo: La versión original conserva una condición que las copias posteriores omitieron. Relaciona al menos dos acontecimientos del arco con esta prueba mediante una persona, un recurso o una decisión compartida; no invalida lo que los jugadores ya comprobaron.\n\nDesenlace posible: El daño supera lo que una sola persona puede corregir. El grupo puede reunir a quienes conocen partes del problema y acordar tareas concretas; el responsable debe aportar algo comprobable para participar. La colaboración ofrece un cierre gradual, con señales visibles de recuperación y obligaciones que pueden retomarse después.",
+      "abilities": [
+        "Límite de la revelación: Ambas partes pueden tener obligaciones pendientes; la negociación debe explicar qué cambia y quién asume el coste.",
+        "Insertar narración secundaria: «Restaurar un santuario — el intercambio». El botón de cartas indicadas coloca ese objetivo como referencia, sin aumentar el progreso del arco. Si su premisa contradice la campaña, adapta los participantes y conserva su objetivo esencial.",
+        "Preparación: asigna al responsable una identidad de la campaña y un medio que ya haya aparecido. Revela las conexiones mediante pruebas o diálogo, no mediante información que los personajes no pueden obtener.",
+        "Epílogo: pregunta quién recibe ayuda, qué cambia en el lugar y qué vínculo permanece. Puedes iniciar después un nuevo arco con otro d4; este final es una propuesta y no impone el resultado a los jugadores."
+      ],
+      "instructions": [
+        {
+          "kind": "story",
+          "count": 1,
+          "cardId": "story-compendio-side-03-07"
+        }
+      ]
+    },
+    {
+      "id": "story-compendio-final-03-10",
+      "kind": "story",
+      "mission": "final",
+      "name": "El pacto mal interpretado — consecuencia abierta",
+      "description": "Revelación para el DM: Una persona cumplió un pacto conforme a una interpretación incompleta. La otra parte aprovechó la ambigüedad y permitió que cada intento de corregirlo extendiera sus consecuencias. Su objetivo es «proteger una ruta de suministros», desarrollado en la carta secundaria «Proteger una ruta de suministros — la discreción».\n\nPrueba del vínculo: La versión original conserva una condición que las copias posteriores omitieron. Relaciona al menos dos acontecimientos del arco con esta prueba mediante una persona, un recurso o una decisión compartida; no invalida lo que los jugadores ya comprobaron.\n\nDesenlace posible: La intervención puede detenerse, pero una parte de sus efectos ya no puede revertirse del mismo modo. Explica qué mejora está al alcance y deja que los personajes elijan cómo cuidar lo que ha cambiado. Cierra la amenaza inmediata y muestra un nuevo equilibrio. Una consecuencia pendiente puede iniciar otro arco sin negar este desenlace.",
+      "abilities": [
+        "Límite de la revelación: Ambas partes pueden tener obligaciones pendientes; la negociación debe explicar qué cambia y quién asume el coste.",
+        "Insertar narración secundaria: «Proteger una ruta de suministros — la discreción». El botón de cartas indicadas coloca ese objetivo como referencia, sin aumentar el progreso del arco. Si su premisa contradice la campaña, adapta los participantes y conserva su objetivo esencial.",
+        "Preparación: asigna al responsable una identidad de la campaña y un medio que ya haya aparecido. Revela las conexiones mediante pruebas o diálogo, no mediante información que los personajes no pueden obtener.",
+        "Epílogo: pregunta quién recibe ayuda, qué cambia en el lugar y qué vínculo permanece. Puedes iniciar después un nuevo arco con otro d4; este final es una propuesta y no impone el resultado a los jugadores."
+      ],
+      "instructions": [
+        {
+          "kind": "story",
+          "count": 1,
+          "cardId": "story-compendio-side-05-06"
+        }
+      ]
+    },
+    {
+      "id": "story-compendio-final-04-01",
+      "kind": "story",
+      "mission": "final",
+      "name": "La máquina olvidada — confesión negociada",
+      "description": "Revelación para el DM: Un mecanismo antiguo volvió a funcionar después de una reparación aparentemente rutinaria. Su propósito original no coincide con las necesidades actuales, y alguien ocultó la activación para aprovechar una parte de sus efectos. Su objetivo es «conseguir un tratamiento», desarrollado en la carta secundaria «Conseguir un tratamiento — el intermediario».\n\nPrueba del vínculo: Los cambios siguen intervalos registrados en una pieza de mantenimiento, incluso cuando nadie interviene. Relaciona al menos dos acontecimientos del arco con esta prueba mediante una persona, un recurso o una decisión compartida; no invalida lo que los jugadores ya comprobaron.\n\nDesenlace posible: El responsable acepta explicar su intervención si se garantiza que se escuchará también su necesidad. Una confesión no sustituye la reparación: pide al grupo que decida qué puede acordar y qué corresponde a los afectados. Una reunión protegida permite cerrar la amenaza y deja un acuerdo cuyo cumplimiento puede comprobarse en otra sesión.",
+      "abilities": [
+        "Límite de la revelación: Detenerlo es posible, pero algunas personas ya dependen de su funcionamiento; prepara una alternativa limitada.",
+        "Insertar narración secundaria: «Conseguir un tratamiento — el intermediario». El botón de cartas indicadas coloca ese objetivo como referencia, sin aumentar el progreso del arco. Si su premisa contradice la campaña, adapta los participantes y conserva su objetivo esencial.",
+        "Preparación: asigna al responsable una identidad de la campaña y un medio que ya haya aparecido. Revela las conexiones mediante pruebas o diálogo, no mediante información que los personajes no pueden obtener.",
+        "Epílogo: pregunta quién recibe ayuda, qué cambia en el lugar y qué vínculo permanece. Puedes iniciar después un nuevo arco con otro d4; este final es una propuesta y no impone el resultado a los jugadores."
+      ],
+      "instructions": [
+        {
+          "kind": "story",
+          "count": 1,
+          "cardId": "story-compendio-side-12-02"
+        }
+      ]
+    },
+    {
+      "id": "story-compendio-final-04-02",
+      "kind": "story",
+      "mission": "final",
+      "name": "La máquina olvidada — prueba pública",
+      "description": "Revelación para el DM: Un mecanismo antiguo volvió a funcionar después de una reparación aparentemente rutinaria. Su propósito original no coincide con las necesidades actuales, y alguien ocultó la activación para aprovechar una parte de sus efectos. Su objetivo es «probar una inocencia», desarrollado en la carta secundaria «Probar una inocencia — el favor».\n\nPrueba del vínculo: Los cambios siguen intervalos registrados en una pieza de mantenimiento, incluso cuando nadie interviene. Relaciona al menos dos acontecimientos del arco con esta prueba mediante una persona, un recurso o una decisión compartida; no invalida lo que los jugadores ya comprobaron.\n\nDesenlace posible: Los personajes pueden reunir una prueba verificable y presentarla ante quienes sufrieron las consecuencias. El responsable intenta desacreditar su procedencia en lugar de negar cada hecho; prepara una comprobación independiente. La revelación modifica una relación de poder y abre la cuestión de quién administrará los recursos recuperados.",
+      "abilities": [
+        "Límite de la revelación: Detenerlo es posible, pero algunas personas ya dependen de su funcionamiento; prepara una alternativa limitada.",
+        "Insertar narración secundaria: «Probar una inocencia — el favor». El botón de cartas indicadas coloca ese objetivo como referencia, sin aumentar el progreso del arco. Si su premisa contradice la campaña, adapta los participantes y conserva su objetivo esencial.",
+        "Preparación: asigna al responsable una identidad de la campaña y un medio que ya haya aparecido. Revela las conexiones mediante pruebas o diálogo, no mediante información que los personajes no pueden obtener.",
+        "Epílogo: pregunta quién recibe ayuda, qué cambia en el lugar y qué vínculo permanece. Puedes iniciar después un nuevo arco con otro d4; este final es una propuesta y no impone el resultado a los jugadores."
+      ],
+      "instructions": [
+        {
+          "kind": "story",
+          "count": 1,
+          "cardId": "story-compendio-side-14-01"
+        }
+      ]
+    },
+    {
+      "id": "story-compendio-final-04-03",
+      "kind": "story",
+      "mission": "final",
+      "name": "La máquina olvidada — intervención discreta",
+      "description": "Revelación para el DM: Un mecanismo antiguo volvió a funcionar después de una reparación aparentemente rutinaria. Su propósito original no coincide con las necesidades actuales, y alguien ocultó la activación para aprovechar una parte de sus efectos. Su objetivo es «recuperar una investigación», desarrollado en la carta secundaria «Recuperar una investigación — el regreso».\n\nPrueba del vínculo: Los cambios siguen intervalos registrados en una pieza de mantenimiento, incluso cuando nadie interviene. Relaciona al menos dos acontecimientos del arco con esta prueba mediante una persona, un recurso o una decisión compartida; no invalida lo que los jugadores ya comprobaron.\n\nDesenlace posible: Es posible detener el medio que utiliza el responsable sin revelar de inmediato toda la historia. Los personajes deben decidir quién necesita saberlo para no repetir el daño y qué secreto protege realmente a un inocente. La crisis termina con discreción, pero una persona conserva información que puede impulsar una aventura futura.",
+      "abilities": [
+        "Límite de la revelación: Detenerlo es posible, pero algunas personas ya dependen de su funcionamiento; prepara una alternativa limitada.",
+        "Insertar narración secundaria: «Recuperar una investigación — el regreso». El botón de cartas indicadas coloca ese objetivo como referencia, sin aumentar el progreso del arco. Si su premisa contradice la campaña, adapta los participantes y conserva su objetivo esencial.",
+        "Preparación: asigna al responsable una identidad de la campaña y un medio que ya haya aparecido. Revela las conexiones mediante pruebas o diálogo, no mediante información que los personajes no pueden obtener.",
+        "Epílogo: pregunta quién recibe ayuda, qué cambia en el lugar y qué vínculo permanece. Puedes iniciar después un nuevo arco con otro d4; este final es una propuesta y no impone el resultado a los jugadores."
+      ],
+      "instructions": [
+        {
+          "kind": "story",
+          "count": 1,
+          "cardId": "story-compendio-side-15-10"
+        }
+      ]
+    },
+    {
+      "id": "story-compendio-final-04-04",
+      "kind": "story",
+      "mission": "final",
+      "name": "La máquina olvidada — restitución",
+      "description": "Revelación para el DM: Un mecanismo antiguo volvió a funcionar después de una reparación aparentemente rutinaria. Su propósito original no coincide con las necesidades actuales, y alguien ocultó la activación para aprovechar una parte de sus efectos. Su objetivo es «mantener una promesa», desarrollado en la carta secundaria «Mantener una promesa — la condición».\n\nPrueba del vínculo: Los cambios siguen intervalos registrados en una pieza de mantenimiento, incluso cuando nadie interviene. Relaciona al menos dos acontecimientos del arco con esta prueba mediante una persona, un recurso o una decisión compartida; no invalida lo que los jugadores ya comprobaron.\n\nDesenlace posible: El desenlace requiere devolver un recurso, una función o una pertenencia a quienes pueden mantenerla. El responsable ofrece facilitarlo si conserva una parte de lo obtenido; aceptar o rechazar su propuesta tiene costes distintos. La restitución permite mostrar una mejora concreta y dar voz a quienes asumirán el cuidado posterior.",
+      "abilities": [
+        "Límite de la revelación: Detenerlo es posible, pero algunas personas ya dependen de su funcionamiento; prepara una alternativa limitada.",
+        "Insertar narración secundaria: «Mantener una promesa — la condición». El botón de cartas indicadas coloca ese objetivo como referencia, sin aumentar el progreso del arco. Si su premisa contradice la campaña, adapta los participantes y conserva su objetivo esencial.",
+        "Preparación: asigna al responsable una identidad de la campaña y un medio que ya haya aparecido. Revela las conexiones mediante pruebas o diálogo, no mediante información que los personajes no pueden obtener.",
+        "Epílogo: pregunta quién recibe ayuda, qué cambia en el lugar y qué vínculo permanece. Puedes iniciar después un nuevo arco con otro d4; este final es una propuesta y no impone el resultado a los jugadores."
+      ],
+      "instructions": [
+        {
+          "kind": "story",
+          "count": 1,
+          "cardId": "story-compendio-side-17-09"
+        }
+      ]
+    },
+    {
+      "id": "story-compendio-final-04-05",
+      "kind": "story",
+      "mission": "final",
+      "name": "La máquina olvidada — ruptura del acuerdo",
+      "description": "Revelación para el DM: Un mecanismo antiguo volvió a funcionar después de una reparación aparentemente rutinaria. Su propósito original no coincide con las necesidades actuales, y alguien ocultó la activación para aprovechar una parte de sus efectos. Su objetivo es «desactivar una reliquia», desarrollado en la carta secundaria «Desactivar una reliquia — el vínculo».\n\nPrueba del vínculo: Los cambios siguen intervalos registrados en una pieza de mantenimiento, incluso cuando nadie interviene. Relaciona al menos dos acontecimientos del arco con esta prueba mediante una persona, un recurso o una decisión compartida; no invalida lo que los jugadores ya comprobaron.\n\nDesenlace posible: Una alianza o condición sostiene la intervención. Los personajes pueden separar a sus participantes demostrando que sus intereses no coinciden, en vez de tratar a todos como un único adversario. La ruptura reduce la amenaza, aunque obliga a negociar compromisos nuevos entre quienes antes colaboraban.",
+      "abilities": [
+        "Límite de la revelación: Detenerlo es posible, pero algunas personas ya dependen de su funcionamiento; prepara una alternativa limitada.",
+        "Insertar narración secundaria: «Desactivar una reliquia — el vínculo». El botón de cartas indicadas coloca ese objetivo como referencia, sin aumentar el progreso del arco. Si su premisa contradice la campaña, adapta los participantes y conserva su objetivo esencial.",
+        "Preparación: asigna al responsable una identidad de la campaña y un medio que ya haya aparecido. Revela las conexiones mediante pruebas o diálogo, no mediante información que los personajes no pueden obtener.",
+        "Epílogo: pregunta quién recibe ayuda, qué cambia en el lugar y qué vínculo permanece. Puedes iniciar después un nuevo arco con otro d4; este final es una propuesta y no impone el resultado a los jugadores."
+      ],
+      "instructions": [
+        {
+          "kind": "story",
+          "count": 1,
+          "cardId": "story-compendio-side-19-08"
+        }
+      ]
+    },
+    {
+      "id": "story-compendio-final-04-06",
+      "kind": "story",
+      "mission": "final",
+      "name": "La máquina olvidada — salida protegida",
+      "description": "Revelación para el DM: Un mecanismo antiguo volvió a funcionar después de una reparación aparentemente rutinaria. Su propósito original no coincide con las necesidades actuales, y alguien ocultó la activación para aprovechar una parte de sus efectos. Su objetivo es «liberar a una persona cautiva», desarrollado en la carta secundaria «Liberar a una persona cautiva — el intercambio».\n\nPrueba del vínculo: Los cambios siguen intervalos registrados en una pieza de mantenimiento, incluso cuando nadie interviene. Relaciona al menos dos acontecimientos del arco con esta prueba mediante una persona, un recurso o una decisión compartida; no invalida lo que los jugadores ya comprobaron.\n\nDesenlace posible: Algunas personas dependen del sistema que ha causado el daño. Detenerlo exige preparar una salida para ellas; el responsable puede perder su ventaja si dejan de necesitar su protección. La solución libera a los afectados y deja pendiente establecer una ayuda que no reproduzca esa dependencia.",
+      "abilities": [
+        "Límite de la revelación: Detenerlo es posible, pero algunas personas ya dependen de su funcionamiento; prepara una alternativa limitada.",
+        "Insertar narración secundaria: «Liberar a una persona cautiva — el intercambio». El botón de cartas indicadas coloca ese objetivo como referencia, sin aumentar el progreso del arco. Si su premisa contradice la campaña, adapta los participantes y conserva su objetivo esencial.",
+        "Preparación: asigna al responsable una identidad de la campaña y un medio que ya haya aparecido. Revela las conexiones mediante pruebas o diálogo, no mediante información que los personajes no pueden obtener.",
+        "Epílogo: pregunta quién recibe ayuda, qué cambia en el lugar y qué vínculo permanece. Puedes iniciar después un nuevo arco con otro d4; este final es una propuesta y no impone el resultado a los jugadores."
+      ],
+      "instructions": [
+        {
+          "kind": "story",
+          "count": 1,
+          "cardId": "story-compendio-side-01-07"
+        }
+      ]
+    },
+    {
+      "id": "story-compendio-final-04-07",
+      "kind": "story",
+      "mission": "final",
+      "name": "La máquina olvidada — última elección",
+      "description": "Revelación para el DM: Un mecanismo antiguo volvió a funcionar después de una reparación aparentemente rutinaria. Su propósito original no coincide con las necesidades actuales, y alguien ocultó la activación para aprovechar una parte de sus efectos. Su objetivo es «restaurar un santuario», desarrollado en la carta secundaria «Restaurar un santuario — la discreción».\n\nPrueba del vínculo: Los cambios siguen intervalos registrados en una pieza de mantenimiento, incluso cuando nadie interviene. Relaciona al menos dos acontecimientos del arco con esta prueba mediante una persona, un recurso o una decisión compartida; no invalida lo que los jugadores ya comprobaron.\n\nDesenlace posible: El responsable aún puede alcanzar su objetivo si acepta un coste que había intentado evitar. Ofrece al grupo una elección clara entre impedirlo por completo o permitir una versión limitada con garantías comprobables. El cierre nace de una decisión del grupo y permite que personas distintas valoren su resultado de forma diferente.",
+      "abilities": [
+        "Límite de la revelación: Detenerlo es posible, pero algunas personas ya dependen de su funcionamiento; prepara una alternativa limitada.",
+        "Insertar narración secundaria: «Restaurar un santuario — la discreción». El botón de cartas indicadas coloca ese objetivo como referencia, sin aumentar el progreso del arco. Si su premisa contradice la campaña, adapta los participantes y conserva su objetivo esencial.",
+        "Preparación: asigna al responsable una identidad de la campaña y un medio que ya haya aparecido. Revela las conexiones mediante pruebas o diálogo, no mediante información que los personajes no pueden obtener.",
+        "Epílogo: pregunta quién recibe ayuda, qué cambia en el lugar y qué vínculo permanece. Puedes iniciar después un nuevo arco con otro d4; este final es una propuesta y no impone el resultado a los jugadores."
+      ],
+      "instructions": [
+        {
+          "kind": "story",
+          "count": 1,
+          "cardId": "story-compendio-side-03-06"
+        }
+      ]
+    },
+    {
+      "id": "story-compendio-final-04-08",
+      "kind": "story",
+      "mission": "final",
+      "name": "La máquina olvidada — confrontación preparada",
+      "description": "Revelación para el DM: Un mecanismo antiguo volvió a funcionar después de una reparación aparentemente rutinaria. Su propósito original no coincide con las necesidades actuales, y alguien ocultó la activación para aprovechar una parte de sus efectos. Su objetivo es «proteger una ruta de suministros», desarrollado en la carta secundaria «Proteger una ruta de suministros — la urgencia».\n\nPrueba del vínculo: Los cambios siguen intervalos registrados en una pieza de mantenimiento, incluso cuando nadie interviene. Relaciona al menos dos acontecimientos del arco con esta prueba mediante una persona, un recurso o una decisión compartida; no invalida lo que los jugadores ya comprobaron.\n\nDesenlace posible: El responsable se niega a detenerse y protege el recurso central. Los personajes pueden retirar apoyos, abrir una salida o confrontarlo; si se llega a combate, el master elige un perfil adecuado al grupo. La derrota no borra los efectos anteriores. Dedica una escena a reparar el daño y decidir el destino del recurso.",
+      "abilities": [
+        "Límite de la revelación: Detenerlo es posible, pero algunas personas ya dependen de su funcionamiento; prepara una alternativa limitada.",
+        "Insertar narración secundaria: «Proteger una ruta de suministros — la urgencia». El botón de cartas indicadas coloca ese objetivo como referencia, sin aumentar el progreso del arco. Si su premisa contradice la campaña, adapta los participantes y conserva su objetivo esencial.",
+        "Preparación: asigna al responsable una identidad de la campaña y un medio que ya haya aparecido. Revela las conexiones mediante pruebas o diálogo, no mediante información que los personajes no pueden obtener.",
+        "Epílogo: pregunta quién recibe ayuda, qué cambia en el lugar y qué vínculo permanece. Puedes iniciar después un nuevo arco con otro d4; este final es una propuesta y no impone el resultado a los jugadores."
+      ],
+      "instructions": [
+        {
+          "kind": "story",
+          "count": 1,
+          "cardId": "story-compendio-side-05-05"
+        }
+      ]
+    },
+    {
+      "id": "story-compendio-final-04-09",
+      "kind": "story",
+      "mission": "final",
+      "name": "La máquina olvidada — reparación compartida",
+      "description": "Revelación para el DM: Un mecanismo antiguo volvió a funcionar después de una reparación aparentemente rutinaria. Su propósito original no coincide con las necesidades actuales, y alguien ocultó la activación para aprovechar una parte de sus efectos. Su objetivo es «romper un contrato injusto», desarrollado en la carta secundaria «Romper un contrato injusto — la rivalidad».\n\nPrueba del vínculo: Los cambios siguen intervalos registrados en una pieza de mantenimiento, incluso cuando nadie interviene. Relaciona al menos dos acontecimientos del arco con esta prueba mediante una persona, un recurso o una decisión compartida; no invalida lo que los jugadores ya comprobaron.\n\nDesenlace posible: El daño supera lo que una sola persona puede corregir. El grupo puede reunir a quienes conocen partes del problema y acordar tareas concretas; el responsable debe aportar algo comprobable para participar. La colaboración ofrece un cierre gradual, con señales visibles de recuperación y obligaciones que pueden retomarse después.",
+      "abilities": [
+        "Límite de la revelación: Detenerlo es posible, pero algunas personas ya dependen de su funcionamiento; prepara una alternativa limitada.",
+        "Insertar narración secundaria: «Romper un contrato injusto — la rivalidad». El botón de cartas indicadas coloca ese objetivo como referencia, sin aumentar el progreso del arco. Si su premisa contradice la campaña, adapta los participantes y conserva su objetivo esencial.",
+        "Preparación: asigna al responsable una identidad de la campaña y un medio que ya haya aparecido. Revela las conexiones mediante pruebas o diálogo, no mediante información que los personajes no pueden obtener.",
+        "Epílogo: pregunta quién recibe ayuda, qué cambia en el lugar y qué vínculo permanece. Puedes iniciar después un nuevo arco con otro d4; este final es una propuesta y no impone el resultado a los jugadores."
+      ],
+      "instructions": [
+        {
+          "kind": "story",
+          "count": 1,
+          "cardId": "story-compendio-side-07-04"
+        }
+      ]
+    },
+    {
+      "id": "story-compendio-final-04-10",
+      "kind": "story",
+      "mission": "final",
+      "name": "La máquina olvidada — consecuencia abierta",
+      "description": "Revelación para el DM: Un mecanismo antiguo volvió a funcionar después de una reparación aparentemente rutinaria. Su propósito original no coincide con las necesidades actuales, y alguien ocultó la activación para aprovechar una parte de sus efectos. Su objetivo es «cerrar una grieta peligrosa», desarrollado en la carta secundaria «Cerrar una grieta peligrosa — la prueba».\n\nPrueba del vínculo: Los cambios siguen intervalos registrados en una pieza de mantenimiento, incluso cuando nadie interviene. Relaciona al menos dos acontecimientos del arco con esta prueba mediante una persona, un recurso o una decisión compartida; no invalida lo que los jugadores ya comprobaron.\n\nDesenlace posible: La intervención puede detenerse, pero una parte de sus efectos ya no puede revertirse del mismo modo. Explica qué mejora está al alcance y deja que los personajes elijan cómo cuidar lo que ha cambiado. Cierra la amenaza inmediata y muestra un nuevo equilibrio. Una consecuencia pendiente puede iniciar otro arco sin negar este desenlace.",
+      "abilities": [
+        "Límite de la revelación: Detenerlo es posible, pero algunas personas ya dependen de su funcionamiento; prepara una alternativa limitada.",
+        "Insertar narración secundaria: «Cerrar una grieta peligrosa — la prueba». El botón de cartas indicadas coloca ese objetivo como referencia, sin aumentar el progreso del arco. Si su premisa contradice la campaña, adapta los participantes y conserva su objetivo esencial.",
+        "Preparación: asigna al responsable una identidad de la campaña y un medio que ya haya aparecido. Revela las conexiones mediante pruebas o diálogo, no mediante información que los personajes no pueden obtener.",
+        "Epílogo: pregunta quién recibe ayuda, qué cambia en el lugar y qué vínculo permanece. Puedes iniciar después un nuevo arco con otro d4; este final es una propuesta y no impone el resultado a los jugadores."
+      ],
+      "instructions": [
+        {
+          "kind": "story",
+          "count": 1,
+          "cardId": "story-compendio-side-09-03"
+        }
+      ]
+    },
+    {
+      "id": "story-compendio-final-05-01",
+      "kind": "story",
+      "mission": "final",
+      "name": "El guardián desplazado — confesión negociada",
+      "description": "Revelación para el DM: Un guardián fue apartado de la tarea que daba sentido a su presencia. Intenta restaurarla mediante acciones que afectan a inocentes, mientras quienes ocuparon su lugar ocultan qué retiraron del recinto. Su objetivo es «recuperar una investigación», desarrollado en la carta secundaria «Recuperar una investigación — la condición».\n\nPrueba del vínculo: Una marca de custodia aparece en el elemento desplazado y en los lugares afectados. Relaciona al menos dos acontecimientos del arco con esta prueba mediante una persona, un recurso o una decisión compartida; no invalida lo que los jugadores ya comprobaron.\n\nDesenlace posible: El responsable acepta explicar su intervención si se garantiza que se escuchará también su necesidad. Una confesión no sustituye la reparación: pide al grupo que decida qué puede acordar y qué corresponde a los afectados. Una reunión protegida permite cerrar la amenaza y deja un acuerdo cuyo cumplimiento puede comprobarse en otra sesión.",
+      "abilities": [
+        "Límite de la revelación: Reconocer su función no justifica sus métodos; puede acordarse una custodia nueva con límites claros.",
+        "Insertar narración secundaria: «Recuperar una investigación — la condición». El botón de cartas indicadas coloca ese objetivo como referencia, sin aumentar el progreso del arco. Si su premisa contradice la campaña, adapta los participantes y conserva su objetivo esencial.",
+        "Preparación: asigna al responsable una identidad de la campaña y un medio que ya haya aparecido. Revela las conexiones mediante pruebas o diálogo, no mediante información que los personajes no pueden obtener.",
+        "Epílogo: pregunta quién recibe ayuda, qué cambia en el lugar y qué vínculo permanece. Puedes iniciar después un nuevo arco con otro d4; este final es una propuesta y no impone el resultado a los jugadores."
+      ],
+      "instructions": [
+        {
+          "kind": "story",
+          "count": 1,
+          "cardId": "story-compendio-side-15-09"
+        }
+      ]
+    },
+    {
+      "id": "story-compendio-final-05-02",
+      "kind": "story",
+      "mission": "final",
+      "name": "El guardián desplazado — prueba pública",
+      "description": "Revelación para el DM: Un guardián fue apartado de la tarea que daba sentido a su presencia. Intenta restaurarla mediante acciones que afectan a inocentes, mientras quienes ocuparon su lugar ocultan qué retiraron del recinto. Su objetivo es «mantener una promesa», desarrollado en la carta secundaria «Mantener una promesa — el vínculo».\n\nPrueba del vínculo: Una marca de custodia aparece en el elemento desplazado y en los lugares afectados. Relaciona al menos dos acontecimientos del arco con esta prueba mediante una persona, un recurso o una decisión compartida; no invalida lo que los jugadores ya comprobaron.\n\nDesenlace posible: Los personajes pueden reunir una prueba verificable y presentarla ante quienes sufrieron las consecuencias. El responsable intenta desacreditar su procedencia en lugar de negar cada hecho; prepara una comprobación independiente. La revelación modifica una relación de poder y abre la cuestión de quién administrará los recursos recuperados.",
+      "abilities": [
+        "Límite de la revelación: Reconocer su función no justifica sus métodos; puede acordarse una custodia nueva con límites claros.",
+        "Insertar narración secundaria: «Mantener una promesa — el vínculo». El botón de cartas indicadas coloca ese objetivo como referencia, sin aumentar el progreso del arco. Si su premisa contradice la campaña, adapta los participantes y conserva su objetivo esencial.",
+        "Preparación: asigna al responsable una identidad de la campaña y un medio que ya haya aparecido. Revela las conexiones mediante pruebas o diálogo, no mediante información que los personajes no pueden obtener.",
+        "Epílogo: pregunta quién recibe ayuda, qué cambia en el lugar y qué vínculo permanece. Puedes iniciar después un nuevo arco con otro d4; este final es una propuesta y no impone el resultado a los jugadores."
+      ],
+      "instructions": [
+        {
+          "kind": "story",
+          "count": 1,
+          "cardId": "story-compendio-side-17-08"
+        }
+      ]
+    },
+    {
+      "id": "story-compendio-final-05-03",
+      "kind": "story",
+      "mission": "final",
+      "name": "El guardián desplazado — intervención discreta",
+      "description": "Revelación para el DM: Un guardián fue apartado de la tarea que daba sentido a su presencia. Intenta restaurarla mediante acciones que afectan a inocentes, mientras quienes ocuparon su lugar ocultan qué retiraron del recinto. Su objetivo es «desactivar una reliquia», desarrollado en la carta secundaria «Desactivar una reliquia — el intercambio».\n\nPrueba del vínculo: Una marca de custodia aparece en el elemento desplazado y en los lugares afectados. Relaciona al menos dos acontecimientos del arco con esta prueba mediante una persona, un recurso o una decisión compartida; no invalida lo que los jugadores ya comprobaron.\n\nDesenlace posible: Es posible detener el medio que utiliza el responsable sin revelar de inmediato toda la historia. Los personajes deben decidir quién necesita saberlo para no repetir el daño y qué secreto protege realmente a un inocente. La crisis termina con discreción, pero una persona conserva información que puede impulsar una aventura futura.",
+      "abilities": [
+        "Límite de la revelación: Reconocer su función no justifica sus métodos; puede acordarse una custodia nueva con límites claros.",
+        "Insertar narración secundaria: «Desactivar una reliquia — el intercambio». El botón de cartas indicadas coloca ese objetivo como referencia, sin aumentar el progreso del arco. Si su premisa contradice la campaña, adapta los participantes y conserva su objetivo esencial.",
+        "Preparación: asigna al responsable una identidad de la campaña y un medio que ya haya aparecido. Revela las conexiones mediante pruebas o diálogo, no mediante información que los personajes no pueden obtener.",
+        "Epílogo: pregunta quién recibe ayuda, qué cambia en el lugar y qué vínculo permanece. Puedes iniciar después un nuevo arco con otro d4; este final es una propuesta y no impone el resultado a los jugadores."
+      ],
+      "instructions": [
+        {
+          "kind": "story",
+          "count": 1,
+          "cardId": "story-compendio-side-19-07"
+        }
+      ]
+    },
+    {
+      "id": "story-compendio-final-05-04",
+      "kind": "story",
+      "mission": "final",
+      "name": "El guardián desplazado — restitución",
+      "description": "Revelación para el DM: Un guardián fue apartado de la tarea que daba sentido a su presencia. Intenta restaurarla mediante acciones que afectan a inocentes, mientras quienes ocuparon su lugar ocultan qué retiraron del recinto. Su objetivo es «liberar a una persona cautiva», desarrollado en la carta secundaria «Liberar a una persona cautiva — la discreción».\n\nPrueba del vínculo: Una marca de custodia aparece en el elemento desplazado y en los lugares afectados. Relaciona al menos dos acontecimientos del arco con esta prueba mediante una persona, un recurso o una decisión compartida; no invalida lo que los jugadores ya comprobaron.\n\nDesenlace posible: El desenlace requiere devolver un recurso, una función o una pertenencia a quienes pueden mantenerla. El responsable ofrece facilitarlo si conserva una parte de lo obtenido; aceptar o rechazar su propuesta tiene costes distintos. La restitución permite mostrar una mejora concreta y dar voz a quienes asumirán el cuidado posterior.",
+      "abilities": [
+        "Límite de la revelación: Reconocer su función no justifica sus métodos; puede acordarse una custodia nueva con límites claros.",
+        "Insertar narración secundaria: «Liberar a una persona cautiva — la discreción». El botón de cartas indicadas coloca ese objetivo como referencia, sin aumentar el progreso del arco. Si su premisa contradice la campaña, adapta los participantes y conserva su objetivo esencial.",
+        "Preparación: asigna al responsable una identidad de la campaña y un medio que ya haya aparecido. Revela las conexiones mediante pruebas o diálogo, no mediante información que los personajes no pueden obtener.",
+        "Epílogo: pregunta quién recibe ayuda, qué cambia en el lugar y qué vínculo permanece. Puedes iniciar después un nuevo arco con otro d4; este final es una propuesta y no impone el resultado a los jugadores."
+      ],
+      "instructions": [
+        {
+          "kind": "story",
+          "count": 1,
+          "cardId": "story-compendio-side-01-06"
+        }
+      ]
+    },
+    {
+      "id": "story-compendio-final-05-05",
+      "kind": "story",
+      "mission": "final",
+      "name": "El guardián desplazado — ruptura del acuerdo",
+      "description": "Revelación para el DM: Un guardián fue apartado de la tarea que daba sentido a su presencia. Intenta restaurarla mediante acciones que afectan a inocentes, mientras quienes ocuparon su lugar ocultan qué retiraron del recinto. Su objetivo es «restaurar un santuario», desarrollado en la carta secundaria «Restaurar un santuario — la urgencia».\n\nPrueba del vínculo: Una marca de custodia aparece en el elemento desplazado y en los lugares afectados. Relaciona al menos dos acontecimientos del arco con esta prueba mediante una persona, un recurso o una decisión compartida; no invalida lo que los jugadores ya comprobaron.\n\nDesenlace posible: Una alianza o condición sostiene la intervención. Los personajes pueden separar a sus participantes demostrando que sus intereses no coinciden, en vez de tratar a todos como un único adversario. La ruptura reduce la amenaza, aunque obliga a negociar compromisos nuevos entre quienes antes colaboraban.",
+      "abilities": [
+        "Límite de la revelación: Reconocer su función no justifica sus métodos; puede acordarse una custodia nueva con límites claros.",
+        "Insertar narración secundaria: «Restaurar un santuario — la urgencia». El botón de cartas indicadas coloca ese objetivo como referencia, sin aumentar el progreso del arco. Si su premisa contradice la campaña, adapta los participantes y conserva su objetivo esencial.",
+        "Preparación: asigna al responsable una identidad de la campaña y un medio que ya haya aparecido. Revela las conexiones mediante pruebas o diálogo, no mediante información que los personajes no pueden obtener.",
+        "Epílogo: pregunta quién recibe ayuda, qué cambia en el lugar y qué vínculo permanece. Puedes iniciar después un nuevo arco con otro d4; este final es una propuesta y no impone el resultado a los jugadores."
+      ],
+      "instructions": [
+        {
+          "kind": "story",
+          "count": 1,
+          "cardId": "story-compendio-side-03-05"
+        }
+      ]
+    },
+    {
+      "id": "story-compendio-final-05-06",
+      "kind": "story",
+      "mission": "final",
+      "name": "El guardián desplazado — salida protegida",
+      "description": "Revelación para el DM: Un guardián fue apartado de la tarea que daba sentido a su presencia. Intenta restaurarla mediante acciones que afectan a inocentes, mientras quienes ocuparon su lugar ocultan qué retiraron del recinto. Su objetivo es «proteger una ruta de suministros», desarrollado en la carta secundaria «Proteger una ruta de suministros — la rivalidad».\n\nPrueba del vínculo: Una marca de custodia aparece en el elemento desplazado y en los lugares afectados. Relaciona al menos dos acontecimientos del arco con esta prueba mediante una persona, un recurso o una decisión compartida; no invalida lo que los jugadores ya comprobaron.\n\nDesenlace posible: Algunas personas dependen del sistema que ha causado el daño. Detenerlo exige preparar una salida para ellas; el responsable puede perder su ventaja si dejan de necesitar su protección. La solución libera a los afectados y deja pendiente establecer una ayuda que no reproduzca esa dependencia.",
+      "abilities": [
+        "Límite de la revelación: Reconocer su función no justifica sus métodos; puede acordarse una custodia nueva con límites claros.",
+        "Insertar narración secundaria: «Proteger una ruta de suministros — la rivalidad». El botón de cartas indicadas coloca ese objetivo como referencia, sin aumentar el progreso del arco. Si su premisa contradice la campaña, adapta los participantes y conserva su objetivo esencial.",
+        "Preparación: asigna al responsable una identidad de la campaña y un medio que ya haya aparecido. Revela las conexiones mediante pruebas o diálogo, no mediante información que los personajes no pueden obtener.",
+        "Epílogo: pregunta quién recibe ayuda, qué cambia en el lugar y qué vínculo permanece. Puedes iniciar después un nuevo arco con otro d4; este final es una propuesta y no impone el resultado a los jugadores."
+      ],
+      "instructions": [
+        {
+          "kind": "story",
+          "count": 1,
+          "cardId": "story-compendio-side-05-04"
+        }
+      ]
+    },
+    {
+      "id": "story-compendio-final-05-07",
+      "kind": "story",
+      "mission": "final",
+      "name": "El guardián desplazado — última elección",
+      "description": "Revelación para el DM: Un guardián fue apartado de la tarea que daba sentido a su presencia. Intenta restaurarla mediante acciones que afectan a inocentes, mientras quienes ocuparon su lugar ocultan qué retiraron del recinto. Su objetivo es «romper un contrato injusto», desarrollado en la carta secundaria «Romper un contrato injusto — la prueba».\n\nPrueba del vínculo: Una marca de custodia aparece en el elemento desplazado y en los lugares afectados. Relaciona al menos dos acontecimientos del arco con esta prueba mediante una persona, un recurso o una decisión compartida; no invalida lo que los jugadores ya comprobaron.\n\nDesenlace posible: El responsable aún puede alcanzar su objetivo si acepta un coste que había intentado evitar. Ofrece al grupo una elección clara entre impedirlo por completo o permitir una versión limitada con garantías comprobables. El cierre nace de una decisión del grupo y permite que personas distintas valoren su resultado de forma diferente.",
+      "abilities": [
+        "Límite de la revelación: Reconocer su función no justifica sus métodos; puede acordarse una custodia nueva con límites claros.",
+        "Insertar narración secundaria: «Romper un contrato injusto — la prueba». El botón de cartas indicadas coloca ese objetivo como referencia, sin aumentar el progreso del arco. Si su premisa contradice la campaña, adapta los participantes y conserva su objetivo esencial.",
+        "Preparación: asigna al responsable una identidad de la campaña y un medio que ya haya aparecido. Revela las conexiones mediante pruebas o diálogo, no mediante información que los personajes no pueden obtener.",
+        "Epílogo: pregunta quién recibe ayuda, qué cambia en el lugar y qué vínculo permanece. Puedes iniciar después un nuevo arco con otro d4; este final es una propuesta y no impone el resultado a los jugadores."
+      ],
+      "instructions": [
+        {
+          "kind": "story",
+          "count": 1,
+          "cardId": "story-compendio-side-07-03"
+        }
+      ]
+    },
+    {
+      "id": "story-compendio-final-05-08",
+      "kind": "story",
+      "mission": "final",
+      "name": "El guardián desplazado — confrontación preparada",
+      "description": "Revelación para el DM: Un guardián fue apartado de la tarea que daba sentido a su presencia. Intenta restaurarla mediante acciones que afectan a inocentes, mientras quienes ocuparon su lugar ocultan qué retiraron del recinto. Su objetivo es «cerrar una grieta peligrosa», desarrollado en la carta secundaria «Cerrar una grieta peligrosa — el intermediario».\n\nPrueba del vínculo: Una marca de custodia aparece en el elemento desplazado y en los lugares afectados. Relaciona al menos dos acontecimientos del arco con esta prueba mediante una persona, un recurso o una decisión compartida; no invalida lo que los jugadores ya comprobaron.\n\nDesenlace posible: El responsable se niega a detenerse y protege el recurso central. Los personajes pueden retirar apoyos, abrir una salida o confrontarlo; si se llega a combate, el master elige un perfil adecuado al grupo. La derrota no borra los efectos anteriores. Dedica una escena a reparar el daño y decidir el destino del recurso.",
+      "abilities": [
+        "Límite de la revelación: Reconocer su función no justifica sus métodos; puede acordarse una custodia nueva con límites claros.",
+        "Insertar narración secundaria: «Cerrar una grieta peligrosa — el intermediario». El botón de cartas indicadas coloca ese objetivo como referencia, sin aumentar el progreso del arco. Si su premisa contradice la campaña, adapta los participantes y conserva su objetivo esencial.",
+        "Preparación: asigna al responsable una identidad de la campaña y un medio que ya haya aparecido. Revela las conexiones mediante pruebas o diálogo, no mediante información que los personajes no pueden obtener.",
+        "Epílogo: pregunta quién recibe ayuda, qué cambia en el lugar y qué vínculo permanece. Puedes iniciar después un nuevo arco con otro d4; este final es una propuesta y no impone el resultado a los jugadores."
+      ],
+      "instructions": [
+        {
+          "kind": "story",
+          "count": 1,
+          "cardId": "story-compendio-side-09-02"
+        }
+      ]
+    },
+    {
+      "id": "story-compendio-final-05-09",
+      "kind": "story",
+      "mission": "final",
+      "name": "El guardián desplazado — reparación compartida",
+      "description": "Revelación para el DM: Un guardián fue apartado de la tarea que daba sentido a su presencia. Intenta restaurarla mediante acciones que afectan a inocentes, mientras quienes ocuparon su lugar ocultan qué retiraron del recinto. Su objetivo es «salvar un taller», desarrollado en la carta secundaria «Salvar un taller — el favor».\n\nPrueba del vínculo: Una marca de custodia aparece en el elemento desplazado y en los lugares afectados. Relaciona al menos dos acontecimientos del arco con esta prueba mediante una persona, un recurso o una decisión compartida; no invalida lo que los jugadores ya comprobaron.\n\nDesenlace posible: El daño supera lo que una sola persona puede corregir. El grupo puede reunir a quienes conocen partes del problema y acordar tareas concretas; el responsable debe aportar algo comprobable para participar. La colaboración ofrece un cierre gradual, con señales visibles de recuperación y obligaciones que pueden retomarse después.",
+      "abilities": [
+        "Límite de la revelación: Reconocer su función no justifica sus métodos; puede acordarse una custodia nueva con límites claros.",
+        "Insertar narración secundaria: «Salvar un taller — el favor». El botón de cartas indicadas coloca ese objetivo como referencia, sin aumentar el progreso del arco. Si su premisa contradice la campaña, adapta los participantes y conserva su objetivo esencial.",
+        "Preparación: asigna al responsable una identidad de la campaña y un medio que ya haya aparecido. Revela las conexiones mediante pruebas o diálogo, no mediante información que los personajes no pueden obtener.",
+        "Epílogo: pregunta quién recibe ayuda, qué cambia en el lugar y qué vínculo permanece. Puedes iniciar después un nuevo arco con otro d4; este final es una propuesta y no impone el resultado a los jugadores."
+      ],
+      "instructions": [
+        {
+          "kind": "story",
+          "count": 1,
+          "cardId": "story-compendio-side-11-01"
+        }
+      ]
+    },
+    {
+      "id": "story-compendio-final-05-10",
+      "kind": "story",
+      "mission": "final",
+      "name": "El guardián desplazado — consecuencia abierta",
+      "description": "Revelación para el DM: Un guardián fue apartado de la tarea que daba sentido a su presencia. Intenta restaurarla mediante acciones que afectan a inocentes, mientras quienes ocuparon su lugar ocultan qué retiraron del recinto. Su objetivo es «conseguir un tratamiento», desarrollado en la carta secundaria «Conseguir un tratamiento — el regreso».\n\nPrueba del vínculo: Una marca de custodia aparece en el elemento desplazado y en los lugares afectados. Relaciona al menos dos acontecimientos del arco con esta prueba mediante una persona, un recurso o una decisión compartida; no invalida lo que los jugadores ya comprobaron.\n\nDesenlace posible: La intervención puede detenerse, pero una parte de sus efectos ya no puede revertirse del mismo modo. Explica qué mejora está al alcance y deja que los personajes elijan cómo cuidar lo que ha cambiado. Cierra la amenaza inmediata y muestra un nuevo equilibrio. Una consecuencia pendiente puede iniciar otro arco sin negar este desenlace.",
+      "abilities": [
+        "Límite de la revelación: Reconocer su función no justifica sus métodos; puede acordarse una custodia nueva con límites claros.",
+        "Insertar narración secundaria: «Conseguir un tratamiento — el regreso». El botón de cartas indicadas coloca ese objetivo como referencia, sin aumentar el progreso del arco. Si su premisa contradice la campaña, adapta los participantes y conserva su objetivo esencial.",
+        "Preparación: asigna al responsable una identidad de la campaña y un medio que ya haya aparecido. Revela las conexiones mediante pruebas o diálogo, no mediante información que los personajes no pueden obtener.",
+        "Epílogo: pregunta quién recibe ayuda, qué cambia en el lugar y qué vínculo permanece. Puedes iniciar después un nuevo arco con otro d4; este final es una propuesta y no impone el resultado a los jugadores."
+      ],
+      "instructions": [
+        {
+          "kind": "story",
+          "count": 1,
+          "cardId": "story-compendio-side-12-10"
+        }
+      ]
+    }
+  ]
+}

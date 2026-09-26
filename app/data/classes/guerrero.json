@@ -4,13 +4,16 @@
     {
       "id": "guerrero",
       "name": "Guerrero",
-      "description": "Resiste la primera línea y protege a sus compañeros.",
+      "description": "Combatiente experto en armas, guardia y maniobras. Usa Golpes o Tiros según el arma y Valor para proteger a sus compañeros. Segundo aliento y acción súbita representan sus recursos limitados. Especialización de referencia: campeón.",
       "image": "images/guerrero.svg",
       "baseHp": 9,
       "starterPools": {
         "weapon": [
           "espada",
-          "hacha"
+          "hacha",
+          "srd-espada-larga",
+          "srd-hacha-de-guerra",
+          "srd-lanza"
         ],
         "armor": [
           "coraza"
@@ -19,6 +22,11 @@
           "pocion",
           "vendas"
         ]
+      },
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 62,
+        "name": "Guerrero"
       }
     }
   ]

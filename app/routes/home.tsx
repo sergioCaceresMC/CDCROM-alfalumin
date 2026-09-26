@@ -10,6 +10,7 @@ import { Transfers } from "../components/transfers";
 import { Portrait, download, errorMessage } from "../components/shared";
 import { GameIcon } from "../components/game-icon";
 import { Master } from "../components/master";
+import { GameLibrary } from "../components/game-library";
 
 export async function clientLoader() {
   const [classes, rules] = await Promise.all([loadClasses(), loadRules()]);
@@ -26,6 +27,7 @@ export default function Home({ loaderData: { classes, rules } }: Route.Component
   const { library, ready, warning, raw, commit, retry } = useLibrary();
   const [params, setParams] = useSearchParams();
   const isMaster = params.get("modo") === "master";
+  const isCatalog = params.get("modo") === "biblioteca";
   const [error, setError] = useState("");
   const id = params.get("personaje");
   const character = library.characters.find(c => c.id === id);
@@ -49,8 +51,8 @@ export default function Home({ loaderData: { classes, rules } }: Route.Component
   return <div className="app-shell">
     <header className="site-header"><button className="brand" onClick={() => setParams({})} aria-label="Alfa Lumin, abrir biblioteca"><span className="brand-symbol"><GameIcon name="book" /></span><span>ALFA LUMIN<small>Cuaderno de aventuras</small></span></button><span className="offline-badge">Solo en tu dispositivo</span></header>
     <main className="main-content">
-      <nav className="mode-nav" aria-label="Modo de juego"><button aria-current={!isMaster ? "page" : undefined} onClick={() => setParams({})}><GameIcon name="shield" /> Jugadores</button><button aria-current={isMaster ? "page" : undefined} onClick={() => setParams({ modo: "master" })}><GameIcon name="book" /> Master</button></nav>
-      {isMaster ? <Master characters={library.characters} /> : <>
+      <nav className="mode-nav" aria-label="Modo de juego"><button aria-current={!isMaster && !isCatalog ? "page" : undefined} onClick={() => setParams({})}><GameIcon name="shield" /> Jugadores</button><button aria-current={isMaster ? "page" : undefined} onClick={() => setParams({ modo: "master" })}><GameIcon name="book" /> Master</button><button aria-current={isCatalog ? "page" : undefined} onClick={() => setParams({ modo: "biblioteca" })}><GameIcon name="book" /> Biblioteca</button></nav>
+      {isCatalog ? <GameLibrary classes={classes} /> : isMaster ? <Master characters={library.characters} /> : <>
       {warning && <aside className="notice error stack" role="alert"><p>{warning}</p><div className="button-row"><button onClick={retry}>Reintentar guardado</button>{raw && <button onClick={() => download("alfa-lumin-guardado-original.json", raw)}>Descargar datos originales</button>}</div></aside>}
       {error && <p className="notice error" role="alert">{error}</p>}
       {(creating || character) && <button className="text-button back" onClick={() => setParams({})}>← Biblioteca de personajes</button>}

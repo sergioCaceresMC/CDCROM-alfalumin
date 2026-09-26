@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "document": "SRD 5.2.1",
+  "items": 414,
+  "enemies": 330,
+  "npcs": 26,
+  "skills": {
+    "guerrero": 9,
+    "picaro": 9,
+    "mago": 84,
+    "druida": 55,
+    "paladin": 29,
+    "brujo": 36,
+    "explorador": 32,
+    "artificiero": 12
+  },
+  "referenceSpells": 339
+}

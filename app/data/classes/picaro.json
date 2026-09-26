@@ -1,25 +1,33 @@
-﻿{
-    "version":  1,
-    "entries":  [
-                    {
-                        "id":  "picaro",
-                        "name":  "Pícaro",
-                        "description":  "Combina sigilo, astucia y precisión para encontrar oportunidades.",
-                        "image":  "images/mistico.svg",
-                        "baseHp":  8,
-                        "starterPools":  {
-                                             "armor":  [
-                                                           "cuero"
-                                                       ],
-                                             "supply":  [
-                                                            "pocion",
-                                                            "vendas"
-                                                        ],
-                                             "weapon":  [
-                                                            "daga",
-                                                            "arco"
-                                                        ]
-                                         }
-                    }
-                ]
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "picaro",
+      "name": "Pícaro",
+      "description": "Especialista en sigilo, herramientas e ingenio. Usa Percepción para ocultarse, Inteligencia para mecanismos y Golpes para ataques oportunistas. Ataque furtivo cambia el dado de daño, sin sumarlo. Especialización de referencia: ladrón.",
+      "image": "images/mistico.svg",
+      "baseHp": 8,
+      "starterPools": {
+        "armor": [
+          "cuero"
+        ],
+        "supply": [
+          "pocion",
+          "vendas"
+        ],
+        "weapon": [
+          "daga",
+          "arco",
+          "srd-estoque",
+          "srd-arco-corto",
+          "srd-daga"
+        ]
+      },
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 86,
+        "name": "Pícaro"
+      }
+    }
+  ]
 }

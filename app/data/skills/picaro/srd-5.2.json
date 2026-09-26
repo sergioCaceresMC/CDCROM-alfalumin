@@ -1,0 +1,124 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "picaro-srd-ataque-furtivo",
+      "classId": "picaro",
+      "level": 1,
+      "name": "Ataque furtivo",
+      "attribute": "golpes",
+      "description": "Una vez por turno, si un aliado amenaza al objetivo o atacas desde ocultación, usa 1d6 en lugar del daño de un arma ligera. No se suman dados.",
+      "damage": "1d6",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 86,
+        "name": "Ataque furtivo"
+      }
+    },
+    {
+      "id": "picaro-srd-pericia-en-sigilo",
+      "classId": "picaro",
+      "level": 1,
+      "name": "Pericia en sigilo",
+      "attribute": "percepcion",
+      "description": "Intenta ocultarte usando cobertura y describe cómo evitas ser descubierto.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 86,
+        "name": "Pericia en sigilo"
+      }
+    },
+    {
+      "id": "picaro-srd-herramientas-de-ladron",
+      "classId": "picaro",
+      "level": 1,
+      "name": "Herramientas de ladrón",
+      "attribute": "inteligencia",
+      "description": "Con herramientas adecuadas puedes intentar abrir cerraduras y desactivar trampas no mágicas.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 86,
+        "name": "Herramientas de ladrón"
+      }
+    },
+    {
+      "id": "picaro-srd-jerga-de-ladrones",
+      "classId": "picaro",
+      "level": 1,
+      "name": "Jerga de ladrones",
+      "attribute": "carisma",
+      "description": "Reconoce mensajes y señales de comunidades de ladrones; no proporciona acceso automático a secretos.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 86,
+        "name": "Jerga de ladrones"
+      }
+    },
+    {
+      "id": "picaro-srd-maestria-con-daga",
+      "classId": "picaro",
+      "level": 1,
+      "name": "Maestría con daga",
+      "attribute": "golpes",
+      "description": "Usa una daga en combate cercano o arrojada según la distancia que permita el master.",
+      "damage": "1d4",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 86,
+        "name": "Maestría con daga"
+      }
+    },
+    {
+      "id": "picaro-srd-pericia-en-investigacion",
+      "classId": "picaro",
+      "level": 1,
+      "name": "Pericia en investigación",
+      "attribute": "inteligencia",
+      "description": "Examina mecanismos y rastros para descubrir una pista; requiere una acción y acceso al lugar.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 86,
+        "name": "Pericia en investigación"
+      }
+    },
+    {
+      "id": "picaro-srd-accion-astuta",
+      "classId": "picaro",
+      "level": 2,
+      "name": "Acción astuta",
+      "attribute": "percepcion",
+      "description": "Una vez por turno puedes desplazarte una celda adicional u ocultarte, además de tu acción principal.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 86,
+        "name": "Acción astuta"
+      }
+    },
+    {
+      "id": "picaro-srd-manos-rapidas",
+      "classId": "picaro",
+      "level": 3,
+      "name": "Manos rápidas",
+      "attribute": "inteligencia",
+      "description": "Manipula un objeto pequeño o utiliza herramientas de ladrón con rapidez. No concede un ataque adicional.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 86,
+        "name": "Manos rápidas"
+      }
+    },
+    {
+      "id": "picaro-srd-trabajo-en-las-alturas",
+      "classId": "picaro",
+      "level": 3,
+      "name": "Trabajo en las alturas",
+      "attribute": "percepcion",
+      "description": "Puedes intentar trepar sin herramientas en superficies con apoyos y reconocer rutas seguras por tejados.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 86,
+        "name": "Trabajo en las alturas"
+      }
+    }
+  ]
+}

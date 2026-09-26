@@ -26,6 +26,10 @@ export function Layout({ children }: { children: React.ReactNode }) {
       </head>
       <body>
         {children}
+        <footer className="main-content fine"><details><summary>Fuentes y licencia del contenido</summary>
+          <p>Esta obra incluye material procedente del documento de referencia del sistema 5.2.1 (“SRD 5.2.1”) de Wizards of the Coast LLC, disponible en <a href="https://www.dndbeyond.com/srd">https://www.dndbeyond.com/srd</a>. La licencia sobre el SRD 5.2.1 se concede de acuerdo con la licencia internacional de atribución/reconocimiento 4.0 de Creative Commons, disponible en <a href="https://creativecommons.org/licenses/by/4.0/legalcode">https://creativecommons.org/licenses/by/4.0/legalcode</a>.</p>
+          <p>Alfa Lumin adapta y resume este material para sus reglas propias. El artificiero y el contenido previo son creaciones del proyecto.</p>
+        </details></footer>
         <ScrollRestoration />
         <Scripts />
       </body>

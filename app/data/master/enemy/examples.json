@@ -1,27 +1,31 @@
-﻿{
+{
   "version": 1,
   "entries": [
     {
       "id": "enemy-esqueleto",
       "maxHp": 4,
-      "abilities": ["No habla ni siente miedo."],
+      "abilities": [
+        "No habla ni siente miedo."
+      ],
       "damage": "1d2",
       "name": "Esqueleto de la cripta",
       "armor": 12,
       "kind": "enemy",
       "description": "Una armadura oxidada mantiene unidos sus huesos.",
-      "image": "images/cards/enemy.svg"
+      "image": "https://www.dnd5eapi.co/api/images/monsters/skeleton.png"
     },
     {
       "id": "enemy-orco",
       "maxHp": 7,
-      "abilities": ["Busca cobertura cuando está herido."],
+      "abilities": [
+        "Busca cobertura cuando está herido."
+      ],
       "damage": "1d4",
       "name": "Orco errante",
       "armor": 13,
       "kind": "enemy",
       "description": "Un explorador con un hacha mellada protege su campamento.",
-      "image": "images/cards/enemy.svg"
+      "image": "https://www.dnd5eapi.co/api/images/monsters/orc.png"
     },
     {
       "id": "enemy-ogro",
@@ -34,7 +38,7 @@
       "armor": 10,
       "kind": "enemy",
       "description": "Un gigante solitario arrastra una maza de piedra.",
-      "image": "images/cards/enemy.svg"
+      "image": "https://www.dnd5eapi.co/api/images/monsters/ogre.png"
     }
   ]
 }

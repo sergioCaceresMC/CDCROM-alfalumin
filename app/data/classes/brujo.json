@@ -1,25 +1,32 @@
-﻿{
-    "version":  1,
-    "entries":  [
-                    {
-                        "id":  "brujo",
-                        "name":  "Brujo",
-                        "description":  "Obtiene poder de pactos y secretos que otros prefieren olvidar.",
-                        "image":  "images/mistico.svg",
-                        "baseHp":  7,
-                        "starterPools":  {
-                                             "armor":  [
-                                                           "cuero"
-                                                       ],
-                                             "supply":  [
-                                                            "pocion",
-                                                            "vendas"
-                                                        ],
-                                             "weapon":  [
-                                                            "baston",
-                                                            "daga"
-                                                        ]
-                                         }
-                    }
-                ]
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "brujo",
+      "name": "Brujo",
+      "description": "Invocador ligado a un pacto sobrenatural. Emplea Carisma para la magia del pacto y selecciona invocaciones que reflejan su vínculo. Los familiares ayudan a explorar sin atacar por su cuenta. Especialización de referencia: patrón infernal.",
+      "image": "images/mistico.svg",
+      "baseHp": 7,
+      "starterPools": {
+        "armor": [
+          "cuero"
+        ],
+        "supply": [
+          "pocion",
+          "vendas"
+        ],
+        "weapon": [
+          "baston",
+          "daga",
+          "srd-baston",
+          "srd-daga"
+        ]
+      },
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 40,
+        "name": "Brujo"
+      }
+    }
+  ]
 }

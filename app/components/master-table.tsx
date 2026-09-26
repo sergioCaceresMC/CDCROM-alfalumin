@@ -1,8 +1,11 @@
 ﻿import { useEffect, useRef, useState } from "react";
 import type { PointerEvent } from "react";
+import { SourceReference } from "./source-reference";
+import { CardItemProperties } from "./card-item-properties";
+import { CardImageCredit } from "./card-image-credit";
 import { loadCards, loadMaps } from "../master/catalog";
-import { bringCardToFront, cardKinds, drawCard, kindLabels, mapSchema, movePiece, placeCard, removeTableCards, resetTable, resizeImageMap, restoreCard, rollDie, setCardHp, storeAllCards, storeCard, tableSize, TILE_SIZE } from "../master/table-engine";
-import type { CardDefinition, CardKind, MapDefinition, Table } from "../master/table-engine";
+import { bringCardToFront, canDrawNarrative, cardKinds, drawCard, drawNarrative, executeCardInstructions, kindLabels, mapSchema, missionLabels, movePiece, placeCard, placeNarrative, removeTableCards, resetTable, resizeImageMap, restoreCard, rollDie, setCardHp, startNarrative, storeAllCards, storeCard, tableSize, TILE_SIZE } from "../master/table-engine";
+import type { CardDefinition, CardKind, MapDefinition, StoryMission, Table } from "../master/table-engine";
 import { errorMessage } from "./shared";
 import { MapTile } from "./map-tile";
 import { GameIcon } from "./game-icon";
@@ -22,6 +25,7 @@ export function MasterTable({ table, update, onLeave, campaignName }: { table: T
   const [toolsTab, setToolsTab] = useState("decks");
   const bounds = tableSize(table);
   const [kind, setKind] = useState<CardKind>("terrain");
+  const [storyMission, setStoryMission] = useState<StoryMission>("main");
   const [catalog, setCatalog] = useState<CardDefinition[]>([]);
   const [maps, setMaps] = useState<MapDefinition[]>([]);
   const [loading, setLoading] = useState(true);
@@ -43,15 +47,11 @@ export function MasterTable({ table, update, onLeave, campaignName }: { table: T
   const mapTop = (bounds.height - mapHeight) / 2;
   useEffect(() => {
     const view = viewport.current;
-    const focusedMap = table.imageMaps.find(m => m.id === selected);
-    if (view && focusedMap) {
-      view.scrollLeft = Math.max(0, (focusedMap.x + focusedMap.width / 2) * zoom - view.clientWidth / 2);
-      view.scrollTop = Math.max(0, (focusedMap.y + focusedMap.height / 2) * zoom - view.clientHeight / 2);
-    } else if (view && table.map) {
+    if (view && table.map) {
       view.scrollLeft = Math.max(0, (mapLeft + mapWidth / 2) * zoom - view.clientWidth / 2);
       view.scrollTop = Math.max(0, (mapTop + mapHeight / 2) * zoom - view.clientHeight / 2);
     }
-  }, [table.map?.id, mapLeft, mapTop, mapWidth, mapHeight, zoom, selected]);
+  }, [table.map?.id, mapLeft, mapTop, mapWidth, mapHeight, zoom]);
   const drag = useRef<{ id: string; startX: number; startY: number; x: number; y: number } | null>(null);
   useEffect(() => {
     let active = true; setLoading(true); setCatalog([]); setError(""); setQuery("");
@@ -89,14 +89,13 @@ export function MasterTable({ table, update, onLeave, campaignName }: { table: T
   const token = table.tokens.find(c => c.id === selected);
   const imageMap = table.imageMaps.find(m => m.id === selected);
   const normalized = (s: string) => s.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
-  const results = catalog.filter(c => normalized(`${c.name} ${c.description}`).includes(normalized(query)));
+  const deck = catalog.filter(c => kind !== "story" || (c.mission ?? "main") === storyMission);
+  const results = deck.filter(c => normalized(`${c.name} ${c.description}`).includes(normalized(query)));
+  const storyAllowed = kind !== "story" || canDrawNarrative(table, storyMission);
   async function executeInstructions(definition: CardDefinition) {
     try {
       const decks = await Promise.all(definition.instructions.map(i => loadCards(i.kind)));
-      update(current => definition.instructions.reduce((state, instruction, index) => {
-        for (let count = 0; count < instruction.count; count++) state = drawCard(state, instruction.kind, decks[index], crypto.randomUUID());
-        return state;
-      }, current)); setError("");
+      update(current => executeCardInstructions(current, definition.instructions, decks, () => crypto.randomUUID())); setError("");
     } catch (e) { setError(errorMessage(e)); }
   }
   return <section className="fullscreen-table" aria-label="Mesa de aventura">
@@ -120,12 +119,26 @@ export function MasterTable({ table, update, onLeave, campaignName }: { table: T
         <nav className="tools-tabs" aria-label="Secciones de herramientas">{[{ id: "decks", label: "Barajas" }, { id: "search", label: "Buscar" }, { id: "inventory", label: "Inventario" }].map(tab => <button key={tab.id} aria-current={toolsTab === tab.id ? "page" : undefined} onClick={() => setToolsTab(tab.id)}>{tab.label}</button>)}</nav>
         {toolsTab !== "inventory" && <>
         <label>Categoría de cartas<select value={kind} onChange={e => setKind(e.target.value as CardKind)}>{cardKinds.map(k => <option key={k} value={k}>{kindLabels[k]}</option>)}</select></label>
+        {kind === "story" && <section className="stack" aria-label="Arco de narración">
+          <label>Tipo de narración<select value={storyMission} onChange={e => setStoryMission(e.target.value as StoryMission)}>{Object.entries(missionLabels).map(([value, label]) => <option key={value} value={value}>{label}</option>)}</select></label>
+          {table.narrative.target === null ? <><p className="fine">Lanza un d4 para saber cuántas cartas principales o secundarias necesita este arco antes de su final.</p><button onClick={() => act(() => update(t => startNarrative(t)))}>Iniciar arco · lanzar d4</button></> : <>
+            <p className="fine" role="status">d4: {table.narrative.target} · Narración: {table.narrative.cards.length}/{table.narrative.target}{table.narrative.finale ? " · Arco cerrado" : table.narrative.cards.length === table.narrative.target ? " · Final disponible" : " · En curso"}</p>
+            {table.narrative.cards.length === table.narrative.target && !table.narrative.finale && <button onClick={() => setStoryMission("final")}>Ver baraja final</button>}
+            <details><summary>Cartas del arco</summary><div className="stack">{table.narrative.cards.map((c, index) => <details key={index}><summary>{index + 1}. {c.name}</summary><p>{c.description}</p>{c.abilities.map((note, i) => <p className="fine" key={i}>{note}</p>)}</details>)}{table.narrative.finale && <details><summary>Final: {table.narrative.finale.name}</summary><p>{table.narrative.finale.description}</p>{table.narrative.finale.abilities.map((note, i) => <p className="fine" key={i}>{note}</p>)}</details>}</div></details>
+            <button className="secondary" onClick={() => {
+              if ((table.narrative.cards.length || table.narrative.finale) && !window.confirm("¿Iniciar otro arco con un nuevo d4? Se sustituirá el registro del arco actual; las cartas de la mesa y del inventario se conservan.")) return;
+              act(() => update(t => startNarrative(t))); setStoryMission("main");
+            }}>Nuevo arco · lanzar d4</button>
+          </>}
+          {!storyAllowed && <p className="fine">{table.narrative.finale ? "Inicia otro arco para continuar la narración." : storyMission === "final" ? "Completa las cartas requeridas para sacar un final." : table.narrative.target === null ? "Inicia el arco antes de sacar narración." : "Elige la baraja final para cerrar este arco."}</p>}
+          <p className="fine">Cada extracción principal o secundaria cuenta una vez. Guardar, retirar o recolocar cartas no cambia el progreso. Las cartas indicadas en los detalles son apoyos y no cuentan para el arco.</p>
+        </section>}
         {toolsTab === "search" && <label>Buscar carta<input type="search" value={query} onChange={e => setQuery(e.target.value)} placeholder="Nombre o descripción" /></label>}
         {loading ? <p role="status">Cargando baraja…</p> : <>
-          {toolsTab === "decks" ? <section className="stack" aria-label="Baraja seleccionada"><h3>{kindLabels[kind]}</h3><p className="fine">{catalog.length} cartas diferentes · Tiradas ilimitadas</p>
-          <button className="primary" disabled={!catalog.length} onClick={() => act(() => update(t => drawCard(t, kind, catalog, crypto.randomUUID())))}>Sacar carta al azar</button>
+          {toolsTab === "decks" ? <section className="stack" aria-label="Baraja seleccionada"><h3>{kindLabels[kind]}{kind === "story" ? ` · ${missionLabels[storyMission]}` : ""}</h3><p className="fine">{deck.length} cartas diferentes · Tiradas ilimitadas</p>
+          <button className="primary" disabled={!deck.length || !storyAllowed} onClick={() => act(() => update(t => kind === "story" ? drawNarrative(t, storyMission, deck, crypto.randomUUID()) : drawCard(t, kind, deck, crypto.randomUUID())))}>Sacar carta al azar</button>
           <p className="fine">Cada extracción crea una copia. Las cartas pueden repetirse.</p></section> : <section className="stack" aria-label="Buscar carta específica">
-          <div className="master-card-results">{results.slice(0, 30).map(c => <button key={c.id} className="secondary" onClick={() => act(() => update(t => placeCard(t, c, crypto.randomUUID())))}>Colocar · {c.name}</button>)}</div>
+          <div className="master-card-results">{results.slice(0, 30).map(c => <button key={c.id} className="secondary" disabled={!storyAllowed} onClick={() => act(() => update(t => kind === "story" ? placeNarrative(t, c, crypto.randomUUID()) : placeCard(t, c, crypto.randomUUID())))}>Colocar · {c.name}</button>)}</div>
           {!results.length && <p className="fine">No hay cartas que coincidan.</p>}
           {results.length > 30 && <p className="fine">Mostrando 30 de {results.length}. Afina la búsqueda.</p>}
           </section>}
@@ -193,7 +206,8 @@ export function MasterTable({ table, update, onLeave, campaignName }: { table: T
               <div className="card-banner"><span className="card-emblem"><GameIcon name={c.definition.kind === "enemy" ? "sword" : c.definition.kind === "npc" ? "shield" : "book"} /></span><span>{kindLabels[c.definition.kind]}</span></div>
               <CardArt key={c.definition.image ?? c.definition.kind} definition={c.definition} />
               <h3 className="piece-handle">{c.definition.name}</h3>
-              <p className="card-description">{c.definition.description}</p>{c.definition.mission && <p className="fine">Misión {c.definition.mission === "main" ? "principal" : "secundaria"}</p>}
+              <p className="card-description">{c.definition.description}</p>{c.definition.mission && <p className="fine">Narración {missionLabels[c.definition.mission].toLowerCase()}</p>}
+              <CardItemProperties item={c.definition.item} />
               {c.hp !== undefined && <p>Vida {c.hp} / {c.definition.maxHp} · Armadura {c.definition.armor ?? "—"} · Daño {c.definition.damage ?? "—"}</p>}
               <div className="card-quick-actions" onPointerDown={e => e.stopPropagation()} onKeyDown={e => e.stopPropagation()} onClick={e => e.stopPropagation()}>
                 <button title="Guardar carta" aria-label={`Guardar ${c.definition.name} en inventario`} onClick={() => act(() => { update(t => storeCard(t, c.id)); if (selected === c.id) setSelected(null); })}><GameIcon name="bag" /></button>
@@ -212,7 +226,7 @@ export function MasterTable({ table, update, onLeave, campaignName }: { table: T
             e.preventDefault(); const name = String(new FormData(e.currentTarget).get("name")).trim();
             act(() => update(t => ({ ...t, tokens: t.tokens.map(p => p.id === token.id ? { ...p, label: name } : p) })));
           }}><label>Nombre de ficha<input key={`${token.id}-${token.label}`} name="name" defaultValue={token.label} maxLength={30} required /></label><button>Guardar nombre de ficha</button></form>}
-          {card && <><p>{card.definition.description}</p>{card.definition.abilities.map((a, index) => <p key={index} className="fine">{a}</p>)}
+          {card && <><p>{card.definition.description}</p><CardImageCredit card={card.definition} /><CardItemProperties item={card.definition.item} /><SourceReference source={card.definition.source} />{card.definition.abilities.map((a, index) => <p key={index} className="fine">{a}</p>)}
             {card.definition.kind === "terrain" && card.definition.musicUrl && <div className="stack terrain-music"><h3>Música sugerida</h3><a href={card.definition.musicUrl} target="_blank" rel="noopener noreferrer">Abrir sugerencia musical ↗</a><p className="fine">{card.definition.musicUrl}</p></div>}
             {card.hp !== undefined && <label>Vida de la carta<input type="number" value={card.hp} min={0} max={card.definition.maxHp} onChange={e => act(() => update(t => setCardHp(t, card.id, e.target.valueAsNumber)))} /></label>}
             <label>Notas de la carta<textarea key={card.id} defaultValue={card.notes} maxLength={4000} rows={3} onBlur={e => act(() => update(t => ({ ...t, cards: t.cards.map(c => c.id === card.id ? { ...c, notes: e.target.value } : c) })))} /></label>

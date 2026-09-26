@@ -7,6 +7,11 @@
     "node": "^22.22.2 || ^24.15.0 || >=26.0.0"
   },
   "scripts": {
+    "catalog:build": "node scripts/build-srd-catalogs.mjs",
+    "images:check": "node scripts/check-card-images.mjs",
+    "terrain:build": "node scripts/build-terrain-compendium.mjs",
+    "terrain:images": "node scripts/build-terrain-images.mjs && node scripts/build-terrain-compendium.mjs",
+    "story:build": "node scripts/build-story-compendium.mjs",
     "build": "react-router build",
     "dev": "react-router dev",
     "start": "vite preview",

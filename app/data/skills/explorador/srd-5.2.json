@@ -1,0 +1,453 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "explorador-srd-enemigo-predilecto",
+      "classId": "explorador",
+      "level": 1,
+      "name": "Enemigo predilecto",
+      "attribute": "percepcion",
+      "description": "Observa o rastrea una criatura marcada narrativamente; no añade daño automático.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 58,
+        "name": "Enemigo predilecto"
+      }
+    },
+    {
+      "id": "explorador-srd-explorador-diestro",
+      "classId": "explorador",
+      "level": 1,
+      "name": "Explorador diestro",
+      "attribute": "percepcion",
+      "description": "Reconoce huellas y rutas seguras en un entorno que conoces.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 58,
+        "name": "Explorador diestro"
+      }
+    },
+    {
+      "id": "explorador-srd-estilo-de-combate-a-distancia",
+      "classId": "explorador",
+      "level": 2,
+      "name": "Estilo de combate a distancia",
+      "attribute": "tiros",
+      "description": "Dispara desde una posición preparada usando Tiros.",
+      "damage": "1d6",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 58,
+        "name": "Estilo de combate a distancia"
+      }
+    },
+    {
+      "id": "explorador-srd-cazador",
+      "classId": "explorador",
+      "level": 3,
+      "name": "Cazador",
+      "attribute": "inteligencia",
+      "description": "Tras observar un turno a una criatura, pregunta al master por una defensa o debilidad visible.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 58,
+        "name": "Cazador"
+      }
+    },
+    {
+      "id": "explorador-srd-alarma",
+      "classId": "explorador",
+      "name": "Alarma",
+      "level": 2,
+      "attribute": "percepcion",
+      "description": "Inspiración: Preparas una alarma contra los intrusos. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 119,
+        "name": "Alarma",
+        "text": "Abjuración de nivel 1 (explorador, mago) Tiempo de lanzamiento: 1 minuto o un ritual Alcance: 9 m Componentes: V, S, M (una campana e hilo de plata) Duración: 8 horas Preparas una alarma contra los intrusos. Elige una puerta, una ventana o una zona dentro del alcance que no sea mayor que un cubo de 6 m de lado. Hasta que el conjuro termine, una alarma te alertará siempre que una criatura toque la zona vigilada o entre en ella. Al lanzar el conjuro, puedes designar qué criaturas no activarán la alarma, que puede ser mental o sonora: Alarma mental. La alarma te avisará con un sonido dentro de tu mente si estás a 1,5 km o menos de la zona vigilada. Si estás durmiendo, te despertará. Alarma sonora. La alarma producirá el sonido de una campanilla durante 10 segundos, que será audible a 18 m o menos de la zona vigilada."
+      }
+    },
+    {
+      "id": "explorador-srd-arma-magica",
+      "classId": "explorador",
+      "name": "Arma mágica",
+      "level": 3,
+      "attribute": "percepcion",
+      "description": "Inspiración: Tocas un arma no mágica. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 122,
+        "name": "Arma mágica",
+        "text": "Transmutación de nivel 2 (explorador, hechicero, mago, paladín) Tiempo de lanzamiento: Acción adicional Alcance: Toque Componentes: V, S Duración: 1 hora Tocas un arma no mágica. Hasta que el conjuro termine, esa arma se convierte en un arma mágica con un bonificador de +1 a las tiradas de ataque y de daño. El conjuro termina antes si lo vuelves a lanzar. Con un espacio de conjuro de nivel superior. El bonificador aumenta a +2 si utilizas un espacio de niveles 3 a 5. El bonificador aumenta a +3 si utilizas un espacio de nivel 6 o superior."
+      }
+    },
+    {
+      "id": "explorador-srd-auxilio",
+      "classId": "explorador",
+      "name": "Auxilio",
+      "level": 3,
+      "attribute": "percepcion",
+      "description": "Inspiración: Elige hasta tres criaturas dentro del alcance. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 124,
+        "name": "Auxilio",
+        "text": "Abjuración de nivel 2 (bardo, clérigo, druida, explorador, paladín) Tiempo de lanzamiento: Acción Alcance: 9 m Componentes: V, S, M (una tira de tela blanca) Duración: 8 horas Elige hasta tres criaturas dentro del alcance. Los puntos de golpe máximos y actuales de cada objetivo aumentan en 5 hasta que termine el conjuro. Con un espacio de conjuro de nivel superior. Los puntos de golpe de cada objetivo aumentan en 5 adicionales por cada nivel por encima de 2 que tenga el espacio."
+      }
+    },
+    {
+      "id": "explorador-srd-buenas-bayas",
+      "classId": "explorador",
+      "name": "Buenas bayas",
+      "level": 2,
+      "attribute": "percepcion",
+      "description": "Inspiración: En tu mano aparecen diez bayas, que estarán impregnadas de magia hasta que termine el conjuro. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 126,
+        "name": "Buenas bayas",
+        "text": "Conjuración de nivel 1 (druida, explorador) Tiempo de lanzamiento: Acción Alcance: Lanzador Componentes: V, S, M (una rama de muérdago) Duración: 24 horas En tu mano aparecen diez bayas, que estarán impregnadas de magia hasta que termine el conjuro. Una criatura puede usar una acción adicional para comerse una, lo que le permite recuperar 1 punto de golpe. Además, la baya proporciona alimento suficiente como para mantener a una criatura durante 1 día. Las bayas que no se consuman desaparecerán cuando el conjuro termine."
+      }
+    },
+    {
+      "id": "explorador-srd-crecimiento-espinoso",
+      "classId": "explorador",
+      "name": "Crecimiento espinoso",
+      "level": 3,
+      "attribute": "percepcion",
+      "description": "Inspiración: Del suelo en una esfera de una cantidad acordada m de radio centrada en un punto dentro del alcance brotan espinas y pinchos. Adaptación: una acción, un objetivo, daño 1d6. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "damage": "1d6",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 137,
+        "name": "Crecimiento espinoso",
+        "text": "Transmutación de nivel 2 (druida, explorador) Tiempo de lanzamiento: Acción Alcance: 45 m Componentes: V, S, M (siete espinas) Duración: Concentración, hasta 10 minutos Del suelo en una esfera de 6 m de radio centrada en un punto dentro del alcance brotan espinas y pinchos. La zona se vuelve terreno difícil hasta que termine el conjuro. Cuando una criatura entra en la zona o se desplaza por ella, recibe 2d4 de daño perforante por cada 1,5 m que avanza. La transformación del suelo se camufla, de forma que parece natural. Cualquier criatura que no pueda ver la zona cuando se lanza el conjuro deberá emplear una acción de buscar y superar una prueba de Sabiduría (Percepción o Supervivencia) contra tu CD de salvación de conjuros para reconocer que el terreno es peligroso antes de adentrarse en él."
+      }
+    },
+    {
+      "id": "explorador-srd-curar-heridas",
+      "classId": "explorador",
+      "name": "Curar heridas",
+      "level": 2,
+      "attribute": "percepcion",
+      "description": "Inspiración: Una criatura a la que toques recupera una cantidad de puntos de golpe igual a el daño adaptado más tu modificador por aptitud mágica. Adaptación: una acción, un objetivo, cura 2 puntos de vida manualmente sin superar el máximo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 138,
+        "name": "Curar heridas",
+        "text": "Abjuración de nivel 1 (bardo, clérigo, druida, explorador, paladín) Tiempo de lanzamiento: Acción Alcance: Toque Componentes: V, S Duración: Instantáneo Una criatura a la que toques recupera una cantidad de puntos de golpe igual a 2d8 más tu modificador por aptitud mágica. Con un espacio de conjuro de nivel superior. La curación aumenta en 2d8 por cada nivel por encima de 1 que tenga el espacio."
+      }
+    },
+    {
+      "id": "explorador-srd-detectar-magia",
+      "classId": "explorador",
+      "name": "Detectar magia",
+      "level": 2,
+      "attribute": "percepcion",
+      "description": "Inspiración: Hasta que el conjuro termine, podrás percibir la presencia de efectos mágicos a una cantidad acordada m o menos de ti. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 141,
+        "name": "Detectar magia",
+        "text": "Adivinación de nivel 1 (bardo, brujo, clérigo, druida, explorador, hechicero, mago, paladín) Tiempo de lanzamiento: Acción o ritual Alcance: Lanzador Componentes: V, S Duración: Concentración, hasta 10 minutos Hasta que el conjuro termine, podrás percibir la presencia de efectos mágicos a 9 m o menos de ti. Si percibes alguno, puedes usar una acción de magia para ver una débil aura alrededor de cualquier objeto o criatura visible dentro de la zona que esté afectada por la magia y, si el efecto lo creó un conjuro, distingues a qué escuela mágica pertenece. El conjuro no puede atravesar 30 cm de piedra, tierra o madera, 2,5 cm de metal o una lámina fina de plomo."
+      }
+    },
+    {
+      "id": "explorador-srd-detectar-trampas",
+      "classId": "explorador",
+      "name": "Detectar trampas",
+      "level": 3,
+      "attribute": "percepcion",
+      "description": "Inspiración: Detectas cualquier trampa dentro del alcance que esté en tu línea de visión. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 141,
+        "name": "Detectar trampas",
+        "text": "Adivinación de nivel 2 (clérigo, druida, explorador) Tiempo de lanzamiento: Acción Alcance: 36 m Componentes: V, S Duración: Instantáneo Detectas cualquier trampa dentro del alcance que esté en tu línea de visión. En lo que a este conjuro respecta, una trampa incluye cualquier objeto o mecanismo que fuese creado para causar un daño u otro peligro. Por tanto, el conjuro detectaría los conjuros alarma y glifo custodio o una trampa de pozo mecánica, pero no revelaría una debilidad natural del suelo, un techo inestable o un socavón oculto. Este conjuro alerta de la existencia de una trampa, pero no te indica su ubicación. Aun así, descubres la naturaleza general del peligro que supone una trampa que detectas."
+      }
+    },
+    {
+      "id": "explorador-srd-detectar-venenos-y-enfermedades",
+      "classId": "explorador",
+      "name": "Detectar venenos y enfermedades",
+      "level": 2,
+      "attribute": "percepcion",
+      "description": "Inspiración: Hasta que el conjuro termine, percibes la ubicación de venenos, criaturas venenosas y enfermedades mágicas a una cantidad acordada m o menos de ti, e identificas el tipo de veneno, criatura o enfermedad en cada caso. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 142,
+        "name": "Detectar venenos y enfermedades",
+        "text": "Adivinación de nivel 1 (clérigo, druida, explorador, paladín) Tiempo de lanzamiento: Acción o ritual Alcance: Lanzador Componentes: V, S, M (una hoja de tejo) Duración: Concentración, hasta 10 minutos Hasta que el conjuro termine, percibes la ubicación de venenos, criaturas venenosas y enfermedades mágicas a 9 m o menos de ti, e identificas el tipo de veneno, criatura o enfermedad en cada caso. El conjuro no puede atravesar 30 cm de piedra, tierra o madera, 2,5 cm de metal o una lámina fina de plomo."
+      }
+    },
+    {
+      "id": "explorador-srd-encantar-animal",
+      "classId": "explorador",
+      "name": "Encantar animal",
+      "level": 2,
+      "attribute": "percepcion",
+      "description": "Inspiración: Haces objetivo a una bestia que puedas ver dentro del alcance. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 144,
+        "name": "Encantar animal",
+        "text": "Encantamiento de nivel 1 (bardo, druida, explorador) Tiempo de lanzamiento: Acción Alcance: 9 m Componentes: V, S, M (unas migajas de comida) Duración: 24 horas Haces objetivo a una bestia que puedas ver dentro del alcance. El objetivo deberá superar una tirada de salvación de Sabiduría o tendrá el estado de hechizado hasta que termine el conjuro. Si alguno de tus aliados o tú dañáis al objetivo, el conjuro termina. Con un espacio de conjuro de nivel superior. Puedes hacer objetivo a una bestia adicional por cada nivel por encima de 1 que tenga el espacio."
+      }
+    },
+    {
+      "id": "explorador-srd-enmaranar",
+      "classId": "explorador",
+      "name": "Enmarañar",
+      "level": 2,
+      "attribute": "percepcion",
+      "description": "Inspiración: Unas plantas apresadoras surgen del suelo en un cuadrado de una cantidad acordada m de lado dentro del alcance. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 146,
+        "name": "Enmarañar",
+        "text": "Conjuración de nivel 1 (druida, explorador) Tiempo de lanzamiento: Acción Alcance: 27 m Componentes: V, S Duración: Concentración, hasta 1 minuto Unas plantas apresadoras surgen del suelo en un cuadrado de 6 m de lado dentro del alcance. Hasta que termine el conjuro, estas plantas convertirán la zona en terreno difícil y desaparecerán cuando el conjuro termine. Cada criatura (excepto tú) que esté en la zona cuando lances el conjuro deberá superar una tirada de salvación de Fuerza o tendrá el estado de apresada hasta que el conjuro termine. Una criatura apresada puede emplear una acción para hacer una prueba de Fuerza (Atletismo) contra tu CD de salvación de conjuros. Si la supera, se liberará de las plantas y dejará de estar apresada por ellas."
+      }
+    },
+    {
+      "id": "explorador-srd-golpe-apresador",
+      "classId": "explorador",
+      "name": "Golpe apresador",
+      "level": 2,
+      "attribute": "percepcion",
+      "description": "Inspiración: Al acertar al objetivo, unas enredaderas aparecerán sobre él y deberá hacer una tirada de salvación de Fuerza. Adaptación: una acción, un objetivo, daño 1d4. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "damage": "1d4",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 152,
+        "name": "Golpe apresador",
+        "text": "Conjuración de nivel 1 (explorador) Tiempo de lanzamiento: Acción adicional, que realizas de inmediato tras acertar a una criatura con un arma Alcance: Lanzador Componentes: V Duración: Concentración, hasta 1 minuto Al acertar al objetivo, unas enredaderas aparecerán sobre él y deberá hacer una tirada de salvación de Fuerza. Las criaturas Grandes o de mayor tamaño tienen ventaja en esta tirada. Si la falla, tendrá el estado de apresado hasta que el conjuro termine. Si la supera, las enredaderas se marchitan y el conjuro termina. Mientras esté apresado, el objetivo sufrirá 1d6 de daño perforante al principio de cada uno de sus turnos. El objetivo o una criatura a su alcance puede emplear una acción para hacer una prueba de Fuerza (Atletismo) contra tu CD de salvación de conjuros. Si la supera, el conjuro termina. Con un espacio de conjuro de nivel superior. El daño aumenta en 1d6 por cada nivel por encima de 1 que tenga el espacio."
+      }
+    },
+    {
+      "id": "explorador-srd-hablar-con-los-animales",
+      "classId": "explorador",
+      "name": "Hablar con los animales",
+      "level": 2,
+      "attribute": "percepcion",
+      "description": "Inspiración: Hasta que termine el conjuro, puedes comprender y comunicarte verbalmente con bestias y usar con ellas cualquiera de las opciones de la acción de influir. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 154,
+        "name": "Hablar con los animales",
+        "text": "Adivinación de nivel 1 (bardo, brujo, druida, explorador) Tiempo de lanzamiento: Acción o ritual Alcance: Lanzador Componentes: V, S Duración: 10 minutos Hasta que termine el conjuro, puedes comprender y comunicarte verbalmente con bestias y usar con ellas cualquiera de las opciones de la acción de influir. La mayoría de bestias tienen poco que decir en cuestiones que no tengan que ver con la supervivencia o la compañía, pero como mínimo podrán proporcionarte información sobre los lugares y monstruos cercanos, incluyendo lo que hayan percibido en el último día."
+      }
+    },
+    {
+      "id": "explorador-srd-localizar-animales-o-plantas",
+      "classId": "explorador",
+      "name": "Localizar animales o plantas",
+      "level": 3,
+      "attribute": "percepcion",
+      "description": "Inspiración: Describe o nombra un tipo concreto de bestia, criatura de tipo “planta” o planta no mágica. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 162,
+        "name": "Localizar animales o plantas",
+        "text": "Adivinación de nivel 2 (bardo, druida, explorador) Tiempo de lanzamiento: Acción o ritual Alcance: Lanzador Componentes: V, S, M (pelaje de un sabueso) Duración: Instantáneo Describe o nombra un tipo concreto de bestia, criatura de tipo “planta” o planta no mágica. Descubres la dirección y la distancia hasta la criatura o la planta de ese tipo más cercana que esté a 7,5 km o menos, siempre y cuando haya alguna."
+      }
+    },
+    {
+      "id": "explorador-srd-localizar-objeto",
+      "classId": "explorador",
+      "name": "Localizar objeto",
+      "level": 3,
+      "attribute": "percepcion",
+      "description": "Inspiración: Describe o nombra un objeto que conozcas. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 162,
+        "name": "Localizar objeto",
+        "text": "Adivinación de nivel 2 (bardo, clérigo, druida, explorador, mago, paladín) Tiempo de lanzamiento: Acción Alcance: Lanzador Componentes: V, S, M (una ramita con forma de horquilla) Duración: Concentración, hasta 10 minutos Describe o nombra un objeto que conozcas. Presientes la dirección en la que se encuentra dicho objeto si está a 300 m o menos de ti. Si el objeto se está moviendo, conoces la dirección de su movimiento. El conjuro puede localizar un objeto específico que conozcas si lo has visto de cerca (a 9 m o menos) al menos una vez. Como alternativa, el conjuro puede localizar el objeto más cercano de un tipo particular, como un cierto tipo de ropa, joyas, muebles, herramientas o armas. El conjuro no puede localizar un objeto si hay cualquier grosor de plomo que bloquee una ruta directa entre dicho objeto y tú."
+      }
+    },
+    {
+      "id": "explorador-srd-marca-del-cazador",
+      "classId": "explorador",
+      "name": "Marca del cazador",
+      "level": 2,
+      "attribute": "percepcion",
+      "description": "Inspiración: Marcas mágicamente a una criatura que puedas ver dentro del alcance como tu presa. Adaptación: una acción, un objetivo, daño 1d4. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "damage": "1d4",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 165,
+        "name": "Marca del cazador",
+        "text": "Adivinación de nivel 1 (explorador) Tiempo de lanzamiento: Acción adicional Alcance: 27 m Componentes: V Duración: Concentración, hasta 1 hora Marcas mágicamente a una criatura que puedas ver dentro del alcance como tu presa. Hasta que el conjuro termine, infliges 1d6 de daño de fuerza adicional al objetivo siempre que le aciertes con una tirada de ataque. También tendrás ventaja en cualquier prueba de Sabiduría (Percepción o Supervivencia) que realices para buscarlo. Si los puntos de golpe del objetivo se reducen a 0 antes de que el conjuro termine, puedes emplear una acción adicional para transferir la marca a una nueva criatura que puedas ver dentro del alcance. Con un espacio de conjuro de nivel superior. Tu concentración puede durar más si usas un espacio de conjuro de nivel 3 o 4 (hasta 8 horas) o 5 o más (hasta 24 horas)."
+      }
+    },
+    {
+      "id": "explorador-srd-mensajero-animal",
+      "classId": "explorador",
+      "name": "Mensajero animal",
+      "level": 3,
+      "attribute": "percepcion",
+      "description": "Inspiración: Una bestia Diminuta de tu elección que puedas ver dentro del alcance deberá superar una tirada de salvación de Carisma o intentará enviar un mensaje por ti (si el valor de desafío del objetivo no es una cantidad acordada, la supera automáticamente). Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 166,
+        "name": "Mensajero animal",
+        "text": "Encantamiento de nivel 2 (bardo, druida, explorador) Tiempo de lanzamiento: Acción o ritual Alcance: 9 m Componentes: V, S, M (unas migajas de comida) Duración: 24 horas Una bestia Diminuta de tu elección que puedas ver dentro del alcance deberá superar una tirada de salvación de Carisma o intentará enviar un mensaje por ti (si el valor de desafío del objetivo no es 0, la supera automáticamente). Indica un lugar que hayas visitado y da una descripción general del destinatario, como “una persona que lleva un uniforme de guardia de la ciudad” o “una enana pelirroja con un gorro puntiagudo”. Además, le transmites al animal un mensaje de hasta 25 palabras. Hasta que termine el conjuro, la bestia viajará hacia el lugar elegido y recorrerá aproximadamente 37,5 km cada 24 horas o 75 km si puede volar. Cuando llegue, la bestia entregará tu mensaje a la criatura que le hayas descrito e imitará tu forma de comunicarte. Si la bestia no llega a su destino antes de que el conjuro termine, el mensaje se pierde y la bestia regresa al lugar donde lanzaste el conjuro. Con un espacio de conjuro de nivel superior. La duración del conjuro aumenta en 48 horas por cada nivel por encima de 2 que tenga el espacio."
+      }
+    },
+    {
+      "id": "explorador-srd-nube-de-oscurecimiento",
+      "classId": "explorador",
+      "name": "Nube de oscurecimiento",
+      "level": 2,
+      "attribute": "percepcion",
+      "description": "Inspiración: Creas una esfera de niebla de una cantidad acordada m de radio centrada en un punto dentro del alcance. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 170,
+        "name": "Nube de oscurecimiento",
+        "text": "Conjuración de nivel 1 (druida, explorador, hechicero, mago) Tiempo de lanzamiento: Acción Alcance: 36 m Componentes: V, S Duración: Concentración, hasta 1 hora Creas una esfera de niebla de 6 m de radio centrada en un punto dentro del alcance. La esfera está muy oscura y dura hasta que el conjuro termine o hasta que la disperse un viento fuerte (por ejemplo, el que crea ráfaga de viento). Con un espacio de conjuro de nivel superior. El radio de la niebla aumenta en 6 m por cada nivel por encima de 1 que tenga el espacio."
+      }
+    },
+    {
+      "id": "explorador-srd-pasar-sin-rastro",
+      "classId": "explorador",
+      "name": "Pasar sin rastro",
+      "level": 3,
+      "attribute": "percepcion",
+      "description": "Inspiración: Hasta que el conjuro termine, irradias un aura de ocultación en una emanación de una cantidad acordada m. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 172,
+        "name": "Pasar sin rastro",
+        "text": "Abjuración de nivel 2 (druida, explorador) Tiempo de lanzamiento: Acción Alcance: Lanzador Componentes: V, S, M (cenizas de muérdago quemado) Duración: Concentración, hasta 1 hora Hasta que el conjuro termine, irradias un aura de ocultación en una emanación de 9 m. Mientras permanezcáis dentro, las criaturas que elijas y tú tendréis un bonificador de +10 a las pruebas de Destreza (Sigilo) y no dejaréis huellas."
+      }
+    },
+    {
+      "id": "explorador-srd-piel-robliza",
+      "classId": "explorador",
+      "name": "Piel robliza",
+      "level": 3,
+      "attribute": "percepcion",
+      "description": "Inspiración: Tocas a una criatura voluntaria. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 174,
+        "name": "Piel robliza",
+        "text": "Transmutación de nivel 2 (druida, explorador) Tiempo de lanzamiento: Acción adicional Alcance: Toque Componentes: V, S, M (un puñado de corteza) Duración: 1 hora Tocas a una criatura voluntaria. Hasta que el conjuro termine, la piel del objetivo adopta una apariencia de corteza y su clase de armadura no podrá ser inferior a 17."
+      }
+    },
+    {
+      "id": "explorador-srd-potenciar-caracteristica",
+      "classId": "explorador",
+      "name": "Potenciar característica",
+      "level": 3,
+      "attribute": "percepcion",
+      "description": "Inspiración: Tocas a una criatura y eliges Fuerza, Destreza, Inteligencia, Sabiduría o Carisma. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 175,
+        "name": "Potenciar característica",
+        "text": "Transmutación de nivel 2 (bardo, clérigo, druida, explorador, hechicero, mago) Tiempo de lanzamiento: Acción Alcance: Toque Componentes: V, S, M (pelo de animal o una pluma) Duración: Concentración, hasta 1 hora Tocas a una criatura y eliges Fuerza, Destreza, Inteligencia, Sabiduría o Carisma. Hasta que termine el conjuro, el objetivo tiene ventaja en las pruebas con la característica elegida. Con un espacio de conjuro de nivel superior. Puedes hacer objetivo a una criatura adicional por cada nivel por encima de 2 que tenga el espacio. Puedes elegir una característica distinta para cada objetivo."
+      }
+    },
+    {
+      "id": "explorador-srd-proteccion-contra-veneno",
+      "classId": "explorador",
+      "name": "Protección contra veneno",
+      "level": 3,
+      "attribute": "percepcion",
+      "description": "Inspiración: Tocas a una criatura y pones fin al estado de envenenada si lo sufre. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 176,
+        "name": "Protección contra veneno",
+        "text": "Abjuración de nivel 2 (clérigo, druida, explorador, paladín) Tiempo de lanzamiento: Acción Alcance: Toque Componentes: V, S Duración: 1 hora Tocas a una criatura y pones fin al estado de envenenada si lo sufre. Hasta que termine el conjuro, el objetivo tiene ventaja en las tiradas de salvación para evitar o poner fin al estado de envenenado y resistencia al daño de veneno."
+      }
+    },
+    {
+      "id": "explorador-srd-rafaga-de-viento",
+      "classId": "explorador",
+      "name": "Ráfaga de viento",
+      "level": 3,
+      "attribute": "percepcion",
+      "description": "Inspiración: De ti surge una ráfaga de viento fuerte en una línea recta de una cantidad acordada m de largo y una cantidad acordada m de ancho en la dirección que elijas hasta que termine el conjuro. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 178,
+        "name": "Ráfaga de viento",
+        "text": "Evocación de nivel 2 (druida, explorador, hechicero, mago) Tiempo de lanzamiento: Acción Alcance: Lanzador Componentes: V, S, M (la semilla de una legumbre) Duración: Concentración, hasta 1 minuto De ti surge una ráfaga de viento fuerte en una línea recta de 18 m de largo y 3 m de ancho en la dirección que elijas hasta que termine el conjuro. Todas las criaturas en esa línea deberán superar una tirada de salvación de Fuerza o serán empujadas 4,5 m en la dirección de la línea. Las criaturas que terminen su turno en ella también deberán hacer la tirada de salvación. Cualquier criatura que esté en la línea deberá gastar 2 m de movimiento por cada metro que se mueva para acercarse a ti. La ráfaga dispersa el gas o el vapor y apaga velas y otras llamas desprotegidas de la zona. Hace que las llamas protegidas, como las de los faroles, se agiten salvajemente y tienen un 50 % de probabilidad de apagarse. Como acción adicional en tus siguientes turnos, puedes cambiar la dirección en la que la línea surge de ti."
+      }
+    },
+    {
+      "id": "explorador-srd-restablecimiento-menor",
+      "classId": "explorador",
+      "name": "Restablecimiento menor",
+      "level": 3,
+      "attribute": "percepcion",
+      "description": "Inspiración: Tocas a una criatura y le pones fin a un estado que tenga: cegada, ensordecida, envenenada o paralizada. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 181,
+        "name": "Restablecimiento menor",
+        "text": "Abjuración de nivel 2 (bardo, clérigo, druida, explorador, paladín) Tiempo de lanzamiento: Acción adicional Alcance: Toque Componentes: V, S Duración: Instantáneo Tocas a una criatura y le pones fin a un estado que tenga: cegada, ensordecida, envenenada o paralizada."
+      }
+    },
+    {
+      "id": "explorador-srd-salto",
+      "classId": "explorador",
+      "name": "Salto",
+      "level": 2,
+      "attribute": "percepcion",
+      "description": "Inspiración: Tocas a una criatura voluntaria. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 183,
+        "name": "Salto",
+        "text": "Transmutación de nivel 1 (druida, explorador, hechicero, mago) Tiempo de lanzamiento: Acción adicional Alcance: Toque Componentes: V, S, M (la pata trasera de un saltamontes) Duración: 1 minuto Tocas a una criatura voluntaria. Una vez en cada uno de sus turnos hasta que el conjuro termine, la criatura puede saltar hasta 9 m usando 3 m de movimiento. Con un espacio de conjuro de nivel superior. Puedes hacer objetivo a una criatura adicional por cada nivel por encima de 1 que tenga el espacio."
+      }
+    },
+    {
+      "id": "explorador-srd-silencio",
+      "classId": "explorador",
+      "name": "Silencio",
+      "level": 3,
+      "attribute": "percepcion",
+      "description": "Inspiración: Hasta que termine el conjuro, creas una esfera de una cantidad acordada m de radio centrada en un punto de tu elección dentro del alcance. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 184,
+        "name": "Silencio",
+        "text": "Ilusionismo de nivel 2 (bardo, clérigo, explorador) Tiempo de lanzamiento: Acción o ritual Alcance: 36 m Componentes: V, S Duración: Concentración, hasta 10 minutos Hasta que termine el conjuro, creas una esfera de 6 m de radio centrada en un punto de tu elección dentro del alcance. Ningún sonido podrá atravesarla ni originarse en su interior. Toda criatura u objeto tiene inmunidad al daño de trueno si se halla completamente dentro de la esfera, y las criaturas tienen el estado de ensordecidas en su interior. Dentro de ella es imposible lanzar conjuros que tengan un componente verbal."
+      }
+    },
+    {
+      "id": "explorador-srd-vision-en-la-oscuridad",
+      "classId": "explorador",
+      "name": "Visión en la oscuridad",
+      "level": 3,
+      "attribute": "percepcion",
+      "description": "Inspiración: Hasta que el conjuro termine, una criatura voluntaria a la que toques tendrá visión en la oscuridad hasta una cantidad acordada m. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 193,
+        "name": "Visión en la oscuridad",
+        "text": "Transmutación de nivel 2 (druida, explorador, hechicero, mago) Tiempo de lanzamiento: Acción Alcance: Toque Componentes: V, S, M (una zanahoria seca) Duración: 8 horas Hasta que el conjuro termine, una criatura voluntaria a la que toques tendrá visión en la oscuridad hasta 45 m."
+      }
+    },
+    {
+      "id": "explorador-srd-zancada-prodigiosa",
+      "classId": "explorador",
+      "name": "Zancada prodigiosa",
+      "level": 2,
+      "attribute": "percepcion",
+      "description": "Inspiración: Tocas a una criatura y su velocidad aumenta en una cantidad acordada m hasta que el conjuro termine. Adaptación: una acción, un objetivo. Los efectos de control duran como máximo un turno y los de utilidad una escena; una invocación no añade ataques. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 193,
+        "name": "Zancada prodigiosa",
+        "text": "Transmutación de nivel 1 (bardo, druida, explorador, mago) Tiempo de lanzamiento: Acción Alcance: Toque Componentes: V, S, M (una pizca de tierra) Duración: 1 hora Tocas a una criatura y su velocidad aumenta en 3 m hasta que el conjuro termine. Con un espacio de conjuro de nivel superior. Puedes hacer objetivo a una criatura adicional por cada nivel por encima de 1 que tenga el espacio."
+      }
+    }
+  ]
+}

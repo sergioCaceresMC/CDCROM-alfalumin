@@ -1,0 +1,527 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "srd-aceite",
+      "name": "Aceite",
+      "kind": "consumable",
+      "usable": true,
+      "consumable": true,
+      "description": "Puedes empapar de aceite a una criatura, un objeto o un espacio o utilizarlo como combustible, como se detalla a continuación. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 104,
+        "name": "Aceite (1 pp)",
+        "text": "Puedes empapar de aceite a una criatura, un objeto o un espacio o utilizarlo como combustible, como se detalla a continuación. Empapar a una criatura o un objeto. Cuando lleves a cabo la acción de atacar, puedes sustituir uno de tus ataques por lanzar un frasco de aceite. Haz objetivo a una criatura u objeto a 6 m o menos de ti. El objetivo deberá superar una tirada de salvación de Destreza (CD 8 más tu modificador por Destreza y tu bonificador por competencia) o quedará cubierto de aceite. Si el objetivo sufre daño de fuego antes de que el aceite se seque (tras 1 minuto), recibirá 5 de daño de fuego adicional debido a que el aceite arderá. Empapar un espacio. Puedes llevar a cabo la acción de utilizar para verter un frasco de aceite sobre un suelo plano para cubrir una zona cuadrada de 1,5 m de lado a 1,5 m o menos de ti. Si se prende, el aceite arderá durante 2 asaltos desde que se prendió (o 12 segundos) hasta el final de ese turno y hará 5 de daño de fuego a cualquier criatura que entre en la zona o termine su turno en ella. Una criatura solo puede sufrir este daño una vez por turno. Combustible. El aceite sirve de combustible para lámparas y linternas. Un frasco de aceite prendido arde durante 6 horas en una lámpara o linterna. Esa duración no tiene que ser consecutiva; puedes apagar el aceite ardiendo (como acción de utilizar) y volver a encenderlo hasta que haya ardido durante un total de 6 horas."
+      }
+    },
+    {
+      "id": "srd-acido",
+      "name": "Ácido",
+      "kind": "consumable",
+      "usable": true,
+      "consumable": true,
+      "description": "Cuando lleves a cabo la acción de atacar, puedes sustituir uno de tus ataques por lanzar un vial de ácido. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 104,
+        "name": "Ácido (25 po)",
+        "text": "Cuando lleves a cabo la acción de atacar, puedes sustituir uno de tus ataques por lanzar un vial de ácido. Haz objetivo a una criatura u objeto que puedas ver a 6 m o menos de ti. El objetivo deberá superar una tirada de salvación de Destreza (CD 8 más tu modificador por Destreza y tu bonificador por competencia) o sufrirá 2d6 de daño de ácido."
+      }
+    },
+    {
+      "id": "srd-agua-bendita",
+      "name": "Agua bendita",
+      "kind": "consumable",
+      "usable": true,
+      "consumable": true,
+      "description": "Cuando lleves a cabo la acción de atacar, puedes sustituir uno de tus ataques por lanzar un frasco de agua bendita. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 104,
+        "name": "Agua bendita (25 po)",
+        "text": "Cuando lleves a cabo la acción de atacar, puedes sustituir uno de tus ataques por lanzar un frasco de agua bendita. Haz objetivo a una criatura que puedas ver a 6 m o menos de ti. El objetivo deberá superar una tirada de salvación de Destreza (CD 8 más tu modificador por Destreza y tu bonificador por competencia) o sufrirá 2d8 de daño radiante si es un infernal o un muerto viviente."
+      }
+    },
+    {
+      "id": "srd-antitoxina",
+      "name": "Antitoxina",
+      "kind": "consumable",
+      "usable": true,
+      "consumable": true,
+      "description": "Como acción adicional, puedes beber un vial de antitoxina para obtener ventaja en las tiradas de salvación para evitar o poner fin al estado de envenenado durante 1 hora. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 104,
+        "name": "Antitoxina (50 po)",
+        "text": "Como acción adicional, puedes beber un vial de antitoxina para obtener ventaja en las tiradas de salvación para evitar o poner fin al estado de envenenado durante 1 hora."
+      }
+    },
+    {
+      "id": "srd-fuego-de-alquimista",
+      "name": "Fuego de alquimista",
+      "kind": "consumable",
+      "usable": true,
+      "consumable": true,
+      "description": "Cuando lleves a cabo la acción de atacar, puedes sustituir uno de tus ataques por lanzar un frasco de fuego de alquimista. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 106,
+        "name": "Fuego de alquimista (50 po)",
+        "text": "Cuando lleves a cabo la acción de atacar, puedes sustituir uno de tus ataques por lanzar un frasco de fuego de alquimista. Haz objetivo a una criatura u objeto que puedas ver a 6 m o menos de ti. El objetivo deberá superar una tirada de salvación de Destreza (CD 8 más tu modificador por Destreza y tu bonificador por competencia) o sufrirá 1d4 de daño de fuego y comenzará a arder (consulta el capítulo “Glosario de reglas”)."
+      }
+    },
+    {
+      "id": "srd-papel",
+      "name": "Papel",
+      "kind": "consumable",
+      "usable": true,
+      "consumable": true,
+      "description": "En una hoja de papel caben unas 250 palabras escritas a mano. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 106,
+        "name": "Papel (2 pp)",
+        "text": "En una hoja de papel caben unas 250 palabras escritas a mano."
+      }
+    },
+    {
+      "id": "srd-pergamino",
+      "name": "Pergamino",
+      "kind": "consumable",
+      "usable": true,
+      "consumable": true,
+      "description": "En una hoja de pergamino caben unas 250 palabras escritas a mano. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 107,
+        "name": "Pergamino (1 pp)",
+        "text": "En una hoja de pergamino caben unas 250 palabras escritas a mano."
+      }
+    },
+    {
+      "id": "srd-pergamino-de-conjuro",
+      "name": "Pergamino de conjuro",
+      "kind": "consumable",
+      "usable": true,
+      "consumable": true,
+      "description": "Un pergamino de conjuro (truco) o un pergamino de conjuro (nivel 1) es un objeto mágico que contiene las palabras de un truco o de un conjuro de nivel 1, respectivamente, según lo determine el creador del pergamino. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 264,
+        "name": "Pergamino de conjuro",
+        "text": "Pergamino, rareza variable Un pergamino de conjuro contiene las palabras de un solo conjuro, escritas en un código místico. Si el conjuro está en tu lista de conjuros, puedes leer el pergamino y lanzar el conjuro sin componentes materiales. De lo contrario, el pergamino es ininteligible. Si lanzas el conjuro leyendo el pergamino, el tiempo de lanzamiento del conjuro será el habitual. Una vez lanzado, el pergamino se convierte en polvo. Si se interrumpe el lanzamiento, el pergamino no se pierde. Si el conjuro está en tu lista de conjuros pero es de un nivel superior que no puedes lanzar de manera normal, harás una prueba de característica usando tu aptitud mágica para determinar si consigues lanzarlo. La CD es de 10 más el nivel del conjuro. Si la fallas, el conjuro desaparecerá del pergamino y no surtirá efecto. El nivel del conjuro del pergamino determina la CD de las tiradas de salvación y el bonificador de ataque del conjuro, además de la rareza del pergamino, como se indica en la siguiente tabla. Nivel del CD de Bonificador conjuro Rareza salvación de ataque Truco Común 13 +5 1 Común 13 +5 2 Infrecuente 13 +5 3 Infrecuente 15 +7 4 Raro 15 +7 5 Raro 17 +9 6 Muy raro 17 +9 7 Muy raro 18 +10 8 Muy raro 18 +10 9 Legendario 19 +11 Copiar un pergamino en un libro de conjuros. Un conjuro de mago en un pergamino de conjuro puede copiarse en un libro de conjuros. Cuando un conjuro se copie de esta forma, el copista deberá superar una prueba de Inteligencia (Conocimiento arcano) con CD igual a 10 más el nivel del conjuro. Si la supera, copiará el conjuro. Supere o no la prueba, el pergamino de conjuro se destruirá."
+      }
+    },
+    {
+      "id": "srd-pocion-de-curacion",
+      "name": "Poción de curación (SRD)",
+      "kind": "consumable",
+      "usable": true,
+      "consumable": true,
+      "description": "Consume una dosis para recuperar 3 puntos de vida, sin superar tu máximo.",
+      "effect": {
+        "type": "heal",
+        "amount": 3
+      },
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 107,
+        "name": "Poción de curación (50 po)",
+        "text": "Esta poción es un objeto mágico. Como acción adicional, puedes beberla o administrarla a otra criatura que se encuentre a 1,5 m o menos de ti. La criatura que beba el fluido mágico de color rojo de este vial recuperará 2d4 + 2 puntos de golpe."
+      }
+    },
+    {
+      "id": "srd-raciones",
+      "name": "Raciones",
+      "kind": "consumable",
+      "usable": true,
+      "consumable": true,
+      "description": "Las raciones se componen de alimentos propicios para viajar, como cecina, fruta deshidratada, galletas y frutos secos. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 107,
+        "name": "Raciones (5 pp)",
+        "text": "Las raciones se componen de alimentos propicios para viajar, como cecina, fruta deshidratada, galletas y frutos secos. Consulta “Desnutrición” en el capítulo “Glosario de reglas” para saber los riesgos que implica no comer."
+      }
+    },
+    {
+      "id": "srd-tinta",
+      "name": "Tinta",
+      "kind": "consumable",
+      "usable": true,
+      "consumable": true,
+      "description": "La tinta viene en un frasco de 30 ml que basta para escribir unas 500 páginas. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 108,
+        "name": "Tinta (10 po)",
+        "text": "La tinta viene en un frasco de 30 ml que basta para escribir unas 500 páginas."
+      }
+    },
+    {
+      "id": "srd-veneno-basico",
+      "name": "Veneno básico",
+      "kind": "consumable",
+      "usable": true,
+      "consumable": true,
+      "description": "Como acción adicional, puedes usar un vial de veneno básico para impregnar un arma o hasta tres unidades de munición. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 108,
+        "name": "Veneno básico (100 po)",
+        "text": "Como acción adicional, puedes usar un vial de veneno básico para impregnar un arma o hasta tres unidades de munición. Las criaturas que sufran daño cortante o perforante por el arma o munición envenenadas recibirán 1d4 de daño de veneno adicional. Una vez aplicado, el veneno mantiene su efectividad durante 1 minuto o hasta que inflija su daño, lo que ocurra primero."
+      }
+    },
+    {
+      "id": "srd-magico-abalorio-de-nutricion",
+      "name": "Abalorio de nutrición",
+      "kind": "consumable",
+      "usable": true,
+      "consumable": true,
+      "description": "Objeto mágico de referencia. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original. Consumir retira una unidad; no aplica por sí solo el efecto mágico.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 228,
+        "name": "Abalorio de nutrición",
+        "text": "Objeto maravilloso, común Esta canica insípida y gelatinosa se disuelve en la lengua y proporciona tanto alimento como las raciones de 1 día."
+      }
+    },
+    {
+      "id": "srd-magico-aceite-de-afilado",
+      "name": "Aceite de afilado",
+      "kind": "consumable",
+      "usable": true,
+      "consumable": true,
+      "description": "Objeto mágico de referencia. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original. Consumir retira una unidad; no aplica por sí solo el efecto mágico.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 228,
+        "name": "Aceite de afilado",
+        "text": "Poción, muy rara Un vial de este aceite puede recubrir un arma cuerpo a cuerpo o veinte unidades de munición, pero solo se verán afectadas las armas y munición no mágicas que causen daño cortante o perforante. Se tarda 1 minuto en aplicar el aceite, tras lo cual se filtra mágicamente en lo que recubra y convierte el arma en un arma +3 o la munición en munición +3. Este aceite transparente y gelatinoso brilla debido a las esquirlas de plata minúsculas y ultrafinas que contiene."
+      }
+    },
+    {
+      "id": "srd-magico-aceite-de-etereidad",
+      "name": "Aceite de etereidad",
+      "kind": "consumable",
+      "usable": true,
+      "consumable": true,
+      "description": "Objeto mágico de referencia. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original. Consumir retira una unidad; no aplica por sí solo el efecto mágico.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 228,
+        "name": "Aceite de etereidad",
+        "text": "Poción, rara Un vial de este aceite puede cubrir a una criatura Mediana o más pequeña, así como el equipo que vista o lleve. Se necesita un vial extra por cada categoría de tamaño por encima de Mediano. Aplicar el aceite lleva 10 minutos. La criatura afectada obtiene el efecto del conjuro excursión etérea durante 1 hora. En el exterior de este recipiente se forman gotitas de un aceite turbio y gris que se evaporan rápidamente."
+      }
+    },
+    {
+      "id": "srd-magico-aceite-escurridizo",
+      "name": "Aceite escurridizo",
+      "kind": "consumable",
+      "usable": true,
+      "consumable": true,
+      "description": "Objeto mágico de referencia. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original. Consumir retira una unidad; no aplica por sí solo el efecto mágico.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 228,
+        "name": "Aceite escurridizo",
+        "text": "Poción, infrecuente Un vial de este aceite puede cubrir a una criatura Mediana o más pequeña, así como el equipo que vista o lleve. Se necesita un vial extra por cada categoría de tamaño por encima de Mediano. Aplicar el aceite lleva 10 minutos. La criatura afectada obtiene el efecto del conjuro libertad de movimiento durante 8 horas. De forma alternativa, el aceite se puede verter en el suelo como acción de magia y cubrirá un cuadrado de 3 m de lado que duplicará el efecto del conjuro grasa en la zona durante 8 horas. Este ungüento negro y pegajoso parece denso y pesado, pero fluye rápidamente cuando se vierte."
+      }
+    },
+    {
+      "id": "srd-magico-elixir-de-salud",
+      "name": "Elixir de salud",
+      "kind": "consumable",
+      "usable": true,
+      "consumable": true,
+      "description": "Objeto mágico de referencia. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original. Consumir retira una unidad; no aplica por sí solo el efecto mágico.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 252,
+        "name": "Elixir de salud",
+        "text": "Poción, rara Cuando bebes esta poción, te curas de cualquier enfermedad mágica. Además, dejarás de sufrir los estados de cegado, ensordecido, envenenado y paralizado. El líquido rojo claro tiene pequeñas burbujas de luz."
+      }
+    },
+    {
+      "id": "srd-magico-filtro-de-amor",
+      "name": "Filtro de amor",
+      "kind": "consumable",
+      "usable": true,
+      "consumable": true,
+      "description": "Objeto mágico de referencia. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original. Consumir retira una unidad; no aplica por sí solo el efecto mágico.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 257,
+        "name": "Filtro de amor",
+        "text": "Poción, infrecuente La próxima vez que veas a una criatura en los 10 minutos posteriores a beber este filtro, quedarás embelesado por ella y tendrás el estado de hechizado durante 1 hora. El líquido efervescente y de tonalidad rosa contiene una burbuja, fácil de pasar por alto, con forma de corazón."
+      }
+    },
+    {
+      "id": "srd-magico-pocion-de-amistad-animal",
+      "name": "Poción de amistad animal",
+      "kind": "consumable",
+      "usable": true,
+      "consumable": true,
+      "description": "Objeto mágico de referencia. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original. Consumir retira una unidad; no aplica por sí solo el efecto mágico.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 266,
+        "name": "Poción de amistad animal",
+        "text": "Poción, infrecuente Cuando bebas esta poción, podrás lanzar la versión de nivel 3 del conjuro encantar animal (CD de salvación 13). Si agitas esta turbia poción, verás pequeños fragmentos: una escama de un pez, una pluma de colibrí, la garra de un gato o el pelo de una ardilla."
+      }
+    },
+    {
+      "id": "srd-magico-pocion-de-clarividencia",
+      "name": "Poción de clarividencia",
+      "kind": "consumable",
+      "usable": true,
+      "consumable": true,
+      "description": "Objeto mágico de referencia. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original. Consumir retira una unidad; no aplica por sí solo el efecto mágico.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 266,
+        "name": "Poción de clarividencia",
+        "text": "Poción, rara Cuando bebas esta poción, obtendrás el efecto del conjuro clarividencia (no requiere concentración). En este líquido amarillento flota un globo ocular, pero desaparece en cuanto se abre la poción."
+      }
+    },
+    {
+      "id": "srd-magico-pocion-de-crecimiento",
+      "name": "Poción de crecimiento",
+      "kind": "consumable",
+      "usable": true,
+      "consumable": true,
+      "description": "Objeto mágico de referencia. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original. Consumir retira una unidad; no aplica por sí solo el efecto mágico.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 266,
+        "name": "Poción de crecimiento",
+        "text": "Poción, infrecuente Cuando bebas esta poción, obtendrás el efecto de “agrandar” del conjuro agrandar/reducir durante 10 minutos (no requiere concentración). El color rojo del líquido de la poción se expande continuamente a partir de una gota diminuta para teñir el líquido transparente que la rodea. A continuación, se vuelve a contraer. Si agitas la botella, no se interrumpirá el proceso."
+      }
+    },
+    {
+      "id": "srd-magico-pocion-de-encoger",
+      "name": "Poción de encoger",
+      "kind": "consumable",
+      "usable": true,
+      "consumable": true,
+      "description": "Objeto mágico de referencia. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original. Consumir retira una unidad; no aplica por sí solo el efecto mágico.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 266,
+        "name": "Poción de encoger",
+        "text": "Poción, rara Cuando bebas esta poción, obtendrás el efecto de “reducir” del conjuro agrandar/reducir durante 1d4 horas (no requiere concentración). El color rojo del líquido de la poción se contrae continuamente hasta quedar reducido a una gota diminuta y, a continuación, se expande para teñir el líquido transparente que la rodea. Si agitas la botella, no se interrumpirá el proceso."
+      }
+    },
+    {
+      "id": "srd-magico-pocion-de-forma-gaseosa",
+      "name": "Poción de forma gaseosa",
+      "kind": "consumable",
+      "usable": true,
+      "consumable": true,
+      "description": "Objeto mágico de referencia. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original. Consumir retira una unidad; no aplica por sí solo el efecto mágico.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 266,
+        "name": "Poción de forma gaseosa",
+        "text": "Poción, rara Cuando bebas esta poción, obtendrás el efecto del conjuro forma gaseosa durante 1 hora (no requiere concentración) o hasta que pongas fin al efecto como acción adicional. El frasco de esta poción parece contener una niebla que se mueve y se derrama como si fuese agua."
+      }
+    },
+    {
+      "id": "srd-magico-pocion-de-fuerza-de-gigante",
+      "name": "Poción de fuerza de gigante",
+      "kind": "consumable",
+      "usable": true,
+      "consumable": true,
+      "description": "Objeto mágico de referencia. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original. Consumir retira una unidad; no aplica por sí solo el efecto mágico.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 267,
+        "name": "Poción de fuerza de gigante",
+        "text": "Poción, rareza variable Cuando bebas esta poción, tu puntuación de Fuerza cambiará durante 1 hora. El tipo de gigante determina la puntuación (consulta la tabla más adelante). La poción no tendrá ningún efecto si tu Fuerza es igual o superior a esa puntuación. En el líquido transparente de la poción flota un fragmento de luz que parece la uña de un gigante. Poción Fue Rareza Poción de fuerza de gigante 21 Infrecuente (colinas) Poción de fuerza de gigante 23 Rara ( escarcha o piedra) Poción de fuerza de gigante (fuego) 25 Rara Poción de fuerza de gigante (nubes) 27 Muy rara Poción de fuerza de gigante 29 Legendaria (tormentas)"
+      }
+    },
+    {
+      "id": "srd-magico-pocion-de-heroismo",
+      "name": "Poción de heroísmo",
+      "kind": "consumable",
+      "usable": true,
+      "consumable": true,
+      "description": "Objeto mágico de referencia. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original. Consumir retira una unidad; no aplica por sí solo el efecto mágico.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 267,
+        "name": "Poción de heroísmo",
+        "text": "Poción, rara Cuando bebas esta poción, obtendrás 10 puntos de golpe temporales que durarán 1 hora. Durante ese periodo, te encontrarás bajo el efecto del conjuro bendición (no requiere concentración). El líquido azul de la poción borbotea y echa humo, como si estuviera hirviendo."
+      }
+    },
+    {
+      "id": "srd-magico-pocion-de-invisibilidad",
+      "name": "Poción de invisibilidad",
+      "kind": "consumable",
+      "usable": true,
+      "consumable": true,
+      "description": "Objeto mágico de referencia. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original. Consumir retira una unidad; no aplica por sí solo el efecto mágico.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 267,
+        "name": "Poción de invisibilidad",
+        "text": "Poción, rara El frasco de esta poción parece vacío, pero, al mismo tiempo, da la impresión de contener líquido. Cuando bebas esta poción, obtendrás el estado de invisible durante 1 hora. El efecto termina antes de tiempo si haces una tirada de ataque, causas daño o lanzas un conjuro."
+      }
+    },
+    {
+      "id": "srd-magico-pocion-de-invulnerabilidad",
+      "name": "Poción de invulnerabilidad",
+      "kind": "consumable",
+      "usable": true,
+      "consumable": true,
+      "description": "Objeto mágico de referencia. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original. Consumir retira una unidad; no aplica por sí solo el efecto mágico.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 267,
+        "name": "Poción de invulnerabilidad",
+        "text": "Poción, rara Durante 1 minuto después de beber esta poción, tienes resistencia a todo el daño. Esta poción, espesa como el sirope, parece hierro líquido."
+      }
+    },
+    {
+      "id": "srd-magico-pocion-de-leer-mentes",
+      "name": "Poción de leer mentes",
+      "kind": "consumable",
+      "usable": true,
+      "consumable": true,
+      "description": "Objeto mágico de referencia. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original. Consumir retira una unidad; no aplica por sí solo el efecto mágico.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 267,
+        "name": "Poción de leer mentes",
+        "text": "Poción, rara Cuando bebas esta poción, obtendrás el efecto del conjuro detectar pensamientos (CD de salvación 13) durante 10 minutos (no requiere concentración). En el líquido denso y morado de esta poción flota una nube rosa ovoide."
+      }
+    },
+    {
+      "id": "srd-magico-pocion-de-longevidad",
+      "name": "Poción de longevidad",
+      "kind": "consumable",
+      "usable": true,
+      "consumable": true,
+      "description": "Objeto mágico de referencia. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original. Consumir retira una unidad; no aplica por sí solo el efecto mágico.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 267,
+        "name": "Poción de longevidad",
+        "text": "Poción, muy rara Cuando bebas esta poción, tu edad física se reduce en 1d6 + 6 años, hasta un mínimo de 13 años. Cada vez que tomes una poción de longevidad después de la primera, existe una probabilidad acumulativa del 10 % de que envejezcas 1d6 + 6 años. Suspendido en el líquido ámbar hay un corazón diminuto que, contra todo pronóstico, todavía late. Este ingrediente desaparece cuando se abre la poción."
+      }
+    },
+    {
+      "id": "srd-magico-pocion-de-resistencia",
+      "name": "Poción de resistencia",
+      "kind": "consumable",
+      "usable": true,
+      "consumable": true,
+      "description": "Objeto mágico de referencia. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original. Consumir retira una unidad; no aplica por sí solo el efecto mágico.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 267,
+        "name": "Poción de resistencia",
+        "text": "Poción, infrecuente Cuando bebas esta poción, tendrás resistencia a un tipo de daño durante 1 hora. Tu GM elige el tipo o lo determina al azar tirando en la tabla a continuación. 1d10 Tipo de daño 1d10 Tipo de daño 1 Ácido 6 Psíquico 2 Frío 7 Radiante 3 Fuego 8 Relámpago 4 Fuerza 9 Trueno 5 Necrótico 10 Veneno"
+      }
+    },
+    {
+      "id": "srd-magico-pocion-de-respirar-bajo-el-agua",
+      "name": "Poción de respirar bajo el agua",
+      "kind": "consumable",
+      "usable": true,
+      "consumable": true,
+      "description": "Objeto mágico de referencia. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original. Consumir retira una unidad; no aplica por sí solo el efecto mágico.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 267,
+        "name": "Poción de respirar bajo el agua",
+        "text": "Poción, infrecuente Puedes respirar debajo del agua durante 24 horas tras beber esta poción. Su líquido verde turbio huele a mar y en él flota una burbuja con aspecto de medusa."
+      }
+    },
+    {
+      "id": "srd-magico-pocion-de-trepar",
+      "name": "Poción de trepar",
+      "kind": "consumable",
+      "usable": true,
+      "consumable": true,
+      "description": "Objeto mágico de referencia. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original. Consumir retira una unidad; no aplica por sí solo el efecto mágico.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 267,
+        "name": "Poción de trepar",
+        "text": "Poción, común Cuando bebas esta poción, obtendrás una velocidad trepando igual a tu velocidad durante 1 hora. Durante ese tiempo, tendrás ventaja en las pruebas de Fuerza (Atletismo) para trepar. Esta poción se separa en tres capas (marrón, plateada y gris) que parecen los estratos de una roca. Si agitas la botella, los colores no se mezclan."
+      }
+    },
+    {
+      "id": "srd-magico-pocion-de-velocidad",
+      "name": "Poción de velocidad",
+      "kind": "consumable",
+      "usable": true,
+      "consumable": true,
+      "description": "Objeto mágico de referencia. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original. Consumir retira una unidad; no aplica por sí solo el efecto mágico.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 267,
+        "name": "Poción de velocidad",
+        "text": "Poción, muy rara Cuando bebas esta poción, obtendrás el efecto del conjuro acelerar durante 1 minuto (no requiere concentración) sin sufrir la ola de somnolencia que suele ocurrir cuando termina el efecto. El líquido amarillo de este brebaje tiene vetas negras y forma remolinos."
+      }
+    },
+    {
+      "id": "srd-magico-pocion-de-veneno",
+      "name": "Poción de veneno",
+      "kind": "consumable",
+      "usable": true,
+      "consumable": true,
+      "description": "Objeto mágico de referencia. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original. Consumir retira una unidad; no aplica por sí solo el efecto mágico.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 267,
+        "name": "Poción de veneno",
+        "text": "Poción, infrecuente Este mejunje parece, huele y sabe como una poción de curación u otra poción beneficiosa. Sin embargo, en realidad es un veneno enmascarado con magia de ilusionismo. Un conjuro identificar revelará su verdadera naturaleza. Si la bebes, sufrirás 4d6 de daño de veneno y deberás superar una tirada de salvación de Constitución con CD 13 o tendrás el estado de envenenado durante 1 hora."
+      }
+    },
+    {
+      "id": "srd-magico-pocion-de-vitalidad",
+      "name": "Poción de vitalidad",
+      "kind": "consumable",
+      "usable": true,
+      "consumable": true,
+      "description": "Objeto mágico de referencia. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original. Consumir retira una unidad; no aplica por sí solo el efecto mágico.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 268,
+        "name": "Poción de vitalidad",
+        "text": "Poción, muy rara Cuando bebas esta poción, eliminará todos los niveles de cansancio que tengas y el estado de envenenado sobre ti. Durante las siguientes 24 horas, recuperas la cantidad máxima de puntos de golpe de cualquier dado de puntos de golpe que utilices. El líquido carmesí de este brebaje palpita regularmente con una luz apagada, recordando a un corazón."
+      }
+    },
+    {
+      "id": "srd-magico-pocion-de-vuelo",
+      "name": "Poción de vuelo",
+      "kind": "consumable",
+      "usable": true,
+      "consumable": true,
+      "description": "Objeto mágico de referencia. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original. Consumir retira una unidad; no aplica por sí solo el efecto mágico.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 268,
+        "name": "Poción de vuelo",
+        "text": "Poción, muy rara Cuando bebas esta poción, obtendrás una velocidad volando igual a tu velocidad durante 1 hora y podrás levitar. Si te encuentras en pleno vuelo cuando el efecto de la poción termine, te caerás salvo que cuentes con otros medios que te mantengan en el aire. El líquido transparente de esta poción flota en la parte superior del frasco y tiene impurezas blancas con forma de nube."
+      }
+    },
+    {
+      "id": "srd-magico-pociones-de-curacion",
+      "name": "Pociones de curación",
+      "kind": "consumable",
+      "usable": true,
+      "consumable": true,
+      "description": "Objeto mágico de referencia. Efectos especiales y restricciones: resolución manual del master; consulta la referencia original. Consumir retira una unidad; no aplica por sí solo el efecto mágico.",
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 268,
+        "name": "Pociones de curación",
+        "text": "Poción, rareza variable Cuando bebas esta poción, recuperarás puntos de golpe. La cantidad depende de la rareza de la poción, como se muestra en la tabla a continuación. Independientemente de su potencia, el líquido rojo de la poción brilla al agitarse. Poción PG recuperados Rareza Poción de curación 2d4 + 2 Común Poción de curación 4d4 + 4 Infrecuente (mayor) Poción de curación 8d4 + 8 Rara (superior) Poción de curación 10d4 + 20 Muy rara (suprema)"
+      }
+    }
+  ]
+}

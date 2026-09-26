@@ -1,0 +1,557 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "srd-npc-asesino",
+      "kind": "npc",
+      "name": "Asesino",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/assassin.png",
+      "description": "Personaje de referencia: Humanoide Mediano o Pequeño, neutral. VD original 8. Perfil adaptado de Alfa Lumin; amenaza elevada para personajes de nivel 1–3. Su actitud y papel en la historia los decide el master.",
+      "maxHp": 10,
+      "armor": 16,
+      "damage": "2d4",
+      "abilities": [
+        "Realiza una acción principal por turno. El dado mostrado representa un ataque básico, no cada ataque del perfil original.",
+        "Rasgos, movimiento especial, resistencias, estados y magia se consultan en la referencia; el master los adapta manualmente.",
+        "No usar su VD original para equilibrar combates del sistema adaptado. Puede servir como peligro narrativo."
+      ],
+      "instructions": [],
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 285,
+        "name": "Asesino",
+        "text": "Humanoide Mediano o Pequeño, neutral CA: 16 Iniciativa: +10 (20) PG: 97 (15d8 + 30) Velocidad: 9 m MOD. SALV. MOD. SALV. MOD. SALV. Fue 11 +0 +0 Des 18 +4 +7 Con 14 +2 +2 Int 16 +3 +6 s ab 11 +0 +0 Car 10 +0 +0 Habilidades: Acrobacias +7, Percepción +6, Sigilo +10 Resistencias: veneno Equipo: armadura de cuero tachonado, ballesta ligera, espada corta Sentidos: Percepción pasiva 16 Idiomas: común, jerga de ladrones VD: 8 (3900 PX; BC +3) Atributos Evasión. Si el asesino sufre un efecto que le permita hacer una tirada de salvación de Destreza para sufrir solo la mitad de daño, no recibe ningún daño si la supera y solo sufre la mitad si la falla. No puede usar este atributo si tiene el estado de incapacitado. Acciones Ataque múltiple. El asesino realiza tres ataques con su espada corta o su ballesta ligera en cualquier combinación. Espada corta. Tirada de ataque cuerpo a cuerpo: +7, alcance 1,5 m. Acierto: 7 (1d6 + 4) de daño perforante más 17 (5d6) de daño de veneno y el objetivo tendrá el estado de envenenado hasta el principio del siguiente turno del asesino. Ballesta ligera. Tirada de ataque a distancia: +7, alcance 24/96 m. Acierto: 8 (1d8 + 4) de daño perforante más 21 (6d6) de daño de veneno. Acciones adicionales Acción astuta. El asesino realiza las acciones de correr, destrabarse o esconderse. Azer"
+      }
+    },
+    {
+      "id": "srd-npc-bandido",
+      "kind": "npc",
+      "name": "Bandido",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/bandit.png",
+      "description": "Personaje de referencia: Humanoide Mediano o Pequeño, neutral. VD original 1/8. Perfil adaptado de Alfa Lumin. Su actitud y papel en la historia los decide el master.",
+      "maxHp": 2,
+      "armor": 12,
+      "damage": "1d2",
+      "abilities": [
+        "Realiza una acción principal por turno. El dado mostrado representa un ataque básico, no cada ataque del perfil original.",
+        "Rasgos, movimiento especial, resistencias, estados y magia se consultan en la referencia; el master los adapta manualmente."
+      ],
+      "instructions": [],
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 286,
+        "name": "Bandido",
+        "text": "Humanoide Mediano o Pequeño, neutral CA: 12 Iniciativa: +1 (11) PG: 11 (2d8 + 2) Velocidad: 9 m MOD. SALV. MOD. SALV. MOD. SALV. Fue 11 +0 +0 Des 12 +1 +1 Con 12 +1 +1 Int 10 +0 +0 s ab 10 +0 +0 Car 10 +0 +0 Equipo: armadura de cuero, ballesta ligera, cimitarra Sentidos: Percepción pasiva 10 Idiomas: común, jerga de ladrones VD: 1/8 (25 PX; BC +2) Acciones Cimitarra. Tirada de ataque cuerpo a cuerpo: +3, alcance 1,5 m. Acierto: 4 (1d6 + 1) de daño cortante. Ballesta ligera. Tirada de ataque a distancia: +3, alcance 24/96 m. Acierto: 5 (1d8 + 1) de daño perforante."
+      }
+    },
+    {
+      "id": "srd-npc-capitan-bandido",
+      "kind": "npc",
+      "name": "Capitán bandido",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/bandit-captain.png",
+      "description": "Personaje de referencia: Humanoide Mediano o Pequeño, neutral. VD original 2. Perfil adaptado de Alfa Lumin. Su actitud y papel en la historia los decide el master.",
+      "maxHp": 6,
+      "armor": 15,
+      "damage": "1d4",
+      "abilities": [
+        "Realiza una acción principal por turno. El dado mostrado representa un ataque básico, no cada ataque del perfil original.",
+        "Rasgos, movimiento especial, resistencias, estados y magia se consultan en la referencia; el master los adapta manualmente."
+      ],
+      "instructions": [],
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 287,
+        "name": "Capitán bandido",
+        "text": "Humanoide Mediano o Pequeño, neutral CA: 15 Iniciativa: +3 (13) PG: 52 (8d8 + 16) Velocidad: 9 m MOD. SALV. MOD. SALV. MOD. SALV. Fue 15 +2 +4 Des 16 +3 +5 Con 14 +2 +2 Int 14 +2 +2 s ab 11 +0 +2 Car 14 +2 +2 Habilidades: Atletismo +4, Engaño +4 Equipo: armadura de cuero tachonado, cimitarra, pistola Sentidos: Percepción pasiva 10 Idiomas: común, jerga de ladrones VD: 2 (450 PX; BC +2) Acciones Ataque múltiple. El bandido realiza dos ataques con su cimitarra o su pistola en cualquier combinación. Cimitarra. Tirada de ataque cuerpo a cuerpo: +5, alcance 1,5 m. Acierto: 6 (1d6 + 3) de daño cortante. Pistola. Tirada de ataque a distancia: +5, alcance 9/27 m. Acierto: 8 (1d10 + 3) de daño perforante. Reacciones Parada. Detonante: una tirada de ataque cuerpo a cuerpo acierta al bandido mientras sostiene un arma. Respuesta: el bandido suma 2 a su CA contra ese ataque, lo que puede hacer que falle. Basilisco"
+      }
+    },
+    {
+      "id": "srd-npc-batidor",
+      "kind": "npc",
+      "name": "Batidor",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/scout.png",
+      "description": "Personaje de referencia: Humanoide Mediano o Pequeño, neutral. VD original 1/2. Perfil adaptado de Alfa Lumin. Su actitud y papel en la historia los decide el master.",
+      "maxHp": 2,
+      "armor": 13,
+      "damage": "1d4",
+      "abilities": [
+        "Realiza una acción principal por turno. El dado mostrado representa un ataque básico, no cada ataque del perfil original.",
+        "Rasgos, movimiento especial, resistencias, estados y magia se consultan en la referencia; el master los adapta manualmente."
+      ],
+      "instructions": [],
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 287,
+        "name": "Batidor",
+        "text": "Humanoide Mediano o Pequeño, neutral CA: 13 Iniciativa: +2 (12) PG: 16 (3d8 + 3) Velocidad: 9 m MOD. SALV. MOD. SALV. MOD. SALV. Fue 11 +0 +0 Des 14 +2 +2 Con 12 +1 +1 Int 11 +0 +0 s ab 13 +1 +1 Car 11 +0 +0 Habilidades: Naturaleza +4, Percepción +5, Sigilo +6, Supervivencia +5 Equipo: arco largo, armadura de cuero, espada corta Sentidos: Percepción pasiva 15 Idiomas: común y otro cualquiera VD: 1/2 (100 PX; BC +2) Acciones Ataque múltiple. El batidor realiza dos ataques con su arco largo o su espada corta en cualquier combinación. Espada corta. Tirada de ataque cuerpo a cuerpo: +4, alcance 1,5 m. Acierto: 5 (1d6 + 2) de daño perforante. Arco largo. Tirada de ataque a distancia: +4, alcance 45/180 m. Acierto: 6 (1d8 + 2) de daño perforante. Behir"
+      }
+    },
+    {
+      "id": "srd-npc-berserker",
+      "kind": "npc",
+      "name": "Berserker",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/berserker.png",
+      "description": "Personaje de referencia: Humanoide Mediano o Pequeño, neutral. VD original 2. Perfil adaptado de Alfa Lumin. Su actitud y papel en la historia los decide el master.",
+      "maxHp": 7,
+      "armor": 13,
+      "damage": "1d4",
+      "abilities": [
+        "Realiza una acción principal por turno. El dado mostrado representa un ataque básico, no cada ataque del perfil original.",
+        "Rasgos, movimiento especial, resistencias, estados y magia se consultan en la referencia; el master los adapta manualmente."
+      ],
+      "instructions": [],
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 288,
+        "name": "Berserker",
+        "text": "Humanoide Mediano o Pequeño, neutral CA: 13 Iniciativa: +1 (11) PG: 67 (9d8 + 27) Velocidad: 9 m MOD. SALV. MOD. SALV. MOD. SALV. Fue 16 +3 +3 Des 12 +1 +1 Con 17 +3 +3 Int 9 −1 −1 s ab 11 +0 +0 Car 9 −1 −1 Equipo: armadura de pieles, hacha a dos manos Sentidos: Percepción pasiva 10 Idiomas: común VD: 2 (450 PX; BC +2) Atributos Frenesí maltrecho. Mientras esté maltrecho, el berserker tiene ventaja en las tiradas de ataque y las tiradas de salvación. Acciones Hacha a dos manos. Tirada de ataque cuerpo a cuerpo: +5, alcance 1,5 m. Acierto: 9 (1d12 + 3) de daño cortante. Bocón barbotante"
+      }
+    },
+    {
+      "id": "srd-npc-caballero",
+      "kind": "npc",
+      "name": "Caballero",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/knight.png",
+      "description": "Personaje de referencia: Humanoide Mediano o Pequeño, neutral. VD original 3. Perfil adaptado de Alfa Lumin. Su actitud y papel en la historia los decide el master.",
+      "maxHp": 6,
+      "armor": 18,
+      "damage": "1d4",
+      "abilities": [
+        "Realiza una acción principal por turno. El dado mostrado representa un ataque básico, no cada ataque del perfil original.",
+        "Rasgos, movimiento especial, resistencias, estados y magia se consultan en la referencia; el master los adapta manualmente."
+      ],
+      "instructions": [],
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 289,
+        "name": "Caballero",
+        "text": "Humanoide Mediano o Pequeño, neutral CA: 18 Iniciativa: +0 (10) PG: 52 (8d8 + 16) Velocidad: 9 m MOD. SALV. MOD. SALV. MOD. SALV. Fue 16 +3 +3 Des 11 +0 +0 Con 14 +2 +4 Int 11 +0 +0 s ab 11 +0 +2 Car 15 +2 +2 Inmunidades: asustado Equipo: armadura de placas, ballesta pesada, espadón Sentidos: Percepción pasiva 10 Idiomas: común y otro cualquiera VD: 3 (700 PX; BC +2) Acciones Ataque múltiple. El caballero realiza dos ataques con su ballesta pesada o su espadón en cualquier combinación. Espadón. Tirada de ataque cuerpo a cuerpo: +5, alcance 1,5 m. Acierto: 10 (2d6 + 3) de daño cortante más 4 (1d8) de daño radiante. Ballesta pesada. Tirada de ataque a distancia: +2, alcance 30/120 m. Acierto: 11 (2d10) de daño perforante más 4 (1d8) de daño radiante. Reacciones Parada. Detonante: una tirada de ataque cuerpo a cuerpo acierta al caballero mientras sostiene un arma. Respuesta: el caballero suma 2 a su CA contra ese ataque, lo que puede hacer que falle. Centauro"
+      }
+    },
+    {
+      "id": "srd-npc-druida",
+      "kind": "npc",
+      "name": "Druida",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/druid.png",
+      "description": "Personaje de referencia: Humanoide Mediano o Pequeño (druida), neutral. VD original 2. Perfil adaptado de Alfa Lumin. Su actitud y papel en la historia los decide el master.",
+      "maxHp": 5,
+      "armor": 13,
+      "damage": "1d4",
+      "abilities": [
+        "Realiza una acción principal por turno. El dado mostrado representa un ataque básico, no cada ataque del perfil original.",
+        "Rasgos, movimiento especial, resistencias, estados y magia se consultan en la referencia; el master los adapta manualmente."
+      ],
+      "instructions": [],
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 318,
+        "name": "Druida",
+        "text": "Humanoide Mediano o Pequeño (druida), neutral CA: 13 Iniciativa: +1 (11) PG: 44 (8d8 + 8) Velocidad: 9 m MOD. SALV. MOD. SALV. MOD. SALV. Fue 10 +0 +0 Des 12 +1 +1 Con 13 +1 +1 Int 12 +1 +1 s ab 16 +3 +3 Car 11 +0 +0 Habilidades: Medicina +5, Naturaleza +3, Percepción +5 Equipo: armadura de cuero tachonado Sentidos: Percepción pasiva 15 Idiomas: común, druídico, silvano VD: 2 (450 PX; BC +2) Acciones Ataque múltiple. El druida realiza dos ataques con su bastón de enredaderas o con su voluta verdeante en cualquier combinación. Bastón de enredaderas. Tirada de ataque cuerpo a cuerpo: +5, alcance 1,5 m. Acierto: 7 (1d8 + 3) de daño contundente más 2 (1d4) de daño de veneno. Voluta verdeante. Tirada de ataque a distancia: +5, alcance 27 m. Acierto: 10 (3d6) de daño radiante. Lanzamiento de conjuros. El druida lanza uno de los siguientes conjuros, que utiliza la Sabiduría como aptitud mágica (CD de salvación de conjuros 13): A voluntad: hablar con los animales, saber druídico 2/día cada uno: enmarañar, ola atronadora 1/día cada uno: mensajero animal, rayo de luna, zancada prodigiosa Duende"
+      }
+    },
+    {
+      "id": "srd-npc-espia",
+      "kind": "npc",
+      "name": "Espía",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/spy.png",
+      "description": "Personaje de referencia: Humanoide Mediano o Pequeño, neutral. VD original 1. Perfil adaptado de Alfa Lumin. Su actitud y papel en la historia los decide el master.",
+      "maxHp": 3,
+      "armor": 12,
+      "damage": "1d4",
+      "abilities": [
+        "Realiza una acción principal por turno. El dado mostrado representa un ataque básico, no cada ataque del perfil original.",
+        "Rasgos, movimiento especial, resistencias, estados y magia se consultan en la referencia; el master los adapta manualmente."
+      ],
+      "instructions": [],
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 323,
+        "name": "Espía",
+        "text": "Humanoide Mediano o Pequeño, neutral CA: 12 Iniciativa: +4 (14) PG: 27 (6d8) Velocidad: 9 m, trepar 9 m MOD. SALV. MOD. SALV. MOD. SALV. Fue 10 +0 +0 Des 15 +2 +2 Con 10 +0 +0 Int 12 +1 +1 s ab 14 +2 +2 Car 16 +3 +3 Habilidades: Engaño +5, Investigación +5, Juego de manos +4, Percepción +6, Perspicacia +4, Sigilo +6 Equipo: ballesta de mano, espada corta, herramientas de ladrón Sentidos: Percepción pasiva 16 Idiomas: común y otro cualquiera VD: 1 (200 PX; BC +2) Acciones Espada corta. Tirada de ataque cuerpo a cuerpo: +4, alcance 1,5 m. Acierto: 5 (1d6 + 2) de daño perforante más 7 (2d6) de daño de veneno. Ballesta de mano. Tirada de ataque a distancia: +4, alcance 9/36 m. Acierto: 5 (1d6 + 2) de daño perforante más 7 (2d6) de daño de veneno. Acciones adicionales Acción astuta. El espía realiza las acciones de correr, destrabarse o esconderse. Esqueletos"
+      }
+    },
+    {
+      "id": "srd-npc-gladiador",
+      "kind": "npc",
+      "name": "Gladiador",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/gladiator.png",
+      "description": "Personaje de referencia: Humanoide Mediano o Pequeño, neutral. VD original 5. Perfil adaptado de Alfa Lumin; amenaza elevada para personajes de nivel 1–3. Su actitud y papel en la historia los decide el master.",
+      "maxHp": 12,
+      "armor": 16,
+      "damage": "2d4",
+      "abilities": [
+        "Realiza una acción principal por turno. El dado mostrado representa un ataque básico, no cada ataque del perfil original.",
+        "Rasgos, movimiento especial, resistencias, estados y magia se consultan en la referencia; el master los adapta manualmente.",
+        "No usar su VD original para equilibrar combates del sistema adaptado. Puede servir como peligro narrativo."
+      ],
+      "instructions": [],
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 330,
+        "name": "Gladiador",
+        "text": "Humanoide Mediano o Pequeño, neutral CA: 16 Iniciativa: +5 (15) PG: 112 (15d8 + 45) Velocidad: 9 m MOD. SALV. MOD. SALV. MOD. SALV. Fue 18 +4 +7 Des 15 +2 +5 Con 16 +3 +6 Int 10 +0 +0 s ab 12 +1 +4 Car 15 +2 +2 Habilidades: Atletismo +10, Interpretación +5 Equipo: armadura de cuero tachonado, escudo, lanzas (3) Sentidos: Percepción pasiva 11 Idiomas: común VD: 5 (1800 PX; BC +3) Acciones Ataque múltiple. El gladiador realiza tres ataques con sus lanzas. Puede sustituir un ataque por un uso de su golpe con escudo. Lanza. Tirada de ataque cuerpo a cuerpo o a distancia: +7, alcance 1,5 m o 6/18 m a distancia. Acierto: 11 (2d6 + 4) de daño perforante. Golpe con escudo. Tirada de salvación de Fuerza: CD 15, una criatura a 1,5 m o menos que el gladiador pueda ver. Fallo: 9 (2d4 + 4) de daño contundente. Si el objetivo es una criatura Mediana o más pequeña, tendrá el estado de derribada. Reacciones Parada. Detonante: una tirada de ataque cuerpo a cuerpo acierta al gladiador mientras sostiene un arma. Respuesta: el gladiador suma 3 a su CA contra ese ataque, lo que puede hacer que falle. Gnoll"
+      }
+    },
+    {
+      "id": "srd-npc-guardia",
+      "kind": "npc",
+      "name": "Guardia",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/guard.png",
+      "description": "Personaje de referencia: Humanoide Mediano o Pequeño, neutral. VD original 1/8. Perfil adaptado de Alfa Lumin. Su actitud y papel en la historia los decide el master.",
+      "maxHp": 2,
+      "armor": 16,
+      "damage": "1d2",
+      "abilities": [
+        "Realiza una acción principal por turno. El dado mostrado representa un ataque básico, no cada ataque del perfil original.",
+        "Rasgos, movimiento especial, resistencias, estados y magia se consultan en la referencia; el master los adapta manualmente."
+      ],
+      "instructions": [],
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 335,
+        "name": "Guardia",
+        "text": "Humanoide Mediano o Pequeño, neutral CA: 16 Iniciativa: +1 (11) PG: 11 (2d8 + 2) Velocidad: 9 m MOD. SALV. MOD. SALV. MOD. SALV. Fue 13 +1 +1 Des 12 +1 +1 Con 12 +1 +1 Int 10 +0 +0 s ab 11 +0 +0 Car 10 +0 +0 Habilidades: Percepción +2 Equipo: camisa de malla, escudo, lanza Sentidos: Percepción pasiva 12 Idiomas: común VD: 1/8 (25 PX; BC +2) Acciones Lanza. Tirada de ataque cuerpo a cuerpo o a distancia: +3, alcance 1,5 m o 6/18 m a distancia. Acierto: 4 (1d6 + 1) de daño perforante."
+      }
+    },
+    {
+      "id": "srd-npc-capitan-de-la-guardia",
+      "kind": "npc",
+      "name": "Capitán de la guardia",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/guard.png",
+      "description": "Personaje de referencia: Humanoide Mediano o Pequeño, neutral. VD original 4. Perfil adaptado de Alfa Lumin. Su actitud y papel en la historia los decide el master.",
+      "maxHp": 8,
+      "armor": 18,
+      "damage": "1d4",
+      "abilities": [
+        "Realiza una acción principal por turno. El dado mostrado representa un ataque básico, no cada ataque del perfil original.",
+        "Rasgos, movimiento especial, resistencias, estados y magia se consultan en la referencia; el master los adapta manualmente."
+      ],
+      "instructions": [],
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 335,
+        "name": "Capitán de la guardia",
+        "text": "Humanoide Mediano o Pequeño, neutral CA: 18 Iniciativa: +4 (14) PG: 75 (10d8 + 30) Velocidad: 9 m MOD. SALV. MOD. SALV. MOD. SALV. Fue 18 +4 +4 Des 14 +2 +2 Con 16 +3 +3 Int 12 +1 +1 s ab 14 +2 +2 Car 13 +1 +1 Habilidades: Atletismo +6, Percepción +4 Equipo: coraza, escudo, espada larga, jabalinas (6) Sentidos: Percepción pasiva 14 Idiomas: común VD: 4 (1100 PX; BC +2) Acciones Ataque múltiple. El guardia realiza dos ataques con su espada larga o sus jabalinas en cualquier combinación. Espada larga. Tirada de ataque cuerpo a cuerpo: +6, alcance 1,5 m. Acierto: 15 (2d10 + 4) de daño cortante. Jabalina. Tirada de ataque cuerpo a cuerpo o a distancia: +6, alcance 1,5 m o 9/36 m a distancia. Acierto: 14 (3d6 + 4) de daño perforante. Guerreros"
+      }
+    },
+    {
+      "id": "srd-npc-guerrero-de-infanteria",
+      "kind": "npc",
+      "name": "Guerrero de infantería",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/guard.png",
+      "description": "Personaje de referencia: Humanoide Mediano o Pequeño, neutral. VD original 1/8. Perfil adaptado de Alfa Lumin. Su actitud y papel en la historia los decide el master.",
+      "maxHp": 2,
+      "armor": 13,
+      "damage": "1d2",
+      "abilities": [
+        "Realiza una acción principal por turno. El dado mostrado representa un ataque básico, no cada ataque del perfil original.",
+        "Rasgos, movimiento especial, resistencias, estados y magia se consultan en la referencia; el master los adapta manualmente."
+      ],
+      "instructions": [],
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 335,
+        "name": "Guerrero de infantería",
+        "text": "Humanoide Mediano o Pequeño, neutral CA: 13 Iniciativa: +0 (10) PG: 9 (2d8) Velocidad: 9 m MOD. SALV. MOD. SALV. MOD. SALV. Fue 13 +1 +1 Des 11 +0 +0 Con 11 +0 +0 Int 8 −1 −1 s ab 11 +0 +0 Car 8 −1 −1 Equipo: camisa de malla, lanza Sentidos: Percepción pasiva 10 Idiomas: común VD: 1/8 (25 PX; BC +2) Atributos Atacar en grupo. El guerrero tiene ventaja en una tirada de ataque contra una criatura si al menos uno de los aliados del guerrero se encuentra a 1,5 m o menos de la criatura y no tiene el estado de incapacitado. Acciones Lanza. Tirada de ataque cuerpo a cuerpo o a distancia: +3, alcance 1,5 m o 6/18 m a distancia. Acierto: 4 (1d6 + 1) de daño perforante."
+      }
+    },
+    {
+      "id": "srd-npc-guerrero-veterano",
+      "kind": "npc",
+      "name": "Guerrero veterano",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/veteran.png",
+      "description": "Personaje de referencia: Humanoide Mediano o Pequeño, neutral. VD original 3. Perfil adaptado de Alfa Lumin. Su actitud y papel en la historia los decide el master.",
+      "maxHp": 7,
+      "armor": 17,
+      "damage": "1d4",
+      "abilities": [
+        "Realiza una acción principal por turno. El dado mostrado representa un ataque básico, no cada ataque del perfil original.",
+        "Rasgos, movimiento especial, resistencias, estados y magia se consultan en la referencia; el master los adapta manualmente."
+      ],
+      "instructions": [],
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 335,
+        "name": "Guerrero veterano",
+        "text": "Humanoide Mediano o Pequeño, neutral CA: 17 Iniciativa: +3 (13) PG: 65 (10d8 + 20) Velocidad: 9 m MOD. SALV. MOD. SALV. MOD. SALV. Fue 16 +3 +3 Des 13 +1 +1 Con 14 +2 +2 Int 10 +0 +0 s ab 11 +0 +0 Car 10 +0 +0 Habilidades: Atletismo +5, Percepción +2 Equipo: armadura de bandas, ballesta pesada, espadón Sentidos: Percepción pasiva 12 Idiomas: común y otro cualquiera VD: 3 (700 PX; BC +2) Acciones Ataque múltiple. El guerrero realiza dos ataques con su espadón o su ballesta pesada. Espadón. Tirada de ataque cuerpo a cuerpo: +5, alcance 1,5 m. Acierto: 10 (2d6 + 3) de daño cortante. Ballesta pesada. Tirada de ataque a distancia: +3, alcance 30/120 m. Acierto: 12 (2d10 + 1) de daño perforante. Reacciones Parada. Detonante: una tirada de ataque cuerpo a cuerpo acierta al guerrero mientras sostiene un arma. Respuesta: el guerrero suma 2 a su CA contra ese ataque, lo que puede hacer que falle. Guiverno"
+      }
+    },
+    {
+      "id": "srd-npc-mago",
+      "kind": "npc",
+      "name": "Mago",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/mage.png",
+      "description": "Personaje de referencia: Humanoide Mediano o Pequeño (mago), neutral. VD original 6. Perfil adaptado de Alfa Lumin; amenaza elevada para personajes de nivel 1–3. Su actitud y papel en la historia los decide el master.",
+      "maxHp": 9,
+      "armor": 15,
+      "damage": "2d4",
+      "abilities": [
+        "Realiza una acción principal por turno. El dado mostrado representa un ataque básico, no cada ataque del perfil original.",
+        "Rasgos, movimiento especial, resistencias, estados y magia se consultan en la referencia; el master los adapta manualmente.",
+        "No usar su VD original para equilibrar combates del sistema adaptado. Puede servir como peligro narrativo."
+      ],
+      "instructions": [],
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 346,
+        "name": "Mago",
+        "text": "Humanoide Mediano o Pequeño (mago), neutral CA: 15 Iniciativa: +2 (12) PG: 81 (18d8) Velocidad: 9 m MOD. SALV. MOD. SALV. MOD. SALV. Fue 9 −1 −1 Des 14 +2 +2 Con 11 +0 +0 Int 17 +3 +6 s ab 12 +1 +4 Car 11 +0 +0 Habilidades: Conocimiento arcano +6, Historia +6, Percepción +4 Equipo: varita Sentidos: Percepción pasiva 14 Idiomas: común y otros tres idiomas VD: 6 (2300 PX; BC +3) Acciones Ataque múltiple. El mago realiza tres ataques con su estallido arcano. Estallido arcano. Tirada de ataque cuerpo a cuerpo o a distancia: +6, alcance 1,5 m o 36 m a distancia. Acierto: 16 (3d8 + 3) de daño de fuerza. Lanzamiento de conjuros. El mago lanza uno de los siguientes conjuros, que utiliza la Inteligencia como aptitud mágica (CD de salvación de conjuros 14): A voluntad: armadura de mago (incluido en la CA), detectar magia, luz, mano de mago, prestidigitación 2/día cada uno: bola de fuego (versión de nivel 4), invisibilidad 1/día cada uno: cono de frío, volar Acciones adicionales Paso brumoso (3/día). El mago lanza paso brumoso usando la misma aptitud mágica que para su lanzamiento de conjuros. Reacciones Magia protectora (3/día). El mago lanza contrahechizo o escudo en respuesta al desencadenante de esos conjuros, usando la misma aptitud mágica que para su lanzamiento de conjuros."
+      }
+    },
+    {
+      "id": "srd-npc-archimago",
+      "kind": "npc",
+      "name": "Archimago",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/archmage.png",
+      "description": "Personaje de referencia: Humanoide Mediano o Pequeño (mago), neutral. VD original 12. Perfil adaptado de Alfa Lumin; amenaza elevada para personajes de nivel 1–3. Su actitud y papel en la historia los decide el master.",
+      "maxHp": 17,
+      "armor": 17,
+      "damage": "2d4",
+      "abilities": [
+        "Realiza una acción principal por turno. El dado mostrado representa un ataque básico, no cada ataque del perfil original.",
+        "Rasgos, movimiento especial, resistencias, estados y magia se consultan en la referencia; el master los adapta manualmente.",
+        "No usar su VD original para equilibrar combates del sistema adaptado. Puede servir como peligro narrativo."
+      ],
+      "instructions": [],
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 347,
+        "name": "Archimago",
+        "text": "Humanoide Mediano o Pequeño (mago), neutral CA: 17 Iniciativa: +7 (17) PG: 170 (31d8 + 31) Velocidad: 9 m MOD. SALV. MOD. SALV. MOD. SALV. Fue 10 +0 +0 Des 14 +2 +2 Con 12 +1 +1 Int 20 +5 +9 s ab 15 +2 +6 Car 16 +3 +3 Habilidades: Conocimiento arcano +13, Historia +9, Percepción +6 Inmunidades: psíquico; hechizado (con mente en blanco) Equipo: varita Sentidos: Percepción pasiva 16 Idiomas: común y otros cinco idiomas VD: 12 (8000 PX; BC +4) Atributos Resistencia mágica. El archimago tiene ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos. Acciones Ataque múltiple. El archimago realiza cuatro ataques con su estallido arcano. Estallido arcano. Tirada de ataque cuerpo a cuerpo o a distancia: +9, alcance 1,5 m o 45 m a distancia. Acierto: 27 (4d10 + 5) de daño de fuerza. Lanzamiento de conjuros. El archimago lanza uno de los siguientes conjuros, que utiliza la Inteligencia como aptitud mágica (CD de salvación de conjuros 17): A voluntad: armadura de mago (incluido en la CA), detectar magia, detectar pensamientos, disfrazarse, invisibilidad, luz, mano de mago, prestidigitación 2/día cada uno: relámpago (versión de nivel 7), volar 1/día cada uno: cono de frío (versión de nivel 9), escudriñar, mente en blanco (lanzado antes del combate), teletransporte Acciones adicionales Paso brumoso (3/día). El mago lanza paso brumoso usando la misma aptitud mágica que para su lanzamiento de conjuros. Reacciones Magia protectora (3/día). El archimago lanza contrahechizo o escudo en respuesta al desencadenante de esos conjuros, usando la misma aptitud mágica que para su lanzamiento de conjuros. Mantícora"
+      }
+    },
+    {
+      "id": "srd-npc-noble",
+      "kind": "npc",
+      "name": "Noble",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/noble.png",
+      "description": "Personaje de referencia: Humanoide Mediano o Pequeño, neutral. VD original 1/8. Perfil adaptado de Alfa Lumin. Su actitud y papel en la historia los decide el master.",
+      "maxHp": 2,
+      "armor": 15,
+      "damage": "1d2",
+      "abilities": [
+        "Realiza una acción principal por turno. El dado mostrado representa un ataque básico, no cada ataque del perfil original.",
+        "Rasgos, movimiento especial, resistencias, estados y magia se consultan en la referencia; el master los adapta manualmente."
+      ],
+      "instructions": [],
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 354,
+        "name": "Noble",
+        "text": "Humanoide Mediano o Pequeño, neutral CA: 15 Iniciativa: +1 (11) PG: 9 (2d8) Velocidad: 9 m MOD. SALV. MOD. SALV. MOD. SALV. Fue 11 +0 +0 Des 12 +1 +1 Con 11 +0 +0 Int 12 +1 +1 s ab 14 +2 +2 Car 16 +3 +3 Habilidades: Engaño +5, Perspicacia +4, Persuasión +5 Equipo: coraza, estoque Sentidos: Percepción pasiva 12 Idiomas: común y otros dos idiomas VD: 1/8 (25 PX; BC +2) Acciones Estoque. Tirada de ataque cuerpo a cuerpo: +3, alcance 1,5 m. Acierto: 5 (1d8 + 1) de daño perforante. Reacciones Parada. Detonante: una tirada de ataque cuerpo a cuerpo acierta al noble mientras sostiene un arma. Respuesta: el noble suma 2 a su CA contra ese ataque, lo que puede hacer que falle. Objetos animados"
+      }
+    },
+    {
+      "id": "srd-npc-pendenciero",
+      "kind": "npc",
+      "name": "Pendenciero",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/thug.png",
+      "description": "Personaje de referencia: Humanoide Mediano o Pequeño, neutral. VD original 1/2. Perfil adaptado de Alfa Lumin. Su actitud y papel en la historia los decide el master.",
+      "maxHp": 4,
+      "armor": 12,
+      "damage": "1d4",
+      "abilities": [
+        "Realiza una acción principal por turno. El dado mostrado representa un ataque básico, no cada ataque del perfil original.",
+        "Rasgos, movimiento especial, resistencias, estados y magia se consultan en la referencia; el master los adapta manualmente."
+      ],
+      "instructions": [],
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 357,
+        "name": "Pendenciero",
+        "text": "Humanoide Mediano o Pequeño, neutral CA: 12 Iniciativa: +1 (11) PG: 32 (5d8 + 10) Velocidad: 9 m MOD. SALV. MOD. SALV. MOD. SALV. Fue 15 +2 +2 Des 12 +1 +1 Con 14 +2 +2 Int 10 +0 +0 s ab 10 +0 +0 Car 11 +0 +0 Equipo: armadura de cuero, ballesta pesada, maza Sentidos: Percepción pasiva 10 Idiomas: común VD: 1/2 (100 PX; BC +2) Atributos Atacar en grupo. El pendenciero tiene ventaja en una tirada de ataque contra una criatura si al menos uno de los aliados del pendenciero se encuentra a 1,5 m de la criatura y no tiene el estado de incapacitado. Acciones Maza. Tirada de ataque cuerpo a cuerpo: +4, alcance 1,5 m. Acierto: 5 (1d6 + 2) de daño contundente. Ballesta pesada. Tirada de ataque a distancia: +3, alcance 30/120 m. Acierto: 6 (1d10 + 1) de daño perforante."
+      }
+    },
+    {
+      "id": "srd-npc-jefe-pendenciero",
+      "kind": "npc",
+      "name": "Jefe pendenciero",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/thug.png",
+      "description": "Personaje de referencia: Humanoide Mediano o Pequeño, neutral. VD original 4. Perfil adaptado de Alfa Lumin; amenaza elevada para personajes de nivel 1–3. Su actitud y papel en la historia los decide el master.",
+      "maxHp": 9,
+      "armor": 16,
+      "damage": "2d4",
+      "abilities": [
+        "Realiza una acción principal por turno. El dado mostrado representa un ataque básico, no cada ataque del perfil original.",
+        "Rasgos, movimiento especial, resistencias, estados y magia se consultan en la referencia; el master los adapta manualmente.",
+        "No usar su VD original para equilibrar combates del sistema adaptado. Puede servir como peligro narrativo."
+      ],
+      "instructions": [],
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 358,
+        "name": "Jefe pendenciero",
+        "text": "Humanoide Mediano o Pequeño, neutral CA: 16 Iniciativa: +2 (12) PG: 82 (11d8 + 33) Velocidad: 9 m MOD. SALV. MOD. SALV. MOD. SALV. Fue 17 +3 +5 Des 14 +2 +2 Con 16 +3 +5 Int 11 +0 +0 s ab 10 +0 +0 Car 11 +0 +2 Equipo: ballesta pesada, cota de malla, martillo de guerra Sentidos: Percepción pasiva 10 Idiomas: común y otro cualquiera VD: 4 (1100 PX; BC +2) Atributos Atacar en grupo. El pendenciero tiene ventaja en una tirada de ataque contra una criatura si al menos uno de los aliados del pendenciero se encuentra a 1,5 m de la criatura y no tiene el estado de incapacitado. Acciones Ataque múltiple. El pendenciero realiza dos ataques con su martillo de guerra o su ballesta pesada en cualquier combinación. Martillo de guerra. Tirada de ataque cuerpo a cuerpo: +5, alcance 1,5 m. Acierto: 12 (2d8 + 3) de daño contundente. Si el objetivo es una criatura Grande o más pequeña, el pendenciero la empujará hasta 3 m respecto a él en línea recta. Ballesta pesada. Tirada de ataque a distancia: +4, alcance 30/120 m. Acierto: 13 (2d10 + 2) de daño perforante. Perro del inframundo"
+      }
+    },
+    {
+      "id": "srd-npc-pirata",
+      "kind": "npc",
+      "name": "Pirata",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/bandit.png",
+      "description": "Personaje de referencia: Humanoide Mediano o Pequeño, neutral. VD original 1. Perfil adaptado de Alfa Lumin. Su actitud y papel en la historia los decide el master.",
+      "maxHp": 4,
+      "armor": 14,
+      "damage": "1d4",
+      "abilities": [
+        "Realiza una acción principal por turno. El dado mostrado representa un ataque básico, no cada ataque del perfil original.",
+        "Rasgos, movimiento especial, resistencias, estados y magia se consultan en la referencia; el master los adapta manualmente."
+      ],
+      "instructions": [],
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 359,
+        "name": "Pirata",
+        "text": "Humanoide Mediano o Pequeño, neutral CA: 14 Iniciativa: +5 (15) PG: 33 (6d8 + 6) Velocidad: 9 m MOD. SALV. MOD. SALV. MOD. SALV. Fue 10 +0 +0 Des 16 +3 +5 Con 12 +1 +1 Int 8 −1 −1 s ab 12 +1 +1 Car 14 +2 +4 Equipo: armadura de cuero, dagas (6) Sentidos: Percepción pasiva 11 Idiomas: común y otro cualquiera VD: 1 (200 PX; BC +2) Acciones Ataque múltiple. El pirata realiza dos ataques con sus dagas. Puede sustituir un ataque por un uso de su garbo cautivador. Daga. Tirada de ataque cuerpo a cuerpo o a distancia: +5, alcance 1,5 m o 6/18 m a distancia. Acierto: 5 (1d4 + 3) de daño perforante. Garbo cautivador. Tirada de salvación de Sabiduría: CD 12, una criatura que el pirata pueda ver a 9 m o menos. Fallo: el objetivo tendrá el estado de hechizado hasta el principio del siguiente turno del pirata."
+      }
+    },
+    {
+      "id": "srd-npc-capitan-pirata",
+      "kind": "npc",
+      "name": "Capitán pirata",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/bandit-captain.png",
+      "description": "Personaje de referencia: Humanoide Mediano o Pequeño, neutral. VD original 6. Perfil adaptado de Alfa Lumin; amenaza elevada para personajes de nivel 1–3. Su actitud y papel en la historia los decide el master.",
+      "maxHp": 9,
+      "armor": 17,
+      "damage": "2d4",
+      "abilities": [
+        "Realiza una acción principal por turno. El dado mostrado representa un ataque básico, no cada ataque del perfil original.",
+        "Rasgos, movimiento especial, resistencias, estados y magia se consultan en la referencia; el master los adapta manualmente.",
+        "No usar su VD original para equilibrar combates del sistema adaptado. Puede servir como peligro narrativo."
+      ],
+      "instructions": [],
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 359,
+        "name": "Capitán pirata",
+        "text": "Humanoide Mediano o Pequeño, neutral CA: 17 Iniciativa: +7 (17) PG: 84 (13d8 + 26) Velocidad: 9 m MOD. SALV. MOD. SALV. MOD. SALV. Fue 10 +0 +3 Des 18 +4 +7 Con 14 +2 +2 Int 10 +0 +0 s ab 14 +2 +5 Car 17 +3 +6 Habilidades: Acrobacias +7, Percepción +5 Equipo: estoque, pistola Sentidos: Percepción pasiva 15 Idiomas: común y otro cualquiera VD: 6 (2300 PX; BC +3) Acciones Ataque múltiple. El pirata realiza tres ataques con su estoque o pistola en cualquier combinación. Estoque. Tirada de ataque cuerpo a cuerpo: +7, alcance 1,5 m. Acierto: 13 (2d8 + 4) de daño perforante y el pirata tendrá ventaja en la siguiente tirada de ataque que haga antes del final de este turno. Pistola. Tirada de ataque a distancia: +7, alcance 9/27 m. Acierto: 15 (2d10 + 4) de daño perforante. Acciones adicionales Encanto de capitán. Tirada de salvación de Sabiduría: CD 14, una criatura que el pirata pueda ver a 9 m o menos. Fallo: el objetivo tendrá el estado de hechizado hasta el principio del siguiente turno del pirata. Reacciones Contraataque. Detonante: una tirada de ataque cuerpo a cuerpo acierta al pirata mientras sostiene un arma. Respuesta: el pirata suma 3 a su CA contra ese ataque, lo que puede hacer que falle. Si falla, el pirata realiza un ataque con su estoque contra la criatura a la que reacciona si está dentro del alcance. Planetar"
+      }
+    },
+    {
+      "id": "srd-npc-plebeyo",
+      "kind": "npc",
+      "name": "Plebeyo",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/commoner.png",
+      "description": "Personaje de referencia: Humanoide Mediano o Pequeño, neutral. VD original 0. Perfil adaptado de Alfa Lumin. Su actitud y papel en la historia los decide el master.",
+      "maxHp": 2,
+      "armor": 10,
+      "damage": "1d2",
+      "abilities": [
+        "Realiza una acción principal por turno. El dado mostrado representa un ataque básico, no cada ataque del perfil original.",
+        "Rasgos, movimiento especial, resistencias, estados y magia se consultan en la referencia; el master los adapta manualmente."
+      ],
+      "instructions": [],
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 361,
+        "name": "Plebeyo",
+        "text": "Humanoide Mediano o Pequeño, neutral CA: 10 Iniciativa: +0 (10) PG: 4 (1d8) Velocidad: 9 m MOD. SALV. MOD. SALV. MOD. SALV. Fue 10 +0 +0 Des 10 +0 +0 Con 10 +0 +0 Int 10 +0 +0 s ab 10 +0 +0 Car 10 +0 +0 Equipo: garrote Sentidos: Percepción pasiva 10 Idiomas: común VD: 0 (10 PX; BC +2) Atributos Entrenamiento. El plebeyo es competente en una habilidad a elección de cada GM y tiene ventaja siempre que realice una prueba de característica con esa habilidad. Acciones Garrote. Tirada de ataque cuerpo a cuerpo: +2, alcance 1,5 m. Acierto: 2 (1d4) de daño contundente. Pseudodragón"
+      }
+    },
+    {
+      "id": "srd-npc-sacerdote-acolito",
+      "kind": "npc",
+      "name": "Sacerdote acólito",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/acolyte.png",
+      "description": "Personaje de referencia: Humanoide Mediano o Pequeño (clérigo), neutral. VD original 1/4. Perfil adaptado de Alfa Lumin. Su actitud y papel en la historia los decide el master.",
+      "maxHp": 2,
+      "armor": 13,
+      "damage": "1d2",
+      "abilities": [
+        "Realiza una acción principal por turno. El dado mostrado representa un ataque básico, no cada ataque del perfil original.",
+        "Rasgos, movimiento especial, resistencias, estados y magia se consultan en la referencia; el master los adapta manualmente."
+      ],
+      "instructions": [],
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 364,
+        "name": "Sacerdote acólito",
+        "text": "Humanoide Mediano o Pequeño (clérigo), neutral CA: 13 Iniciativa: +0 (10) PG: 11 (2d8 + 2) Velocidad: 9 m MOD. SALV. MOD. SALV. MOD. SALV. Fue 14 +2 +2 Des 10 +0 +0 Con 12 +1 +1 Int 10 +0 +0 s ab 14 +2 +2 Car 11 +0 +0 Habilidades: Medicina +4, Religión +2 Equipo: camisa de malla, maza, símbolo sagrado Sentidos: Percepción pasiva 12 Idiomas: común VD: 1/4 (50 PX; BC +2) Acciones Maza. Tirada de ataque cuerpo a cuerpo: +4, alcance 1,5 m. Acierto: 5 (1d6 + 2) de daño contundente más 2 (1d4) de daño radiante. Llama radiante. Tirada de ataque a distancia: +4, alcance 18 m. Acierto: 7 (2d6) de daño radiante. Lanzamiento de conjuros. El sacerdote lanza uno de los siguientes conjuros, que utiliza la Sabiduría como aptitud mágica: A voluntad: luz, taumaturgia Acciones adicionales Auxilio divino (1/día). El sacerdote lanza bendición, palabra de curación o santuario usando la misma aptitud mágica que para su lanzamiento de conjuros."
+      }
+    },
+    {
+      "id": "srd-npc-sacerdote",
+      "kind": "npc",
+      "name": "Sacerdote",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/priest.png",
+      "description": "Personaje de referencia: Humanoide Mediano o Pequeño (clérigo), neutral. VD original 2. Perfil adaptado de Alfa Lumin. Su actitud y papel en la historia los decide el master.",
+      "maxHp": 4,
+      "armor": 13,
+      "damage": "1d4",
+      "abilities": [
+        "Realiza una acción principal por turno. El dado mostrado representa un ataque básico, no cada ataque del perfil original.",
+        "Rasgos, movimiento especial, resistencias, estados y magia se consultan en la referencia; el master los adapta manualmente."
+      ],
+      "instructions": [],
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 365,
+        "name": "Sacerdote",
+        "text": "Humanoide Mediano o Pequeño (clérigo), neutral CA: 13 Iniciativa: +0 (10) PG: 38 (7d8 + 7) Velocidad: 9 m MOD. SALV. MOD. SALV. MOD. SALV. Fue 16 +3 +3 Des 10 +0 +0 Con 12 +1 +1 Int 13 +1 +1 s ab 16 +3 +3 Car 13 +1 +1 Habilidades: Medicina +7, Percepción +5, Religión +5 Equipo: camisa de malla, maza, símbolo sagrado Sentidos: Percepción pasiva 15 Idiomas: común y otro cualquiera VD: 2 (450 PX; BC +2) Acciones Ataque múltiple. El sacerdote realiza dos ataques con su maza o su llama radiante en cualquier combinación. Maza. Tirada de ataque cuerpo a cuerpo: +5, alcance 1,5 m. Acierto: 6 (1d6 + 3) de daño contundente más 5 (2d4) de daño radiante. Llama radiante. Tirada de ataque a distancia: +5, alcance 18 m. Acierto: 11 (2d10) de daño radiante. Lanzamiento de conjuros. El sacerdote lanza uno de los siguientes conjuros, que utiliza la Sabiduría como aptitud mágica (CD de salvación de conjuros 13): A voluntad: luz, taumaturgia 1/día: espíritus guardianes Acciones adicionales Auxilio divino (3/día). El sacerdote lanza bendición, disipar magia, palabra de curación o restablecimiento menor usando la misma aptitud mágica que para su lanzamiento de conjuros. Saga cetrina"
+      }
+    },
+    {
+      "id": "srd-npc-sectario",
+      "kind": "npc",
+      "name": "Sectario",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/cultist.png",
+      "description": "Personaje de referencia: Humanoide Mediano o Pequeño, neutral. VD original 1/8. Perfil adaptado de Alfa Lumin. Su actitud y papel en la historia los decide el master.",
+      "maxHp": 2,
+      "armor": 12,
+      "damage": "1d2",
+      "abilities": [
+        "Realiza una acción principal por turno. El dado mostrado representa un ataque básico, no cada ataque del perfil original.",
+        "Rasgos, movimiento especial, resistencias, estados y magia se consultan en la referencia; el master los adapta manualmente."
+      ],
+      "instructions": [],
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 368,
+        "name": "Sectario",
+        "text": "Humanoide Mediano o Pequeño, neutral CA: 12 Iniciativa: +1 (11) PG: 9 (2d8) Velocidad: 9 m MOD. SALV. MOD. SALV. MOD. SALV. Fue 11 +0 +0 Des 12 +1 +1 Con 10 +0 +0 Int 10 +0 +0 s ab 11 +0 +2 Car 10 +0 +0 Habilidades: Engaño +2, Religión +2 Equipo: armadura de cuero, hoz Sentidos: Percepción pasiva 10 Idiomas: común VD: 1/8 (25 PX; BC +2) Acciones Hoz ritual. Tirada de ataque cuerpo a cuerpo: +3, alcance 1,5 m. Acierto: 3 (1d4 + 1) de daño cortante más 1 de daño necrótico."
+      }
+    },
+    {
+      "id": "srd-npc-fanatico-sectario",
+      "kind": "npc",
+      "name": "Fanático sectario",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/cult-fanatic.png",
+      "description": "Personaje de referencia: Humanoide Mediano o Pequeño, neutral. VD original 2. Perfil adaptado de Alfa Lumin. Su actitud y papel en la historia los decide el master.",
+      "maxHp": 5,
+      "armor": 13,
+      "damage": "1d4",
+      "abilities": [
+        "Realiza una acción principal por turno. El dado mostrado representa un ataque básico, no cada ataque del perfil original.",
+        "Rasgos, movimiento especial, resistencias, estados y magia se consultan en la referencia; el master los adapta manualmente."
+      ],
+      "instructions": [],
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 368,
+        "name": "Fanático sectario",
+        "text": "Humanoide Mediano o Pequeño, neutral CA: 13 Iniciativa: +2 (12) PG: 44 (8d8 + 8) Velocidad: 9 m MOD. SALV. MOD. SALV. MOD. SALV. Fue 11 +0 +0 Des 14 +2 +2 Con 12 +1 +1 Int 10 +0 +0 s ab 14 +2 +4 Car 13 +1 +1 Habilidades: Engaño +3, Persuasión +3, Religión +2 Equipo: armadura de cuero, símbolo sagrado Sentidos: Percepción pasiva 12 Idiomas: común VD: 2 (450 PX; BC +2) Acciones Cuchilla de pacto. Tirada de ataque cuerpo a cuerpo: +4, alcance 1,5 m. Acierto: 6 (1d8 + 2) de daño cortante más 7 (2d6) de daño necrótico. Lanzamiento de conjuros. El sectario lanza uno de los siguientes conjuros, que utiliza la Sabiduría como aptitud mágica (CD de salvación de conjuros 12, +4 a acertar con ataques de conjuro): A voluntad: luz, taumaturgia 2/día: orden imperiosa 1/día: inmovilizar persona Acciones adicionales Arma espiritual (2/día). El sectario lanza el conjuro arma espiritual usando la misma aptitud mágica que para su lanzamiento de conjuros. Semidragón"
+      }
+    },
+    {
+      "id": "srd-npc-siervo-de-vampiro",
+      "kind": "npc",
+      "name": "Siervo de vampiro",
+      "image": "https://www.dnd5eapi.co/api/images/monsters/vampire-spawn.png",
+      "description": "Personaje de referencia: Humanoide Mediano o Pequeño, neutral malvado. VD original 3. Perfil adaptado de Alfa Lumin. Su actitud y papel en la historia los decide el master.",
+      "maxHp": 7,
+      "armor": 15,
+      "damage": "1d4",
+      "abilities": [
+        "Realiza una acción principal por turno. El dado mostrado representa un ataque básico, no cada ataque del perfil original.",
+        "Rasgos, movimiento especial, resistencias, estados y magia se consultan en la referencia; el master los adapta manualmente."
+      ],
+      "instructions": [],
+      "source": {
+        "document": "SRD 5.2.1",
+        "page": 373,
+        "name": "Siervo de vampiro",
+        "text": "Humanoide Mediano o Pequeño, neutral malvado CA: 15 Iniciativa: +5 (15) PG: 65 (10d8 + 20) Velocidad: 9 m, trepar 9 m MOD. SALV. MOD. SALV. MOD. SALV. Fue 17 +3 +3 Des 16 +3 +5 Con 15 +2 +2 Int 10 +0 +0 s ab 10 +0 +2 Car 14 +2 +2 Habilidades: Percepción +4, Persuasión +4, Sigilo +7 Resistencias: necrótico Inmunidades: hechizado (salvo por parte de su amo vampiro) Equipo: dagas (10) Sentidos: visión en la oscuridad 18 m; Percepción pasiva 14 Idiomas: común y otro cualquiera VD: 3 (700 PX; BC +2) Atributos Conexión vampírica. Mientras el siervo de vampiro y su amo estén en el mismo plano de existencia, el vampiro puede comunicarse con el siervo telepáticamente y percibir el mundo a través de sus sentidos. Acciones Ataque múltiple. El siervo realiza dos ataques con sus dagas sombrías. Daga sombría. Tirada de ataque cuerpo a cuerpo o a distancia: +5, alcance 1,5 m o 6/18 m a distancia. Acierto: 5 (1d4 + 3) de daño perforante más 7 (3d4) de daño necrótico. Si este ataque reduce a 0 los puntos de golpe del objetivo, pasará a estar estable, pero tendrá el estado de envenenado durante 1 hora. Mientras tenga el estado de envenenado, tendrá también el estado de paralizado. Acciones adicionales Agilidad de inmortal. El siervo realiza las acciones de correr o destrabarse."
+      }
+    }
+  ]
+}

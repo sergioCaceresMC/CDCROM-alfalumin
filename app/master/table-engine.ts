@@ -1,21 +1,29 @@
 import { z } from "zod";
+import { sourceSchema } from "../game/source";
+import { itemSchema } from "../game/schema";
 
 const id = z.string().regex(/^[a-z0-9][a-z0-9-]{0,79}$/);
 const text = z.string().trim().min(1).max(4000);
 export const cardKinds = ["terrain", "npc", "enemy", "story", "object"] as const;
 export const kindLabels = { terrain: "Terrenos", npc: "Personajes", enemy: "Enemigos", story: "Narración", object: "Objetos" };
+export const missionLabels = { main: "Principal", side: "Secundaria", final: "Final" };
+export type StoryMission = keyof typeof missionLabels;
 const imageUrl = z.string().url().refine(url => /^https?:\/\//.test(url));
 const cardImage = z.union([imageUrl, z.string().regex(/^images\/[a-zA-Z0-9/_-]+\.(svg|png|webp|jpe?g)$/)]);
 export const musicSchema = z.object({ id, name: text, url: imageUrl }).strict();
 export const cardSchema = z.object({
+  imageCredit: z.object({ text: z.string().min(1).max(500), url: imageUrl }).strict().optional(),
+  item: itemSchema.optional(),
+  source: sourceSchema.optional(),
   id, kind: z.enum(cardKinds), name: z.string().trim().min(1).max(80), description: text, image: cardImage.optional(),
   musicUrl: imageUrl.optional(),
-  mission: z.enum(["main", "side"]).optional(),
+  mission: z.enum(["main", "side", "final"]).optional(),
   maxHp: z.number().int().min(1).max(999).optional(), armor: z.number().int().min(1).max(30).optional(),
   damage: z.enum(["1d2", "1d4", "2d4"]).optional(),
   abilities: z.array(text).max(30).default([]),
-  instructions: z.array(z.object({ kind: z.enum(cardKinds), count: z.number().int().min(1).max(10) }).strict()).max(10).default([]),
-}).strict().refine(c => c.kind !== "enemy" || c.maxHp !== undefined, "Falta vida del enemigo")
+  instructions: z.array(z.object({ kind: z.enum(cardKinds), count: z.number().int().min(1).max(10), cardId: id.optional() }).strict()).max(10).default([]),
+}).strict().refine(c => !c.item || c.kind === "object", "El equipo pertenece a una carta de objeto")
+  .refine(c => c.kind !== "enemy" || c.maxHp !== undefined, "Falta vida del enemigo")
   .refine(c => !c.musicUrl || c.kind === "terrain", "La sugerencia musical pertenece a un terreno");
 const legendSchema = z.object({ id, name: text, symbol: z.string().min(1).max(4), kind: z.enum(["structure", "enemy", "object"]), terrain: z.enum(["floor", "wall", "water", "grass", "path"]).optional() }).strict();
 export const mapSchema = z.object({
@@ -45,7 +53,16 @@ export const tableCardSchema = z.object({
   id: z.string().min(1).max(100), definition: cardSchema, x: position, y: position,
   hp: z.number().int().min(0).max(999).optional(), notes: z.string().max(4000).default(""),
 }).strict().refine(c => c.definition.maxHp === undefined ? c.hp === undefined : c.hp !== undefined && c.hp <= c.definition.maxHp);
+export const narrativeSchema = z.object({
+  target: z.number().int().min(1).max(4).nullable(),
+  cards: z.array(cardSchema).max(4),
+  finale: cardSchema.nullable(),
+}).strict().refine(n => n.target === null ? n.cards.length === 0 && n.finale === null :
+  n.cards.length <= n.target && n.cards.every(c => c.kind === "story" && c.mission !== "final") &&
+  (n.finale === null || n.cards.length === n.target && n.finale.kind === "story" && n.finale.mission === "final"), "Progreso de narración inválido");
+const emptyNarrative = () => ({ target: null, cards: [], finale: null });
 export const tableSchema = z.object({
+  narrative: narrativeSchema.default(emptyNarrative),
   cards: z.array(tableCardSchema).max(100),
   storedCards: z.array(tableCardSchema).max(500).default([]),
   tokens: z.array(z.object({ id: z.string().min(1).max(100), label: z.string().trim().min(1).max(30), color: z.enum(["red", "green", "purple", "gold"]), x: position, y: position }).strict()).max(100),
@@ -58,7 +75,32 @@ export type CardKind = typeof cardKinds[number];
 export type CardDefinition = z.infer<typeof cardSchema>;
 export type MapDefinition = z.infer<typeof mapSchema>;
 export type Table = z.infer<typeof tableSchema>;
-export const emptyTable = (): Table => ({ cards: [], storedCards: [], tokens: [], imageMaps: [], map: null, music: null, decks: {} });
+export const emptyTable = (): Table => ({ narrative: emptyNarrative(), cards: [], storedCards: [], tokens: [], imageMaps: [], map: null, music: null, decks: {} });
+export function startNarrative(table: Table, random = Math.random): Table {
+  const roll = random();
+  if (!Number.isFinite(roll) || roll < 0 || roll >= 1) throw new Error("Tirada de narración inválida.");
+  return tableSchema.parse({ ...table, narrative: { target: Math.floor(roll * 4) + 1, cards: [], finale: null } });
+}
+export function canDrawNarrative(table: Table, mission: StoryMission): boolean {
+  const n = table.narrative;
+  return n.target !== null && n.finale === null && (mission === "final" ? n.cards.length === n.target : n.cards.length < n.target);
+}
+export function placeNarrative(table: Table, definition: CardDefinition, instanceId: string): Table {
+  const mission = definition.mission ?? "main";
+  if (definition.kind !== "story" || !canDrawNarrative(table, mission)) throw new Error("Inicia un arco y completa las cartas requeridas antes del desenlace.");
+  const placed = placeCard(table, definition, instanceId);
+  return tableSchema.parse({ ...placed, narrative: {
+    ...table.narrative,
+    ...(mission === "final" ? { finale: structuredClone(definition) } : { cards: [...table.narrative.cards, structuredClone(definition)] }),
+  } });
+}
+export function drawNarrative(table: Table, mission: StoryMission, catalog: CardDefinition[], instanceId: string, random = Math.random): Table {
+  const choices = catalog.filter(card => card.kind === "story" && (card.mission ?? "main") === mission);
+  if (!choices.length) throw new Error("No hay cartas de este tipo de narración.");
+  const roll = random();
+  if (!Number.isFinite(roll) || roll < 0 || roll >= 1) throw new Error("Extracción de narración inválida.");
+  return placeNarrative(table, choices[Math.floor(roll * choices.length)], instanceId);
+}
 export function bringCardToFront(table: Table, id: string): Table {
   const card = table.cards.find(c => c.id === id);
   if (!card || table.cards.at(-1)?.id === id) return table;
@@ -77,7 +119,7 @@ export function removeTableCards(table: Table): Table {
   return tableSchema.parse({ ...table, cards: [] });
 }
 export function resetTable(table: Table): Table {
-  return tableSchema.parse({ ...emptyTable(), storedCards: table.storedCards });
+  return tableSchema.parse({ ...emptyTable(), narrative: table.narrative, storedCards: table.storedCards });
 }
 export function restoreCard(table: Table, id: string): Table {
   const card = table.storedCards.find(c => c.id === id);
@@ -91,8 +133,27 @@ export function placeCard(table: Table, definition: CardDefinition, instanceId: 
   return tableSchema.parse({ ...table, cards: [...table.cards, { id: instanceId, definition: structuredClone(definition),
     x: (table.map ? bounds.width / 2 : 440) + offset * 35, y: (table.map ? bounds.height / 2 : 40) + offset * 40, notes: "", ...(definition.maxHp ? { hp: definition.maxHp } : {}) }] });
 }
+export function executeCardInstructions(table: Table, instructions: CardDefinition["instructions"], decks: CardDefinition[][], newId: () => string, random = Math.random): Table {
+  // Resolve every target before creating copies, so invalid references leave the table intact.
+  const targets = instructions.map((instruction, index) => {
+    const deck = decks[index];
+    if (!deck || !deck.length || deck.some(card => card.kind !== instruction.kind)) throw new Error("Falta una baraja válida para las cartas sugeridas.");
+    const target = instruction.cardId ? deck.find(card => card.id === instruction.cardId) : undefined;
+    if (instruction.cardId && !target) throw new Error(`No se encuentra la carta sugerida: ${instruction.cardId}`);
+    if (target?.kind === "story" && target.mission === "final") throw new Error("Los finales se extraen al completar el arco de narración.");
+    return target;
+  });
+  if (table.cards.length + instructions.reduce((sum, instruction) => sum + instruction.count, 0) > 100) throw new Error("La mesa admite 100 cartas. Guarda alguna antes de añadir las sugeridas.");
+  return instructions.reduce((state, instruction, index) => {
+    for (let count = 0; count < instruction.count; count++) {
+      const target = targets[index];
+      state = target ? placeCard(state, target, newId()) : drawCard(state, instruction.kind, decks[index], newId(), random);
+    }
+    return state;
+  }, table);
+}
 export function drawCard(table: Table, kind: CardKind, catalog: CardDefinition[], instanceId: string, random = Math.random): Table {
-  const candidates = catalog.filter(c => c.kind === kind);
+  const candidates = catalog.filter(c => c.kind === kind && (kind !== "story" || c.mission !== "final"));
   if (!candidates.length) throw new Error("Esta baraja no contiene cartas. Añade contenido al catálogo.");
   const index = Math.min(candidates.length - 1, Math.max(0, Math.floor(random() * candidates.length)));
   const definition = candidates[index];
