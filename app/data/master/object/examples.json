@@ -1,0 +1,18 @@
+﻿{
+  "version": 1,
+  "entries": [
+    {
+      "description": "Su aguja tiembla cerca de las ruinas. Puede servir como recompensa o pista.",
+      "name": "Brújula de cristal",
+      "id": "object-brujula",
+      "abilities": ["El master decide qué señala."],
+      "kind": "object"
+    },
+    {
+      "description": "Una pieza de cobre con una hoja grabada. Alguien la dejó junto al sendero.",
+      "name": "Sello del bosque",
+      "id": "object-sello",
+      "kind": "object"
+    }
+  ]
+}

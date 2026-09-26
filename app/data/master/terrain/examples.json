@@ -1,0 +1,37 @@
+﻿{
+  "version": 1,
+  "entries": [
+    {
+      "instructions": [
+        {
+          "kind": "npc",
+          "count": 1
+        },
+        {
+          "kind": "enemy",
+          "count": 2
+        }
+      ],
+      "description": "Columnas rotas sobresalen de la niebla. Una luz cálida se mueve entre los arcos, aunque no se oye ningún paso.",
+      "name": "Ruinas bajo la niebla",
+      "id": "terrain-ruinas",
+      "kind": "terrain",
+      "musicUrl": "https://www.youtube.com/results?search_query=ancient+ruins+rpg+ambient",
+      "image": "https://i.pinimg.com/736x/4a/d1/d9/4ad1d9c8dea1d9652797559c0e1df58e.jpg"
+    },
+    {
+      "instructions": [
+        {
+          "kind": "story",
+          "count": 1
+        }
+      ],
+      "description": "El sendero se pierde entre raíces. Cada palabra vuelve como un susurro que parece pronunciar otro nombre.",
+      "name": "El bosque de los ecos",
+      "id": "terrain-bosque",
+      "kind": "terrain",
+      "musicUrl": "https://www.youtube.com/results?search_query=enchanted+forest+rpg+ambient",
+      "image": "https://i.pinimg.com/736x/4a/d1/d9/4ad1d9c8dea1d9652797559c0e1df58e.jpg"
+    }
+  ]
+}

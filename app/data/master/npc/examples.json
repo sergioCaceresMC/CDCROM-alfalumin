@@ -1,0 +1,27 @@
+﻿{
+  "version": 1,
+  "entries": [
+    {
+      "id": "npc-cartografa",
+      "name": "Iria, la cartógrafa",
+      "instructions": [
+        {
+          "kind": "story",
+          "count": 1
+        }
+      ],
+      "description": "Ha perdido parte de su mapa y ofrece orientación a quien le ayude a recuperarlo.",
+      "abilities": ["Reconoce rutas antiguas."],
+      "kind": "npc",
+      "image": "https://i.pinimg.com/736x/ba/fb/70/bafb70ccb877f50b8846631b4b6dcc7c.jpg"
+    },
+    {
+      "description": "Cuida un puente abandonado. Conoce un atajo, pero teme dejar su puesto.",
+      "name": "El guardián de la vigilia",
+      "id": "npc-vigilia",
+      "abilities": ["Recuerda a quienes cruzaron el puente."],
+      "kind": "npc",
+      "image": "https://i.pinimg.com/736x/ba/fb/70/bafb70ccb877f50b8846631b4b6dcc7c.jpg"
+    }
+  ]
+}

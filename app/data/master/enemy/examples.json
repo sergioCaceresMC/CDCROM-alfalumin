@@ -1,0 +1,40 @@
+﻿{
+  "version": 1,
+  "entries": [
+    {
+      "id": "enemy-esqueleto",
+      "maxHp": 4,
+      "abilities": ["No habla ni siente miedo."],
+      "damage": "1d2",
+      "name": "Esqueleto de la cripta",
+      "armor": 12,
+      "kind": "enemy",
+      "description": "Una armadura oxidada mantiene unidos sus huesos.",
+      "image": "images/cards/enemy.svg"
+    },
+    {
+      "id": "enemy-orco",
+      "maxHp": 7,
+      "abilities": ["Busca cobertura cuando está herido."],
+      "damage": "1d4",
+      "name": "Orco errante",
+      "armor": 13,
+      "kind": "enemy",
+      "description": "Un explorador con un hacha mellada protege su campamento.",
+      "image": "images/cards/enemy.svg"
+    },
+    {
+      "id": "enemy-ogro",
+      "maxHp": 10,
+      "abilities": [
+        "Ataque extremadamente fuerte; avisa del peligro antes del combate."
+      ],
+      "damage": "2d4",
+      "name": "Ogro de las ruinas",
+      "armor": 10,
+      "kind": "enemy",
+      "description": "Un gigante solitario arrastra una maza de piedra.",
+      "image": "images/cards/enemy.svg"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+﻿{
+  "version": 1,
+  "entries": [
+    {
+      "id": "story-desaparecidos",
+      "name": "Los que no regresaron",
+      "mission": "main",
+      "instructions": [
+        {
+          "kind": "object",
+          "count": 1
+        },
+        {
+          "kind": "terrain",
+          "count": 1
+        }
+      ],
+      "description": "Horas antes, un grupo sintió que lo seguían. Varios desaparecieron por el camino. Una superviviente pide que los encuentren.",
+      "kind": "story"
+    },
+    {
+      "id": "story-gato",
+      "name": "Un gato con secretos",
+      "mission": "side",
+      "instructions": [
+        {
+          "kind": "terrain",
+          "count": 1
+        }
+      ],
+      "description": "El gato del guardián ha desaparecido. Si lo encuentran, su dueño compartirá una pista sobre la ruta principal.",
+      "kind": "story"
+    }
+  ]
+}

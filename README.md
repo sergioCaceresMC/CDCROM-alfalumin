@@ -1,6 +1,6 @@
 ﻿# Alfa Lumin
 
-Ficha móvil para un juego de mesa de rol. Primera fase: jugadores, generación procedural, inventario, habilidades, experiencia y biblioteca local. Interfaz en español con un cuaderno de pergamino sobre una mesa ilustrada, React Router Framework en modo SPA, React, TypeScript, Tailwind y CSS propio. Las reglas son provisionales.
+Asistente de mesa para un juego de rol: fichas móviles de jugadores y cuaderno del master para tablet y PC, con campañas, cartas y mapas. Interfaz en español con un cuaderno de pergamino sobre una mesa ilustrada, React Router Framework en modo SPA, React, TypeScript, Tailwind y CSS propio. Las reglas son provisionales.
 
 ## Desarrollo
 
@@ -66,7 +66,56 @@ La semilla numérica, la clase y el catálogo reproducen atributos, equipo y opc
 
 Vitest cubre generación, límites, equipo, consumo, progresión, archivos/códigos y fallos de almacenamiento. Antes de publicar, ejecuta tipos, pruebas y build. Revisa también en navegador: creación y cuatro elecciones, recarga de borrador, XP que cruza dos niveles, edición, exportación/importación en otro navegador y cambio entre fichas. Comprueba 360 px de ancho, temas claro/oscuro, navegación por teclado y recursos bajo la ruta de Pages.
 
-La mesa del master, las campañas, mapas y cartas narrativas pertenecen a fases posteriores.
+## Mesa del master
+
+Pulsa **Master** y crea una campaña. La navegación usa consultas como `?modo=master&campana=ID&seccion=mesa`, sin nuevas rutas de servidor.
+
+- **Mesa:** barajas de terrenos, personajes, enemigos, narración y objetos. La pestaña Barajas saca copias al azar sin agotarse; las cartas pueden repetirse. La pestaña Buscar permite localizar y colocar una carta concreta. Inventario reúne las cartas guardadas, con su propia búsqueda. Sus instrucciones son acciones explícitas: pueden sacar otras cartas, sin ejecutar automáticamente una historia.
+- **Movimiento:** la mesa ocupa toda la ventana; vuelve al cuaderno mediante el botón superior. Las barajas y herramientas se despliegan a la derecha. Arrastra desde cualquier parte de una carta o ficha; con teclado, enfoca la pieza y usa las flechas. La mesa se desplaza arrastrando el fondo con el botón izquierdo del ratón; también admite scroll y permite zoom del 50 al 150 %. El mapa se centra al cargarlo. Los detalles se abren con «Ver detalles» y reservan una franja lateral en pantallas grandes. Sus casillas miden 70 × 70 px, igual que las fichas.
+- **Escenario:** carga el mapa de ejemplo o un JSON validado. Puedes ocultar las sugerencias de objetos y enemigos; estas no crean cartas ni combatientes. Las fichas libres sirven para marcas que decide el master: se colocan pulsando un icono, con el nombre «Ficha». Puedes cambiarlo después en sus detalles, accesibles desde el botón de la ficha o los iconos de fichas colocadas.
+- **Participantes:** añade copias de fichas locales o importa JSON/códigos AL1. Puedes colocarlas como cartas. Las fichas originales y las cartas son independientes.
+- **Inventario del master:** selecciona una carta y pulsa «Guardar carta en inventario». Puedes buscarla y volver a colocarla desde la pestaña Inventario del panel derecho; conserva vida, notas, posición y definición, sin volver a sacarla de la baraja.
+- **Notas y guardado:** guarda notas de campaña y exporta un cuaderno completo o una campaña. Importar añade copias y remapea referencias internas.
+- **Dados:** dados d2–d100 sin animaciones. La música se propone mediante enlaces en los detalles de terrenos; no hay reproductor integrado.
+
+El estado versionado se guarda en `alfa-lumin.master.v1`, separado de la biblioteca de jugadores. Las exportaciones admiten hasta 10 MB y contienen las definiciones usadas de cartas, mapas y participantes. Un guardado corrupto se conserva; los fallos de escritura mantienen la sesión en memoria y ofrecen exportación.
+
+### Catálogos ampliables del master
+
+`app/master/` contiene modelos, reglas, carga diferida y persistencia; los componentes están en `app/components/master*.tsx`. Añade archivos `{ "version": 1, "entries": [...] }` en:
+
+- `app/data/master/terrain/`, `npc/`, `enemy/`, `story/`, `object/`: subdivide por temática, por ejemplo `enemy/no-muertos.json`.
+- `app/data/master/maps/`: mapas de cuadrícula.
+
+Los archivos se descubren con `import.meta.glob` y se cargan por categoría al abrirla. Cada carta requiere `id`, `kind`, `name` y `description`; permite imagen HTTP(S) o ruta local `images/cards/archivo.webp` desde `public/images/cards/`, `musicUrl` HTTP(S) opcional para terrenos, habilidades narrativas e instrucciones como `{ "kind": "enemy", "count": 2 }`. Los enemigos requieren `maxHp` y pueden incluir armadura y daño `1d2`, `1d4` o `2d4`. Narración admite `mission: "main"` o `"side"`. Los efectos son manuales.
+
+Un mapa contiene `version: 1`, `id`, nombre, descripción, ancho, alto, `legend`, `cells` y `suggestions`. `cells` es un array de IDs por filas, de longitud ancho × alto. La leyenda permite `terrain`: `floor`, `wall`, `water`, `grass` o `path` para los dibujos de terreno. También define IDs, nombres, símbolos y tipo `structure`, `enemy` u `object`; las sugerencias contienen `x`, `y` e `id` de esa leyenda. Para cargar un mapa personalizado, usa la entrada individual de `maps/ruins.json`, sin el envoltorio del catálogo. Se validan dimensiones (hasta 60 × 60), coordenadas y referencias antes de sustituir el escenario.
+
+Las pruebas incluyen barajas, mapas, snapshots, límites de vida, importación, navegación, recarga y fallos de almacenamiento. Antes de publicar, revisa también arrastre táctil, desplazamiento/zoom, enlaces musicales y legibilidad en tablet/PC y móvil. Esta versión no automatiza combate ni sincroniza dispositivos.
 
 
 
+
+
+
+
+Los terrenos de ejemplo incluyen búsquedas de ambientación en YouTube; puedes sustituir `musicUrl` por un enlace concreto. Las cartas ya guardadas mantienen su definición original y no adquieren automáticamente el nuevo enlace.
+
+
+
+Las cartas de terreno, enemigo y personaje usan cabecera de color, ilustración grande y texto sobre papel. Los ejemplos usan ilustraciones provisionales locales; sustituye el campo `image` para añadir las definitivas. Las rutas locales respetan la base de Pages. Pulsar, enfocar o arrastrar una carta la lleva al frente y conserva ese orden en el guardado; los detalles siguen abriéndose solo con su botón.
+
+
+El tablero mide al menos 4000 × 4000 px y crece para mapas grandes. Las cartas tienen 190 px de ancho, con ilustraciones de borde a borde y controles táctiles de 44 px.
+
+
+Las imágenes de las cartas se recortan con `object-fit: cover` y `object-position: center top`. La mesa admite 100 cartas simultáneas; guarda cartas en el inventario para liberar espacio. Este límite no agota las barajas.
+
+
+La sección **Biblioteca** del cuaderno está disponible con o sin campaña, mediante `?modo=master&seccion=biblioteca`. Separa todas las cartas del catálogo por categoría, busca solo por nombre sin distinguir tildes o mayúsculas y muestra 30 entradas inicialmente, con «Mostrar 30 más». Las cartas permanecen plegadas y sus imágenes no se montan hasta abrir la información.
+
+Los mapas usan bocetos de tinta con trazos dobles, rocas, hachuras, vegetación y ondas sobre un lavado de color y textura de papel continuo. Las variantes de dibujo dependen de la posición de la celda y no alteran el mapa guardado.
+
+En **Escenario → Cargar mapa como imagen** puedes subir PNG, JPG o WebP desde el PC (hasta 2 MB y 16 megapíxeles). La imagen se coloca como una pieza móvil; arrástrala o usa las flechas al enfocarla. **Ajustar mapa** abre un control de ancho y botones para ampliar/reducir manteniendo la proporción. Se admiten hasta cinco imágenes por campaña; sus datos, posición y escala se conservan en el guardado y exportación, sin necesitar el archivo original en otro dispositivo. Las imágenes grandes pueden consumir la cuota del navegador: si falla el guardado, exporta la sesión.
+
+Cada carta tiene accesos de icono para **guardar en inventario** (bolsa) y **retirar del tablero** (papelera), sin abrir detalles. El botón de acciones junto a las barajas permite guardar todas las cartas, retirar solo las cartas de la mesa o reiniciar el tablero completo (cartas, fichas y mapas). El inventario, participantes y notas de campaña se conservan. Guardar en bloque es una operación completa: si excede las 500 cartas del inventario, no cambia la mesa.

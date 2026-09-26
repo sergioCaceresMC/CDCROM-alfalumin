@@ -1,6 +1,8 @@
-export type GameIconName = "heart" | "shield" | "sword" | "bag" | "book" | "save";
+export type GameIconName = "heart" | "shield" | "sword" | "bag" | "book" | "save" | "remove" | "reset";
 
 const drawings: Record<GameIconName, React.ReactNode> = {
+  remove: <><path fill="#bf8270" d="m6 7 1 14h10l1-14Z" /><path d="M4 7h16M9 7V3h6v4m-5 4v6m4-6v6" /></>,
+  reset: <><path d="M5 8a8 8 0 1 1-1 8" /><path d="M5 3v6h6" /></>,
   heart: <path fill="#b75e50" d="M12 21 3.5 12C-2 5 7 0 12 7c5-7 14-2 8.5 5Z" />,
   shield: <><path fill="#a99571" d="m12 2 9 4-1 9-8 7-8-7-1-9Z" /><path d="m12 5 6 3-1 6-5 5-5-5-1-6Z M12 6v12" /></>,
   sword: <><path fill="#d6d3bd" d="m10 15 9-12 3-1-1 5-9 10Z" /><path fill="#a99571" d="m5 12 10 8-2 2-10-8Z M7 17l-5 5 2 1 5-5" /></>,
