@@ -44,6 +44,12 @@ Se incluye un workflow de Pages que valida tipos y pruebas antes de construir. P
 
 El despliegue usa Node 24, instala el lockfile, configura Pages y publica únicamente el artefacto estático. No necesita secretos personalizados ni servidor. Las partidas permanecen en el navegador; exporta las copias que necesites antes de cambiar de dominio u origen. El Dockerfile es una alternativa local: `docker build -t alfa-lumin .` y `docker run --rm -p 8080:80 alfa-lumin`.
 
+### Si Pages devuelve `HttpError: Not Found`
+
+El sitio de Pages todavía no está habilitado, o su fuente no es GitHub Actions. Abre [Settings → Pages](https://github.com/sergioCaceresMC/CDCROM-alfalumin/settings/pages), selecciona **Build and deployment → Source → GitHub Actions** y vuelve a ejecutar el workflow. Esta activación inicial requiere acceso a la configuración del repositorio y no se realiza con el `GITHUB_TOKEN` del workflow. No añadas `enablement: true` sin configurar un token de administración independiente.
+
+La comprobación de Pages ocurre en `deploy`; el build puede validarse y generar el artefacto aunque el sitio aún no exista. Las acciones usan Node 24 y los jobs fijan `ubuntu-24.04` para evitar la migración automática de `ubuntu-latest`.
+
 ## Ampliar el catálogo
 
 - `app/data/classes/*.json`: clases, vida base, emblema local y grupos de equipo inicial.
