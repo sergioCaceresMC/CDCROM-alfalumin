@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "guerrero-tajo",
+      "name": "Tajo preciso",
+      "description": "Busca un hueco en la defensa del enemigo.",
+      "classId": "guerrero",
+      "level": 1,
+      "attribute": "golpes",
+      "damage": "1d6"
+    },
+    {
+      "id": "guerrero-escudo",
+      "name": "Guardia firme",
+      "description": "Interpone tu guardia ante un peligro. El master decide la protección.",
+      "classId": "guerrero",
+      "level": 1,
+      "attribute": "constitucion"
+    },
+    {
+      "id": "guerrero-empujon",
+      "name": "Empujón",
+      "description": "Intenta apartar a un enemigo o abrir un camino.",
+      "classId": "guerrero",
+      "level": 1,
+      "attribute": "golpes",
+      "damage": "1d4"
+    },
+    {
+      "id": "guerrero-grito",
+      "name": "Grito de guerra",
+      "description": "Da ánimo a tus aliados frente a una amenaza.",
+      "classId": "guerrero",
+      "level": 1,
+      "attribute": "valor"
+    },
+    {
+      "id": "guerrero-intimidar",
+      "name": "Mirada de hierro",
+      "description": "Trata de hacer retroceder a un adversario sin combatir.",
+      "classId": "guerrero",
+      "level": 1,
+      "attribute": "carisma"
+    },
+    {
+      "id": "guerrero-aguante",
+      "name": "Aguante",
+      "description": "Resiste dolor, cansancio o condiciones adversas.",
+      "classId": "guerrero",
+      "level": 1,
+      "attribute": "constitucion"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "maxLevel": 3,
+  "xpThresholds": [
+    0,
+    10,
+    25
+  ]
+}

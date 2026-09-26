@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "explorador-sombra",
+      "name": "Sombra del bosque",
+      "description": "Encuentra un camino discreto a través de terreno difícil.",
+      "classId": "explorador",
+      "level": 3,
+      "attribute": "percepcion"
+    },
+    {
+      "id": "explorador-cazador",
+      "name": "Cazador paciente",
+      "description": "Observa las costumbres de una presa antes de actuar.",
+      "classId": "explorador",
+      "level": 3,
+      "attribute": "inteligencia"
+    },
+    {
+      "id": "explorador-flecha",
+      "name": "Flecha decisiva",
+      "description": "Concentra tu atención en un único disparo.",
+      "classId": "explorador",
+      "level": 3,
+      "attribute": "tiros",
+      "damage": "1d6"
+    }
+  ]
+}

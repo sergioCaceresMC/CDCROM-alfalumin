@@ -1,0 +1,25 @@
+﻿{
+    "version":  1,
+    "entries":  [
+                    {
+                        "id":  "picaro",
+                        "name":  "Pícaro",
+                        "description":  "Combina sigilo, astucia y precisión para encontrar oportunidades.",
+                        "image":  "images/mistico.svg",
+                        "baseHp":  8,
+                        "starterPools":  {
+                                             "armor":  [
+                                                           "cuero"
+                                                       ],
+                                             "supply":  [
+                                                            "pocion",
+                                                            "vendas"
+                                                        ],
+                                             "weapon":  [
+                                                            "daga",
+                                                            "arco"
+                                                        ]
+                                         }
+                    }
+                ]
+}

@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "cuerda",
+      "name": "Cuerda",
+      "description": "Diez metros de cuerda. Úsala para trepar, asegurar una carga o tender una trampa.",
+      "kind": "misc",
+      "usable": true,
+      "consumable": false
+    }
+  ]
+}

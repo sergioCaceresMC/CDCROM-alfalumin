@@ -1,0 +1,25 @@
+﻿{
+    "version":  1,
+    "entries":  [
+                    {
+                        "id":  "paladin",
+                        "name":  "Paladín",
+                        "description":  "Defiende su juramento y protege a quienes necesitan ayuda.",
+                        "image":  "images/mistico.svg",
+                        "baseHp":  9,
+                        "starterPools":  {
+                                             "armor":  [
+                                                           "coraza"
+                                                       ],
+                                             "supply":  [
+                                                            "pocion",
+                                                            "vendas"
+                                                        ],
+                                             "weapon":  [
+                                                            "espada",
+                                                            "hacha"
+                                                        ]
+                                         }
+                    }
+                ]
+}

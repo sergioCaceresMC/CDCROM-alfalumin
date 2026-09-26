@@ -1,0 +1,55 @@
+﻿{
+    "version":  1,
+    "entries":  [
+                    {
+                        "id":  "paladin-golpe",
+                        "name":  "Golpe del juramento",
+                        "description":  "Ataca con decisión a un adversario.",
+                        "classId":  "paladin",
+                        "level":  1,
+                        "attribute":  "golpes",
+                        "damage":  "1d6"
+                    },
+                    {
+                        "id":  "paladin-guardia",
+                        "name":  "Guardia sagrada",
+                        "description":  "Se interpone ante una amenaza; el master resuelve la protección.",
+                        "classId":  "paladin",
+                        "level":  1,
+                        "attribute":  "valor"
+                    },
+                    {
+                        "id":  "paladin-aliento",
+                        "name":  "Palabras de aliento",
+                        "description":  "Ayuda a un compañero a mantener la determinación.",
+                        "classId":  "paladin",
+                        "level":  1,
+                        "attribute":  "empatia"
+                    },
+                    {
+                        "id":  "paladin-luz",
+                        "name":  "Luz del alba",
+                        "description":  "Ilumina un símbolo de su juramento.",
+                        "classId":  "paladin",
+                        "level":  1,
+                        "attribute":  "carisma"
+                    },
+                    {
+                        "id":  "paladin-discernir",
+                        "name":  "Discernir intención",
+                        "description":  "Observa gestos y palabras para evaluar una intención.",
+                        "classId":  "paladin",
+                        "level":  1,
+                        "attribute":  "percepcion"
+                    },
+                    {
+                        "id":  "paladin-destello",
+                        "name":  "Destello radiante",
+                        "description":  "Proyecta una chispa de luz contra un objetivo.",
+                        "classId":  "paladin",
+                        "level":  1,
+                        "attribute":  "valor",
+                        "damage":  "1d4"
+                    }
+                ]
+}

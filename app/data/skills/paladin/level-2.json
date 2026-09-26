@@ -1,0 +1,30 @@
+﻿{
+    "version":  1,
+    "entries":  [
+                    {
+                        "id":  "paladin-aura",
+                        "name":  "Aura de valor",
+                        "description":  "Inspira firmeza en sus compañeros durante la escena.",
+                        "classId":  "paladin",
+                        "level":  2,
+                        "attribute":  "carisma"
+                    },
+                    {
+                        "id":  "paladin-castigo",
+                        "name":  "Castigo radiante",
+                        "description":  "Concentra luz en un golpe de arma.",
+                        "classId":  "paladin",
+                        "level":  2,
+                        "attribute":  "golpes",
+                        "damage":  "1d6"
+                    },
+                    {
+                        "id":  "paladin-vigilia",
+                        "name":  "Vigilia del guardián",
+                        "description":  "Permanece atento mientras protege un lugar.",
+                        "classId":  "paladin",
+                        "level":  2,
+                        "attribute":  "constitucion"
+                    }
+                ]
+}

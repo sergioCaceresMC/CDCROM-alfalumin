@@ -1,0 +1,25 @@
+﻿{
+    "version":  1,
+    "entries":  [
+                    {
+                        "id":  "brujo",
+                        "name":  "Brujo",
+                        "description":  "Obtiene poder de pactos y secretos que otros prefieren olvidar.",
+                        "image":  "images/mistico.svg",
+                        "baseHp":  7,
+                        "starterPools":  {
+                                             "armor":  [
+                                                           "cuero"
+                                                       ],
+                                             "supply":  [
+                                                            "pocion",
+                                                            "vendas"
+                                                        ],
+                                             "weapon":  [
+                                                            "baston",
+                                                            "daga"
+                                                        ]
+                                         }
+                    }
+                ]
+}

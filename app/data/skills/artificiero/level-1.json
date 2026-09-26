@@ -1,0 +1,55 @@
+﻿{
+    "version":  1,
+    "entries":  [
+                    {
+                        "id":  "artificiero-chispa",
+                        "name":  "Chispa mecánica",
+                        "description":  "Lanza una descarga desde un pequeño dispositivo.",
+                        "classId":  "artificiero",
+                        "level":  1,
+                        "attribute":  "tiros",
+                        "damage":  "1d4"
+                    },
+                    {
+                        "id":  "artificiero-reparar",
+                        "name":  "Reparación improvisada",
+                        "description":  "Intenta reparar una herramienta o mecanismo sencillo.",
+                        "classId":  "artificiero",
+                        "level":  1,
+                        "attribute":  "inteligencia"
+                    },
+                    {
+                        "id":  "artificiero-analizar",
+                        "name":  "Analizar mecanismo",
+                        "description":  "Examina cómo funciona un dispositivo.",
+                        "classId":  "artificiero",
+                        "level":  1,
+                        "attribute":  "percepcion"
+                    },
+                    {
+                        "id":  "artificiero-luz",
+                        "name":  "Linterna arcana",
+                        "description":  "Activa una pequeña fuente de luz portátil.",
+                        "classId":  "artificiero",
+                        "level":  1,
+                        "attribute":  "inteligencia"
+                    },
+                    {
+                        "id":  "artificiero-palanca",
+                        "name":  "Palanca ingeniosa",
+                        "description":  "Usa herramientas para abrir paso o mover un obstáculo.",
+                        "classId":  "artificiero",
+                        "level":  1,
+                        "attribute":  "golpes"
+                    },
+                    {
+                        "id":  "artificiero-proyectil",
+                        "name":  "Proyectil experimental",
+                        "description":  "Dispara un proyectil desde un ingenio de prueba.",
+                        "classId":  "artificiero",
+                        "level":  1,
+                        "attribute":  "tiros",
+                        "damage":  "1d6"
+                    }
+                ]
+}

@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "explorador-trampa",
+      "name": "Trampa sencilla",
+      "description": "Prepara una trampa con materiales disponibles.",
+      "classId": "explorador",
+      "level": 2,
+      "attribute": "inteligencia",
+      "damage": "1d4"
+    },
+    {
+      "id": "explorador-vigia",
+      "name": "Vigía",
+      "description": "Detecta movimientos extraños a larga distancia.",
+      "classId": "explorador",
+      "level": 2,
+      "attribute": "percepcion"
+    },
+    {
+      "id": "explorador-punteria",
+      "name": "Puntería rápida",
+      "description": "Dispara antes de que el blanco se ponga a cubierto.",
+      "classId": "explorador",
+      "level": 2,
+      "attribute": "tiros",
+      "damage": "1d6"
+    }
+  ]
+}

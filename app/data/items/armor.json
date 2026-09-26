@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "cuero",
+      "name": "Armadura ligera",
+      "description": "Cuero reforzado: ofrece protección sin limitar demasiado el movimiento.",
+      "kind": "armor",
+      "usable": false,
+      "consumable": false,
+      "armor": 12
+    },
+    {
+      "id": "coraza",
+      "name": "Armadura pesada",
+      "description": "Placas de metal para resistir golpes directos.",
+      "kind": "armor",
+      "usable": false,
+      "consumable": false,
+      "armor": 14
+    }
+  ]
+}

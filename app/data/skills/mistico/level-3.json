@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "mistico-oraculo",
+      "name": "Ojo del oráculo",
+      "description": "Busca una pista oculta en una visión breve.",
+      "classId": "mistico",
+      "level": 3,
+      "attribute": "percepcion"
+    },
+    {
+      "id": "mistico-tormenta",
+      "name": "Tormenta interior",
+      "description": "Descarga una oleada de energía arcana.",
+      "classId": "mistico",
+      "level": 3,
+      "attribute": "valor",
+      "damage": "1d6"
+    },
+    {
+      "id": "mistico-ritual",
+      "name": "Ritual antiguo",
+      "description": "Prepara un ritual con tiempo y materiales adecuados.",
+      "classId": "mistico",
+      "level": 3,
+      "attribute": "inteligencia"
+    }
+  ]
+}

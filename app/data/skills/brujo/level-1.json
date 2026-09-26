@@ -1,0 +1,55 @@
+﻿{
+    "version":  1,
+    "entries":  [
+                    {
+                        "id":  "brujo-chispa",
+                        "name":  "Chispa sombría",
+                        "description":  "Proyecta una descarga de energía oscura.",
+                        "classId":  "brujo",
+                        "level":  1,
+                        "attribute":  "valor",
+                        "damage":  "1d4"
+                    },
+                    {
+                        "id":  "brujo-pacto",
+                        "name":  "Leer pactos",
+                        "description":  "Interpreta símbolos y cláusulas de un pacto.",
+                        "classId":  "brujo",
+                        "level":  1,
+                        "attribute":  "inteligencia"
+                    },
+                    {
+                        "id":  "brujo-susurro",
+                        "name":  "Susurro del umbral",
+                        "description":  "Busca una pista en voces lejanas.",
+                        "classId":  "brujo",
+                        "level":  1,
+                        "attribute":  "percepcion"
+                    },
+                    {
+                        "id":  "brujo-mirada",
+                        "name":  "Mirada inquietante",
+                        "description":  "Intenta intimidar mediante una presencia sobrenatural.",
+                        "classId":  "brujo",
+                        "level":  1,
+                        "attribute":  "carisma"
+                    },
+                    {
+                        "id":  "brujo-sello",
+                        "name":  "Sello oscuro",
+                        "description":  "Marca un objeto con un símbolo de alcance narrativo.",
+                        "classId":  "brujo",
+                        "level":  1,
+                        "attribute":  "inteligencia"
+                    },
+                    {
+                        "id":  "brujo-rayo",
+                        "name":  "Rayo del pacto",
+                        "description":  "Canaliza la energía de su pacto hacia un objetivo.",
+                        "classId":  "brujo",
+                        "level":  1,
+                        "attribute":  "valor",
+                        "damage":  "1d6"
+                    }
+                ]
+}

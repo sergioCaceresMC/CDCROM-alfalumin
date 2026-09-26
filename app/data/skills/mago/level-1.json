@@ -1,0 +1,55 @@
+﻿{
+    "version":  1,
+    "entries":  [
+                    {
+                        "id":  "mago-chispa",
+                        "name":  "Chispa arcana",
+                        "description":  "Proyecta una descarga pequeña contra un objetivo.",
+                        "classId":  "mago",
+                        "level":  1,
+                        "attribute":  "inteligencia",
+                        "damage":  "1d4"
+                    },
+                    {
+                        "id":  "mago-luz",
+                        "name":  "Luz flotante",
+                        "description":  "Ilumina un objeto cercano durante la escena.",
+                        "classId":  "mago",
+                        "level":  1,
+                        "attribute":  "inteligencia"
+                    },
+                    {
+                        "id":  "mago-runa",
+                        "name":  "Leer runas",
+                        "description":  "Interpreta símbolos mágicos y escrituras antiguas.",
+                        "classId":  "mago",
+                        "level":  1,
+                        "attribute":  "inteligencia"
+                    },
+                    {
+                        "id":  "mago-eco",
+                        "name":  "Eco mágico",
+                        "description":  "Busca rastros de magia en un lugar u objeto.",
+                        "classId":  "mago",
+                        "level":  1,
+                        "attribute":  "percepcion"
+                    },
+                    {
+                        "id":  "mago-ilusion",
+                        "name":  "Ilusión menor",
+                        "description":  "Crea una distracción visual sencilla.",
+                        "classId":  "mago",
+                        "level":  1,
+                        "attribute":  "carisma"
+                    },
+                    {
+                        "id":  "mago-pulso",
+                        "name":  "Pulso de fuerza",
+                        "description":  "Libera energía concentrada sobre un adversario.",
+                        "classId":  "mago",
+                        "level":  1,
+                        "attribute":  "inteligencia",
+                        "damage":  "1d6"
+                    }
+                ]
+}

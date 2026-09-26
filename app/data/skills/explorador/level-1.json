@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "explorador-disparo",
+      "name": "Disparo certero",
+      "description": "Apunta con calma a un blanco visible.",
+      "classId": "explorador",
+      "level": 1,
+      "attribute": "tiros",
+      "damage": "1d6"
+    },
+    {
+      "id": "explorador-rastro",
+      "name": "Leer rastros",
+      "description": "Encuentra señales de paso sobre el terreno.",
+      "classId": "explorador",
+      "level": 1,
+      "attribute": "percepcion"
+    },
+    {
+      "id": "explorador-sigilo",
+      "name": "Paso silencioso",
+      "description": "Evita llamar la atención mientras avanzas.",
+      "classId": "explorador",
+      "level": 1,
+      "attribute": "percepcion"
+    },
+    {
+      "id": "explorador-cuchillo",
+      "name": "Golpe veloz",
+      "description": "Ataca con una hoja corta desde una posición cercana.",
+      "classId": "explorador",
+      "level": 1,
+      "attribute": "golpes",
+      "damage": "1d4"
+    },
+    {
+      "id": "explorador-orientacion",
+      "name": "Orientación",
+      "description": "Reconoce referencias para guiar al grupo.",
+      "classId": "explorador",
+      "level": 1,
+      "attribute": "inteligencia"
+    },
+    {
+      "id": "explorador-animales",
+      "name": "Trato con animales",
+      "description": "Calma o interpreta a una criatura del entorno.",
+      "classId": "explorador",
+      "level": 1,
+      "attribute": "empatia"
+    }
+  ]
+}

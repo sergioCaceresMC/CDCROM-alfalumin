@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "explorador",
+      "name": "Explorador",
+      "description": "Lee el terreno, descubre peligros y ataca desde la distancia.",
+      "image": "images/explorador.svg",
+      "baseHp": 8,
+      "starterPools": {
+        "weapon": [
+          "arco",
+          "daga"
+        ],
+        "armor": [
+          "cuero"
+        ],
+        "supply": [
+          "pocion",
+          "antorcha"
+        ]
+      }
+    }
+  ]
+}

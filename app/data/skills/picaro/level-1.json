@@ -1,0 +1,55 @@
+﻿{
+    "version":  1,
+    "entries":  [
+                    {
+                        "id":  "picaro-corte",
+                        "name":  "Corte preciso",
+                        "description":  "Ataca un punto vulnerable con una hoja corta.",
+                        "classId":  "picaro",
+                        "level":  1,
+                        "attribute":  "golpes",
+                        "damage":  "1d4"
+                    },
+                    {
+                        "id":  "picaro-sigilo",
+                        "name":  "Paso silencioso",
+                        "description":  "Intenta moverse sin llamar la atención.",
+                        "classId":  "picaro",
+                        "level":  1,
+                        "attribute":  "percepcion"
+                    },
+                    {
+                        "id":  "picaro-cerradura",
+                        "name":  "Abrir cerraduras",
+                        "description":  "Examina y manipula una cerradura sencilla.",
+                        "classId":  "picaro",
+                        "level":  1,
+                        "attribute":  "inteligencia"
+                    },
+                    {
+                        "id":  "picaro-enganar",
+                        "name":  "Engaño convincente",
+                        "description":  "Improvisa una excusa para distraer a alguien.",
+                        "classId":  "picaro",
+                        "level":  1,
+                        "attribute":  "carisma"
+                    },
+                    {
+                        "id":  "picaro-trampa",
+                        "name":  "Detectar trampas",
+                        "description":  "Busca mecanismos ocultos y señales de peligro.",
+                        "classId":  "picaro",
+                        "level":  1,
+                        "attribute":  "percepcion"
+                    },
+                    {
+                        "id":  "picaro-disparo",
+                        "name":  "Disparo oportuno",
+                        "description":  "Aprovecha una abertura para atacar a distancia.",
+                        "classId":  "picaro",
+                        "level":  1,
+                        "attribute":  "tiros",
+                        "damage":  "1d6"
+                    }
+                ]
+}

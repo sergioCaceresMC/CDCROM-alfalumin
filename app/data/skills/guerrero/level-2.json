@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "guerrero-barrido",
+      "name": "Barrido",
+      "description": "Un ataque amplio para romper una formación.",
+      "classId": "guerrero",
+      "level": 2,
+      "attribute": "golpes",
+      "damage": "1d6"
+    },
+    {
+      "id": "guerrero-protector",
+      "name": "Protector",
+      "description": "Coordina una defensa para cubrir a un compañero.",
+      "classId": "guerrero",
+      "level": 2,
+      "attribute": "empatia"
+    },
+    {
+      "id": "guerrero-mando",
+      "name": "Voz de mando",
+      "description": "Organiza al grupo cuando la situación se vuelve caótica.",
+      "classId": "guerrero",
+      "level": 2,
+      "attribute": "carisma"
+    }
+  ]
+}

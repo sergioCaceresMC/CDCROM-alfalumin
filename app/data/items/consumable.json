@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "pocion",
+      "name": "Poción de curación",
+      "description": "Bebe una dosis para recuperar 2 puntos de vida, hasta tu máximo.",
+      "kind": "consumable",
+      "usable": true,
+      "consumable": true,
+      "effect": {
+        "type": "heal",
+        "amount": 2
+      }
+    },
+    {
+      "id": "vendas",
+      "name": "Vendas",
+      "description": "Un pequeño paquete para atender heridas. Recupera 1 punto de vida.",
+      "kind": "consumable",
+      "usable": true,
+      "consumable": true,
+      "effect": {
+        "type": "heal",
+        "amount": 1
+      }
+    },
+    {
+      "id": "antorcha",
+      "name": "Antorcha",
+      "description": "Ilumina una zona oscura. Al encenderla consumes una unidad; su duración la decide el master.",
+      "kind": "consumable",
+      "usable": true,
+      "consumable": true
+    }
+  ]
+}

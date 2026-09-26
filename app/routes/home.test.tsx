@@ -1,0 +1,163 @@
+// @vitest-environment jsdom
+import { Blob as NodeBlob } from "node:buffer";
+import { afterAll, afterEach, beforeAll, beforeEach, describe, expect, it, vi } from "vitest";
+import { cleanup, render, screen, waitFor, within } from "@testing-library/react";
+import userEvent from "@testing-library/user-event";
+import { MemoryRouter } from "react-router";
+import type { Route } from "./+types/home";
+import Home, { clientLoader } from "./home";
+import { STORAGE_KEY } from "../game/storage";
+import { decodeCharacter, encodeCharacter } from "../game/transfer";
+import type { Library } from "../game/schema";
+
+let props: Route.ComponentProps;
+beforeAll(async () => {
+  props = { loaderData: await clientLoader(), params: {}, matches: [] } as unknown as Route.ComponentProps;
+  // jsdom supplies DOM APIs; use Node's streaming Blob for browser compression APIs.
+  vi.stubGlobal("Blob", NodeBlob);
+});
+beforeEach(() => { localStorage.clear(); });
+afterEach(() => { cleanup(); vi.restoreAllMocks(); });
+afterAll(() => { vi.unstubAllGlobals(); });
+const saved = () => JSON.parse(localStorage.getItem(STORAGE_KEY)!) as Library;
+async function open(path = "/") {
+  const view = render(<MemoryRouter initialEntries={[path]}><Home {...props} /></MemoryRouter>);
+  await screen.findByRole("button", { name: "Alfa Lumin, abrir biblioteca" });
+  return view;
+}
+async function create(user: ReturnType<typeof userEvent.setup>, name = "Nerea", gender: "m" | "f" = "m") {
+  await user.click(screen.getByRole("button", { name: /Crear personaje/ }));
+  await user.click(screen.getByRole("radio", { name: gender === "m" ? "Masculino" : "Femenino" }));
+  await user.type(screen.getByLabelText("Nombre"), name);
+  await user.type(screen.getByLabelText(/Semilla numérica/), "42");
+  await user.click(screen.getByRole("button", { name: /Generar personaje/ }));
+  await screen.findByRole("heading", { name: "Elige cuatro habilidades" });
+  for (let i = 0; i < 4; i++) await user.click(screen.getAllByRole("button", { name: "Elegir habilidad" })[0]);
+  await user.click(screen.getByRole("button", { name: /Comenzar aventura/ }));
+  await screen.findByRole("heading", { name });
+}
+describe("flujos de la aplicación", () => {
+  it("conserva la apariencia en fichas y permite buscar, seleccionar y añadir objetos", async () => {
+    const user = userEvent.setup(); let view = await open(); await create(user, "Luna", "f");
+    expect(saved().characters[0].gender).toBe("f");
+    expect(screen.getByRole("img", { name: /Femenino/ }).getAttribute("src")).toContain("-f.webp");
+    await user.selectOptions(screen.getByLabelText("Apariencia"), "m");
+    expect(saved().characters[0].gender).toBe("m");
+    await user.selectOptions(screen.getByLabelText("Apariencia"), "f");
+    const id = saved().activeId!;
+    view.unmount(); await open(`/?personaje=${id}&seccion=inventario`);
+    expect(screen.getByRole("img", { name: /Femenino/ }).getAttribute("src")).toContain("-f.webp");
+    await user.click(screen.getByText("Añadir equipo"));
+    const search = screen.getByLabelText("Buscar objetos");
+    await user.type(search, "POCION");
+    const result = await screen.findByRole("button", { name: "Seleccionar Poción de curación" });
+    expect(screen.getAllByRole("button", { name: /^Seleccionar / })).toHaveLength(1);
+    await user.click(result);
+    const quantity = saved().characters[0].inventory.find(i => i.itemId === "pocion")?.quantity ?? 0;
+    await user.click(screen.getByRole("button", { name: /Añadir una unidad/ }));
+    expect(saved().characters[0].inventory.find(i => i.itemId === "pocion")?.quantity).toBe(quantity + 1);
+    await user.clear(search); await user.type(search, "no existe un objeto así");
+    expect(screen.queryAllByRole("button", { name: /^Seleccionar / })).toHaveLength(0);
+    expect((screen.getByRole("button", { name: /Añadir una unidad/ }) as HTMLButtonElement).disabled).toBe(true);
+  });
+  it("recupera un borrador y resuelve dos niveles en orden después de recargar", async () => {
+    const user = userEvent.setup();
+    let view = await open();
+    await user.click(screen.getByRole("button", { name: /Crear personaje/ }));
+    await user.type(screen.getByLabelText("Nombre"), "Nerea");
+    await user.type(screen.getByLabelText(/Semilla numérica/), "42");
+    await user.click(screen.getByRole("button", { name: /Generar personaje/ }));
+    await screen.findByRole("heading", { name: "Elige cuatro habilidades" });
+    await user.click(screen.getAllByRole("button", { name: "Elegir habilidad" })[0]);
+    const options = saved().draft!.creationOptions;
+    view.unmount(); view = await open("/?seccion=crear");
+    expect(saved().draft!.creationOptions).toEqual(options);
+    expect(screen.getAllByRole("button", { name: "✓ Elegida" })).toHaveLength(1);
+    for (let i = 0; i < 3; i++) await user.click(screen.getAllByRole("button", { name: "Elegir habilidad" })[0]);
+    await user.click(screen.getByRole("button", { name: /Comenzar aventura/ }));
+    await user.click(screen.getByRole("button", { name: "Recibir un punto de daño" }));
+    const hp = saved().characters[0].hp;
+    await user.clear(screen.getByLabelText("XP que añadir"));
+    await user.type(screen.getByLabelText("XP que añadir"), "25");
+    await user.click(screen.getByRole("button", { name: "Añadir XP" }));
+    await screen.findByRole("heading", { name: /habilidad para el nivel 2/ });
+    const id = saved().activeId!; const pending = saved().characters[0].pending;
+    view.unmount(); await open(`/?personaje=${id}&seccion=resumen`);
+    expect(saved().characters[0].pending).toEqual(pending);
+    await user.click(screen.getAllByRole("button", { name: "Aprender y subir de nivel" })[0]);
+    await screen.findByRole("heading", { name: /habilidad para el nivel 3/ });
+    await user.click(screen.getAllByRole("button", { name: "Aprender y subir de nivel" })[0]);
+    expect(saved().characters[0].level).toBe(3); expect(saved().characters[0].hp).toBe(hp);
+    await user.click(screen.getByRole("button", { name: "Mochila" }));
+    await screen.findByRole("heading", { name: "Inventario" });
+    const entry = saved().characters[0].inventory[0];
+    const item = saved().characters[0].catalog.items.find(i => i.id === entry.itemId)!;
+    const row = within(screen.getByRole("article", { name: `Objeto ${item.name}` }));
+    expect(row.queryByText(item.description)).toBeNull();
+    expect(row.getByText("Equipado")).toBeTruthy();
+    expect(row.getByLabelText(`Cantidad de ${item.name}`)).toBeTruthy();
+    await user.click(row.getByRole("button", { name: `Mostrar descripción de ${item.name}` }));
+    expect(row.getByText(item.description)).toBeTruthy();
+    await user.click(row.getByRole("button", { name: "Desequipar" }));
+    expect(saved().characters[0].inventory.find(i => i.itemId === item.id)!.equipped).toBe(false);
+    await user.click(row.getByRole("button", { name: `Ocultar descripción de ${item.name}` }));
+    expect(row.queryByText(item.description)).toBeNull();
+    expect(row.getByText("No equipado")).toBeTruthy();
+  });
+  it("recupera un código en una biblioteca independiente y rechaza uno dañado", async () => {
+    const user = userEvent.setup(); let view = await open(); await create(user);
+    const original = saved().characters[0]; const code = await encodeCharacter(original);
+    view.unmount(); localStorage.clear(); await open();
+    await user.click(screen.getByLabelText("Código de personaje"));
+    await user.paste(code);
+    await user.click(screen.getByRole("button", { name: "Recuperar personaje" }));
+    await screen.findByText(/Personaje recuperado/);
+    const copy = saved().characters[0]; expect(copy.id).not.toBe(original.id); expect(copy.attributes).toEqual(original.attributes);
+    expect((await decodeCharacter(await encodeCharacter(copy))).data).toEqual(copy);
+    await user.type(screen.getByLabelText("Código de personaje"), "AL1DAÑADO");
+    await user.click(screen.getByRole("button", { name: "Recuperar personaje" }));
+    await screen.findByRole("alert"); expect(saved().characters).toHaveLength(1);
+    await user.click(screen.getByRole("button", { name: /Abrir ficha/ }));
+    await screen.findByRole("heading", { name: "Nerea" });
+  });
+  it("mantiene una ficha utilizable en memoria cuando falla la escritura", async () => {
+    const user = userEvent.setup(); await open();
+    vi.spyOn(Storage.prototype, "setItem").mockImplementation(() => { throw new Error("QuotaExceeded"); });
+    await create(user, "En memoria");
+    expect(screen.getByRole("alert").textContent).toContain("memoria");
+    expect(localStorage.getItem(STORAGE_KEY)).toBeNull();
+    await user.click(screen.getByRole("button", { name: "Recibir un punto de daño" }));
+    await user.click(screen.getByRole("button", { name: "Guardar" }));
+    expect(screen.getByRole("button", { name: /Descargar personaje/ })).toBeTruthy();
+    await user.click(screen.getByRole("button", { name: "Generar código de personaje" }));
+    await waitFor(() => expect(screen.getByLabelText("Código de recuperación")).toBeTruthy());
+  });
+  it("permite guardar varios personajes, cambiar de ficha y consumir objetos", async () => {
+    const user = userEvent.setup(); await open(); await create(user, "Primera");
+    const firstId = saved().activeId;
+    await user.click(screen.getByRole("button", { name: "Alfa Lumin, abrir biblioteca" }));
+    await create(user, "Segunda");
+    const secondId = saved().activeId;
+    expect(secondId).not.toBe(firstId); expect(saved().characters).toHaveLength(2);
+    await user.click(screen.getByRole("button", { name: "Mochila" }));
+    const consumable = saved().characters[1].inventory.find(i => saved().characters[1].catalog.items.find(item => item.id === i.itemId)?.consumable)!;
+    const consumableName = saved().characters[1].catalog.items.find(i => i.id === consumable.itemId)!.name;
+    const row = within(screen.getByRole("article", { name: `Objeto ${consumableName}` }));
+    await user.click(row.getByRole("button", { name: `Mostrar descripción de ${consumableName}` }));
+    await user.click(row.getByRole("button", { name: "Consumir una unidad" }));
+    expect(saved().characters[1].inventory.find(i => i.itemId === consumable.itemId)?.quantity ?? 0).toBe(consumable.quantity - 1);
+    await user.click(screen.getByRole("button", { name: "Alfa Lumin, abrir biblioteca" }));
+    await user.click(screen.getAllByRole("button", { name: /Abrir ficha/ })[0]);
+    await screen.findByRole("heading", { name: "Primera" });
+    expect(saved().activeId).toBe(firstId);
+  });
+  it("protege datos corruptos mientras permite crear una sesión nueva", async () => {
+    localStorage.setItem(STORAGE_KEY, "datos anteriores corruptos");
+    const user = userEvent.setup(); await open();
+    expect(screen.getByRole("button", { name: "Descargar datos originales" })).toBeTruthy();
+    await create(user, "Sesión nueva");
+    expect(localStorage.getItem(STORAGE_KEY)).toBe("datos anteriores corruptos");
+    await user.click(screen.getByRole("button", { name: "Guardar" }));
+    expect(screen.getByRole("button", { name: /Descargar personaje/ })).toBeTruthy();
+  });
+});

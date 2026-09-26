@@ -1,0 +1,25 @@
+﻿{
+    "version":  1,
+    "entries":  [
+                    {
+                        "id":  "artificiero",
+                        "name":  "Artificiero",
+                        "description":  "Construye ingenios y combina herramientas con energía arcana.",
+                        "image":  "images/mistico.svg",
+                        "baseHp":  8,
+                        "starterPools":  {
+                                             "armor":  [
+                                                           "cuero"
+                                                       ],
+                                             "supply":  [
+                                                            "pocion",
+                                                            "vendas"
+                                                        ],
+                                             "weapon":  [
+                                                            "daga",
+                                                            "baston"
+                                                        ]
+                                         }
+                    }
+                ]
+}

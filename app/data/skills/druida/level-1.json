@@ -1,0 +1,55 @@
+﻿{
+    "version":  1,
+    "entries":  [
+                    {
+                        "id":  "druida-espina",
+                        "name":  "Espina punzante",
+                        "description":  "Lanza una espina endurecida hacia un adversario.",
+                        "classId":  "druida",
+                        "level":  1,
+                        "attribute":  "tiros",
+                        "damage":  "1d4"
+                    },
+                    {
+                        "id":  "druida-hierbas",
+                        "name":  "Saber de hierbas",
+                        "description":  "Reconoce plantas útiles y peligrosas.",
+                        "classId":  "druida",
+                        "level":  1,
+                        "attribute":  "inteligencia"
+                    },
+                    {
+                        "id":  "druida-rastro",
+                        "name":  "Rastro natural",
+                        "description":  "Lee huellas y señales de animales.",
+                        "classId":  "druida",
+                        "level":  1,
+                        "attribute":  "percepcion"
+                    },
+                    {
+                        "id":  "druida-calma",
+                        "name":  "Calmar bestia",
+                        "description":  "Intenta tranquilizar a una criatura asustada.",
+                        "classId":  "druida",
+                        "level":  1,
+                        "attribute":  "empatia"
+                    },
+                    {
+                        "id":  "druida-raiz",
+                        "name":  "Raíz enredadora",
+                        "description":  "Invoca raíces para obstaculizar el paso; lo resuelve el master.",
+                        "classId":  "druida",
+                        "level":  1,
+                        "attribute":  "valor"
+                    },
+                    {
+                        "id":  "druida-zarza",
+                        "name":  "Golpe de zarza",
+                        "description":  "Azota a un objetivo con una rama espinosa.",
+                        "classId":  "druida",
+                        "level":  1,
+                        "attribute":  "golpes",
+                        "damage":  "1d6"
+                    }
+                ]
+}

@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "mistico-chispa",
+      "name": "Chispa arcana",
+      "description": "Proyecta una pequeña descarga de energía.",
+      "classId": "mistico",
+      "level": 1,
+      "attribute": "inteligencia",
+      "damage": "1d4"
+    },
+    {
+      "id": "mistico-luz",
+      "name": "Luz tenue",
+      "description": "Ilumina un objeto cercano; el alcance lo decide el master.",
+      "classId": "mistico",
+      "level": 1,
+      "attribute": "inteligencia"
+    },
+    {
+      "id": "mistico-ecos",
+      "name": "Escuchar ecos",
+      "description": "Percibe señales de magia en un lugar u objeto.",
+      "classId": "mistico",
+      "level": 1,
+      "attribute": "percepcion"
+    },
+    {
+      "id": "mistico-susurro",
+      "name": "Susurro tranquilizador",
+      "description": "Ayuda a otro personaje a controlar su miedo.",
+      "classId": "mistico",
+      "level": 1,
+      "attribute": "empatia"
+    },
+    {
+      "id": "mistico-sello",
+      "name": "Leer sellos",
+      "description": "Interpreta símbolos y escrituras antiguas.",
+      "classId": "mistico",
+      "level": 1,
+      "attribute": "inteligencia"
+    },
+    {
+      "id": "mistico-pulso",
+      "name": "Pulso místico",
+      "description": "Libera energía concentrada sobre un adversario.",
+      "classId": "mistico",
+      "level": 1,
+      "attribute": "valor",
+      "damage": "1d6"
+    }
+  ]
+}

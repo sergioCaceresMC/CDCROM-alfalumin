@@ -1,0 +1,30 @@
+﻿{
+    "version":  1,
+    "entries":  [
+                    {
+                        "id":  "brujo-velo",
+                        "name":  "Velo de sombras",
+                        "description":  "Crea una distracción entre luces y sombras.",
+                        "classId":  "brujo",
+                        "level":  2,
+                        "attribute":  "carisma"
+                    },
+                    {
+                        "id":  "brujo-vinculo",
+                        "name":  "Vínculo oculto",
+                        "description":  "Percibe emociones a través de un lazo sobrenatural.",
+                        "classId":  "brujo",
+                        "level":  2,
+                        "attribute":  "empatia"
+                    },
+                    {
+                        "id":  "brujo-azote",
+                        "name":  "Azote espectral",
+                        "description":  "Golpea a un objetivo con energía espectral.",
+                        "classId":  "brujo",
+                        "level":  2,
+                        "attribute":  "valor",
+                        "damage":  "1d6"
+                    }
+                ]
+}

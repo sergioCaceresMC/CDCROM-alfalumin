@@ -1,0 +1,30 @@
+﻿{
+    "version":  1,
+    "entries":  [
+                    {
+                        "id":  "paladin-estandarte",
+                        "name":  "Estandarte de esperanza",
+                        "description":  "Reúne al grupo alrededor de su juramento.",
+                        "classId":  "paladin",
+                        "level":  3,
+                        "attribute":  "carisma"
+                    },
+                    {
+                        "id":  "paladin-sentencia",
+                        "name":  "Sentencia del alba",
+                        "description":  "Descarga un ataque radiante sobre un objetivo.",
+                        "classId":  "paladin",
+                        "level":  3,
+                        "attribute":  "valor",
+                        "damage":  "1d6"
+                    },
+                    {
+                        "id":  "paladin-refugio",
+                        "name":  "Refugio consagrado",
+                        "description":  "Prepara un espacio de protección narrativa.",
+                        "classId":  "paladin",
+                        "level":  3,
+                        "attribute":  "empatia"
+                    }
+                ]
+}

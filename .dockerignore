@@ -1,0 +1,9 @@
+.react-router
+build
+node_modules
+.cache
+.git
+.agents
+.codex
+coverage
+README.md

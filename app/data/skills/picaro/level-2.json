@@ -1,0 +1,30 @@
+﻿{
+    "version":  1,
+    "entries":  [
+                    {
+                        "id":  "picaro-sombra",
+                        "name":  "Esconderse en sombras",
+                        "description":  "Busca cobertura para desaparecer de la vista.",
+                        "classId":  "picaro",
+                        "level":  2,
+                        "attribute":  "percepcion"
+                    },
+                    {
+                        "id":  "picaro-finta",
+                        "name":  "Finta rápida",
+                        "description":  "Distrae al adversario con un movimiento engañoso.",
+                        "classId":  "picaro",
+                        "level":  2,
+                        "attribute":  "carisma"
+                    },
+                    {
+                        "id":  "picaro-emboscada",
+                        "name":  "Golpe de emboscada",
+                        "description":  "Ataca a un adversario desde una posición oculta.",
+                        "classId":  "picaro",
+                        "level":  2,
+                        "attribute":  "golpes",
+                        "damage":  "1d6"
+                    }
+                ]
+}

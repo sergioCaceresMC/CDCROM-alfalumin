@@ -1,0 +1,30 @@
+﻿{
+    "version":  1,
+    "entries":  [
+                    {
+                        "id":  "picaro-escape",
+                        "name":  "Ruta de escape",
+                        "description":  "Encuentra una salida en un lugar complicado.",
+                        "classId":  "picaro",
+                        "level":  3,
+                        "attribute":  "inteligencia"
+                    },
+                    {
+                        "id":  "picaro-letal",
+                        "name":  "Precisión letal",
+                        "description":  "Concentra un ataque en un punto débil.",
+                        "classId":  "picaro",
+                        "level":  3,
+                        "attribute":  "tiros",
+                        "damage":  "1d6"
+                    },
+                    {
+                        "id":  "picaro-disfraz",
+                        "name":  "Identidad prestada",
+                        "description":  "Prepara un disfraz y una historia creíble.",
+                        "classId":  "picaro",
+                        "level":  3,
+                        "attribute":  "carisma"
+                    }
+                ]
+}

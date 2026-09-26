@@ -1,0 +1,30 @@
+﻿{
+    "version":  1,
+    "entries":  [
+                    {
+                        "id":  "mago-vision",
+                        "name":  "Visión astral",
+                        "description":  "Busca una pista oculta mediante una visión.",
+                        "classId":  "mago",
+                        "level":  3,
+                        "attribute":  "percepcion"
+                    },
+                    {
+                        "id":  "mago-tormenta",
+                        "name":  "Tormenta arcana",
+                        "description":  "Concentra una descarga de energía sobre un objetivo.",
+                        "classId":  "mago",
+                        "level":  3,
+                        "attribute":  "inteligencia",
+                        "damage":  "1d6"
+                    },
+                    {
+                        "id":  "mago-ritual",
+                        "name":  "Círculo ritual",
+                        "description":  "Prepara un ritual con tiempo y materiales adecuados.",
+                        "classId":  "mago",
+                        "level":  3,
+                        "attribute":  "inteligencia"
+                    }
+                ]
+}

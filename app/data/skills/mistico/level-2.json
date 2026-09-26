@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "mistico-vinculo",
+      "name": "Vínculo",
+      "description": "Sintoniza con las emociones de una criatura.",
+      "classId": "mistico",
+      "level": 2,
+      "attribute": "empatia"
+    },
+    {
+      "id": "mistico-onda",
+      "name": "Onda arcana",
+      "description": "Lanza una onda de fuerza contra un objetivo.",
+      "classId": "mistico",
+      "level": 2,
+      "attribute": "inteligencia",
+      "damage": "1d6"
+    },
+    {
+      "id": "mistico-velo",
+      "name": "Velo ilusorio",
+      "description": "Crea una distracción visual sencilla.",
+      "classId": "mistico",
+      "level": 2,
+      "attribute": "carisma"
+    }
+  ]
+}

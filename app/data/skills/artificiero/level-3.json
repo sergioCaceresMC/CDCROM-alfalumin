@@ -1,0 +1,30 @@
+﻿{
+    "version":  1,
+    "entries":  [
+                    {
+                        "id":  "artificiero-automata",
+                        "name":  "Ayudante autómata",
+                        "description":  "Prepara un pequeño ayudante para una tarea sencilla.",
+                        "classId":  "artificiero",
+                        "level":  3,
+                        "attribute":  "inteligencia"
+                    },
+                    {
+                        "id":  "artificiero-sobrecarga",
+                        "name":  "Sobrecarga controlada",
+                        "description":  "Descarga un dispositivo sobre un objetivo.",
+                        "classId":  "artificiero",
+                        "level":  3,
+                        "attribute":  "tiros",
+                        "damage":  "1d6"
+                    },
+                    {
+                        "id":  "artificiero-taller",
+                        "name":  "Taller portátil",
+                        "description":  "Organiza herramientas para resolver un problema complejo.",
+                        "classId":  "artificiero",
+                        "level":  3,
+                        "attribute":  "inteligencia"
+                    }
+                ]
+}

@@ -1,0 +1,30 @@
+﻿{
+    "version":  1,
+    "entries":  [
+                    {
+                        "id":  "mago-barrera",
+                        "name":  "Barrera arcana",
+                        "description":  "Describe una protección mágica; el master determina su alcance.",
+                        "classId":  "mago",
+                        "level":  2,
+                        "attribute":  "valor"
+                    },
+                    {
+                        "id":  "mago-onda",
+                        "name":  "Onda de fuego",
+                        "description":  "Lanza una onda de fuego hacia un objetivo.",
+                        "classId":  "mago",
+                        "level":  2,
+                        "attribute":  "inteligencia",
+                        "damage":  "1d6"
+                    },
+                    {
+                        "id":  "mago-velo",
+                        "name":  "Velo ilusorio",
+                        "description":  "Oculta un detalle mediante una ilusión breve.",
+                        "classId":  "mago",
+                        "level":  2,
+                        "attribute":  "carisma"
+                    }
+                ]
+}

@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "guerrero",
+      "name": "Guerrero",
+      "description": "Resiste la primera línea y protege a sus compañeros.",
+      "image": "images/guerrero.svg",
+      "baseHp": 9,
+      "starterPools": {
+        "weapon": [
+          "espada",
+          "hacha"
+        ],
+        "armor": [
+          "coraza"
+        ],
+        "supply": [
+          "pocion",
+          "vendas"
+        ]
+      }
+    }
+  ]
+}

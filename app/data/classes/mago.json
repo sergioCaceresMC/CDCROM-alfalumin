@@ -1,0 +1,25 @@
+﻿{
+    "version":  1,
+    "entries":  [
+                    {
+                        "id":  "mago",
+                        "name":  "Mago",
+                        "description":  "Estudia fórmulas arcanas y moldea la magia con precisión.",
+                        "image":  "images/mistico.svg",
+                        "baseHp":  7,
+                        "starterPools":  {
+                                             "armor":  [
+                                                           "cuero"
+                                                       ],
+                                             "supply":  [
+                                                            "pocion",
+                                                            "vendas"
+                                                        ],
+                                             "weapon":  [
+                                                            "baston",
+                                                            "daga"
+                                                        ]
+                                         }
+                    }
+                ]
+}

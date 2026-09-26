@@ -1,0 +1,30 @@
+﻿{
+    "version":  1,
+    "entries":  [
+                    {
+                        "id":  "artificiero-sensor",
+                        "name":  "Sensor de peligro",
+                        "description":  "Prepara un dispositivo de aviso de alcance narrativo.",
+                        "classId":  "artificiero",
+                        "level":  2,
+                        "attribute":  "percepcion"
+                    },
+                    {
+                        "id":  "artificiero-blindaje",
+                        "name":  "Blindaje improvisado",
+                        "description":  "Refuerza equipo temporalmente; el master determina su efecto.",
+                        "classId":  "artificiero",
+                        "level":  2,
+                        "attribute":  "inteligencia"
+                    },
+                    {
+                        "id":  "artificiero-bobina",
+                        "name":  "Descarga de bobina",
+                        "description":  "Dirige energía acumulada hacia un adversario.",
+                        "classId":  "artificiero",
+                        "level":  2,
+                        "attribute":  "tiros",
+                        "damage":  "1d6"
+                    }
+                ]
+}

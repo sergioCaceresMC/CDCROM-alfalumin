@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "mistico",
+      "name": "Místico",
+      "description": "Estudia lo desconocido y canaliza energías antiguas.",
+      "image": "images/mistico.svg",
+      "baseHp": 7,
+      "starterPools": {
+        "weapon": [
+          "baston",
+          "daga"
+        ],
+        "armor": [
+          "cuero"
+        ],
+        "supply": [
+          "pocion",
+          "vendas"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "espada",
+      "name": "Espada",
+      "description": "Una hoja fiable para el combate cuerpo a cuerpo.",
+      "kind": "weapon",
+      "usable": true,
+      "consumable": false,
+      "damage": "1d6"
+    },
+    {
+      "id": "hacha",
+      "name": "Hacha",
+      "description": "Pesada y sencilla; también sirve para abrir paso por la maleza.",
+      "kind": "weapon",
+      "usable": true,
+      "consumable": false,
+      "damage": "1d6"
+    },
+    {
+      "id": "arco",
+      "name": "Arco",
+      "description": "Un arco de madera con un pequeño carcaj. La munición es narrativa en esta fase.",
+      "kind": "weapon",
+      "usable": true,
+      "consumable": false,
+      "damage": "1d6"
+    },
+    {
+      "id": "daga",
+      "name": "Daga",
+      "description": "Una hoja corta y ligera que se puede ocultar con facilidad.",
+      "kind": "weapon",
+      "usable": true,
+      "consumable": false,
+      "damage": "1d4"
+    },
+    {
+      "id": "baston",
+      "name": "Bastón",
+      "description": "Una vara grabada que sirve de apoyo y canaliza la magia.",
+      "kind": "weapon",
+      "usable": true,
+      "consumable": false,
+      "damage": "1d4"
+    }
+  ]
+}

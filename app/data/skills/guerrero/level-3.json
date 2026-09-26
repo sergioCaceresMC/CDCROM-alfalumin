@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "guerrero-duelo",
+      "name": "Maestro del duelo",
+      "description": "Analiza la postura del adversario antes de atacar.",
+      "classId": "guerrero",
+      "level": 3,
+      "attribute": "percepcion",
+      "damage": "1d6"
+    },
+    {
+      "id": "guerrero-baluarte",
+      "name": "Baluarte",
+      "description": "Mantén tu posición ante un peligro abrumador.",
+      "classId": "guerrero",
+      "level": 3,
+      "attribute": "valor"
+    },
+    {
+      "id": "guerrero-romper",
+      "name": "Romper defensas",
+      "description": "Golpea con precisión una defensa vulnerable.",
+      "classId": "guerrero",
+      "level": 3,
+      "attribute": "golpes",
+      "damage": "1d6"
+    }
+  ]
+}

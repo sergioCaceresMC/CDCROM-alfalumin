@@ -1,0 +1,30 @@
+﻿{
+    "version":  1,
+    "entries":  [
+                    {
+                        "id":  "druida-santuario",
+                        "name":  "Santuario verde",
+                        "description":  "Encuentra un lugar natural seguro para descansar.",
+                        "classId":  "druida",
+                        "level":  3,
+                        "attribute":  "percepcion"
+                    },
+                    {
+                        "id":  "druida-furia",
+                        "name":  "Furia del bosque",
+                        "description":  "Concentra la fuerza de la naturaleza en un ataque.",
+                        "classId":  "druida",
+                        "level":  3,
+                        "attribute":  "valor",
+                        "damage":  "1d6"
+                    },
+                    {
+                        "id":  "druida-vinculo",
+                        "name":  "Vínculo silvestre",
+                        "description":  "Establece una conexión temporal con una criatura.",
+                        "classId":  "druida",
+                        "level":  3,
+                        "attribute":  "empatia"
+                    }
+                ]
+}

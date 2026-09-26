@@ -1,0 +1,25 @@
+﻿{
+    "version":  1,
+    "entries":  [
+                    {
+                        "id":  "druida",
+                        "name":  "Druida",
+                        "description":  "Escucha la naturaleza y protege el equilibrio del mundo.",
+                        "image":  "images/mistico.svg",
+                        "baseHp":  8,
+                        "starterPools":  {
+                                             "armor":  [
+                                                           "cuero"
+                                                       ],
+                                             "supply":  [
+                                                            "pocion",
+                                                            "vendas"
+                                                        ],
+                                             "weapon":  [
+                                                            "baston",
+                                                            "daga"
+                                                        ]
+                                         }
+                    }
+                ]
+}

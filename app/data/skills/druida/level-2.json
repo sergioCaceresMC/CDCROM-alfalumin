@@ -1,0 +1,30 @@
+﻿{
+    "version":  1,
+    "entries":  [
+                    {
+                        "id":  "druida-piel",
+                        "name":  "Piel de corteza",
+                        "description":  "Invoca una protección natural de alcance narrativo.",
+                        "classId":  "druida",
+                        "level":  2,
+                        "attribute":  "constitucion"
+                    },
+                    {
+                        "id":  "druida-viento",
+                        "name":  "Viento del bosque",
+                        "description":  "Interpreta los sonidos del entorno para localizar peligros.",
+                        "classId":  "druida",
+                        "level":  2,
+                        "attribute":  "percepcion"
+                    },
+                    {
+                        "id":  "druida-garra",
+                        "name":  "Garra salvaje",
+                        "description":  "Canaliza la fuerza de una bestia en un golpe.",
+                        "classId":  "druida",
+                        "level":  2,
+                        "attribute":  "golpes",
+                        "damage":  "1d6"
+                    }
+                ]
+}

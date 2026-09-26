@@ -1,0 +1,30 @@
+﻿{
+    "version":  1,
+    "entries":  [
+                    {
+                        "id":  "brujo-oraculo",
+                        "name":  "Oráculo del vacío",
+                        "description":  "Busca una pista mediante una visión inquietante.",
+                        "classId":  "brujo",
+                        "level":  3,
+                        "attribute":  "percepcion"
+                    },
+                    {
+                        "id":  "brujo-ruptura",
+                        "name":  "Ruptura del umbral",
+                        "description":  "Libera una descarga de poder sobre un adversario.",
+                        "classId":  "brujo",
+                        "level":  3,
+                        "attribute":  "valor",
+                        "damage":  "1d6"
+                    },
+                    {
+                        "id":  "brujo-invocacion",
+                        "name":  "Invocación ritual",
+                        "description":  "Prepara una invocación con tiempo y materiales adecuados.",
+                        "classId":  "brujo",
+                        "level":  3,
+                        "attribute":  "inteligencia"
+                    }
+                ]
+}
