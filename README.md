@@ -160,3 +160,8 @@ La mesa permite elegir narración principal, secundaria o final. Un d4 guardado 
 
 Los 502 terrenos tienen URLs de ilustraciones existentes y créditos de Wikimedia Commons. La selección se comparte por entorno. Regenera las asignaciones con `pnpm terrain:images` y verifica los enlaces con `pnpm images:check --terrain`.
 
+
+## Escenarios de mapas
+
+La mesa incluye 40 escenarios nuevos, de 8 × 8 a 32 × 24 celdas: tabernas, edificios, mazmorras, cuevas, campamentos, bosques, poblaciones, ríos, ruinas, un fortín y una isla. Abre **Escenario → Ver mapas del catálogo** y pulsa el nombre para colocarlo. Las referencias son opcionales y no generan encuentros. Consulta [uso y mantenimiento de los escenarios](docs/map-scenarios.md). Regenera el catálogo con `pnpm maps:build`.
+

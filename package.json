@@ -12,6 +12,7 @@
     "terrain:build": "node scripts/build-terrain-compendium.mjs",
     "terrain:images": "node scripts/build-terrain-images.mjs && node scripts/build-terrain-compendium.mjs",
     "story:build": "node scripts/build-story-compendium.mjs",
+    "maps:build": "node scripts/build-map-scenarios.mjs",
     "build": "react-router build",
     "dev": "react-router dev",
     "start": "vite preview",
